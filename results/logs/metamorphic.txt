@@ -1,0 +1,15 @@
+scenarios: 1497
+relation checks: 10479, passed 10479, failed 0
+
+  A second failure finished the degree earlier than the first alone, in 49 of 1497 scenarios. The second failure earns a second overloaded period and the extra room buys back more span than the failure costs; every one of these is a valid plan. Disruption is not monotone in the number of failures.
+    USYD Software_stream_Computer_Engineeri SOFT2201 then ENGG3112: 16 -> 14
+    USYD Software_stream_Engineering_Data_S ELEC3609 then INFO1113: 16 -> 14
+    USYD Software_stream_Engineering_Data_S INFO3616 then INFO1110: 16 -> 14
+    USYD Software_stream_Engineering_Data_S ELEC3609 then ENGG3112: 16 -> 14
+    USYD Software_stream_Engineering_Data_S SOFT2201 then ENGG2112: 16 -> 14
+
+  Units moved that the failure did not depend on (compaction's doing, measured not asserted):
+    USYD: 615 of 2033 moves are outside the closure, in 273 of 1218 scenarios
+    UTS: 255 of 748 moves are outside the closure, in 107 of 279 scenarios
+
+wrote results/metamorphic.json

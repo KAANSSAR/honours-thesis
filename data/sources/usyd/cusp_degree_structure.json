@@ -1,0 +1,2224 @@
+{
+  "degree_id": 454,
+  "source_url": "https://cusp.sydney.edu.au/students/view-degree-page/print/1/degree_id/454/",
+  "unit_blocks": {
+    "Introductory Computing Units": {
+      "min_cp": 6,
+      "max_cp": 6,
+      "units": [
+        {
+          "code": "ENGG1810",
+          "name": "Introduction to Engineering Computing",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "INFO1110",
+          "name": "Introduction to Programming",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "INFO1910",
+          "name": "Introduction to Programming (Advanced)",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Do not offer"
+          ]
+        }
+      ]
+    },
+    "Foundation Mathematics Units": {
+      "min_cp": 12,
+      "max_cp": 12,
+      "units": [
+        {
+          "code": "MATH1061",
+          "name": "Mathematics 1A",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "MATH1062",
+          "name": "Mathematics 1B",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "MATH1961",
+          "name": "Mathematics 1A (Advanced)",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "MATH1962",
+          "name": "Mathematics 1B (Advanced)",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        }
+      ]
+    },
+    "Projects Table": {
+      "min_cp": 30,
+      "max_cp": 30,
+      "units": [
+        {
+          "code": "AERO1560",
+          "name": "Introduction to Aerospace Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "BMET1960",
+          "name": "Biomedical Engineering 1A",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "BMET4111",
+          "name": "Thesis A",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "BMET4112",
+          "name": "Thesis B",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "CHNG1108",
+          "name": "Introduction to Chemical Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "CIVL1900",
+          "name": "Introduction to Civil Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC1004",
+          "name": "Practical Introduction to Electrical Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC1005",
+          "name": "Introduction to Software Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ENGG1800",
+          "name": "Introduction to Engineering A",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ENGG2112",
+          "name": "Multi-disciplinary Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ENGG3112",
+          "name": "Interdisciplinary Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "MECH1560",
+          "name": "Introduction to Mechanical Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "MTRX1701",
+          "name": "Introduction to Mechatronic Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        }
+      ]
+    },
+    "Professional Engagement Program (PEP) Units": {
+      "min_cp": null,
+      "max_cp": null,
+      "units": [
+        {
+          "code": "ENGP1001",
+          "name": "Professional Engagement Program 1A",
+          "credit_points": 0,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ENGP1002",
+          "name": "Professional Engagement Program 1B",
+          "credit_points": 0,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ENGP1003",
+          "name": "Professional Engagement Program 1C",
+          "credit_points": 0,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ENGP2001",
+          "name": "Professional Engagement Program 2A",
+          "credit_points": 0,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ENGP2002",
+          "name": "Professional Engagement Program 2B",
+          "credit_points": 0,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ENGP2003",
+          "name": "Professional Engagement Program 2C",
+          "credit_points": 0,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ENGP3001",
+          "name": "Professional Engagement Program 3A",
+          "credit_points": 0,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ENGP3002",
+          "name": "Professional Engagement Program 3B",
+          "credit_points": 0,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        }
+      ]
+    },
+    "Software Stream Core": {
+      "min_cp": 90,
+      "max_cp": 90,
+      "units": [
+        {
+          "code": "COMP2017",
+          "name": "Systems Programming",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "COMP2123",
+          "name": "Data Structures & Algorithms",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "COMP2823",
+          "name": "Data Structures & Algorithms (Adv)",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC1601",
+          "name": "Introduction to Computer Systems",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC3609",
+          "name": "Internet Software Platforms",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5618",
+          "name": "Software Quality Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC5619",
+          "name": "Object Oriented Application Frameworks",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "INFO1113",
+          "name": "Object-Oriented Programming",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "INFO3616",
+          "name": "Principles of Security and Security Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ISYS2110",
+          "name": "Analysis & Design of Web Information Systems",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ISYS2120",
+          "name": "Data & Information Management",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "MATH2069",
+          "name": "Discrete Mathematics and Graph Theory",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "SOFT2201",
+          "name": "Software Construction and Design 1",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "SOFT2412",
+          "name": "Agile Software Development Practices",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "SOFT3202",
+          "name": "Software Construction and Design 2",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "SOFT3888",
+          "name": "Software Development Project",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        }
+      ]
+    },
+    "Software Stream 1000/2000 Level Electives": {
+      "min_cp": null,
+      "max_cp": 18,
+      "units": [
+        {
+          "code": "BUSS1030",
+          "name": "Accounting, Business and Society",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "COMP2022",
+          "name": "Models of Computation",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "COMP2922",
+          "name": "Models of Computation (Adv)",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "DATA1002",
+          "name": "Informatics: Data and Computation",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "DATA1902",
+          "name": "Informatics: Data and Computation (Advanced)",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "DATA2001",
+          "name": "Data Science: Big Data and Data Diversity",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "DATA2002",
+          "name": "Data Analytics: Learning from Data",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "DATA2901",
+          "name": "Big Data and Data Diversity (Advanced)",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "DATA2902",
+          "name": "Data Analytics: Learning from Data (Adv)",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC2100",
+          "name": "Fundamentals of Elec and Electronic Eng",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC2103",
+          "name": "Simulation and Numerical Solutions in Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC2104",
+          "name": "Electronic Devices and Circuits",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC2302",
+          "name": "Signals and Systems",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC2602",
+          "name": "Digital Logic",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ISYS2160",
+          "name": "Information Systems in the Internet Age",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "MATH2061",
+          "name": "Linear Mathematics and Vector Calculus",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Summer Main"
+          ]
+        },
+        {
+          "code": "MKTG1001",
+          "name": "Marketing Principles",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "PHYS1001",
+          "name": "Physics 1 (Regular)",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "PHYS1003",
+          "name": "Physics 1 (Technological)",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "PHYS2213",
+          "name": "Physics 2EE",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "STAT2011",
+          "name": "Probability and Estimation Theory",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "STAT2911",
+          "name": "Probability and Statistical Models (Adv)",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        }
+      ]
+    },
+    "Software Stream 3000+ Level Elective Units": {
+      "min_cp": 12,
+      "max_cp": 54,
+      "units": [
+        {
+          "code": "COMP3027",
+          "name": "Algorithm Design",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "COMP3109",
+          "name": "Programming Languages and Paradigms",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "COMP3221",
+          "name": "Distributed Systems",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "COMP3308",
+          "name": "Introduction to Artificial Intelligence",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "COMP3419",
+          "name": "Graphics and Multimedia",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "COMP3520",
+          "name": "Operating Systems Internals",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "COMP3608",
+          "name": "Introduction to Artificial Intelligence (Adv)",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "COMP3927",
+          "name": "Algorithm Design (Adv)",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "COMP4216",
+          "name": "Mobile Computing",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "COMP4270",
+          "name": "Randomised and Advanced Algorithms",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "COMP4313",
+          "name": "Large Scale Networks",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "COMP4318",
+          "name": "Machine Learning and Data Mining",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "COMP4328",
+          "name": "Advanced Machine Learning",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "COMP4329",
+          "name": "Deep Learning",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "COMP4338",
+          "name": "Advanced Data Models",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "COMP4347",
+          "name": "Web Application Development",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "COMP4348",
+          "name": "Enterprise Scale Software Architecture",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "COMP4349",
+          "name": "Cloud Computing",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "COMP4405",
+          "name": "Digital Media Computing",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "COMP4415",
+          "name": "Multimedia Design and Authoring",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "COMP4416",
+          "name": "Advanced Network Technologies",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "COMP4424",
+          "name": "Information Technology in Biomedicine",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "COMP4425",
+          "name": "Multimedia Retrieval",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "COMP4426",
+          "name": "Parallel and Distributed Computing",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "COMP4427",
+          "name": "Usability Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "COMP4445",
+          "name": "Computational Geometry",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "COMP4446",
+          "name": "Natural Language Processing",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "COMP4447",
+          "name": "Pervasive Computing",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "COMP4448",
+          "name": "Visual Analytics",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "COMP4530",
+          "name": "Discrete Optimisation",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "COMP4617",
+          "name": "Empirical Security Analysis and Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "COMP4618",
+          "name": "Applied Cybersecurity",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "DATA3404",
+          "name": "Scalable Data Management",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "DATA3406",
+          "name": "Human-in-the-Loop Data Analytics",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "DATA4207",
+          "name": "Data Analysis in the Social Sciences",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC3104",
+          "name": "Engineering Electromagnetics",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC3203",
+          "name": "Electricity Networks",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC3204",
+          "name": "Power Electronics and Applications",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC3206",
+          "name": "Electrical Energy Conversion Systems",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC3304",
+          "name": "Control",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC3305",
+          "name": "Digital Signal Processing",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC3404",
+          "name": "Electronic Circuit Design",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC3405",
+          "name": "Communications Electronics and Photonics",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC3505",
+          "name": "Communications",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC3506",
+          "name": "Communications Networks",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC3607",
+          "name": "Embedded Systems",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC3608",
+          "name": "Computer Architecture",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC3610",
+          "name": "E-Business Analysis and Design",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Do not offer"
+          ]
+        },
+        {
+          "code": "ELEC3612",
+          "name": "Pattern Recognition and Machine Intelligence",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC3702",
+          "name": "Management for Engineers",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC3802",
+          "name": "Fundamentals of Biomedical Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC3803",
+          "name": "Bioelectronics [not offered in 2021]",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC4505",
+          "name": "Digital Communication Systems",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC4714",
+          "name": "Major Industrial Project",
+          "credit_points": 24,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5101",
+          "name": "Antennas and Propagation",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5203",
+          "name": "Topics in Power Engineering [not offered in 2021]",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5204",
+          "name": "Power Systems Analysis and Protection",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC5205",
+          "name": "High Voltage Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5206",
+          "name": "Sustainable Energy Systems",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5207",
+          "name": "Advanced Power Conversion Technologies",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5208",
+          "name": "Intelligent Electricity Networks",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC5211",
+          "name": "Power System Dynamics and Control",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC5212",
+          "name": "Power System Planning and Markets",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5213",
+          "name": "Engineering Optimisation",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC5304",
+          "name": "Intelligent Visual Signal Understanding",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC5305",
+          "name": "Acoustics, Speech and Signal Processing",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5306",
+          "name": "Video Intelligence and Compression",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC5307",
+          "name": "Advanced Signal Processing with Deep Learning",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5308",
+          "name": "Intelligent Information Engineering Practice",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5405",
+          "name": "Building Microchips: From Theory to Practice",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC5507",
+          "name": "Error Control Coding",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC5508",
+          "name": "Wireless Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5509",
+          "name": "Mobile Networks",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC5510",
+          "name": "Satellite Communication Systems",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5511",
+          "name": "Optical Communication Systems",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Do not offer"
+          ]
+        },
+        {
+          "code": "ELEC5512",
+          "name": "Optical Networks",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5514",
+          "name": "IoT Wireless Sensing and Networking",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5516",
+          "name": "Electrical and Optical Sensor Design",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC5517",
+          "name": "Software Defined Networks",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5518",
+          "name": "IoT for Critical Infrastructures",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC5616",
+          "name": "Computer and Network Security",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC5620",
+          "name": "Model Based Software Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5622",
+          "name": "Signals, Software and Health",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5623",
+          "name": "Applied Generative AI in Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5701",
+          "name": "Technology Venture Creation [not offered in 2021]",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5760",
+          "name": "Intelligent Networked Control",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "INFO3315",
+          "name": "Human-Computer Interaction",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "INFO4491",
+          "name": "Services Science Management and Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "INFO4994",
+          "name": "Advanced Topics in Computer Science",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ISYS3401",
+          "name": "Information Technology Evaluation",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ISYS3402",
+          "name": "Decision Analytics & Support Systems [not running in 2019]",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ISYS3888",
+          "name": "Information Systems Project",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ISYS4450",
+          "name": "Knowledge Management Systems",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "SOFT3410",
+          "name": "Concurrency for Software Development",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        }
+      ]
+    },
+    "Free Electives": {
+      "min_cp": null,
+      "max_cp": 24,
+      "units": []
+    },
+    "Specialisation - Computer Engineering Core Units": {
+      "min_cp": null,
+      "max_cp": 24,
+      "units": [
+        {
+          "code": "ELEC2602",
+          "name": "Digital Logic",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC3506",
+          "name": "Communications Networks",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC3607",
+          "name": "Embedded Systems",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC3608",
+          "name": "Computer Architecture",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        }
+      ]
+    },
+    "Specialisation - Computer Engineering Elective Units": {
+      "min_cp": null,
+      "max_cp": 6,
+      "units": [
+        {
+          "code": "COMP3520",
+          "name": "Operating Systems Internals",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC3104",
+          "name": "Engineering Electromagnetics",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC3304",
+          "name": "Control",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC3305",
+          "name": "Digital Signal Processing",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC3404",
+          "name": "Electronic Circuit Design",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC3702",
+          "name": "Management for Engineers",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5405",
+          "name": "Building Microchips: From Theory to Practice",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        }
+      ]
+    },
+    "Specialisation - Internet of Things Core Units": {
+      "min_cp": null,
+      "max_cp": 24,
+      "units": [
+        {
+          "code": "ELEC3506",
+          "name": "Communications Networks",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5514",
+          "name": "IoT Wireless Sensing and Networking",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5517",
+          "name": "Software Defined Networks",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5518",
+          "name": "IoT for Critical Infrastructures",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        }
+      ]
+    },
+    "Specialisation - Internet of Things Elective Units": {
+      "min_cp": null,
+      "max_cp": 6,
+      "units": [
+        {
+          "code": "COMP4216",
+          "name": "Mobile Computing",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "COMP4426",
+          "name": "Parallel and Distributed Computing",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "COMP4447",
+          "name": "Pervasive Computing",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5208",
+          "name": "Intelligent Electricity Networks",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC5508",
+          "name": "Wireless Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5509",
+          "name": "Mobile Networks",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC5616",
+          "name": "Computer and Network Security",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC5760",
+          "name": "Intelligent Networked Control",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        }
+      ]
+    },
+    "Specialisation - Intelligent Information Engineering Core Units": {
+      "min_cp": null,
+      "max_cp": 24,
+      "units": [
+        {
+          "code": "ELEC3506",
+          "name": "Communications Networks",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5304",
+          "name": "Intelligent Visual Signal Understanding",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC5307",
+          "name": "Advanced Signal Processing with Deep Learning",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5622",
+          "name": "Signals, Software and Health",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        }
+      ]
+    },
+    "Specialisation - Intelligent Information Engineering Elective Units": {
+      "min_cp": null,
+      "max_cp": 6,
+      "units": [
+        {
+          "code": "ELEC3305",
+          "name": "Digital Signal Processing",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC5305",
+          "name": "Acoustics, Speech and Signal Processing",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5306",
+          "name": "Video Intelligence and Compression",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC5308",
+          "name": "Intelligent Information Engineering Practice",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5516",
+          "name": "Electrical and Optical Sensor Design",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ELEC5517",
+          "name": "Software Defined Networks",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "ELEC5701",
+          "name": "Technology Venture Creation [not offered in 2021]",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        }
+      ]
+    },
+    "Specialisation - Engineering Data Science Core Units": {
+      "min_cp": null,
+      "max_cp": 18,
+      "units": [
+        {
+          "code": "DATA2001",
+          "name": "Data Science: Big Data and Data Diversity",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "DATA2002",
+          "name": "Data Analytics: Learning from Data",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "DATA2901",
+          "name": "Big Data and Data Diversity (Advanced)",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "DATA2902",
+          "name": "Data Analytics: Learning from Data (Adv)",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "STAT2011",
+          "name": "Probability and Estimation Theory",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "STAT2911",
+          "name": "Probability and Statistical Models (Adv)",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        }
+      ]
+    },
+    "Specialisation - Engineering Data Science Elective Units": {
+      "min_cp": null,
+      "max_cp": 12,
+      "units": [
+        {
+          "code": "COMP3308",
+          "name": "Introduction to Artificial Intelligence",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "COMP3608",
+          "name": "Introduction to Artificial Intelligence (Adv)",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "DATA3404",
+          "name": "Scalable Data Management",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "DATA3406",
+          "name": "Human-in-the-Loop Data Analytics",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        }
+      ]
+    },
+    "Specialisation - Innovation and Entrepreneurship Core Units": {
+      "min_cp": null,
+      "max_cp": 18,
+      "units": [
+        {
+          "code": "SIEN1000",
+          "name": "Innovation and Entrepreneurship Foundation",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "SIEN1001",
+          "name": "Innovators` Skills and Actions",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "SIEN2001",
+          "name": "Validating Ideas and Building Ventures",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        }
+      ]
+    },
+    "Specialisation - Innovation and Entrepreneurship Elective Units": {
+      "min_cp": null,
+      "max_cp": 6,
+      "units": [
+        {
+          "code": "CLAW2209",
+          "name": "Intellectual Property for Business",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "DECO2015",
+          "name": "Responsible Design for Innovation",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "DECO2016",
+          "name": "Design Thinking",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "ENGG3216",
+          "name": "Management of Technological Innovation",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "INFS2030",
+          "name": "e-Business Management",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "MKTG3114",
+          "name": "New Products Marketing",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "MKTG3120",
+          "name": "Building and Managing Brands",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "PMGT3856",
+          "name": "Sustainability and Knowledge Management",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "SIEN2210",
+          "name": "Strategic Management",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "SIEN3001",
+          "name": "Social Entrepreneurship",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "SIEN3204",
+          "name": "Managing Organisational Sustainability",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        }
+      ]
+    },
+    "Specialisation - Humanitarian Engineering Core Units": {
+      "min_cp": null,
+      "max_cp": 12,
+      "units": [
+        {
+          "code": "CIVL3310",
+          "name": "Humanitarian Engineering",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1"
+          ]
+        },
+        {
+          "code": "CIVL5320",
+          "name": "Engineering for Sustainable Development",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        }
+      ]
+    },
+    "Specialisation - Humanitarian Engineering Elective Units": {
+      "min_cp": null,
+      "max_cp": 12,
+      "units": [
+        {
+          "code": "CIVL5330",
+          "name": "Global Engineering Field Work",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Int January"
+          ]
+        },
+        {
+          "code": "ENGG3801",
+          "name": "Industry and Community Project",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 1",
+            "Semester 2"
+          ]
+        },
+        {
+          "code": "PMGT3857",
+          "name": "International Project Management",
+          "credit_points": 6,
+          "sessions_offered": [
+            "Semester 2"
+          ]
+        }
+      ]
+    }
+  },
+  "semester_plan": [
+    {
+      "period": "Year 0 - Planning your degree",
+      "entries": []
+    },
+    {
+      "period": "Year 1 - Semester 1",
+      "entries": [
+        {
+          "block_type": "Professional Engagement Program (PEP) Units",
+          "credit_points": 0,
+          "raw_options": "Select from | ENGP1001: Professional Engagement Program 1A | Note: | All students must enrol in ENGP1001 in their first semester of enrolment."
+        },
+        {
+          "block_type": "Introductory Computing Units",
+          "credit_points": 6,
+          "raw_options": "Select from | INFO1110: Introduction to Programming"
+        },
+        {
+          "block_type": "Projects Table",
+          "credit_points": 6,
+          "raw_options": "Select from | ELEC1005: Introduction to Software Engineering"
+        },
+        {
+          "block_type": "List",
+          "credit_points": 6,
+          "raw_options": "Select from\r\n                                                                                            Unit Blocks: | Software Stream 1000/2000 Level Electives | Free Electives"
+        },
+        {
+          "block_type": "Foundation Mathematics Units",
+          "credit_points": 6,
+          "raw_options": "Select from | MATH1061: Mathematics 1A"
+        }
+      ]
+    },
+    {
+      "period": "Year 1 - Semester 2",
+      "entries": [
+        {
+          "block_type": "Software Stream Core",
+          "credit_points": 6,
+          "raw_options": "Select from | ELEC1601: Introduction to Computer Systems"
+        },
+        {
+          "block_type": "Software Stream Core",
+          "credit_points": 6,
+          "raw_options": "Select from | INFO1113: Object-Oriented Programming"
+        },
+        {
+          "block_type": "Professional Engagement Program (PEP) Units",
+          "credit_points": 0,
+          "raw_options": "Select from | ENGP1002: Professional Engagement Program 1B"
+        },
+        {
+          "block_type": "List",
+          "credit_points": 6,
+          "raw_options": "Select from\r\n                                                                                            Unit Blocks: | Software Stream 1000/2000 Level Electives | Free Electives"
+        },
+        {
+          "block_type": "Foundation Mathematics Units",
+          "credit_points": 6,
+          "raw_options": "Select from | MATH1062: Mathematics 1B"
+        }
+      ]
+    },
+    {
+      "period": "Year 2 - Semester 1",
+      "entries": [
+        {
+          "block_type": "Software Stream Core",
+          "credit_points": 6,
+          "raw_options": "Select from | COMP2017: Systems Programming"
+        },
+        {
+          "block_type": "Software Stream Core",
+          "credit_points": 6,
+          "raw_options": "Select from | COMP2123: Data Structures & Algorithms"
+        },
+        {
+          "block_type": "Software Stream Core",
+          "credit_points": 6,
+          "raw_options": "Select from | ISYS2110: Analysis & Design of Web Information Systems"
+        },
+        {
+          "block_type": "Software Stream Core",
+          "credit_points": 6,
+          "raw_options": "Select from | MATH2069: Discrete Mathematics and Graph Theory"
+        },
+        {
+          "block_type": "Professional Engagement Program (PEP) Units",
+          "credit_points": 0,
+          "raw_options": "Select from | ENGP1003: Professional Engagement Program 1C"
+        }
+      ]
+    },
+    {
+      "period": "Year 2 - Semester 2",
+      "entries": [
+        {
+          "block_type": "Software Stream Core",
+          "credit_points": 6,
+          "raw_options": "Select from | SOFT2412: Agile Software Development Practices"
+        },
+        {
+          "block_type": "Software Stream Core",
+          "credit_points": 6,
+          "raw_options": "Select from | SOFT2201: Software Construction and Design 1"
+        },
+        {
+          "block_type": "Software Stream Core",
+          "credit_points": 6,
+          "raw_options": "Select from | ISYS2120: Data & Information Management"
+        },
+        {
+          "block_type": "Projects Table",
+          "credit_points": 6,
+          "raw_options": "Select from | ENGG2112: Multi-disciplinary Engineering"
+        },
+        {
+          "block_type": "Professional Engagement Program (PEP) Units",
+          "credit_points": 0,
+          "raw_options": "Select from | ENGP2001: Professional Engagement Program 2A"
+        }
+      ]
+    },
+    {
+      "period": "Year 3 - Semester 1",
+      "entries": [
+        {
+          "block_type": "Software Stream Core",
+          "credit_points": 6,
+          "raw_options": "Select from | SOFT3202: Software Construction and Design 2"
+        },
+        {
+          "block_type": "Professional Engagement Program (PEP) Units",
+          "credit_points": 0,
+          "raw_options": "Select from | ENGP2002: Professional Engagement Program 2B"
+        },
+        {
+          "block_type": "List",
+          "credit_points": 6,
+          "raw_options": "Select from\r\n                                                                                            Unit Blocks: | Software Stream 1000/2000 Level Electives | Software Stream 3000+ Level Elective Units"
+        },
+        {
+          "block_type": "List",
+          "credit_points": 6,
+          "raw_options": "Select from\r\n                                                                                            Unit Blocks: | Software Stream 3000+ Level Elective Units | Free Electives"
+        },
+        {
+          "block_type": "List",
+          "credit_points": 6,
+          "raw_options": "Select from\r\n                                                                                            Unit Blocks: | Software Stream 3000+ Level Elective Units | Free Electives"
+        }
+      ]
+    },
+    {
+      "period": "Year 3 - Semester 2",
+      "entries": [
+        {
+          "block_type": "Software Stream Core",
+          "credit_points": 6,
+          "raw_options": "Select from | SOFT3888: Software Development Project"
+        },
+        {
+          "block_type": "Software Stream Core",
+          "credit_points": 6,
+          "raw_options": "Select from | INFO3616: Principles of Security and Security Engineering"
+        },
+        {
+          "block_type": "Software Stream 3000+ Level Elective Units",
+          "credit_points": 6,
+          "raw_options": "Select from\r\n                                                                                            Unit Block: | Software Stream 3000+ Level Elective Units"
+        },
+        {
+          "block_type": "Software Stream Core",
+          "credit_points": 6,
+          "raw_options": "Select from | ELEC3609: Internet Software Platforms"
+        },
+        {
+          "block_type": "Professional Engagement Program (PEP) Units",
+          "credit_points": 0,
+          "raw_options": "Select from | ENGP2003: Professional Engagement Program 2C"
+        }
+      ]
+    },
+    {
+      "period": "Year 4 - Semester 1",
+      "entries": [
+        {
+          "block_type": "Software Stream Core",
+          "credit_points": 6,
+          "raw_options": "Select from | ELEC5618: Software Quality Engineering"
+        },
+        {
+          "block_type": "Software Stream 3000+ Level Elective Units",
+          "credit_points": 6,
+          "raw_options": "Select from\r\n                                                                                            Unit Block: | Software Stream 3000+ Level Elective Units"
+        },
+        {
+          "block_type": "Professional Engagement Program (PEP) Units",
+          "credit_points": 0,
+          "raw_options": "Select from | ENGP3001: Professional Engagement Program 3A"
+        },
+        {
+          "block_type": "Projects Table",
+          "credit_points": 6,
+          "raw_options": "Select from | ELEC4712: Thesis A"
+        },
+        {
+          "block_type": "Projects Table",
+          "credit_points": 6,
+          "raw_options": "Select from | ENGG3112: Interdisciplinary Engineering"
+        }
+      ]
+    },
+    {
+      "period": "Year 4 - Semester 2",
+      "entries": [
+        {
+          "block_type": "Software Stream 3000+ Level Elective Units",
+          "credit_points": 6,
+          "raw_options": "Select from\r\n                                                                                            Unit Block: | Software Stream 3000+ Level Elective Units"
+        },
+        {
+          "block_type": "Software Stream Core",
+          "credit_points": 6,
+          "raw_options": "Select from | ELEC5619: Object Oriented Application Frameworks"
+        },
+        {
+          "block_type": "Projects Table",
+          "credit_points": 6,
+          "raw_options": "Select from | ELEC4713: Thesis B"
+        },
+        {
+          "block_type": "Professional Engagement Program (PEP) Units",
+          "credit_points": 0,
+          "raw_options": "Select from | ENGP3002: Professional Engagement Program 3B"
+        },
+        {
+          "block_type": "Software Stream 3000+ Level Elective Units",
+          "credit_points": 6,
+          "raw_options": "Select from\r\n                                                                                            Unit Block: | Software Stream 3000+ Level Elective Units"
+        }
+      ]
+    }
+  ],
+  "specialisations": [
+    {
+      "name": "Computer Engineering",
+      "type": "stream",
+      "core_block": "Specialisation - Computer Engineering Core Units",
+      "elective_block": "Specialisation - Computer Engineering Elective Units"
+    },
+    {
+      "name": "Intelligent Information Engineering",
+      "type": "stream",
+      "core_block": "Specialisation - Intelligent Information Engineering Core Units",
+      "elective_block": "Specialisation - Intelligent Information Engineering Elective Units"
+    },
+    {
+      "name": "Internet of Things (IoT)",
+      "type": "stream",
+      "core_block": "Specialisation - Internet of Things Core Units",
+      "elective_block": "Specialisation - Internet of Things Elective Units"
+    },
+    {
+      "name": "Engineering Data Science",
+      "type": "stream",
+      "core_block": "Specialisation - Engineering Data Science Core Units",
+      "elective_block": "Specialisation - Engineering Data Science Elective Units"
+    },
+    {
+      "name": "Humanitarian Engineering",
+      "type": "breadth",
+      "core_block": "Specialisation - Humanitarian Engineering Core Units",
+      "elective_block": "Specialisation - Humanitarian Engineering Elective Units"
+    },
+    {
+      "name": "Innovation and Entrepreneurship",
+      "type": "breadth",
+      "core_block": "Specialisation - Innovation and Entrepreneurship Core Units",
+      "elective_block": "Specialisation - Innovation and Entrepreneurship Elective Units"
+    }
+  ]
+}

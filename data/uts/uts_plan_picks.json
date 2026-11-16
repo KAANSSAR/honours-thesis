@@ -1,0 +1,146 @@
+{
+ "_comment": [
+  "Choices made to turn the seven C09066 suggested sequences into default plans.",
+  "",
+  "A sequence is not a plan. It contains choice groups, and a default plan has to",
+  "resolve them, exactly as the USYD default plans resolve specialisation slots. The",
+  "picks live here as data rather than inside the builder, so every one is visible,",
+  "reviewable and attributable, and changing a pick does not mean editing code.",
+  "",
+  "Two kinds of group are treated differently:",
+  "",
+  "  'Select N credit points from the following:'  options are published, so a pick",
+  "  is required and is recorded below.",
+  "",
+  "  'Select N credit points of options'  this is the handbook's 24cp elective",
+  "  allowance. It sums to exactly 24cp in every major that has it, matching the",
+  "  course structure's electives_or_specialist_stream figure. These stay OPEN, the",
+  "  same decision taken for USYD free electives: the planner is meant to choose",
+  "  them, so prefilling them would hide whether it can.",
+  "",
+  "'forced' marks a pick with no alternative, because the other option is not",
+  "offered in that session. Those five are the clearest evidence that session",
+  "availability, not credit points, is what constrains a plan."
+ ],
+ "source_checked": "https://handbookpre2025.uts.edu.au/2024/courses/c09066.html",
+ "date_checked": "2026-10-22",
+ "open_slot_policy": "Choice groups worded 'of options' are left open. They are the 24cp elective allowance, not missing data.",
+ "_accepted_findings_comment": [
+  "Findings the plans keep deliberately. Each is a fault in the published sequence,",
+  "not in the plan built from it, and the decision is to reproduce the handbook",
+  "faithfully and report the fault rather than quietly repair it. Listing them here",
+  "keeps the validator honest: they are reported under their own heading instead of",
+  "being suppressed, so a new finding can never hide among them."
+ ],
+ "_typical_availability_note": "Four of the accepted findings below are the same thing: the published sequence places a subject in a session its own page does not list. They are accepted rather than repaired because of what the field is called. UTS labels it 'Typical availability', not a guarantee, so a sequence placing a subject outside it is not proof of error; the likelier reading is that the subject runs an extra session in some years and the handbook records only the usual pattern. Modelling typical availability as a hard constraint is this project's decision, not a claim the handbook makes, so the engine is stricter than its source. The honest statement is that four placements fall outside what the model permits, not that UTS published four broken sequences. The same qualification applies to the Power Systems result noted above: it is unreachable under the modelled availability constraints, not unreachable outright.",
+ "accepted_findings": [
+  {
+   "major": "Biomedical Engineering major",
+   "contains": "91161 is placed in Spring but is offered in",
+   "finding": "The Biomedical sequence places 91161 Cell Biology and Genetics in Year 2 Spring; its page gives typical availability as Autumn only.",
+   "decision": "Accepted. Typical availability is advisory, so the published placement is kept and the mismatch reported."
+  },
+  {
+   "major": "Biomedical Engineering major",
+   "contains": "41163 is placed in Autumn but is offered in",
+   "finding": "The Biomedical sequence places 41163 Fundamentals of Biomedical Engineering Studio B in Year 3 Autumn; its page gives typical availability as Spring only.",
+   "decision": "Accepted. Typical availability is advisory, so the published placement is kept and the mismatch reported."
+  },
+  {
+   "major": "Biomedical Engineering major",
+   "contains": "42001 is placed in Autumn but is offered in",
+   "finding": "The Year 4 Autumn choice group offers 49261 Biomedical Instrumentation and 42001 Bioinformatics, and on current data neither lists Autumn in its typical availability. The group therefore has no option available in the session it sits in. 42001 is kept as the pick because it is the subject-matter fit and because its availability was previously inferred from this same placement, which is weaker evidence than its page.",
+   "decision": "Accepted. This is the strongest instance of the typical-availability mismatch, since no choice resolves it, and it is worth reporting as published rather than quietly substituting a subject from outside the group."
+  },
+  {
+   "major": "Mechatronic Engineering major",
+   "contains": "41039 is placed in Spring but is offered in",
+   "finding": "The Mechatronic sequence places 41039 Programming 1 in Year 1 Spring; its page gives typical availability as Autumn only. The Software sequence places the same subject in Year 1 Autumn, so between them the two sequences claim both sessions.",
+   "decision": "Accepted. Two sequences disagreeing about one subject is itself evidence that the published availability is indicative rather than exhaustive."
+  },
+  {
+   "major": "Mechanical Engineering major",
+   "contains": "41029 needs 48260 OR 16912 OR 41202",
+   "finding": "The published Mechanical sequence places 41029 Engineering Research Preparation and its prerequisite 41202 Professional Engineering Communication in the same session, Year 4 Autumn. Neither alternative prerequisite (48260, 16912) appears anywhere in the Mechanical sequence, so the requirement cannot be met as published.",
+   "why_it_is_the_handbook_and_not_the_plan": "Mechatronic, which shares almost all of its structure with Mechanical, places 41202 in Year 3 Spring, a session earlier than its own 41029. Every other major places 41202 in Year 3. Mechanical is the only one of the seven that does not, which is what makes this look like an error in that one sequence rather than a deliberate rule.",
+   "decision": "Reproduce the published sequence unchanged and report the conflict. A repair was available (move 41202 to Year 3 Spring and shift 6cp of elective into Year 4 Autumn, keeping both sessions legal and the total at 198cp) and was deliberately not taken, so the default plan stays a faithful record of what UTS publishes."
+  }
+ ],
+ "picks": {
+  "Biomedical Engineering major": [
+   {"year": 1, "session": "Autumn", "credit_points": 6, "choose": ["48510"],
+    "forced": true,
+    "reason": "Alternative 41099 Introduction to Mechatronics Engineering is Spring only, so it cannot sit in an Autumn slot."},
+   {"year": 2, "session": "Autumn", "credit_points": 6, "choose": ["31250"],
+    "reason": "Either option fits the session. 31250 Introduction to Data Analytics chosen over 31061 Database Principles as the more generally applicable of the two."},
+   {"year": 2, "session": "Autumn", "credit_points": 6, "choose": ["65111"],
+    "reason": "Chosen over 91822 Human Genetics and Precision Medicine because 65111 Chemistry 1 has published availability, while 91822 is one of the nine subjects whose session is inferred. A default plan should rest on published data wherever there is a choice."},
+   {"year": 3, "session": "Spring", "credit_points": 6, "choose": ["26101"],
+    "forced": true,
+    "reason": "Alternative 42026 Biomedical Polymers is Autumn only. Note that 26101's own availability is inferred, so this slot depends on an inferred value with no published alternative."},
+   {"year": 4, "session": "Autumn", "credit_points": 6, "choose": ["42001"],
+    "forced": true,
+    "reason": "Alternative 49261 Biomedical Instrumentation is Spring only. 42001 Bioinformatics has an inferred session, so again the forced pick rests on inferred availability."},
+   {"year": 4, "session": "Spring", "credit_points": 6, "choose": ["42722"],
+    "reason": "Both options are Spring only, so either fits. 42722 Additive Manufacturing for Medical Innovation chosen arbitrarily."}
+  ],
+  "Civil Engineering major": [
+   {"year": 1, "session": "Autumn", "credit_points": 6, "choose": ["60101"],
+    "reason": "Years 1 Autumn and Spring offer the same pair and both subjects run in both sessions, so one goes in each. 60101 Chemistry and Materials Science first, matching the Civil and Environmental sequence which places its chemistry subject in Year 1 Autumn."},
+   {"year": 1, "session": "Spring", "credit_points": 6, "choose": ["48320"],
+    "reason": "The other half of the Year 1 pair. 48320 Surveying also sits in Year 1 Spring in the Civil and Environmental sequence."}
+  ],
+  "Civil Engineering major, Structures specialisation": [
+   {"year": 1, "session": "Autumn", "credit_points": 6, "choose": ["60101"],
+    "reason": "Same Year 1 pair as the plain Civil major, resolved the same way so the three Civil plans stay comparable: chemistry first, surveying second."},
+   {"year": 1, "session": "Spring", "credit_points": 6, "choose": ["48320"],
+    "reason": "The other half of the Year 1 pair."},
+   {"year": 3, "session": "Spring", "credit_points": 6, "choose": ["49047"],
+    "forced": true,
+    "reason": "The group offers Finite Element Analysis, Prestressed Concrete Design, Bridge Design and Concrete Technology and Practice. The last three are Autumn only, so a Spring slot leaves Finite Element Analysis as the single option. Its 120cp requisite is carried by the 123cp scheduled before Year 3 Spring, and is in any case one the handbook may waive, so both routes agree."}
+  ],
+  "Civil Engineering major, Construction specialisation": [
+   {"year": 1, "session": "Autumn", "credit_points": 6, "choose": ["60101"],
+    "reason": "Same Year 1 pair as the other two Civil plans, resolved the same way."},
+   {"year": 1, "session": "Spring", "credit_points": 6, "choose": ["48320"],
+    "reason": "The other half of the Year 1 pair."},
+   {"year": 4, "session": "Autumn", "credit_points": 6, "choose": ["48370"],
+    "reason": "Seven options, of which four can run in Autumn. 48370 Road and Transport Engineering is chosen because its availability is published for both sessions and its prerequisite 48310 is already fixed in Year 1 Autumn. 16138 Site Establishment and Management also fits, but the two remaining Autumn candidates, 42095 and 16471, have availability inferred from sequence placement rather than published, and a default plan should rest on published data where there is a choice."},
+   {"year": 4, "session": "Spring", "credit_points": 6, "choose": ["16422"],
+    "reason": "Construction Technology 4 is published Spring only, which fits, and its prerequisite 16314 Construction Technology 3 is fixed in Year 3 Spring, so the plan carries the 16314 to 16422 progression rather than two unrelated construction subjects. 16263 Design Team Management is equally valid, its prerequisite 16912 being fixed in Year 3 Autumn."}
+  ],
+  "Civil and Environmental Engineering major": [
+   {"year": 3, "session": "Spring", "credit_points": 6, "choose": ["49257"],
+    "reason": "From CBK91895. 49257 Geographic Information Systems is the only option offered in both sessions, so it is the pick least likely to break if the slot moves. This major has no elective allowance at all, so it is the one fully prescribed plan of the seven."}
+  ],
+  "Electrical Engineering major": [
+   {"year": 3, "session": "Autumn", "credit_points": 6, "choose": ["48561"],
+    "reason": "CBK91781 offers five specialist streams, each an A/B studio pair split across the two sessions, so two complete streams fill the 24cp exactly. Renewable Energy Systems Studio A is Autumn only, which fits this slot, and has no unmet requisite here. An earlier draft started Power Systems Studio A instead and the checker rejected it: see the note on Power Systems below."},
+   {"year": 3, "session": "Spring", "credit_points": 12, "choose": ["48550", "48451"],
+    "reason": "Renewable Energy Systems Studio B is Spring only and follows its Studio A in the previous session. Embedded Systems Studio A, also Spring only, starts the second stream."},
+   {"year": 4, "session": "Autumn", "credit_points": 6, "choose": ["48570"],
+    "reason": "Embedded Systems Studio B is Autumn only and completes the second stream after its Studio A in Year 3 Spring. Both streams therefore run A before B without reordering anything in the published sequence."}
+  ],
+  "_note_electrical_power_systems": "Power Systems (STM91308) cannot be completed in the three stream slots this sequence provides, and the check that rejected it is worth recording. Both its subjects require 48572 Electrical Energy Technology, which the sequence places in Year 3 Autumn. Studio A is Autumn only, so its earliest legal position is Year 4 Autumn, after 48572; Studio B is Spring only, and there is no stream slot after Year 4 Autumn. The stream is therefore unreachable, not merely awkward. Of the five published streams, four pair cleanly with the slots (Renewable Energy and Embedded Systems as chosen here, Control Studios as Spring then Autumn, Electrical Drives likewise) and Power Systems alone does not.",
+  "Mechanical Engineering major": [
+   {"year": 2, "session": "Spring", "credit_points": 6, "choose": ["41301"],
+    "forced": true,
+    "reason": "Alternative 41302 Additive Manufacturing 1 is Autumn only, so it cannot sit in a Spring slot."}
+  ],
+  "Mechatronic Engineering major": [
+   {"year": 4, "session": "Autumn", "credit_points": 6, "choose": ["41302"],
+    "forced": true,
+    "reason": "Same pair as Mechanical, opposite outcome: this slot is Autumn, and 41301 Industrial Engineering is Spring only. The two majors are forced to opposite picks from an identical pair of options purely by where the slot sits."}
+  ],
+  "Software Engineering major": [
+   {"year": 2, "session": "Autumn", "credit_points": 6, "choose": ["31250"],
+    "reason": "Four 6cp slots draw on the same seven options, of which CBK91234 Technical subject choice is the broadest. All four picks come from it, so the plan reads as one coherent technical thread rather than four unrelated sub-majors. 31250 Introduction to Data Analytics runs in both sessions and has its prerequisites met by Year 1. An earlier draft chose 31061 Database Principles, which the solver rejected: 31271 Database Fundamentals is a core subject of this sequence and the two are genuine mutual anti-requisites, so both could never count. 48730 Cybersecurity was the next candidate and was rejected in turn, because it requires one of six subjects none of which this sequence schedules."},
+   {"year": 2, "session": "Spring", "credit_points": 6, "choose": ["41092"],
+    "reason": "41092 Network Fundamentals runs in both sessions and has no unmet requisite here. An earlier draft chose 48033 Internet of Things, which the checker rejected because it requires a networking subject (41092 among them) that the plan did not schedule. Taking 41092 itself both fixes the slot and would unlock 48033 as a later elective."},
+   {"year": 3, "session": "Autumn", "credit_points": 6, "choose": ["41091"],
+    "reason": "41091 Data Systems is Autumn only and follows 31061 Database Principles from Year 2 Autumn."},
+   {"year": 4, "session": "Autumn", "credit_points": 6, "choose": ["41182"],
+    "reason": "41182 System Security is Autumn only and sits late in the plan. An earlier draft chose 41900 Cryptography, which the checker rejected because it requires 48730 Cybersecurity or 65325, neither scheduled. With 31061, 41092 and 41091 already placed, the four picks now read as one thread across data, networks and security rather than four unrelated subjects."}
+  ]
+ }
+}

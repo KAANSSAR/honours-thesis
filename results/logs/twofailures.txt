@@ -1,0 +1,8 @@
+pairs tested            : 2098
+clean after both repairs: 2098
+left a violation        : 0
+crashed                 : 0
+a retake went missing   : 0
+span growth in positions: {0: 1103, 2: 588, 4: 385, 6: 14, 8: 5, 10: 3}
+
+wrote results/twofailures.json

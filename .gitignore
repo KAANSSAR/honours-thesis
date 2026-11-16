@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Cached UTS handbook pages. The pipeline rebuilds this folder; it is not
+# redistributed here because the pages belong to UTS.
+data/sources/uts/uts_cache/
+
+# Backups written by pipeline/usyd/apply_usyd_requisites.py
+*.bak
+
+# Raw per-degree CUSP scrapes written by pipeline/usyd/scrape_other_engineering_degrees.py
+data/sources/usyd/cusp_degree_[0-9]*.json
+
+# Temporary worker written by evaluation/engine/orderdep.py
+evaluation/engine/_orderdep_worker.py

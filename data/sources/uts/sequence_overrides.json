@@ -1,0 +1,28 @@
+{
+ "_comment": [
+  "Corrections to the parsed C09066 suggested sequences, in the same auditable form",
+  "as data_overrides.json on the USYD side: every change records what it changes,",
+  "why, and the source it was checked against. Nothing here is applied silently.",
+  "",
+  "These exist because the course-page PDF the sequences were parsed from is no",
+  "longer on disk, so parse_uts_sequences.py cannot simply be re-run. The parser",
+  "itself has been fixed for future runs; these entries bring the already-parsed",
+  "uts_sequences.json into line in the meantime. Re-running the parser against a",
+  "regenerated c09066.txt makes them redundant, which apply_sequence_overrides",
+  "reports as 'already correct' rather than treating as an error."
+ ],
+ "source_checked": "https://handbookpre2025.uts.edu.au/2024/courses/c09066.html",
+ "date_checked": "2026-10-22",
+ "moves": [
+  {
+   "major": "Civil and Environmental Engineering major",
+   "code": "48850",
+   "name": "Environmental Planning and Law",
+   "from": {"year": 3, "session": "Spring"},
+   "to": {"year": 3, "session": "December"},
+   "reason": "The course page lists 48850 under Year 3 December session. The session-heading pattern in parse_uts_sequences.py matched only Autumn, Spring and Summer, so the December heading did not register and the preceding Spring heading stayed in force. This put Civil and Environmental at 30cp in Year 3 Spring against 21cp in Year 4 Autumn, where every other major sits at 24 or 27. It also gave 48850 a wrong inferred availability, since 48850 is one of the nine subjects with no published availability and its session was inferred from this very placement.",
+   "verified_by": "Course page read directly on 2026-10-22, which prints Year 3 Spring as 41203, 48330, 48353, 41028 and one 6cp choice group, with 48850 under Year 3 December session.",
+   "parser_fix": "parse_uts_sequences.py now accepts any '<Name> session' heading and reports session names it cannot map to a position."
+  }
+ ]
+}

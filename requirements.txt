@@ -1,0 +1,13 @@
+# The engine, the web frontend and the tests use only the Python standard library.
+# Nothing below is needed to run src/server.py or src/run_all_plans.py.
+
+# Data pipeline (pipeline/), which scrapes the university handbooks
+requests>=2.31
+beautifulsoup4>=4.12
+
+# Evaluation (evaluation/): the CP-SAT constraint model and the charts
+ortools>=9.10
+matplotlib>=3.8
+
+# The conversational layer also needs Ollama running locally with qwen3:8b.
+# Ollama is not a Python package: see https://ollama.com

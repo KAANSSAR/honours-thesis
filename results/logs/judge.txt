@@ -1,0 +1,58 @@
+exchanges judged: 41  (backend: reference)
+  faithful       24
+  unsupported    4
+  contradicted   13
+
+grounding check flagged  : 1 of 41
+the judge found unfaithful: 17 of 41
+found by both             : 1
+found only by the judge   : 16
+flagged but judged faithful: 0
+
+what the mechanical check could not see:
+  [ 1] unsupported   uts-software-fail-programming1 / plain
+       says the failure leaves the path unaffected; the engine validated the original plan and made no finding about the failure
+  [ 2] contradicted  uts-software-fail-programming1 / school-leaver
+       says there is no need to repeat the failed course, where the result reschedules a retake of 41039
+  [ 8] contradicted  uts-civil-fail-maths1 / plain
+       says no plan was found and refers the student to an advisor, where the result is a valid plan
+  [13] contradicted  uts-civil-fail-maths1 / high-achiever
+       says no plan was found, where the result is a valid plan, and restates the student's stated ambition as a constraint the engine considered
+  [16] unsupported   uts-mechanical-plan / transfer
+       reports that the result does not mention a plan for TAFE transfers, which imports the student's own description into the answer
+  [20] unsupported   uts-mechanical-plan / high-achiever
+       reports the absence of an accelerated plan, which imports the student's stated goal into the answer
+  [21] contradicted  compare-software / plain
+       gives Sydney the higher total credit points, where the result has Sydney at 192 and UTS at 198
+  [23] contradicted  compare-software / transfer
+       gives Sydney more units with requisites, where the result has Sydney at 14 and UTS at 19
+  [24] contradicted  compare-software / mature-age
+       gives Sydney more units with requisites, where the result has Sydney at 14 and UTS at 19
+  [35] contradicted  lookup-unit / plain
+       gives AMME2000 and AMME2500 as alternatives, where the result requires both
+  [36] contradicted  lookup-unit / school-leaver
+       gives AMME2000 and AMME2500 as alternatives, where the result requires both
+  [37] contradicted  lookup-unit / transfer
+       gives AMME2000 and AMME2500 as alternatives, where the result requires both
+  [38] contradicted  lookup-unit / mature-age
+       gives AMME2000 and AMME2500 as alternatives, where the result requires both
+  [39] contradicted  lookup-unit / international
+       gives AMME2000 and AMME2500 as alternatives, where the result requires both
+  [40] contradicted  lookup-unit / struggling
+       gives AMME2000 and AMME2500 as alternatives, where the result requires both
+  [41] contradicted  lookup-unit / high-achiever
+       gives AMME2000 and AMME2500 as alternatives, where the result requires both
+
+by cause:
+   7  gives AMME2000 and AMME2500 as alternatives, where t
+   2  gives Sydney more units with requisites, where the r
+   1  says the failure leaves the path unaffected
+   1  says there is no need to repeat the failed course, w
+   1  says no plan was found and refers the student to an 
+   1  says no plan was found, where the result is a valid 
+   1  reports that the result does not mention a plan for 
+   1  reports the absence of an accelerated plan, which im
+   1  gives Sydney the higher total credit points, where t
+   1  reports 33 UTS units, which is the result's 29 place
+
+wrote results/judge_results.json

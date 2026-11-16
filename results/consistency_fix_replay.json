@@ -1,0 +1,138 @@
+{
+ "uts-software-fail-programming1": {
+  "before": 2,
+  "after": 1,
+  "overrides": 2,
+  "skipped": 0,
+  "groups": {
+   "replan_after_failure Software Engineering major ['41039']": [
+    "plain",
+    "school-leaver",
+    "transfer",
+    "mature-age",
+    "international",
+    "struggling",
+    "high-achiever"
+   ]
+  }
+ },
+ "usyd-software-fail-info1110": {
+  "before": 1,
+  "after": 1,
+  "overrides": 0,
+  "skipped": 0,
+  "groups": {
+   "question: 'Software Engineering' could be any of: Software_stream_Computer_Engineering_breadth_Humanitarian_Engineering, Software_stream_Computer_Engineering_breadth_Innovation_and_Entrepreneurship, Software_stream_Computer_Engineering_breadth_free_electives, Software_stream_Engineering_Data_Science_breadth_Humanitarian_Engineering": [
+    "plain",
+    "school-leaver",
+    "transfer",
+    "mature-age",
+    "international",
+    "struggling",
+    "high-achiever"
+   ]
+  }
+ },
+ "uts-civil-fail-maths1": {
+  "before": 3,
+  "after": 1,
+  "overrides": 2,
+  "skipped": 0,
+  "groups": {
+   "replan_after_failure Civil Engineering major ['33130']": [
+    "plain",
+    "school-leaver",
+    "transfer",
+    "mature-age",
+    "international",
+    "struggling",
+    "high-achiever"
+   ]
+  }
+ },
+ "usyd-mechatronic-plan": {
+  "before": 1,
+  "after": 1,
+  "overrides": 0,
+  "skipped": 0,
+  "groups": {
+   "get_plan Mechatronic_Robotics_and_Intelligent_Systems_24cp_stream_or_free_electives_12cp []": [
+    "plain",
+    "school-leaver",
+    "transfer",
+    "mature-age",
+    "international",
+    "struggling",
+    "high-achiever"
+   ]
+  }
+ },
+ "uts-mechanical-plan": {
+  "before": 1,
+  "after": 1,
+  "overrides": 0,
+  "skipped": 0,
+  "groups": {
+   "get_plan Mechanical Engineering major []": [
+    "plain",
+    "school-leaver",
+    "transfer",
+    "mature-age",
+    "international",
+    "struggling",
+    "high-achiever"
+   ]
+  }
+ },
+ "compare-software": {
+  "before": 1,
+  "after": 1,
+  "overrides": 0,
+  "skipped": 0,
+  "groups": {
+   "compare Software_stream_Computer_Engineering_breadth_Humanitarian_Engineering | Software Engineering major": [
+    "plain",
+    "school-leaver",
+    "transfer",
+    "mature-age",
+    "international",
+    "struggling",
+    "high-achiever"
+   ]
+  }
+ },
+ "compare-civil": {
+  "before": 1,
+  "after": 1,
+  "overrides": 0,
+  "skipped": 0,
+  "groups": {
+   "compare Civil_Innovation_and_Entrepreneurship_24cp_stream_electives_24cp | Civil Engineering major": [
+    "plain",
+    "school-leaver",
+    "transfer",
+    "mature-age",
+    "international",
+    "struggling",
+    "high-achiever"
+   ]
+  }
+ },
+ "lookup-unit": {
+  "before": 1,
+  "after": 1,
+  "overrides": 0,
+  "skipped": 0,
+  "groups": {
+   "lookup_unit None []": [
+    "plain",
+    "school-leaver",
+    "transfer",
+    "mature-age",
+    "international",
+    "struggling",
+    "high-achiever"
+   ]
+  }
+ }
+}

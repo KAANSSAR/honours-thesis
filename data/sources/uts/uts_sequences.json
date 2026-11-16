@@ -1,0 +1,3311 @@
+{
+ "institution": "UTS",
+ "course_code": "C09066v6",
+ "course_name": "Bachelor of Engineering (Honours)",
+ "total_credit_points": 198,
+ "source": "handbookpre2025.uts.edu.au 2024 edition (course page HTML)",
+ "source_url": "https://handbookpre2025.uts.edu.au/2024/courses/c09066.html",
+ "parsed_from": "cached course page HTML, three-column rows",
+ "structure": {
+  "core": 48,
+  "major": 120,
+  "electives_or_specialist_stream": 24,
+  "professional_practice": 6
+ },
+ "major_map_to_usyd": {
+  "Software Engineering major": "Software Engineering",
+  "Biomedical Engineering major": "Biomedical",
+  "Civil Engineering major": "Civil",
+  "Civil Engineering major, Structures specialisation": "Civil",
+  "Civil Engineering major, Construction specialisation": "Civil",
+  "Civil and Environmental Engineering major": "Environmental",
+  "Electrical Engineering major": "Electrical",
+  "Mechanical Engineering major": "Mechanical",
+  "Mechatronic Engineering major": "Mechatronic"
+ },
+ "unmatched_usyd_degrees": [
+  "Aeronautical"
+ ],
+ "all_sequence_names": [
+  "Biomedical Engineering major",
+  "Chemical Process Engineering major",
+  "Civil Engineering major",
+  "Civil Engineering major, Construction specialisation",
+  "Civil Engineering major, Structures specialisation",
+  "Civil and Environmental Engineering major",
+  "Data Science Engineering major",
+  "Electrical Engineering major",
+  "Electrical and Electronic Engineering major",
+  "Electronic Engineering major",
+  "Mechanical Engineering major",
+  "Mechanical and Mechatronic Engineering major",
+  "Mechatronic Engineering major",
+  "Renewable Energy Engineering major",
+  "Software Engineering major"
+ ],
+ "excluded_sequences": [
+  "Chemical Process Engineering major",
+  "Data Science Engineering major",
+  "Electrical and Electronic Engineering major",
+  "Electronic Engineering major",
+  "Mechanical and Mechatronic Engineering major",
+  "Renewable Energy Engineering major"
+ ],
+ "session_position_map": {
+  "Autumn": "sem1",
+  "Spring": "sem2",
+  "July": "winter_gap",
+  "Winter": "winter_gap",
+  "December": "summer_gap",
+  "January": "summer_gap",
+  "Summer": "summer_gap"
+ },
+ "sessions_seen": [
+  "Autumn",
+  "December",
+  "Spring"
+ ],
+ "sessions_unmapped": [],
+ "rows_not_understood": [],
+ "sequences": {
+  "Biomedical Engineering major": [
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "33130",
+    "name": "Mathematics 1",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "48023",
+    "name": "Programming Fundamentals",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "68037",
+    "name": "Physical Modelling",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 1,
+    "session": "Autumn",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "48510",
+      "name": "Introduction to Electrical and Electronic Engineering",
+      "credit_points": 6
+     },
+     {
+      "code": "41099",
+      "name": "Introduction to Mechatronics Engineering",
+      "credit_points": 6
+     }
+    ]
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "33230",
+    "name": "Mathematics 2",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "41160",
+    "name": "Introduction to Biomedical Engineering",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "48230",
+    "name": "Introduction to Engineering Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "91400",
+    "name": "Human Anatomy and Physiology",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "41200",
+    "name": "Engineering Project Appraisal",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 2,
+    "session": "Autumn",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "31250",
+      "name": "Introduction to Data Analytics",
+      "credit_points": 6
+     },
+     {
+      "code": "31061",
+      "name": "Database Principles",
+      "credit_points": 6
+     }
+    ]
+   },
+   {
+    "kind": "choice",
+    "year": 2,
+    "session": "Autumn",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "91822",
+      "name": "Human Genetics and Precision Medicine",
+      "credit_points": 6
+     },
+     {
+      "code": "65111",
+      "name": "Chemistry 1",
+      "credit_points": 6
+     }
+    ]
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "41162",
+    "name": "Fundamentals of Biomedical Engineering Studio A",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "41035",
+    "name": "Professional Practice Preparation 1",
+    "credit_points": 3
+   },
+   {
+    "kind": "choice",
+    "year": 2,
+    "session": "Spring",
+    "credit_points": 12,
+    "resolved_inline": false,
+    "text": "Select 12 credit points of options",
+    "options": []
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "91161",
+    "name": "Cell Biology and Genetics",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "41201",
+    "name": "Designing Sustainable Engineering Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "41202",
+    "name": "Professional Engineering Communication",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "41163",
+    "name": "Fundamentals of Biomedical Engineering Studio B",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 3,
+    "session": "Autumn",
+    "credit_points": 6,
+    "resolved_inline": false,
+    "text": "Select 6 credit points of options",
+    "options": []
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "41161",
+    "name": "Biomedical Industry Frameworks",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "91705",
+    "name": "Medical Devices and Diagnostics",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "41028",
+    "name": "Engineering Work Experience",
+    "credit_points": 0
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "41203",
+    "name": "Collaboration in Complex Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 3,
+    "session": "Spring",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "26101",
+      "name": "Health Economics and Evaluation",
+      "credit_points": 6
+     },
+     {
+      "code": "42026",
+      "name": "Biomedical Polymers",
+      "credit_points": 6
+     }
+    ]
+   },
+   {
+    "kind": "choice",
+    "year": 3,
+    "session": "Spring",
+    "credit_points": 6,
+    "resolved_inline": false,
+    "text": "Select 6 credit points of options",
+    "options": []
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41055",
+    "name": "Professional Experience Review",
+    "credit_points": 3
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41029",
+    "name": "Engineering Research Preparation",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "43021",
+    "name": "Advanced Biomedical Engineering Studio A",
+    "credit_points": 12
+   },
+   {
+    "kind": "choice",
+    "year": 4,
+    "session": "Autumn",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "49261",
+      "name": "Biomedical Instrumentation",
+      "credit_points": 6
+     },
+     {
+      "code": "42001",
+      "name": "Bioinformatics",
+      "credit_points": 6
+     }
+    ]
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "41030",
+    "name": "Engineering Capstone",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "43022",
+    "name": "Advanced Biomedical Engineering Studio B",
+    "credit_points": 12
+   },
+   {
+    "kind": "choice",
+    "year": 4,
+    "session": "Spring",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "42722",
+      "name": "Additive Manufacturing for Medical Innovations",
+      "credit_points": 6
+     },
+     {
+      "code": "42724",
+      "name": "Microfluidics in Biology and Medicine",
+      "credit_points": 6
+     }
+    ]
+   }
+  ],
+  "Civil Engineering major": [
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "33130",
+    "name": "Mathematics 1",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "68037",
+    "name": "Physical Modelling",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "48310",
+    "name": "Introduction to Civil and Environmental Engineering",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 1,
+    "session": "Autumn",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "48320",
+      "name": "Surveying",
+      "credit_points": 6
+     },
+     {
+      "code": "60101",
+      "name": "Chemistry and Materials Science",
+      "credit_points": 6
+     }
+    ]
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "33230",
+    "name": "Mathematics 2",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "48321",
+    "name": "Engineering Mechanics",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "48230",
+    "name": "Introduction to Engineering Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 1,
+    "session": "Spring",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "48320",
+      "name": "Surveying",
+      "credit_points": 6
+     },
+     {
+      "code": "60101",
+      "name": "Chemistry and Materials Science",
+      "credit_points": 6
+     }
+    ]
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "41200",
+    "name": "Engineering Project Appraisal",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "48221",
+    "name": "Engineering Computations",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "48331",
+    "name": "Mechanics of Solids",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "48340",
+    "name": "Construction",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "41035",
+    "name": "Professional Practice Preparation 1",
+    "credit_points": 3
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "41201",
+    "name": "Designing Sustainable Engineering Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "48330",
+    "name": "Soil Behaviour",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "48349",
+    "name": "Structural Analysis",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "48352",
+    "name": "Construction Materials",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "41202",
+    "name": "Professional Engineering Communication",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "48353",
+    "name": "Concrete Design",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "48641",
+    "name": "Fluid Mechanics",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "48370",
+    "name": "Road and Transport Engineering",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "41203",
+    "name": "Collaboration in Complex Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "48350",
+    "name": "Environmental and Sanitation Engineering",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "48360",
+    "name": "Geotechnical Engineering",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 3,
+    "session": "Spring",
+    "credit_points": 6,
+    "resolved_inline": false,
+    "text": "Select 6 credit points of options",
+    "options": []
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "41028",
+    "name": "Engineering Work Experience",
+    "credit_points": 0
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41055",
+    "name": "Professional Experience Review",
+    "credit_points": 3
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41029",
+    "name": "Engineering Research Preparation",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "48366",
+    "name": "Steel and Timber Design",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 4,
+    "session": "Autumn",
+    "credit_points": 12,
+    "resolved_inline": false,
+    "text": "Select 12 credit points of options",
+    "options": []
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "48389",
+    "name": "Computer Modelling and Design",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "41030",
+    "name": "Engineering Capstone",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "48362",
+    "name": "Hydraulics and Hydrology",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 4,
+    "session": "Spring",
+    "credit_points": 6,
+    "resolved_inline": false,
+    "text": "Select 6 credit points of options",
+    "options": []
+   }
+  ],
+  "Civil Engineering major, Construction specialisation": [
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "33130",
+    "name": "Mathematics 1",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "68037",
+    "name": "Physical Modelling",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "48310",
+    "name": "Introduction to Civil and Environmental Engineering",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 1,
+    "session": "Autumn",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "48320",
+      "name": "Surveying",
+      "credit_points": 6
+     },
+     {
+      "code": "60101",
+      "name": "Chemistry and Materials Science",
+      "credit_points": 6
+     }
+    ]
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "33230",
+    "name": "Mathematics 2",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "48321",
+    "name": "Engineering Mechanics",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "48230",
+    "name": "Introduction to Engineering Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 1,
+    "session": "Spring",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "48320",
+      "name": "Surveying",
+      "credit_points": 6
+     },
+     {
+      "code": "60101",
+      "name": "Chemistry and Materials Science",
+      "credit_points": 6
+     }
+    ]
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "41200",
+    "name": "Engineering Project Appraisal",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "48221",
+    "name": "Engineering Computations",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "48331",
+    "name": "Mechanics of Solids",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "48340",
+    "name": "Construction",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "41035",
+    "name": "Professional Practice Preparation 1",
+    "credit_points": 3
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "41201",
+    "name": "Designing Sustainable Engineering Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "48330",
+    "name": "Soil Behaviour",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "48349",
+    "name": "Structural Analysis",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "48352",
+    "name": "Construction Materials",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "41202",
+    "name": "Professional Engineering Communication",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "48353",
+    "name": "Concrete Design",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "48641",
+    "name": "Fluid Mechanics",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "16912",
+    "name": "Construction Project Management Principles",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "48360",
+    "name": "Geotechnical Engineering",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "16314",
+    "name": "Construction Technology 3",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "41028",
+    "name": "Engineering Work Experience",
+    "credit_points": 0
+   },
+   {
+    "kind": "choice",
+    "year": 3,
+    "session": "Spring",
+    "credit_points": 12,
+    "resolved_inline": false,
+    "text": "Select 12 credit points of options",
+    "options": []
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41055",
+    "name": "Professional Experience Review",
+    "credit_points": 3
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41029",
+    "name": "Engineering Research Preparation",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 4,
+    "session": "Autumn",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "16263",
+      "name": "Design Team Management",
+      "credit_points": 6
+     },
+     {
+      "code": "48370",
+      "name": "Road and Transport Engineering",
+      "credit_points": 6
+     },
+     {
+      "code": "16422",
+      "name": "Construction Technology 4",
+      "credit_points": 6
+     },
+     {
+      "code": "16138",
+      "name": "Site Establishment and Management",
+      "credit_points": 6
+     },
+     {
+      "code": "42095",
+      "name": "Introduction to Building Information Modelling",
+      "credit_points": 6
+     },
+     {
+      "code": "16471",
+      "name": "Integrated Services",
+      "credit_points": 6
+     },
+     {
+      "code": "48850",
+      "name": "Environmental Planning and Law",
+      "credit_points": 6
+     }
+    ]
+   },
+   {
+    "kind": "choice",
+    "year": 4,
+    "session": "Autumn",
+    "credit_points": 6,
+    "resolved_inline": false,
+    "text": "Select 6 credit points of options",
+    "options": []
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "48362",
+    "name": "Hydraulics and Hydrology",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "41030",
+    "name": "Engineering Capstone",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 4,
+    "session": "Spring",
+    "credit_points": 6,
+    "resolved_inline": false,
+    "text": "Select 6 credit points of options",
+    "options": []
+   },
+   {
+    "kind": "choice",
+    "year": 4,
+    "session": "Spring",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "16422",
+      "name": "Construction Technology 4",
+      "credit_points": 6
+     },
+     {
+      "code": "16263",
+      "name": "Design Team Management",
+      "credit_points": 6
+     },
+     {
+      "code": "48370",
+      "name": "Road and Transport Engineering",
+      "credit_points": 6
+     },
+     {
+      "code": "16138",
+      "name": "Site Establishment and Management",
+      "credit_points": 6
+     },
+     {
+      "code": "42095",
+      "name": "Introduction to Building Information Modelling",
+      "credit_points": 6
+     },
+     {
+      "code": "16471",
+      "name": "Integrated Services",
+      "credit_points": 6
+     },
+     {
+      "code": "48850",
+      "name": "Environmental Planning and Law",
+      "credit_points": 6
+     }
+    ]
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "41203",
+    "name": "Collaboration in Complex Projects",
+    "credit_points": 6
+   }
+  ],
+  "Civil Engineering major, Structures specialisation": [
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "33130",
+    "name": "Mathematics 1",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "68037",
+    "name": "Physical Modelling",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "48310",
+    "name": "Introduction to Civil and Environmental Engineering",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 1,
+    "session": "Autumn",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "48320",
+      "name": "Surveying",
+      "credit_points": 6
+     },
+     {
+      "code": "60101",
+      "name": "Chemistry and Materials Science",
+      "credit_points": 6
+     }
+    ]
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "33230",
+    "name": "Mathematics 2",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "48321",
+    "name": "Engineering Mechanics",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "48230",
+    "name": "Introduction to Engineering Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 1,
+    "session": "Spring",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "48320",
+      "name": "Surveying",
+      "credit_points": 6
+     },
+     {
+      "code": "60101",
+      "name": "Chemistry and Materials Science",
+      "credit_points": 6
+     }
+    ]
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "41200",
+    "name": "Engineering Project Appraisal",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "48221",
+    "name": "Engineering Computations",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "48331",
+    "name": "Mechanics of Solids",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "48340",
+    "name": "Construction",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "41035",
+    "name": "Professional Practice Preparation 1",
+    "credit_points": 3
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "41201",
+    "name": "Designing Sustainable Engineering Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "48330",
+    "name": "Soil Behaviour",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "48349",
+    "name": "Structural Analysis",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "48352",
+    "name": "Construction Materials",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "41202",
+    "name": "Professional Engineering Communication",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "48353",
+    "name": "Concrete Design",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "48641",
+    "name": "Fluid Mechanics",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 3,
+    "session": "Autumn",
+    "credit_points": 6,
+    "resolved_inline": false,
+    "text": "Select 6 credit points of options",
+    "options": []
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "41028",
+    "name": "Engineering Work Experience",
+    "credit_points": 0
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "41203",
+    "name": "Collaboration in Complex Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "48360",
+    "name": "Geotechnical Engineering",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 3,
+    "session": "Spring",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "49047",
+      "name": "Finite Element Analysis",
+      "credit_points": 6
+     },
+     {
+      "code": "49150",
+      "name": "Prestressed Concrete Design",
+      "credit_points": 6
+     },
+     {
+      "code": "49131",
+      "name": "Bridge Design",
+      "credit_points": 6
+     },
+     {
+      "code": "49151",
+      "name": "Concrete Technology and Practice",
+      "credit_points": 6
+     }
+    ]
+   },
+   {
+    "kind": "choice",
+    "year": 3,
+    "session": "Spring",
+    "credit_points": 6,
+    "resolved_inline": false,
+    "text": "Select 6 credit points of options",
+    "options": []
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41055",
+    "name": "Professional Experience Review",
+    "credit_points": 3
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41029",
+    "name": "Engineering Research Preparation",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "48366",
+    "name": "Steel and Timber Design",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 4,
+    "session": "Autumn",
+    "credit_points": 12,
+    "resolved_inline": false,
+    "text": "Select 12 credit points of options",
+    "options": []
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "41030",
+    "name": "Engineering Capstone",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "48389",
+    "name": "Computer Modelling and Design",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "48362",
+    "name": "Hydraulics and Hydrology",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "48371",
+    "name": "Advanced Engineering Computing",
+    "credit_points": 6
+   }
+  ],
+  "Civil and Environmental Engineering major": [
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "33130",
+    "name": "Mathematics 1",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "68037",
+    "name": "Physical Modelling",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "65111",
+    "name": "Chemistry 1",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "48310",
+    "name": "Introduction to Civil and Environmental Engineering",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "33230",
+    "name": "Mathematics 2",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "48321",
+    "name": "Engineering Mechanics",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "48230",
+    "name": "Introduction to Engineering Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "48320",
+    "name": "Surveying",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "41200",
+    "name": "Engineering Project Appraisal",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "48331",
+    "name": "Mechanics of Solids",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "48350",
+    "name": "Environmental and Sanitation Engineering",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "48221",
+    "name": "Engineering Computations",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "41035",
+    "name": "Professional Practice Preparation 1",
+    "credit_points": 3
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "41201",
+    "name": "Designing Sustainable Engineering Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "48352",
+    "name": "Construction Materials",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "48641",
+    "name": "Fluid Mechanics",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "48821",
+    "name": "Principles of Environmental Engineering",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "41202",
+    "name": "Professional Engineering Communication",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "48349",
+    "name": "Structural Analysis",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "48860",
+    "name": "Pollution Control and Waste Management",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "48362",
+    "name": "Hydraulics and Hydrology",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "41203",
+    "name": "Collaboration in Complex Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "48330",
+    "name": "Soil Behaviour",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "48353",
+    "name": "Concrete Design",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "41028",
+    "name": "Engineering Work Experience",
+    "credit_points": 0
+   },
+   {
+    "kind": "choice",
+    "year": 3,
+    "session": "Spring",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "CBK91895",
+      "name": "Civil and Environmental Engineering choice",
+      "credit_points": 6,
+      "is_block": true
+     }
+    ]
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "December",
+    "code": "48850",
+    "name": "Environmental Planning and Law",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41055",
+    "name": "Professional Experience Review",
+    "credit_points": 3
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41029",
+    "name": "Engineering Research Preparation",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "48360",
+    "name": "Geotechnical Engineering",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "48370",
+    "name": "Road and Transport Engineering",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "41030",
+    "name": "Engineering Capstone",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "43124",
+    "name": "Renewable Energy Technology",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "48881",
+    "name": "Water and Environmental Design",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "48366",
+    "name": "Steel and Timber Design",
+    "credit_points": 6
+   }
+  ],
+  "Electrical Engineering major": [
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "33130",
+    "name": "Mathematics 1",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "48430",
+    "name": "Fundamentals of C Programming",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "48510",
+    "name": "Introduction to Electrical and Electronic Engineering",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "68037",
+    "name": "Physical Modelling",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "33230",
+    "name": "Mathematics 2",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "48230",
+    "name": "Introduction to Engineering Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "48521",
+    "name": "Foundations of Electrical and Electronic Technology",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "48520",
+    "name": "Electronics and Circuits",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "41200",
+    "name": "Engineering Project Appraisal",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "48441",
+    "name": "Introductory Digital Systems",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "48434",
+    "name": "Introductory Embedded Systems",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "48540",
+    "name": "Signals and Systems",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "41035",
+    "name": "Professional Practice Preparation 1",
+    "credit_points": 3
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "41201",
+    "name": "Designing Sustainable Engineering Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "48531",
+    "name": "Electromechanical Automation",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "48530",
+    "name": "Circuit Analysis and Design",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "41277",
+    "name": "Control Design",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "41202",
+    "name": "Professional Engineering Communication",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "41278",
+    "name": "Power Electronics",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "48572",
+    "name": "Electrical Power Systems",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 3,
+    "session": "Autumn",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "CBK91781",
+      "name": "Electrical Engineering options",
+      "credit_points": 24,
+      "is_block": true
+     }
+    ]
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "41028",
+    "name": "Engineering Work Experience",
+    "credit_points": 0
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "41088",
+    "name": "Professional Studio A",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "41203",
+    "name": "Collaboration in Complex Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 3,
+    "session": "Spring",
+    "credit_points": 12,
+    "resolved_inline": true,
+    "text": "Select 12 credit points from the following:",
+    "options": [
+     {
+      "code": "CBK91781",
+      "name": "Electrical Engineering options",
+      "credit_points": 24,
+      "is_block": true
+     }
+    ]
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41055",
+    "name": "Professional Experience Review",
+    "credit_points": 3
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41029",
+    "name": "Engineering Research Preparation",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41089",
+    "name": "Professional Studio B",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 4,
+    "session": "Autumn",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "CBK91781",
+      "name": "Electrical Engineering options",
+      "credit_points": 24,
+      "is_block": true
+     }
+    ]
+   },
+   {
+    "kind": "choice",
+    "year": 4,
+    "session": "Autumn",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "CBK90011",
+      "name": "Electives",
+      "credit_points": 24,
+      "is_block": true
+     }
+    ]
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "41030",
+    "name": "Engineering Capstone",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 4,
+    "session": "Spring",
+    "credit_points": 18,
+    "resolved_inline": true,
+    "text": "Select 18 credit points from the following:",
+    "options": [
+     {
+      "code": "CBK90011",
+      "name": "Electives",
+      "credit_points": 24,
+      "is_block": true
+     }
+    ]
+   }
+  ],
+  "Mechanical Engineering major": [
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "33130",
+    "name": "Mathematics 1",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "48230",
+    "name": "Introduction to Engineering Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "48610",
+    "name": "Introduction to Mechanical Engineering",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "68037",
+    "name": "Physical Modelling",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "41053",
+    "name": "Materials and Manufacturing Engineering A",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "41054",
+    "name": "Applied Mechanics and Design A",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "41099",
+    "name": "Introduction to Mechatronics Engineering",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "48221",
+    "name": "Engineering Computations",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "33230",
+    "name": "Mathematics 2",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "41056",
+    "name": "Machines and Mechanisms A",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "41057",
+    "name": "Thermofluids A",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "41059",
+    "name": "Mechanical Design Fundamentals Studio 1",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "41035",
+    "name": "Professional Practice Preparation 1",
+    "credit_points": 3
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "41200",
+    "name": "Engineering Project Appraisal",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "43014",
+    "name": "Applied Mechanics and Design B",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 2,
+    "session": "Spring",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "41301",
+      "name": "Industrial Engineering",
+      "credit_points": 6
+     },
+     {
+      "code": "41302",
+      "name": "Additive Manufacturing 1",
+      "credit_points": 6
+     }
+    ]
+   },
+   {
+    "kind": "choice",
+    "year": 2,
+    "session": "Spring",
+    "credit_points": 6,
+    "resolved_inline": false,
+    "text": "Select 6 credit points of options",
+    "options": []
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "41058",
+    "name": "Dynamic Systems and Control A",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "43015",
+    "name": "Thermofluids B",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "43017",
+    "name": "Machines and Mechanisms B",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "41060",
+    "name": "Mechanical Design Fundamentals Studio 2",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "41201",
+    "name": "Designing Sustainable Engineering Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "41066",
+    "name": "Mechanical Systems Design Studio 1",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "41028",
+    "name": "Engineering Work Experience",
+    "credit_points": 0
+   },
+   {
+    "kind": "choice",
+    "year": 3,
+    "session": "Spring",
+    "credit_points": 12,
+    "resolved_inline": false,
+    "text": "Select 12 credit points of options",
+    "options": []
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41067",
+    "name": "Mechanical Systems Design Studio 2",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41055",
+    "name": "Professional Experience Review",
+    "credit_points": 3
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "43018",
+    "name": "Dynamic Systems and Control B",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41029",
+    "name": "Engineering Research Preparation",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41202",
+    "name": "Professional Engineering Communication",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "41030",
+    "name": "Engineering Capstone",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "43019",
+    "name": "Design in Mechanical and Mechatronic Systems",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 4,
+    "session": "Spring",
+    "credit_points": 6,
+    "resolved_inline": false,
+    "text": "Select 6 credit points of options",
+    "options": []
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "41203",
+    "name": "Collaboration in Complex Projects",
+    "credit_points": 6
+   }
+  ],
+  "Mechatronic Engineering major": [
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "33130",
+    "name": "Mathematics 1",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "48230",
+    "name": "Introduction to Engineering Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "48610",
+    "name": "Introduction to Mechanical Engineering",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "68037",
+    "name": "Physical Modelling",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "41053",
+    "name": "Materials and Manufacturing Engineering A",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "41054",
+    "name": "Applied Mechanics and Design A",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "41099",
+    "name": "Introduction to Mechatronics Engineering",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "41039",
+    "name": "Programming 1",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "33230",
+    "name": "Mathematics 2",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "48622",
+    "name": "Embedded Mechatronics Systems",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "41056",
+    "name": "Machines and Mechanisms A",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "41059",
+    "name": "Mechanical Design Fundamentals Studio 1",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "41035",
+    "name": "Professional Practice Preparation 1",
+    "credit_points": 3
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "41200",
+    "name": "Engineering Project Appraisal",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "41013",
+    "name": "Industrial Robotics",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "41014",
+    "name": "Sensors and Control for Mechatronic Systems",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 2,
+    "session": "Spring",
+    "credit_points": 6,
+    "resolved_inline": false,
+    "text": "Select 6 credit points of options",
+    "options": []
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "41201",
+    "name": "Designing Sustainable Engineering Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "41012",
+    "name": "Programming for Mechatronic Systems",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "41070",
+    "name": "Embedded Mechatronics Studio",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "41058",
+    "name": "Dynamic Systems and Control A",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "41202",
+    "name": "Professional Engineering Communication",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "41068",
+    "name": "Robotics Studio 1",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "41028",
+    "name": "Engineering Work Experience",
+    "credit_points": 0
+   },
+   {
+    "kind": "choice",
+    "year": 3,
+    "session": "Spring",
+    "credit_points": 12,
+    "resolved_inline": false,
+    "text": "Select 12 credit points of options",
+    "options": []
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41069",
+    "name": "Robotics Studio 2",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41055",
+    "name": "Professional Experience Review",
+    "credit_points": 3
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41029",
+    "name": "Engineering Research Preparation",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41118",
+    "name": "Artificial Intelligence in Robotics",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 4,
+    "session": "Autumn",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "41301",
+      "name": "Industrial Engineering",
+      "credit_points": 6
+     },
+     {
+      "code": "41302",
+      "name": "Additive Manufacturing 1",
+      "credit_points": 6
+     }
+    ]
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "41030",
+    "name": "Engineering Capstone",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "43019",
+    "name": "Design in Mechanical and Mechatronic Systems",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 4,
+    "session": "Spring",
+    "credit_points": 6,
+    "resolved_inline": false,
+    "text": "Select 6 credit points of options",
+    "options": []
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "41203",
+    "name": "Collaboration in Complex Projects",
+    "credit_points": 6
+   }
+  ],
+  "Software Engineering major": [
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "33130",
+    "name": "Mathematics 1",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "48230",
+    "name": "Introduction to Engineering Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "31269",
+    "name": "Business Requirements Modelling",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Autumn",
+    "code": "41039",
+    "name": "Programming 1",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "33230",
+    "name": "Mathematics 2",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "48024",
+    "name": "Programming 2",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "31282",
+    "name": "Systems Testing and Quality Management",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 1,
+    "session": "Spring",
+    "code": "31271",
+    "name": "Database Fundamentals",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "41035",
+    "name": "Professional Practice Preparation 1",
+    "credit_points": 3
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "68037",
+    "name": "Physical Modelling",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "31251",
+    "name": "Data Structures and Algorithms",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Autumn",
+    "code": "31257",
+    "name": "Information System Development Methodologies",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 2,
+    "session": "Autumn",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "SMJ10157",
+      "name": "Information Security",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "SMJ10088",
+      "name": "Network Systems Software",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "SMJ03067",
+      "name": "Real-time Systems (Software Engineering)",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "CBK91234",
+      "name": "Technical subject choice (Software Engineering)",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "SMJ02066",
+      "name": "Computer Graphics and Animation",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "SMJ02065",
+      "name": "Data Analytics",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "SMJ02067",
+      "name": "Interaction Design",
+      "credit_points": 24,
+      "is_block": true
+     }
+    ]
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "41200",
+    "name": "Engineering Project Appraisal",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 2,
+    "session": "Spring",
+    "code": "41127",
+    "name": "Software Design Studio",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 2,
+    "session": "Spring",
+    "credit_points": 6,
+    "resolved_inline": false,
+    "text": "Select 6 credit points of options",
+    "options": []
+   },
+   {
+    "kind": "choice",
+    "year": 2,
+    "session": "Spring",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "SMJ10157",
+      "name": "Information Security",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "SMJ10088",
+      "name": "Network Systems Software",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "SMJ03067",
+      "name": "Real-time Systems (Software Engineering)",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "CBK91234",
+      "name": "Technical subject choice (Software Engineering)",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "SMJ02066",
+      "name": "Computer Graphics and Animation",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "SMJ02065",
+      "name": "Data Analytics",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "SMJ02067",
+      "name": "Interaction Design",
+      "credit_points": 24,
+      "is_block": true
+     }
+    ]
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "41201",
+    "name": "Designing Sustainable Engineering Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Autumn",
+    "code": "41113",
+    "name": "Software Development Studio",
+    "credit_points": 6
+   },
+   {
+    "kind": "choice",
+    "year": 3,
+    "session": "Autumn",
+    "credit_points": 6,
+    "resolved_inline": false,
+    "text": "Select 6 credit points of options",
+    "options": []
+   },
+   {
+    "kind": "choice",
+    "year": 3,
+    "session": "Autumn",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "SMJ10157",
+      "name": "Information Security",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "SMJ10088",
+      "name": "Network Systems Software",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "SMJ03067",
+      "name": "Real-time Systems (Software Engineering)",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "CBK91234",
+      "name": "Technical subject choice (Software Engineering)",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "SMJ02066",
+      "name": "Computer Graphics and Animation",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "SMJ02065",
+      "name": "Data Analytics",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "SMJ02067",
+      "name": "Interaction Design",
+      "credit_points": 24,
+      "is_block": true
+     }
+    ]
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "41028",
+    "name": "Engineering Work Experience",
+    "credit_points": 0
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "41202",
+    "name": "Professional Engineering Communication",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "41128",
+    "name": "Software Analysis Studio",
+    "credit_points": 12
+   },
+   {
+    "kind": "fixed",
+    "year": 3,
+    "session": "Spring",
+    "code": "48433",
+    "name": "Software Architecture",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41029",
+    "name": "Engineering Research Preparation",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41203",
+    "name": "Collaboration in Complex Projects",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Autumn",
+    "code": "41055",
+    "name": "Professional Experience Review",
+    "credit_points": 3
+   },
+   {
+    "kind": "choice",
+    "year": 4,
+    "session": "Autumn",
+    "credit_points": 6,
+    "resolved_inline": true,
+    "text": "Select 6 credit points from the following:",
+    "options": [
+     {
+      "code": "SMJ10157",
+      "name": "Information Security",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "SMJ10088",
+      "name": "Network Systems Software",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "SMJ03067",
+      "name": "Real-time Systems (Software Engineering)",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "CBK91234",
+      "name": "Technical subject choice (Software Engineering)",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "SMJ02066",
+      "name": "Computer Graphics and Animation",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "SMJ02065",
+      "name": "Data Analytics",
+      "credit_points": 24,
+      "is_block": true
+     },
+     {
+      "code": "SMJ02067",
+      "name": "Interaction Design",
+      "credit_points": 24,
+      "is_block": true
+     }
+    ]
+   },
+   {
+    "kind": "choice",
+    "year": 4,
+    "session": "Autumn",
+    "credit_points": 6,
+    "resolved_inline": false,
+    "text": "Select 6 credit points of options",
+    "options": []
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "41030",
+    "name": "Engineering Capstone",
+    "credit_points": 6
+   },
+   {
+    "kind": "fixed",
+    "year": 4,
+    "session": "Spring",
+    "code": "41129",
+    "name": "Software Innovation Studio",
+    "credit_points": 12
+   },
+   {
+    "kind": "choice",
+    "year": 4,
+    "session": "Spring",
+    "credit_points": 6,
+    "resolved_inline": false,
+    "text": "Select 6 credit points of options",
+    "options": []
+   }
+  ]
+ },
+ "subjects_to_fetch": [
+  "16138",
+  "16263",
+  "16314",
+  "16422",
+  "16471",
+  "16912",
+  "26101",
+  "31061",
+  "31250",
+  "31251",
+  "31257",
+  "31269",
+  "31271",
+  "31282",
+  "33130",
+  "33230",
+  "41012",
+  "41013",
+  "41014",
+  "41028",
+  "41029",
+  "41030",
+  "41035",
+  "41039",
+  "41053",
+  "41054",
+  "41055",
+  "41056",
+  "41057",
+  "41058",
+  "41059",
+  "41060",
+  "41066",
+  "41067",
+  "41068",
+  "41069",
+  "41070",
+  "41088",
+  "41089",
+  "41099",
+  "41113",
+  "41118",
+  "41127",
+  "41128",
+  "41129",
+  "41160",
+  "41161",
+  "41162",
+  "41163",
+  "41200",
+  "41201",
+  "41202",
+  "41203",
+  "41277",
+  "41278",
+  "41301",
+  "41302",
+  "42001",
+  "42026",
+  "42095",
+  "42722",
+  "42724",
+  "43014",
+  "43015",
+  "43017",
+  "43018",
+  "43019",
+  "43021",
+  "43022",
+  "43124",
+  "48023",
+  "48024",
+  "48221",
+  "48230",
+  "48310",
+  "48320",
+  "48321",
+  "48330",
+  "48331",
+  "48340",
+  "48349",
+  "48350",
+  "48352",
+  "48353",
+  "48360",
+  "48362",
+  "48366",
+  "48370",
+  "48371",
+  "48389",
+  "48430",
+  "48433",
+  "48434",
+  "48441",
+  "48510",
+  "48520",
+  "48521",
+  "48530",
+  "48531",
+  "48540",
+  "48572",
+  "48610",
+  "48622",
+  "48641",
+  "48821",
+  "48850",
+  "48860",
+  "48881",
+  "49047",
+  "49131",
+  "49150",
+  "49151",
+  "49261",
+  "60101",
+  "65111",
+  "68037",
+  "91161",
+  "91400",
+  "91705",
+  "91822"
+ ],
+ "blocks_to_fetch": [
+  "CBK90011",
+  "CBK91234",
+  "CBK91781",
+  "CBK91895",
+  "SMJ02065",
+  "SMJ02066",
+  "SMJ02067",
+  "SMJ03067",
+  "SMJ10088",
+  "SMJ10157",
+  "STM90106",
+  "STM90848",
+  "STM90849",
+  "STM90994",
+  "STM91414"
+ ],
+ "unresolved_choice_groups": [
+  {
+   "major": "Biomedical Engineering major",
+   "year": 2,
+   "session": "Spring",
+   "credit_points": 12,
+   "text": "Select 12 credit points of options"
+  },
+  {
+   "major": "Biomedical Engineering major",
+   "year": 3,
+   "session": "Autumn",
+   "credit_points": 6,
+   "text": "Select 6 credit points of options"
+  },
+  {
+   "major": "Biomedical Engineering major",
+   "year": 3,
+   "session": "Spring",
+   "credit_points": 6,
+   "text": "Select 6 credit points of options"
+  },
+  {
+   "major": "Civil Engineering major",
+   "year": 3,
+   "session": "Spring",
+   "credit_points": 6,
+   "text": "Select 6 credit points of options"
+  },
+  {
+   "major": "Civil Engineering major",
+   "year": 4,
+   "session": "Autumn",
+   "credit_points": 12,
+   "text": "Select 12 credit points of options"
+  },
+  {
+   "major": "Civil Engineering major",
+   "year": 4,
+   "session": "Spring",
+   "credit_points": 6,
+   "text": "Select 6 credit points of options"
+  },
+  {
+   "major": "Civil Engineering major, Construction specialisation",
+   "year": 3,
+   "session": "Spring",
+   "credit_points": 12,
+   "text": "Select 12 credit points of options"
+  },
+  {
+   "major": "Civil Engineering major, Construction specialisation",
+   "year": 4,
+   "session": "Autumn",
+   "credit_points": 6,
+   "text": "Select 6 credit points of options"
+  },
+  {
+   "major": "Civil Engineering major, Construction specialisation",
+   "year": 4,
+   "session": "Spring",
+   "credit_points": 6,
+   "text": "Select 6 credit points of options"
+  },
+  {
+   "major": "Civil Engineering major, Structures specialisation",
+   "year": 3,
+   "session": "Autumn",
+   "credit_points": 6,
+   "text": "Select 6 credit points of options"
+  },
+  {
+   "major": "Civil Engineering major, Structures specialisation",
+   "year": 3,
+   "session": "Spring",
+   "credit_points": 6,
+   "text": "Select 6 credit points of options"
+  },
+  {
+   "major": "Civil Engineering major, Structures specialisation",
+   "year": 4,
+   "session": "Autumn",
+   "credit_points": 12,
+   "text": "Select 12 credit points of options"
+  },
+  {
+   "major": "Mechanical Engineering major",
+   "year": 2,
+   "session": "Spring",
+   "credit_points": 6,
+   "text": "Select 6 credit points of options"
+  },
+  {
+   "major": "Mechanical Engineering major",
+   "year": 3,
+   "session": "Spring",
+   "credit_points": 12,
+   "text": "Select 12 credit points of options"
+  },
+  {
+   "major": "Mechanical Engineering major",
+   "year": 4,
+   "session": "Spring",
+   "credit_points": 6,
+   "text": "Select 6 credit points of options"
+  },
+  {
+   "major": "Mechatronic Engineering major",
+   "year": 2,
+   "session": "Spring",
+   "credit_points": 6,
+   "text": "Select 6 credit points of options"
+  },
+  {
+   "major": "Mechatronic Engineering major",
+   "year": 3,
+   "session": "Spring",
+   "credit_points": 12,
+   "text": "Select 12 credit points of options"
+  },
+  {
+   "major": "Mechatronic Engineering major",
+   "year": 4,
+   "session": "Spring",
+   "credit_points": 6,
+   "text": "Select 6 credit points of options"
+  },
+  {
+   "major": "Software Engineering major",
+   "year": 2,
+   "session": "Spring",
+   "credit_points": 6,
+   "text": "Select 6 credit points of options"
+  },
+  {
+   "major": "Software Engineering major",
+   "year": 3,
+   "session": "Autumn",
+   "credit_points": 6,
+   "text": "Select 6 credit points of options"
+  },
+  {
+   "major": "Software Engineering major",
+   "year": 4,
+   "session": "Autumn",
+   "credit_points": 6,
+   "text": "Select 6 credit points of options"
+  },
+  {
+   "major": "Software Engineering major",
+   "year": 4,
+   "session": "Spring",
+   "credit_points": 6,
+   "text": "Select 6 credit points of options"
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+[
+  {
+    "code": "INFO1113",
+    "name": "Object-Oriented Programming",
+    "credit_points": 6,
+    "requirements_raw": "P INFO1110 or INFO1910 or ENGG1810 N INFO1103 or INFO1105 or INFO1905",
+    "assumed_knowledge_codes": [],
+    "prerequisite_codes": [
+      "INFO1110",
+      "INFO1910",
+      "ENGG1810"
+    ],
+    "corequisite_codes": [],
+    "prohibition_codes": [
+      "INFO1103",
+      "INFO1105",
+      "INFO1905"
+    ],
+    "unlabeled_codes": [],
+    "semester_availability": "This unit is available in Semester 1 2026 and Semester 2 2026.",
+    "status": "success",
+    "error": null
+  },
+  {
+    "code": "ELEC1601",
+    "name": "Introduction to Computer Systems",
+    "credit_points": 6,
+    "requirements_raw": "A HSC Mathematics extension 1 or 2",
+    "assumed_knowledge_codes": [],
+    "prerequisite_codes": [],
+    "corequisite_codes": [],
+    "prohibition_codes": [],
+    "unlabeled_codes": [],
+    "semester_availability": "The unit ELEC1601 is available in Semester 1 2026 and Semester 2 2026.",
+    "status": "success",
+    "error": null
+  },
+  {
+    "code": "COMP2017",
+    "name": "Systems Programming",
+    "credit_points": 6,
+    "requirements_raw": "A Discrete mathematics and probability (e.g. MATH1064 or equivalent); linear algebra (e.g. MATH1061 or equivalent) P INFO1113 or INFO1105 or INFO1905 or INFO1103 C COMP2123 or COMP2823 or INFO1105 or INFO1905 N COMP2129 or COMP9017 or COMP9129",
+    "assumed_knowledge_codes": [
+      "MATH1064",
+      "MATH1061"
+    ],
+    "prerequisite_codes": [
+      "INFO1113",
+      "INFO1105",
+      "INFO1905",
+      "INFO1103"
+    ],
+    "corequisite_codes": [
+      "COMP2123",
+      "COMP2823",
+      "INFO1105",
+      "INFO1905"
+    ],
+    "prohibition_codes": [
+      "COMP2129",
+      "COMP9017",
+      "COMP9129"
+    ],
+    "unlabeled_codes": [],
+    "semester_availability": "The unit COMP2017 is available in Semester 1 2026.",
+    "status": "success",
+    "error": null
+  },
+  {
+    "code": "COMP2123",
+    "name": "Data Structures and Algorithms",
+    "credit_points": 6,
+    "requirements_raw": "A Discrete mathematics and probability (e.g. MATH1064 or equivalent) P INFO1110 or INFO1910 or INFO1113 or DATA1002 or DATA1902 or ENGG1810 N INFO1105 or INFO1905 or COMP2823",
+    "assumed_knowledge_codes": [
+      "MATH1064"
+    ],
+    "prerequisite_codes": [
+      "INFO1110",
+      "INFO1910",
+      "INFO1113",
+      "DATA1002",
+      "DATA1902",
+      "ENGG1810"
+    ],
+    "corequisite_codes": [],
+    "prohibition_codes": [
+      "INFO1105",
+      "INFO1905",
+      "COMP2823"
+    ],
+    "unlabeled_codes": [],
+    "semester_availability": "This unit is available in Semester 1 2026 and Semester 2 2026.",
+    "status": "success",
+    "error": null
+  },
+  {
+    "code": "COMP2823",
+    "name": "Data Structures and Algorithms (Adv)",
+    "credit_points": 6,
+    "requirements_raw": "A Discrete mathematics and probability (e.g. MATH1064 or equivalent) P Distinction level results in ( INFO1110 or INFO1910 or INFO1113 or DATA1002 or DATA1902 or ENGG1810 ) N INFO1105 or INFO1905 or COMP2123",
+    "assumed_knowledge_codes": [
+      "MATH1064"
+    ],
+    "prerequisite_codes": [
+      "INFO1110",
+      "INFO1910",
+      "INFO1113",
+      "DATA1002",
+      "DATA1902",
+      "ENGG1810"
+    ],
+    "corequisite_codes": [],
+    "prohibition_codes": [
+      "INFO1105",
+      "INFO1905",
+      "COMP2123"
+    ],
+    "unlabeled_codes": [],
+    "semester_availability": "Semester 1 2026.",
+    "status": "success",
+    "error": null
+  }
+]

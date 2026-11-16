@@ -1,0 +1,452 @@
+{
+  "source_url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/electives/medicine-health-unit-of-study-table.html",
+  "units": [
+    {
+      "code": "BIDH3008",
+      "name": "Digital Health in Practice",
+      "credit_points": 6,
+      "requirements_raw": "P 48 credit points of units of study N HSBH3008 or HSBH2009 or HSBH1010",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [
+        "HSBH3008",
+        "HSBH2009",
+        "HSBH1010"
+      ],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "BIDH3146",
+      "name": "Cyberpsychology in Digital Health",
+      "credit_points": 6,
+      "requirements_raw": "N BACH3146",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [
+        "BACH3146"
+      ],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "CSCD1034",
+      "name": "Linguistics and Phonetics",
+      "credit_points": 6,
+      "requirements_raw": "A Students are expected to have a good understanding of spoken Australian English to support their learning and to complete the transcription assessment tasks for this unit of study",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "FMHU2000",
+      "name": "Introduction to Research Methods in Health",
+      "credit_points": 6,
+      "requirements_raw": "N BACH2140 or HSBH1007 or HSBH2007",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [
+        "BACH2140",
+        "HSBH1007",
+        "HSBH2007"
+      ],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "FMHU2001",
+      "name": "Myth Busting Food and Health",
+      "credit_points": 6,
+      "requirements_raw": "N EXSS1036 or EXSS1038 or EXSS1037",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [
+        "EXSS1036",
+        "EXSS1038",
+        "EXSS1037"
+      ],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "FMHU3000",
+      "name": "Evidence Based Health Care",
+      "credit_points": 6,
+      "requirements_raw": "P HSBH1007 or HSBH2007 or FMHU2000 N HSBH3005",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "HSBH1007",
+        "HSBH2007",
+        "FMHU2000"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [
+        "HSBH3005"
+      ],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "FMHU3001",
+      "name": "Quantitative Research Methods in Health",
+      "credit_points": 6,
+      "requirements_raw": "P HSBH1007 or HSBH2007 or FMHU2000 N PSYC2012 or SCLG3603 or HSBH3018",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "HSBH1007",
+        "HSBH2007",
+        "FMHU2000"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [
+        "PSYC2012",
+        "SCLG3603",
+        "HSBH3018"
+      ],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "FMHU3002",
+      "name": "Qualitative Research Methods in Health",
+      "credit_points": 6,
+      "requirements_raw": "P HSBH1007 or HSBH2007 or FMHU2000 N SCLG2602 or BACH4056 or HSBH3019",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "HSBH1007",
+        "HSBH2007",
+        "FMHU2000"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [
+        "SCLG2602",
+        "BACH4056",
+        "HSBH3019"
+      ],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "HSBH1003",
+      "name": "Health, Behaviour and Society",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "HSBH1005",
+      "name": "Human Development",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "HSBH1012",
+      "name": "Introduction to Health and Health Care",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "HSBH1013",
+      "name": "Society and Health",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "HSBH2008",
+      "name": "Physical Activity and Population Health",
+      "credit_points": 6,
+      "requirements_raw": "P 48 credit points of units",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "HSBH2009",
+      "name": "Innovations in eHealth",
+      "credit_points": 6,
+      "requirements_raw": "A HSBH1012 , HSBH1013 P 48 credit points N HSBH1010 or HSBH3008 or BIDH3008",
+      "assumed_knowledge_codes": [
+        "HSBH1012",
+        "HSBH1013"
+      ],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [
+        "HSBH1010",
+        "HSBH3008",
+        "BIDH3008"
+      ],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "HSBH3003",
+      "name": "Health Service Strategy and Policy",
+      "credit_points": 6,
+      "requirements_raw": "P ( HSBH1007 or HSBH2007 or FMHU2000 ) or 12 credit points of 2000-level units of study",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "HSBH1007",
+        "HSBH2007",
+        "FMHU2000"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "HSBH3004",
+      "name": "Health, Ethics and the Law",
+      "credit_points": 6,
+      "requirements_raw": "P 48 credit points of units",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "HSBH3009",
+      "name": "International Health",
+      "credit_points": 6,
+      "requirements_raw": "P 48 credit points of units N BACH3128",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [
+        "BACH3128"
+      ],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "HSBH3011",
+      "name": "Rural Health",
+      "credit_points": 6,
+      "requirements_raw": "P 48 credit points of units",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "HSBH3015",
+      "name": "Mental Health Rehabilitation",
+      "credit_points": 6,
+      "requirements_raw": "P 48 credit points",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "HSBH3016",
+      "name": "Individual and Societal Ageing",
+      "credit_points": 6,
+      "requirements_raw": "P HSBH1003 or HSBH1013",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "HSBH1003",
+        "HSBH1013"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "HSBH3021",
+      "name": "Environmental Stress and Physiological Strain",
+      "credit_points": 6,
+      "requirements_raw": "A EXSS2032 P EXSS1036",
+      "assumed_knowledge_codes": [
+        "EXSS2032"
+      ],
+      "prerequisite_codes": [
+        "EXSS1036"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "HSBH3022",
+      "name": "Health Promotion: Principles and Practice",
+      "credit_points": 6,
+      "requirements_raw": "P HSBH1007 or HSBH2007 or FMHU2000",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "HSBH1007",
+        "HSBH2007",
+        "FMHU2000"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "HSBH3025",
+      "name": "Bodily Senses in Health and Disease",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "NTDT3002",
+      "name": "Evidence-Based Practice in Nutrition",
+      "credit_points": 6,
+      "requirements_raw": "P NUTM3001 or FMHU2001",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "NUTM3001",
+        "FMHU2001"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "OCCP1101",
+      "name": "Disability Across the Lifecourse",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "OCCP1102",
+      "name": "Perspectives on Disability and Participation",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "OCCP2089",
+      "name": "Disability and Decolonising Practices",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "OCCP2090",
+      "name": "Disability and Assistive Products",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "OCCP2091",
+      "name": "Disability, Rights and Participation",
+      "credit_points": 6,
+      "requirements_raw": "P Students will need to have completed 18 credits points of 1000 level units",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "OCCP3201",
+      "name": "Community Development and Disability",
+      "credit_points": 6,
+      "requirements_raw": "P Students will need to have completed 18 credit points of 2000 level units",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "OCCP3202",
+      "name": "Deconstructing the Disability Sector",
+      "credit_points": 6,
+      "requirements_raw": "P Students will need to have completed 18 credit points of 2000 level units",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "REHB2026",
+      "name": "Fundamentals of Disability",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    }
+  ]
+}

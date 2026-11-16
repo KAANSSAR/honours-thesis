@@ -1,0 +1,16 @@
+========================================================================
+PART 1 - the engine's own determinism, no model involved
+========================================================================
+  ok    uts-software-fail-programming1     15 personas, 1 distinct answer(s)
+  ok    usyd-software-fail-info1110        15 personas, 1 distinct answer(s)
+  ok    uts-civil-fail-maths1              15 personas, 1 distinct answer(s)
+  ok    usyd-mechatronic-plan              15 personas, 1 distinct answer(s)
+  ok    uts-mechanical-plan                15 personas, 1 distinct answer(s)
+  ok    compare-software                   15 personas, 1 distinct answer(s)
+  ok    compare-civil                      15 personas, 1 distinct answer(s)
+  ok    lookup-unit                        15 personas, 1 distinct answer(s)
+
+scenarios where the engine's answer varied by persona: 0 of 8
+
+wrote (a scratch file)
+Model-side measurement skipped. Re-run with --backend ollama on a machine with the model running.

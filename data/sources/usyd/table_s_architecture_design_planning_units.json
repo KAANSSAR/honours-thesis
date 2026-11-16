@@ -1,0 +1,139 @@
+{
+  "source_url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/electives/architecture-design-planning-unit-of-study-table.html",
+  "units": [
+    {
+      "code": "BDES3030",
+      "name": "Roman Architecture: Creation-Reception",
+      "credit_points": 6,
+      "requirements_raw": "P BDES2010 or 12 credit points at 2000 level in Archaeology",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "BDES2010"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "BDSN2002",
+      "name": "Designing for Cyber-Physical Systems",
+      "credit_points": 6,
+      "requirements_raw": "A Knowledge of design methods and processes, or knowledge in biology, biomedical sciences, bioengineering or medical sciences P 12cp completed from 1000-level units",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "DECO2015",
+      "name": "Responsible Design for Innovation",
+      "credit_points": 6,
+      "requirements_raw": "P DECO2016 or DECO1006",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "DECO2016",
+        "DECO1006"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "DECO2016",
+      "name": "Design Thinking",
+      "credit_points": 6,
+      "requirements_raw": "N DECO1006",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [
+        "DECO1006"
+      ],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "DECO2101",
+      "name": "Fundamentals of Visual Design",
+      "credit_points": 6,
+      "requirements_raw": "N DECO1015",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [
+        "DECO1015"
+      ],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "DECO2102",
+      "name": "Introduction to Interface Design",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "DESN1000",
+      "name": "Principles of Design",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "DESN1001",
+      "name": "Design Theory and Culture",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "DESN2000",
+      "name": "Programming for Designers",
+      "credit_points": 6,
+      "requirements_raw": "N DECO1012",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [
+        "DECO1012"
+      ],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "DESN3003",
+      "name": "Design for Social Impact",
+      "credit_points": 6,
+      "requirements_raw": "A Knowledge of design thinking methods and processes P DECO2016 or DECO1006",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "DECO2016",
+        "DECO1006"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    }
+  ]
+}

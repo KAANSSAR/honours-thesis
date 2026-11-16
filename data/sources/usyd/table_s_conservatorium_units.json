@@ -1,0 +1,1154 @@
+{
+  "source_url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/electives/conservatorium-unit-of-study-table.html",
+  "units": [
+    {
+      "code": "CMPN1000",
+      "name": "Composition Through Improvisation 1",
+      "credit_points": 3,
+      "requirements_raw": "Student should have 3-4yrs experience in playing music and with a passion to improvise.",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "CMPN1003",
+      "name": "Composition Through Improvisation 2",
+      "credit_points": 3,
+      "requirements_raw": "P CMPN1000 Students should have 3-4yrs experience in playing music and with a passion to improvise.",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "CMPN1000"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "CMPN1010",
+      "name": "Creative Vocal Ensemble",
+      "credit_points": 3,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "CMPN1013",
+      "name": "Creative Music Technology",
+      "credit_points": 3,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "CMPN1014",
+      "name": "Sound and Video Recording Fundamentals",
+      "credit_points": 3,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "CMPN1611",
+      "name": "Instrumentation and Orchestration",
+      "credit_points": 6,
+      "requirements_raw": "A Students enrolling in this unit of study are expected to be able to read and understand instrumental music notation of moderate complexity",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "CMPN1612",
+      "name": "New Music, New Thinking",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "CPNO1603",
+      "name": "Practical Keyboard Skills 1",
+      "credit_points": 6,
+      "requirements_raw": "A Basic keyboard skills.",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "CPNO1604",
+      "name": "Practical Keyboard Skills 2",
+      "credit_points": 6,
+      "requirements_raw": "P ACCP1603 or CPNO1603 Must have keyboard skills (up to at least an AMEB 4th grade level) and reasonable music reading skills.",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "ACCP1603",
+        "CPNO1603"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "ENSE1041",
+      "name": "Choir 1",
+      "credit_points": 3,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "ENSE1042",
+      "name": "Choir 2",
+      "credit_points": 3,
+      "requirements_raw": "P ENSE1041",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "ENSE1041"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "JAZZ1000",
+      "name": "Jazz Large Ensemble 1",
+      "credit_points": 3,
+      "requirements_raw": "Admission subject to audition.",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "JAZZ1001",
+      "name": "Jazz Large Ensemble 2",
+      "credit_points": 3,
+      "requirements_raw": "P JAZZ1000 Admission subject to audition.",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "JAZZ1000"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "JAZZ1015",
+      "name": "Jazz Ear Training 1",
+      "credit_points": 3,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "JAZZ1016",
+      "name": "Jazz Ear Training 2",
+      "credit_points": 3,
+      "requirements_raw": "P JAZZ1015",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "JAZZ1015"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "JAZZ1019",
+      "name": "Jazz Harmony and Arranging 1",
+      "credit_points": 3,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "JAZZ1020",
+      "name": "Jazz Harmony and Arranging 2",
+      "credit_points": 3,
+      "requirements_raw": "P JAZZ1019",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "JAZZ1019"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MCGY1030",
+      "name": "This Is Music",
+      "credit_points": 6,
+      "requirements_raw": "This is a Foundation unit in Analysis, History and Culture studies.",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MCGY1031",
+      "name": "Australian Musical Worlds",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUED1009",
+      "name": "Psychology of Learning and Instruction",
+      "credit_points": 3,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC1501",
+      "name": "Extended Fundamentals of Music",
+      "credit_points": 6,
+      "requirements_raw": "A HSC Music 2",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC1503",
+      "name": "Fundamentals of Music 1",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC1504",
+      "name": "Fundamentals of Music 2",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC1506",
+      "name": "Classical Music: A Cultural History",
+      "credit_points": 6,
+      "requirements_raw": "A The ability to follow a musical score while listening to the music and knowledge of elementary music theory",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC1507",
+      "name": "Sounds, Screens, Speakers: Music and Media",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC1604",
+      "name": "Music, Health and Wellbeing",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "CMPN2613",
+      "name": "Comp Techniques: Number and Process",
+      "credit_points": 6,
+      "requirements_raw": "P CMPN2614 Strong music theory and notation skills are essential in this unit of study",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "CMPN2614"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "CMPN2614",
+      "name": "Comp Techniques: Tonality and Process",
+      "credit_points": 6,
+      "requirements_raw": "P CMPN1612 Strong music theory and notation skills are essential in this unit of study",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "CMPN1612"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "CMPN2631",
+      "name": "Electroacoustic Music",
+      "credit_points": 6,
+      "requirements_raw": "A Proficiency in the usage of any industry standard DAW and attendant sound transformation and diffusion software P MUED1002 or CMPN1013 or MUSC2653",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "MUED1002",
+        "CMPN1013",
+        "MUSC2653"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "CMPN2632",
+      "name": "Computer Music Fundamentals",
+      "credit_points": 6,
+      "requirements_raw": "P MUED1002 or CMPN1013 or MUSC2653",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "MUED1002",
+        "CMPN1013",
+        "MUSC2653"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "EMUS2500",
+      "name": "Historically Informed Style Workshop",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "ENSE2043",
+      "name": "Choir 3",
+      "credit_points": 3,
+      "requirements_raw": "P ENSE1042",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "ENSE1042"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "ENSE2044",
+      "name": "Choir 4",
+      "credit_points": 3,
+      "requirements_raw": "P ENSE2043",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "ENSE2043"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "JAZZ2002",
+      "name": "Jazz Large Ensemble 3",
+      "credit_points": 3,
+      "requirements_raw": "P JAZZ1001 Admission subject to audition.",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "JAZZ1001"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "JAZZ2003",
+      "name": "Jazz Large Ensemble 4",
+      "credit_points": 3,
+      "requirements_raw": "P JAZZ2002",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "JAZZ2002"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "JAZZ2016",
+      "name": "Jazz Harmony and Arranging 3",
+      "credit_points": 3,
+      "requirements_raw": "P JAZZ1020",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "JAZZ1020"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "JAZZ2017",
+      "name": "Jazz Harmony and Arranging 4",
+      "credit_points": 3,
+      "requirements_raw": "P JAZZ2016",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "JAZZ2016"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "JAZZ2038",
+      "name": "Jazz Ear Training 3",
+      "credit_points": 3,
+      "requirements_raw": "P JAZZ1016",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "JAZZ1016"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "JAZZ2039",
+      "name": "Jazz Ear Training 4",
+      "credit_points": 3,
+      "requirements_raw": "P JAZZ2038",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "JAZZ2038"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MCGY2601",
+      "name": "Perception of Music Performance",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MCGY2611",
+      "name": "Music from the Middle Ages to Baroque",
+      "credit_points": 6,
+      "requirements_raw": "A Ability to read musical notation",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MCGY2612",
+      "name": "Music in the Classical and Romantic Eras",
+      "credit_points": 6,
+      "requirements_raw": "A The ability to read musical notation and basic knowledge of music theory This is a Foundation unit in Analysis, History and Culture studies.",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MCGY2613",
+      "name": "Music in Modern Times",
+      "credit_points": 6,
+      "requirements_raw": "A Ability to read musical notation This is a Foundation unit in Analysis, history and culture studies.",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC2614",
+      "name": "Composition Workshop",
+      "credit_points": 6,
+      "requirements_raw": "A The ability to play a musical instrument and/or make music with digital devices. P 18 credit points of 1000-level units",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC2622",
+      "name": "Music in the Sixties",
+      "credit_points": 6,
+      "requirements_raw": "P 18 credit points of MUSC or MCGY units of study N MUSC2106",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [
+        "MUSC2106"
+      ],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC2638",
+      "name": "Jazz Riots and Revolutions",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC2644",
+      "name": "Introduction to the Philosophy of Music",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC2645",
+      "name": "Psychology of Music",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC2648",
+      "name": "Words and Music : Song Across Cultures",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC2653",
+      "name": "Introduction to Digital Music Techniques",
+      "credit_points": 6,
+      "requirements_raw": "An ability to read music at a basic level and an understanding of fundamental musical terminology is an advantage in this unit of study.",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC2654",
+      "name": "Popular Music",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC2666",
+      "name": "Global Sound: Drum and Bass, Rhythm and Soul",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC2672",
+      "name": "Australian Popular Music",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC2675",
+      "name": "History of the Musical",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC2691",
+      "name": "Music and Politics",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC2693",
+      "name": "Fundamentals of Music 3",
+      "credit_points": 6,
+      "requirements_raw": "P MUSC1504 N MUSC1501",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "MUSC1504"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [
+        "MUSC1501"
+      ],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC2695",
+      "name": "Popular Music Theory",
+      "credit_points": 6,
+      "requirements_raw": "P MUSC1503 or MUSC1504 or MUSC1501 or MUSC2693 or MCGY1008 or JAZZ1621 or JAZZ1019",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "MUSC1503",
+        "MUSC1504",
+        "MUSC1501",
+        "MUSC2693",
+        "MCGY1008",
+        "JAZZ1621",
+        "JAZZ1019"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC2696",
+      "name": "Guitar Worlds: Playing Styles and Techniques",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "PERF2604",
+      "name": "Chinese Music Ensemble 1",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "PERF2605",
+      "name": "Chinese Music Ensemble 2",
+      "credit_points": 6,
+      "requirements_raw": "P PERF2604",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "PERF2604"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "CMPN3634",
+      "name": "Interactive Media and Sound Installations",
+      "credit_points": 6,
+      "requirements_raw": "P CMPN1013 or MUSC2653 The unit makes use of interactive programming techniques and other technical skills taught in CMPN2631 /2632. Enrolling concurrently in one of these subjects alongside CMPN3634 is recommended.",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "CMPN1013",
+        "MUSC2653",
+        "CMPN2631",
+        "CMPN3634"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "CMPN3635",
+      "name": "Writing Music for the Moving Image",
+      "credit_points": 6,
+      "requirements_raw": "P MUED1002 or CMPN1013 or MUSC2653 or MUED4002",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "MUED1002",
+        "CMPN1013",
+        "MUSC2653",
+        "MUED4002"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "JAZZ3002",
+      "name": "Jazz Large Ensemble 5",
+      "credit_points": 3,
+      "requirements_raw": "P JAZZ2003 These units are only available to non-jazz students. Entry to these ensembles is by audition held during the week before classes commence in semester 1. Contact Unit Coordinator for day and time.",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "JAZZ2003"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "JAZZ3003",
+      "name": "Jazz Large Ensemble 6",
+      "credit_points": 3,
+      "requirements_raw": "P JAZZ3002 These units are only available to non-jazz degree students. Entry to these ensembles is by audition held during the week before classes commence in semester 1. Contact Unit Coordinator for day and time.",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "JAZZ3002"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MCGY3602",
+      "name": "Understanding East Asian Music",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MCGY3604",
+      "name": "J.S. Bach and His World",
+      "credit_points": 6,
+      "requirements_raw": "A Broad knowledge of Baroque music equivalent to MCGY2611 or MUSC1506",
+      "assumed_knowledge_codes": [
+        "MCGY2611",
+        "MUSC1506"
+      ],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MCGY3629",
+      "name": "Romanticism and the Fantastic",
+      "credit_points": 6,
+      "requirements_raw": "A It is expected that students will have some knowledge of harmonic and formal practices up to 1850",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MCGY3630",
+      "name": "New Germans: Wagner and Liszt 1848-76",
+      "credit_points": 6,
+      "requirements_raw": "A It is expected that students will have some knowledge of harmonic and formal practices up to 1850 P MCGY2612",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "MCGY2612"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MCGY3636",
+      "name": "Mozart's World: Music in the Age of Reason",
+      "credit_points": 6,
+      "requirements_raw": "A It is recommended that students have completed MUSC1506 or MCGY2612 , or have a sound knowledge of late 18th-century repertoire",
+      "assumed_knowledge_codes": [
+        "MUSC1506",
+        "MCGY2612"
+      ],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MCGY3639",
+      "name": "Modernism in Austria and Germany 1889-1914",
+      "credit_points": 6,
+      "requirements_raw": "P MCGY2612",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "MCGY2612"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC3603",
+      "name": "Advanced Digital Music Techniques",
+      "credit_points": 6,
+      "requirements_raw": "P MUSC2653 or ( CMPN1013 and CMPN1014 )",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "MUSC2653",
+        "CMPN1013",
+        "CMPN1014"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC3609",
+      "name": "Musicology",
+      "credit_points": 6,
+      "requirements_raw": "This unit is a requirement for Honours in the Arts Music unit.",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC3610",
+      "name": "Musical Traditions and Globalization",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC3629",
+      "name": "Music and Everyday Life",
+      "credit_points": 6,
+      "requirements_raw": "This unit is a requirement for Honours in the BA.",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC3630",
+      "name": "Popular Music and the Moving Image",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC3631",
+      "name": "Music in Public: Performance and Power",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC3639",
+      "name": "Music Journalism",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC3641",
+      "name": "Music, Environment and Climate Change",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC3650",
+      "name": "Writing Electronic Dance Music (EDM)",
+      "credit_points": 6,
+      "requirements_raw": "A Have access to a DAW (i.e Logic or Ableton) and understand basic production and composition techniques. This unit of study is open to any students in second year or above of their degree",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC3675",
+      "name": "Writing Music Theatre: Book and Lyrics",
+      "credit_points": 6,
+      "requirements_raw": "A This course is open to any students in the 2nd year or above of their degree",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC3699",
+      "name": "Understanding Music: Modes of Hearing",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "PERF3606",
+      "name": "Chinese Music Ensemble 3",
+      "credit_points": 6,
+      "requirements_raw": "P PERF2605",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "PERF2605"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "PERF3607",
+      "name": "Chinese Music Ensemble 4",
+      "credit_points": 6,
+      "requirements_raw": "P PERF3606",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "PERF3606"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "PERF3608",
+      "name": "Chinese Music Ensemble 5 (Advanced)",
+      "credit_points": 6,
+      "requirements_raw": "P PERF3607",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "PERF3607"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "PERF3609",
+      "name": "Chinese Music Ensemble 6 (Advanced)",
+      "credit_points": 6,
+      "requirements_raw": "P PERF3608",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [
+        "PERF3608"
+      ],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "PERF3640",
+      "name": "Industry and Community Projects",
+      "credit_points": 6,
+      "requirements_raw": "A upper-level disciplinary knowledge P 72 credit points",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "CMPN4666",
+      "name": "Advanced Analysis",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    },
+    {
+      "code": "MUSC4214",
+      "name": "Musicology Workshop Advanced",
+      "credit_points": 6,
+      "requirements_raw": "",
+      "assumed_knowledge_codes": [],
+      "prerequisite_codes": [],
+      "corequisite_codes": [],
+      "prohibition_codes": [],
+      "unlabeled_codes": [],
+      "excluded_codes": {}
+    }
+  ]
+}

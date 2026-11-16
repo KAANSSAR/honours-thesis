@@ -1,0 +1,3355 @@
+[
+ {
+  "scenario": "uts-software-fail-programming1",
+  "persona": "plain",
+  "reply": "Your Software Engineering major plan at UTS is valid and has no issues. Since no plan was found to be invalid, your academic path remains unaffected by the failed Programming 1 course.",
+  "result": {
+   "ok": true,
+   "institution": "UTS",
+   "key": "Software Engineering major",
+   "valid": true,
+   "violation_count": 0,
+   "violations": []
+  },
+  "n": 1,
+  "verdict": "unsupported",
+  "why": "says the failure leaves the path unaffected; the engine validated the original plan and made no finding about the failure",
+  "grounded": true
+ },
+ {
+  "scenario": "uts-software-fail-programming1",
+  "persona": "school-leaver",
+  "reply": "Your plan was adjusted to move some units to different years, allowing you to finish in Year 5 Spring session. The failed unit was re-scheduled, and your overall plan remains valid with no need to repeat the failed course.",
+  "result": {
+   "ok": true,
+   "institution": "UTS",
+   "key": "Software Engineering major",
+   "failed_unit": "41039",
+   "valid": true,
+   "violations": [],
+   "units_moved": 23,
+   "moved": [
+    {
+     "unit": "31250",
+     "from": "Year 2 - Autumn session",
+     "to": "Year 1 - Spring session"
+    },
+    {
+     "unit": "31251",
+     "from": "Year 2 - Autumn session",
+     "to": "Year 4 - Autumn session"
+    },
+    {
+     "unit": "31271",
+     "from": "Year 1 - Spring session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "41028",
+     "from": "Year 3 - Spring session",
+     "to": "Year 2 - Autumn session"
+    },
+    {
+     "unit": "41029",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "41030",
+     "from": "Year 4 - Spring session",
+     "to": "Year 5 - Autumn session"
+    },
+    {
+     "unit": "41035",
+     "from": "Year 2 - Autumn session",
+     "to": "Year 1 - Spring session"
+    },
+    {
+     "unit": "41039",
+     "from": "Year 1 - Autumn session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "41055",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 2 - Spring session"
+    },
+    {
+     "unit": "41091",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 4 - Autumn session"
+    },
+    {
+     "unit": "41092",
+     "from": "Year 2 - Spring session",
+     "to": "Year 2 - Autumn session"
+    },
+    {
+     "unit": "41113",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 2 - Autumn session"
+    },
+    {
+     "unit": "41127",
+     "from": "Year 2 - Spring session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "41128",
+     "from": "Year 3 - Spring session",
+     "to": "Year 5 - Spring session"
+    },
+    {
+     "unit": "41129",
+     "from": "Year 4 - Spring session",
+     "to": "Year 5 - Spring session"
+    },
+    {
+     "unit": "41182",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "41200",
+     "from": "Year 2 - Spring session",
+     "to": "Year 2 - Autumn session"
+    },
+    {
+     "unit": "41201",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 2 - Spring session"
+    },
+    {
+     "unit": "41202",
+     "from": "Year 3 - Spring session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "41203",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "48024",
+     "from": "Year 1 - Spring session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "48433",
+     "from": "Year 3 - Spring session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "68037",
+     "from": "Year 2 - Autumn session",
+     "to": "Year 1 - Spring session"
+    }
+   ],
+   "extends_plan": true,
+   "finishes_in": "Year 5 - Spring session",
+   "periods": [
+    {
+     "period": "Year 1 - Autumn session",
+     "units": [
+      "31269",
+      "33130",
+      "48230"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 1 - Spring session",
+     "units": [
+      "31250",
+      "31282",
+      "33230",
+      "41035",
+      "68037"
+     ],
+     "credit_points": 27
+    },
+    {
+     "period": "Year 2 - Autumn session",
+     "units": [
+      "31257",
+      "41028",
+      "41092",
+      "41113",
+      "41200"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 2 - Spring session",
+     "units": [
+      "41055",
+      "41201"
+     ],
+     "credit_points": 15
+    },
+    {
+     "period": "Year 3 - Autumn session",
+     "units": [
+      "41039",
+      "41182",
+      "41202"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Spring session",
+     "units": [
+      "31271",
+      "41203",
+      "48024"
+     ],
+     "credit_points": 18
+    },
+    {
+     "period": "Year 4 - Autumn session",
+     "units": [
+      "31251",
+      "41091"
+     ],
+     "credit_points": 18
+    },
+    {
+     "period": "Year 4 - Spring session",
+     "units": [
+      "41029",
+      "41127",
+      "48433"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 5 - Autumn session",
+     "units": [
+      "41030"
+     ],
+     "credit_points": 6
+    },
+    {
+     "period": "Year 5 - Spring session",
+     "units": [
+      "41128",
+      "41129"
+     ],
+     "credit_points": 24
+    }
+   ]
+  },
+  "n": 2,
+  "verdict": "contradicted",
+  "why": "says there is no need to repeat the failed course, where the result reschedules a retake of 41039",
+  "grounded": true
+ },
+ {
+  "scenario": "uts-software-fail-programming1",
+  "persona": "transfer",
+  "reply": "Your plan has been adjusted to accommodate the failed unit, and you\u2019ll now finish your degree in Year 5 - Spring session. Some units have been moved to different years to align your schedule, but there are no issues with your updated plan.",
+  "result": {
+   "ok": true,
+   "institution": "UTS",
+   "key": "Software Engineering major",
+   "failed_unit": "41039",
+   "valid": true,
+   "violations": [],
+   "units_moved": 23,
+   "moved": [
+    {
+     "unit": "31250",
+     "from": "Year 2 - Autumn session",
+     "to": "Year 1 - Spring session"
+    },
+    {
+     "unit": "31251",
+     "from": "Year 2 - Autumn session",
+     "to": "Year 4 - Autumn session"
+    },
+    {
+     "unit": "31271",
+     "from": "Year 1 - Spring session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "41028",
+     "from": "Year 3 - Spring session",
+     "to": "Year 2 - Autumn session"
+    },
+    {
+     "unit": "41029",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "41030",
+     "from": "Year 4 - Spring session",
+     "to": "Year 5 - Autumn session"
+    },
+    {
+     "unit": "41035",
+     "from": "Year 2 - Autumn session",
+     "to": "Year 1 - Spring session"
+    },
+    {
+     "unit": "41039",
+     "from": "Year 1 - Autumn session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "41055",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 2 - Spring session"
+    },
+    {
+     "unit": "41091",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 4 - Autumn session"
+    },
+    {
+     "unit": "41092",
+     "from": "Year 2 - Spring session",
+     "to": "Year 2 - Autumn session"
+    },
+    {
+     "unit": "41113",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 2 - Autumn session"
+    },
+    {
+     "unit": "41127",
+     "from": "Year 2 - Spring session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "41128",
+     "from": "Year 3 - Spring session",
+     "to": "Year 5 - Spring session"
+    },
+    {
+     "unit": "41129",
+     "from": "Year 4 - Spring session",
+     "to": "Year 5 - Spring session"
+    },
+    {
+     "unit": "41182",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "41200",
+     "from": "Year 2 - Spring session",
+     "to": "Year 2 - Autumn session"
+    },
+    {
+     "unit": "41201",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 2 - Spring session"
+    },
+    {
+     "unit": "41202",
+     "from": "Year 3 - Spring session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "41203",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "48024",
+     "from": "Year 1 - Spring session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "48433",
+     "from": "Year 3 - Spring session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "68037",
+     "from": "Year 2 - Autumn session",
+     "to": "Year 1 - Spring session"
+    }
+   ],
+   "extends_plan": true,
+   "finishes_in": "Year 5 - Spring session",
+   "periods": [
+    {
+     "period": "Year 1 - Autumn session",
+     "units": [
+      "31269",
+      "33130",
+      "48230"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 1 - Spring session",
+     "units": [
+      "31250",
+      "31282",
+      "33230",
+      "41035",
+      "68037"
+     ],
+     "credit_points": 27
+    },
+    {
+     "period": "Year 2 - Autumn session",
+     "units": [
+      "31257",
+      "41028",
+      "41092",
+      "41113",
+      "41200"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 2 - Spring session",
+     "units": [
+      "41055",
+      "41201"
+     ],
+     "credit_points": 15
+    },
+    {
+     "period": "Year 3 - Autumn session",
+     "units": [
+      "41039",
+      "41182",
+      "41202"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Spring session",
+     "units": [
+      "31271",
+      "41203",
+      "48024"
+     ],
+     "credit_points": 18
+    },
+    {
+     "period": "Year 4 - Autumn session",
+     "units": [
+      "31251",
+      "41091"
+     ],
+     "credit_points": 18
+    },
+    {
+     "period": "Year 4 - Spring session",
+     "units": [
+      "41029",
+      "41127",
+      "48433"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 5 - Autumn session",
+     "units": [
+      "41030"
+     ],
+     "credit_points": 6
+    },
+    {
+     "period": "Year 5 - Spring session",
+     "units": [
+      "41128",
+      "41129"
+     ],
+     "credit_points": 24
+    }
+   ]
+  },
+  "n": 3,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "uts-software-fail-programming1",
+  "persona": "mature-age",
+  "reply": "Your study plan has been adjusted to accommodate the failed unit. Some courses have been moved to different years and sessions, and your plan now finishes in Year 5 - Spring session. No further action is needed as the plan is valid and extended to ensure you can complete your degree.",
+  "result": {
+   "ok": true,
+   "institution": "UTS",
+   "key": "Software Engineering major",
+   "failed_unit": "41039",
+   "valid": true,
+   "violations": [],
+   "units_moved": 23,
+   "moved": [
+    {
+     "unit": "31250",
+     "from": "Year 2 - Autumn session",
+     "to": "Year 1 - Spring session"
+    },
+    {
+     "unit": "31251",
+     "from": "Year 2 - Autumn session",
+     "to": "Year 4 - Autumn session"
+    },
+    {
+     "unit": "31271",
+     "from": "Year 1 - Spring session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "41028",
+     "from": "Year 3 - Spring session",
+     "to": "Year 2 - Autumn session"
+    },
+    {
+     "unit": "41029",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "41030",
+     "from": "Year 4 - Spring session",
+     "to": "Year 5 - Autumn session"
+    },
+    {
+     "unit": "41035",
+     "from": "Year 2 - Autumn session",
+     "to": "Year 1 - Spring session"
+    },
+    {
+     "unit": "41039",
+     "from": "Year 1 - Autumn session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "41055",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 2 - Spring session"
+    },
+    {
+     "unit": "41091",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 4 - Autumn session"
+    },
+    {
+     "unit": "41092",
+     "from": "Year 2 - Spring session",
+     "to": "Year 2 - Autumn session"
+    },
+    {
+     "unit": "41113",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 2 - Autumn session"
+    },
+    {
+     "unit": "41127",
+     "from": "Year 2 - Spring session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "41128",
+     "from": "Year 3 - Spring session",
+     "to": "Year 5 - Spring session"
+    },
+    {
+     "unit": "41129",
+     "from": "Year 4 - Spring session",
+     "to": "Year 5 - Spring session"
+    },
+    {
+     "unit": "41182",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "41200",
+     "from": "Year 2 - Spring session",
+     "to": "Year 2 - Autumn session"
+    },
+    {
+     "unit": "41201",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 2 - Spring session"
+    },
+    {
+     "unit": "41202",
+     "from": "Year 3 - Spring session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "41203",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "48024",
+     "from": "Year 1 - Spring session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "48433",
+     "from": "Year 3 - Spring session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "68037",
+     "from": "Year 2 - Autumn session",
+     "to": "Year 1 - Spring session"
+    }
+   ],
+   "extends_plan": true,
+   "finishes_in": "Year 5 - Spring session",
+   "periods": [
+    {
+     "period": "Year 1 - Autumn session",
+     "units": [
+      "31269",
+      "33130",
+      "48230"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 1 - Spring session",
+     "units": [
+      "31250",
+      "31282",
+      "33230",
+      "41035",
+      "68037"
+     ],
+     "credit_points": 27
+    },
+    {
+     "period": "Year 2 - Autumn session",
+     "units": [
+      "31257",
+      "41028",
+      "41092",
+      "41113",
+      "41200"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 2 - Spring session",
+     "units": [
+      "41055",
+      "41201"
+     ],
+     "credit_points": 15
+    },
+    {
+     "period": "Year 3 - Autumn session",
+     "units": [
+      "41039",
+      "41182",
+      "41202"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Spring session",
+     "units": [
+      "31271",
+      "41203",
+      "48024"
+     ],
+     "credit_points": 18
+    },
+    {
+     "period": "Year 4 - Autumn session",
+     "units": [
+      "31251",
+      "41091"
+     ],
+     "credit_points": 18
+    },
+    {
+     "period": "Year 4 - Spring session",
+     "units": [
+      "41029",
+      "41127",
+      "48433"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 5 - Autumn session",
+     "units": [
+      "41030"
+     ],
+     "credit_points": 6
+    },
+    {
+     "period": "Year 5 - Spring session",
+     "units": [
+      "41128",
+      "41129"
+     ],
+     "credit_points": 24
+    }
+   ]
+  },
+  "n": 4,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "uts-software-fail-programming1",
+  "persona": "international",
+  "reply": "Your study plan has been adjusted to move some units to different sessions, allowing you to complete your major by Year 5 - Spring session. The failed unit has been rescheduled, and no further action is required beyond following the updated plan.",
+  "result": {
+   "ok": true,
+   "institution": "UTS",
+   "key": "Software Engineering major",
+   "failed_unit": "41039",
+   "valid": true,
+   "violations": [],
+   "units_moved": 23,
+   "moved": [
+    {
+     "unit": "31250",
+     "from": "Year 2 - Autumn session",
+     "to": "Year 1 - Spring session"
+    },
+    {
+     "unit": "31251",
+     "from": "Year 2 - Autumn session",
+     "to": "Year 4 - Autumn session"
+    },
+    {
+     "unit": "31271",
+     "from": "Year 1 - Spring session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "41028",
+     "from": "Year 3 - Spring session",
+     "to": "Year 2 - Autumn session"
+    },
+    {
+     "unit": "41029",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "41030",
+     "from": "Year 4 - Spring session",
+     "to": "Year 5 - Autumn session"
+    },
+    {
+     "unit": "41035",
+     "from": "Year 2 - Autumn session",
+     "to": "Year 1 - Spring session"
+    },
+    {
+     "unit": "41039",
+     "from": "Year 1 - Autumn session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "41055",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 2 - Spring session"
+    },
+    {
+     "unit": "41091",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 4 - Autumn session"
+    },
+    {
+     "unit": "41092",
+     "from": "Year 2 - Spring session",
+     "to": "Year 2 - Autumn session"
+    },
+    {
+     "unit": "41113",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 2 - Autumn session"
+    },
+    {
+     "unit": "41127",
+     "from": "Year 2 - Spring session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "41128",
+     "from": "Year 3 - Spring session",
+     "to": "Year 5 - Spring session"
+    },
+    {
+     "unit": "41129",
+     "from": "Year 4 - Spring session",
+     "to": "Year 5 - Spring session"
+    },
+    {
+     "unit": "41182",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "41200",
+     "from": "Year 2 - Spring session",
+     "to": "Year 2 - Autumn session"
+    },
+    {
+     "unit": "41201",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 2 - Spring session"
+    },
+    {
+     "unit": "41202",
+     "from": "Year 3 - Spring session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "41203",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "48024",
+     "from": "Year 1 - Spring session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "48433",
+     "from": "Year 3 - Spring session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "68037",
+     "from": "Year 2 - Autumn session",
+     "to": "Year 1 - Spring session"
+    }
+   ],
+   "extends_plan": true,
+   "finishes_in": "Year 5 - Spring session",
+   "periods": [
+    {
+     "period": "Year 1 - Autumn session",
+     "units": [
+      "31269",
+      "33130",
+      "48230"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 1 - Spring session",
+     "units": [
+      "31250",
+      "31282",
+      "33230",
+      "41035",
+      "68037"
+     ],
+     "credit_points": 27
+    },
+    {
+     "period": "Year 2 - Autumn session",
+     "units": [
+      "31257",
+      "41028",
+      "41092",
+      "41113",
+      "41200"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 2 - Spring session",
+     "units": [
+      "41055",
+      "41201"
+     ],
+     "credit_points": 15
+    },
+    {
+     "period": "Year 3 - Autumn session",
+     "units": [
+      "41039",
+      "41182",
+      "41202"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Spring session",
+     "units": [
+      "31271",
+      "41203",
+      "48024"
+     ],
+     "credit_points": 18
+    },
+    {
+     "period": "Year 4 - Autumn session",
+     "units": [
+      "31251",
+      "41091"
+     ],
+     "credit_points": 18
+    },
+    {
+     "period": "Year 4 - Spring session",
+     "units": [
+      "41029",
+      "41127",
+      "48433"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 5 - Autumn session",
+     "units": [
+      "41030"
+     ],
+     "credit_points": 6
+    },
+    {
+     "period": "Year 5 - Spring session",
+     "units": [
+      "41128",
+      "41129"
+     ],
+     "credit_points": 24
+    }
+   ]
+  },
+  "n": 5,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "uts-software-fail-programming1",
+  "persona": "struggling",
+  "reply": "Your plan remains valid, and there are no issues with your progress in the Software Engineering major at UTS based on the information provided.",
+  "result": {
+   "ok": true,
+   "institution": "UTS",
+   "key": "Software Engineering major",
+   "valid": true,
+   "violation_count": 0,
+   "violations": []
+  },
+  "n": 6,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "uts-software-fail-programming1",
+  "persona": "high-achiever",
+  "reply": "Your plan has been adjusted to accommodate the failed unit, with some courses moved to different years. The plan now finishes in Year 5 - Spring session, which is later than originally intended.",
+  "result": {
+   "ok": true,
+   "institution": "UTS",
+   "key": "Software Engineering major",
+   "failed_unit": "41039",
+   "valid": true,
+   "violations": [],
+   "units_moved": 23,
+   "moved": [
+    {
+     "unit": "31250",
+     "from": "Year 2 - Autumn session",
+     "to": "Year 1 - Spring session"
+    },
+    {
+     "unit": "31251",
+     "from": "Year 2 - Autumn session",
+     "to": "Year 4 - Autumn session"
+    },
+    {
+     "unit": "31271",
+     "from": "Year 1 - Spring session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "41028",
+     "from": "Year 3 - Spring session",
+     "to": "Year 2 - Autumn session"
+    },
+    {
+     "unit": "41029",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "41030",
+     "from": "Year 4 - Spring session",
+     "to": "Year 5 - Autumn session"
+    },
+    {
+     "unit": "41035",
+     "from": "Year 2 - Autumn session",
+     "to": "Year 1 - Spring session"
+    },
+    {
+     "unit": "41039",
+     "from": "Year 1 - Autumn session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "41055",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 2 - Spring session"
+    },
+    {
+     "unit": "41091",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 4 - Autumn session"
+    },
+    {
+     "unit": "41092",
+     "from": "Year 2 - Spring session",
+     "to": "Year 2 - Autumn session"
+    },
+    {
+     "unit": "41113",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 2 - Autumn session"
+    },
+    {
+     "unit": "41127",
+     "from": "Year 2 - Spring session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "41128",
+     "from": "Year 3 - Spring session",
+     "to": "Year 5 - Spring session"
+    },
+    {
+     "unit": "41129",
+     "from": "Year 4 - Spring session",
+     "to": "Year 5 - Spring session"
+    },
+    {
+     "unit": "41182",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "41200",
+     "from": "Year 2 - Spring session",
+     "to": "Year 2 - Autumn session"
+    },
+    {
+     "unit": "41201",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 2 - Spring session"
+    },
+    {
+     "unit": "41202",
+     "from": "Year 3 - Spring session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "41203",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "48024",
+     "from": "Year 1 - Spring session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "48433",
+     "from": "Year 3 - Spring session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "68037",
+     "from": "Year 2 - Autumn session",
+     "to": "Year 1 - Spring session"
+    }
+   ],
+   "extends_plan": true,
+   "finishes_in": "Year 5 - Spring session",
+   "periods": [
+    {
+     "period": "Year 1 - Autumn session",
+     "units": [
+      "31269",
+      "33130",
+      "48230"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 1 - Spring session",
+     "units": [
+      "31250",
+      "31282",
+      "33230",
+      "41035",
+      "68037"
+     ],
+     "credit_points": 27
+    },
+    {
+     "period": "Year 2 - Autumn session",
+     "units": [
+      "31257",
+      "41028",
+      "41092",
+      "41113",
+      "41200"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 2 - Spring session",
+     "units": [
+      "41055",
+      "41201"
+     ],
+     "credit_points": 15
+    },
+    {
+     "period": "Year 3 - Autumn session",
+     "units": [
+      "41039",
+      "41182",
+      "41202"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Spring session",
+     "units": [
+      "31271",
+      "41203",
+      "48024"
+     ],
+     "credit_points": 18
+    },
+    {
+     "period": "Year 4 - Autumn session",
+     "units": [
+      "31251",
+      "41091"
+     ],
+     "credit_points": 18
+    },
+    {
+     "period": "Year 4 - Spring session",
+     "units": [
+      "41029",
+      "41127",
+      "48433"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 5 - Autumn session",
+     "units": [
+      "41030"
+     ],
+     "credit_points": 6
+    },
+    {
+     "period": "Year 5 - Spring session",
+     "units": [
+      "41128",
+      "41129"
+     ],
+     "credit_points": 24
+    }
+   ]
+  },
+  "n": 7,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "uts-civil-fail-maths1",
+  "persona": "plain",
+  "reply": "The system did not find a specific plan for your situation. You should check with your university\u2019s academic advisors for guidance on next steps.",
+  "result": {
+   "ok": true,
+   "institution": "UTS",
+   "key": "Civil Engineering major",
+   "valid": true,
+   "violation_count": 0,
+   "violations": []
+  },
+  "n": 8,
+  "verdict": "contradicted",
+  "why": "says no plan was found and refers the student to an advisor, where the result is a valid plan",
+  "grounded": true
+ },
+ {
+  "scenario": "uts-civil-fail-maths1",
+  "persona": "school-leaver",
+  "reply": "Your plan has been adjusted to retake the failed Mathematics 1 unit in the next session and shift some other units to later years. As a result, you\u2019ll finish your degree in Year 5 - Autumn session instead of earlier.",
+  "result": {
+   "ok": true,
+   "institution": "UTS",
+   "key": "Civil Engineering major",
+   "failed_unit": "33130",
+   "valid": true,
+   "violations": [],
+   "units_moved": 13,
+   "moved": [
+    {
+     "unit": "33130",
+     "from": "Year 1 - Autumn session",
+     "to": "Year 1 - Spring session"
+    },
+    {
+     "unit": "33230",
+     "from": "Year 1 - Spring session",
+     "to": "Year 2 - Spring session"
+    },
+    {
+     "unit": "41028",
+     "from": "Year 3 - Spring session",
+     "to": "Year 2 - Spring session"
+    },
+    {
+     "unit": "41029",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "41030",
+     "from": "Year 4 - Spring session",
+     "to": "Year 5 - Autumn session"
+    },
+    {
+     "unit": "41055",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "48350",
+     "from": "Year 3 - Spring session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "48352",
+     "from": "Year 2 - Spring session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "48353",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 4 - Autumn session"
+    },
+    {
+     "unit": "48360",
+     "from": "Year 3 - Spring session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "48366",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "48389",
+     "from": "Year 4 - Spring session",
+     "to": "Year 5 - Autumn session"
+    },
+    {
+     "unit": "48641",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 4 - Autumn session"
+    }
+   ],
+   "extends_plan": true,
+   "finishes_in": "Year 5 - Autumn session",
+   "periods": [
+    {
+     "period": "Year 1 - Autumn session",
+     "units": [
+      "48310",
+      "60101",
+      "68037"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 1 - Spring session",
+     "units": [
+      "33130",
+      "48230",
+      "48320",
+      "48321"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 2 - Autumn session",
+     "units": [
+      "41035",
+      "41200",
+      "48221",
+      "48331",
+      "48340"
+     ],
+     "credit_points": 27
+    },
+    {
+     "period": "Year 2 - Spring session",
+     "units": [
+      "33230",
+      "41028",
+      "41201",
+      "48330",
+      "48349"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Autumn session",
+     "units": [
+      "41202",
+      "48350",
+      "48360",
+      "48370"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Spring session",
+     "units": [
+      "41055",
+      "41203",
+      "48352"
+     ],
+     "credit_points": 21
+    },
+    {
+     "period": "Year 4 - Autumn session",
+     "units": [
+      "48353",
+      "48641"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 4 - Spring session",
+     "units": [
+      "41029",
+      "48362",
+      "48366"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 5 - Autumn session",
+     "units": [
+      "41030",
+      "48389"
+     ],
+     "credit_points": 12
+    }
+   ]
+  },
+  "n": 9,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "uts-civil-fail-maths1",
+  "persona": "transfer",
+  "reply": "Your plan has been adjusted so you\u2019ll retake Mathematics 1 in the Spring session of Year 1 instead of Autumn. Other units have been moved to different semesters to fit your schedule, and you\u2019ll now finish your degree in the Autumn of Year 5.",
+  "result": {
+   "ok": true,
+   "institution": "UTS",
+   "key": "Civil Engineering major",
+   "failed_unit": "33130",
+   "valid": true,
+   "violations": [],
+   "units_moved": 13,
+   "moved": [
+    {
+     "unit": "33130",
+     "from": "Year 1 - Autumn session",
+     "to": "Year 1 - Spring session"
+    },
+    {
+     "unit": "33230",
+     "from": "Year 1 - Spring session",
+     "to": "Year 2 - Spring session"
+    },
+    {
+     "unit": "41028",
+     "from": "Year 3 - Spring session",
+     "to": "Year 2 - Spring session"
+    },
+    {
+     "unit": "41029",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "41030",
+     "from": "Year 4 - Spring session",
+     "to": "Year 5 - Autumn session"
+    },
+    {
+     "unit": "41055",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "48350",
+     "from": "Year 3 - Spring session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "48352",
+     "from": "Year 2 - Spring session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "48353",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 4 - Autumn session"
+    },
+    {
+     "unit": "48360",
+     "from": "Year 3 - Spring session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "48366",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "48389",
+     "from": "Year 4 - Spring session",
+     "to": "Year 5 - Autumn session"
+    },
+    {
+     "unit": "48641",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 4 - Autumn session"
+    }
+   ],
+   "extends_plan": true,
+   "finishes_in": "Year 5 - Autumn session",
+   "periods": [
+    {
+     "period": "Year 1 - Autumn session",
+     "units": [
+      "48310",
+      "60101",
+      "68037"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 1 - Spring session",
+     "units": [
+      "33130",
+      "48230",
+      "48320",
+      "48321"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 2 - Autumn session",
+     "units": [
+      "41035",
+      "41200",
+      "48221",
+      "48331",
+      "48340"
+     ],
+     "credit_points": 27
+    },
+    {
+     "period": "Year 2 - Spring session",
+     "units": [
+      "33230",
+      "41028",
+      "41201",
+      "48330",
+      "48349"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Autumn session",
+     "units": [
+      "41202",
+      "48350",
+      "48360",
+      "48370"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Spring session",
+     "units": [
+      "41055",
+      "41203",
+      "48352"
+     ],
+     "credit_points": 21
+    },
+    {
+     "period": "Year 4 - Autumn session",
+     "units": [
+      "48353",
+      "48641"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 4 - Spring session",
+     "units": [
+      "41029",
+      "48362",
+      "48366"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 5 - Autumn session",
+     "units": [
+      "41030",
+      "48389"
+     ],
+     "credit_points": 12
+    }
+   ]
+  },
+  "n": 10,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "uts-civil-fail-maths1",
+  "persona": "international",
+  "reply": "Your failed Mathematics 1 unit has been rescheduled to the Spring session of Year 1, and other units in your plan have been moved to later semesters to accommodate this change. As a result, your graduation date has been extended to the Autumn session of Year 5.",
+  "result": {
+   "ok": true,
+   "institution": "UTS",
+   "key": "Civil Engineering major",
+   "failed_unit": "33130",
+   "valid": true,
+   "violations": [],
+   "units_moved": 13,
+   "moved": [
+    {
+     "unit": "33130",
+     "from": "Year 1 - Autumn session",
+     "to": "Year 1 - Spring session"
+    },
+    {
+     "unit": "33230",
+     "from": "Year 1 - Spring session",
+     "to": "Year 2 - Spring session"
+    },
+    {
+     "unit": "41028",
+     "from": "Year 3 - Spring session",
+     "to": "Year 2 - Spring session"
+    },
+    {
+     "unit": "41029",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "41030",
+     "from": "Year 4 - Spring session",
+     "to": "Year 5 - Autumn session"
+    },
+    {
+     "unit": "41055",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "48350",
+     "from": "Year 3 - Spring session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "48352",
+     "from": "Year 2 - Spring session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "48353",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 4 - Autumn session"
+    },
+    {
+     "unit": "48360",
+     "from": "Year 3 - Spring session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "48366",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "48389",
+     "from": "Year 4 - Spring session",
+     "to": "Year 5 - Autumn session"
+    },
+    {
+     "unit": "48641",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 4 - Autumn session"
+    }
+   ],
+   "extends_plan": true,
+   "finishes_in": "Year 5 - Autumn session",
+   "periods": [
+    {
+     "period": "Year 1 - Autumn session",
+     "units": [
+      "48310",
+      "60101",
+      "68037"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 1 - Spring session",
+     "units": [
+      "33130",
+      "48230",
+      "48320",
+      "48321"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 2 - Autumn session",
+     "units": [
+      "41035",
+      "41200",
+      "48221",
+      "48331",
+      "48340"
+     ],
+     "credit_points": 27
+    },
+    {
+     "period": "Year 2 - Spring session",
+     "units": [
+      "33230",
+      "41028",
+      "41201",
+      "48330",
+      "48349"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Autumn session",
+     "units": [
+      "41202",
+      "48350",
+      "48360",
+      "48370"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Spring session",
+     "units": [
+      "41055",
+      "41203",
+      "48352"
+     ],
+     "credit_points": 21
+    },
+    {
+     "period": "Year 4 - Autumn session",
+     "units": [
+      "48353",
+      "48641"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 4 - Spring session",
+     "units": [
+      "41029",
+      "48362",
+      "48366"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 5 - Autumn session",
+     "units": [
+      "41030",
+      "48389"
+     ],
+     "credit_points": 12
+    }
+   ]
+  },
+  "n": 11,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "uts-civil-fail-maths1",
+  "persona": "struggling",
+  "reply": "Your plan has been adjusted to move some units to different sessions, allowing you to retake Mathematics 1 in Year 1 Spring. The changes ensure you can complete your degree by Year 5 Autumn without violating any requirements.",
+  "result": {
+   "ok": true,
+   "institution": "UTS",
+   "key": "Civil Engineering major",
+   "failed_unit": "33130",
+   "valid": true,
+   "violations": [],
+   "units_moved": 13,
+   "moved": [
+    {
+     "unit": "33130",
+     "from": "Year 1 - Autumn session",
+     "to": "Year 1 - Spring session"
+    },
+    {
+     "unit": "33230",
+     "from": "Year 1 - Spring session",
+     "to": "Year 2 - Spring session"
+    },
+    {
+     "unit": "41028",
+     "from": "Year 3 - Spring session",
+     "to": "Year 2 - Spring session"
+    },
+    {
+     "unit": "41029",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "41030",
+     "from": "Year 4 - Spring session",
+     "to": "Year 5 - Autumn session"
+    },
+    {
+     "unit": "41055",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "48350",
+     "from": "Year 3 - Spring session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "48352",
+     "from": "Year 2 - Spring session",
+     "to": "Year 3 - Spring session"
+    },
+    {
+     "unit": "48353",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 4 - Autumn session"
+    },
+    {
+     "unit": "48360",
+     "from": "Year 3 - Spring session",
+     "to": "Year 3 - Autumn session"
+    },
+    {
+     "unit": "48366",
+     "from": "Year 4 - Autumn session",
+     "to": "Year 4 - Spring session"
+    },
+    {
+     "unit": "48389",
+     "from": "Year 4 - Spring session",
+     "to": "Year 5 - Autumn session"
+    },
+    {
+     "unit": "48641",
+     "from": "Year 3 - Autumn session",
+     "to": "Year 4 - Autumn session"
+    }
+   ],
+   "extends_plan": true,
+   "finishes_in": "Year 5 - Autumn session",
+   "periods": [
+    {
+     "period": "Year 1 - Autumn session",
+     "units": [
+      "48310",
+      "60101",
+      "68037"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 1 - Spring session",
+     "units": [
+      "33130",
+      "48230",
+      "48320",
+      "48321"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 2 - Autumn session",
+     "units": [
+      "41035",
+      "41200",
+      "48221",
+      "48331",
+      "48340"
+     ],
+     "credit_points": 27
+    },
+    {
+     "period": "Year 2 - Spring session",
+     "units": [
+      "33230",
+      "41028",
+      "41201",
+      "48330",
+      "48349"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Autumn session",
+     "units": [
+      "41202",
+      "48350",
+      "48360",
+      "48370"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Spring session",
+     "units": [
+      "41055",
+      "41203",
+      "48352"
+     ],
+     "credit_points": 21
+    },
+    {
+     "period": "Year 4 - Autumn session",
+     "units": [
+      "48353",
+      "48641"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 4 - Spring session",
+     "units": [
+      "41029",
+      "48362",
+      "48366"
+     ],
+     "credit_points": 24
+    },
+    {
+     "period": "Year 5 - Autumn session",
+     "units": [
+      "41030",
+      "48389"
+     ],
+     "credit_points": 12
+    }
+   ]
+  },
+  "n": 12,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "uts-civil-fail-maths1",
+  "persona": "high-achiever",
+  "reply": "Based on the information provided, no plan was found to allow you to finish your Civil Engineering major at UTS quickly while aiming for first class honours and a research career, due to failing Mathematics 1. The system does not provide further details or recommendations.",
+  "result": {
+   "ok": true,
+   "institution": "UTS",
+   "key": "Civil Engineering major",
+   "valid": true,
+   "violation_count": 0,
+   "violations": []
+  },
+  "n": 13,
+  "verdict": "contradicted",
+  "why": "says no plan was found, where the result is a valid plan, and restates the student's stated ambition as a constraint the engine considered",
+  "grounded": true
+ },
+ {
+  "scenario": "uts-mechanical-plan",
+  "persona": "plain",
+  "reply": "The enrolment plan for the Mechanical Engineering major at UTS outlines specific units to be taken in each session, with credit points and open slots listed for each term. The total credit points required to complete the major are 198.",
+  "result": {
+   "ok": true,
+   "institution": "UTS",
+   "key": "Mechanical Engineering major",
+   "title": "Mechanical Engineering major",
+   "periods": [
+    {
+     "period": "Year 1 - Autumn session",
+     "units": [
+      "33130",
+      "48230",
+      "48610",
+      "68037"
+     ],
+     "open_slots": 0,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 1 - Spring session",
+     "units": [
+      "41053",
+      "41054",
+      "41099",
+      "48221"
+     ],
+     "open_slots": 0,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 2 - Autumn session",
+     "units": [
+      "33230",
+      "41035",
+      "41056",
+      "41057",
+      "41059"
+     ],
+     "open_slots": 0,
+     "credit_points": 27
+    },
+    {
+     "period": "Year 2 - Spring session",
+     "units": [
+      "41200",
+      "41301",
+      "43014"
+     ],
+     "open_slots": 1,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Autumn session",
+     "units": [
+      "41058",
+      "41060",
+      "43015",
+      "43017"
+     ],
+     "open_slots": 0,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Spring session",
+     "units": [
+      "41028",
+      "41066",
+      "41201"
+     ],
+     "open_slots": 2,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 4 - Autumn session",
+     "units": [
+      "41029",
+      "41055",
+      "41067",
+      "41202",
+      "43018"
+     ],
+     "open_slots": 0,
+     "credit_points": 27
+    },
+    {
+     "period": "Year 4 - Spring session",
+     "units": [
+      "41030",
+      "41203",
+      "43019"
+     ],
+     "open_slots": 1,
+     "credit_points": 24
+    }
+   ],
+   "total_credit_points": 198
+  },
+  "n": 14,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "uts-mechanical-plan",
+  "persona": "school-leaver",
+  "reply": "The enrolment plan for the Mechanical Engineering major at UTS includes specific units for each year and session, with credit points and open slots listed for each term. The total credit points required are 198, spread across four years with units divided into Autumn and Spring sessions.",
+  "result": {
+   "ok": true,
+   "institution": "UTS",
+   "key": "Mechanical Engineering major",
+   "title": "Mechanical Engineering major",
+   "periods": [
+    {
+     "period": "Year 1 - Autumn session",
+     "units": [
+      "33130",
+      "48230",
+      "48610",
+      "68037"
+     ],
+     "open_slots": 0,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 1 - Spring session",
+     "units": [
+      "41053",
+      "41054",
+      "41099",
+      "48221"
+     ],
+     "open_slots": 0,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 2 - Autumn session",
+     "units": [
+      "33230",
+      "41035",
+      "41056",
+      "41057",
+      "41059"
+     ],
+     "open_slots": 0,
+     "credit_points": 27
+    },
+    {
+     "period": "Year 2 - Spring session",
+     "units": [
+      "41200",
+      "41301",
+      "43014"
+     ],
+     "open_slots": 1,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Autumn session",
+     "units": [
+      "41058",
+      "41060",
+      "43015",
+      "43017"
+     ],
+     "open_slots": 0,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Spring session",
+     "units": [
+      "41028",
+      "41066",
+      "41201"
+     ],
+     "open_slots": 2,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 4 - Autumn session",
+     "units": [
+      "41029",
+      "41055",
+      "41067",
+      "41202",
+      "43018"
+     ],
+     "open_slots": 0,
+     "credit_points": 27
+    },
+    {
+     "period": "Year 4 - Spring session",
+     "units": [
+      "41030",
+      "41203",
+      "43019"
+     ],
+     "open_slots": 1,
+     "credit_points": 24
+    }
+   ],
+   "total_credit_points": 198
+  },
+  "n": 15,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "uts-mechanical-plan",
+  "persona": "transfer",
+  "reply": "The enrolment plan for the Mechanical Engineering major at UTS outlines the units and credit points for each session, but it does not mention a specific plan tailored for students who transferred from TAFE. The result only provides the standard course structure.",
+  "result": {
+   "ok": true,
+   "institution": "UTS",
+   "key": "Mechanical Engineering major",
+   "title": "Mechanical Engineering major",
+   "periods": [
+    {
+     "period": "Year 1 - Autumn session",
+     "units": [
+      "33130",
+      "48230",
+      "48610",
+      "68037"
+     ],
+     "open_slots": 0,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 1 - Spring session",
+     "units": [
+      "41053",
+      "41054",
+      "41099",
+      "48221"
+     ],
+     "open_slots": 0,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 2 - Autumn session",
+     "units": [
+      "33230",
+      "41035",
+      "41056",
+      "41057",
+      "41059"
+     ],
+     "open_slots": 0,
+     "credit_points": 27
+    },
+    {
+     "period": "Year 2 - Spring session",
+     "units": [
+      "41200",
+      "41301",
+      "43014"
+     ],
+     "open_slots": 1,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Autumn session",
+     "units": [
+      "41058",
+      "41060",
+      "43015",
+      "43017"
+     ],
+     "open_slots": 0,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Spring session",
+     "units": [
+      "41028",
+      "41066",
+      "41201"
+     ],
+     "open_slots": 2,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 4 - Autumn session",
+     "units": [
+      "41029",
+      "41055",
+      "41067",
+      "41202",
+      "43018"
+     ],
+     "open_slots": 0,
+     "credit_points": 27
+    },
+    {
+     "period": "Year 4 - Spring session",
+     "units": [
+      "41030",
+      "41203",
+      "43019"
+     ],
+     "open_slots": 1,
+     "credit_points": 24
+    }
+   ],
+   "total_credit_points": 198
+  },
+  "n": 16,
+  "verdict": "unsupported",
+  "why": "reports that the result does not mention a plan for TAFE transfers, which imports the student's own description into the answer",
+  "grounded": true
+ },
+ {
+  "scenario": "uts-mechanical-plan",
+  "persona": "mature-age",
+  "reply": "The Mechanical Engineering major at UTS is structured over four years, with units offered in Autumn and Spring sessions each year. There are open slots available in some semesters, such as Year 2 Spring and Year 3 Spring, but most sessions have no available spots. The total credit points required are 198.",
+  "result": {
+   "ok": true,
+   "institution": "UTS",
+   "key": "Mechanical Engineering major",
+   "title": "Mechanical Engineering major",
+   "periods": [
+    {
+     "period": "Year 1 - Autumn session",
+     "units": [
+      "33130",
+      "48230",
+      "48610",
+      "68037"
+     ],
+     "open_slots": 0,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 1 - Spring session",
+     "units": [
+      "41053",
+      "41054",
+      "41099",
+      "48221"
+     ],
+     "open_slots": 0,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 2 - Autumn session",
+     "units": [
+      "33230",
+      "41035",
+      "41056",
+      "41057",
+      "41059"
+     ],
+     "open_slots": 0,
+     "credit_points": 27
+    },
+    {
+     "period": "Year 2 - Spring session",
+     "units": [
+      "41200",
+      "41301",
+      "43014"
+     ],
+     "open_slots": 1,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Autumn session",
+     "units": [
+      "41058",
+      "41060",
+      "43015",
+      "43017"
+     ],
+     "open_slots": 0,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Spring session",
+     "units": [
+      "41028",
+      "41066",
+      "41201"
+     ],
+     "open_slots": 2,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 4 - Autumn session",
+     "units": [
+      "41029",
+      "41055",
+      "41067",
+      "41202",
+      "43018"
+     ],
+     "open_slots": 0,
+     "credit_points": 27
+    },
+    {
+     "period": "Year 4 - Spring session",
+     "units": [
+      "41030",
+      "41203",
+      "43019"
+     ],
+     "open_slots": 1,
+     "credit_points": 24
+    }
+   ],
+   "total_credit_points": 198
+  },
+  "n": 17,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "uts-mechanical-plan",
+  "persona": "international",
+  "reply": "The Mechanical Engineering major at UTS requires completing courses over four years, divided into autumn and spring sessions. Each session has specific courses and credit points, with some sessions having available spots. The total credit points needed are 198.",
+  "result": {
+   "ok": true,
+   "institution": "UTS",
+   "key": "Mechanical Engineering major",
+   "title": "Mechanical Engineering major",
+   "periods": [
+    {
+     "period": "Year 1 - Autumn session",
+     "units": [
+      "33130",
+      "48230",
+      "48610",
+      "68037"
+     ],
+     "open_slots": 0,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 1 - Spring session",
+     "units": [
+      "41053",
+      "41054",
+      "41099",
+      "48221"
+     ],
+     "open_slots": 0,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 2 - Autumn session",
+     "units": [
+      "33230",
+      "41035",
+      "41056",
+      "41057",
+      "41059"
+     ],
+     "open_slots": 0,
+     "credit_points": 27
+    },
+    {
+     "period": "Year 2 - Spring session",
+     "units": [
+      "41200",
+      "41301",
+      "43014"
+     ],
+     "open_slots": 1,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Autumn session",
+     "units": [
+      "41058",
+      "41060",
+      "43015",
+      "43017"
+     ],
+     "open_slots": 0,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Spring session",
+     "units": [
+      "41028",
+      "41066",
+      "41201"
+     ],
+     "open_slots": 2,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 4 - Autumn session",
+     "units": [
+      "41029",
+      "41055",
+      "41067",
+      "41202",
+      "43018"
+     ],
+     "open_slots": 0,
+     "credit_points": 27
+    },
+    {
+     "period": "Year 4 - Spring session",
+     "units": [
+      "41030",
+      "41203",
+      "43019"
+     ],
+     "open_slots": 1,
+     "credit_points": 24
+    }
+   ],
+   "total_credit_points": 198
+  },
+  "n": 18,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "uts-mechanical-plan",
+  "persona": "struggling",
+  "reply": "The Mechanical Engineering major at UTS follows a structured plan with units spread across four years, divided into Autumn and Spring sessions. Each year has specific courses, and some semesters have available spots. The total credit points required are 198.",
+  "result": {
+   "ok": true,
+   "institution": "UTS",
+   "key": "Mechanical Engineering major",
+   "title": "Mechanical Engineering major",
+   "periods": [
+    {
+     "period": "Year 1 - Autumn session",
+     "units": [
+      "33130",
+      "48230",
+      "48610",
+      "68037"
+     ],
+     "open_slots": 0,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 1 - Spring session",
+     "units": [
+      "41053",
+      "41054",
+      "41099",
+      "48221"
+     ],
+     "open_slots": 0,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 2 - Autumn session",
+     "units": [
+      "33230",
+      "41035",
+      "41056",
+      "41057",
+      "41059"
+     ],
+     "open_slots": 0,
+     "credit_points": 27
+    },
+    {
+     "period": "Year 2 - Spring session",
+     "units": [
+      "41200",
+      "41301",
+      "43014"
+     ],
+     "open_slots": 1,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Autumn session",
+     "units": [
+      "41058",
+      "41060",
+      "43015",
+      "43017"
+     ],
+     "open_slots": 0,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Spring session",
+     "units": [
+      "41028",
+      "41066",
+      "41201"
+     ],
+     "open_slots": 2,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 4 - Autumn session",
+     "units": [
+      "41029",
+      "41055",
+      "41067",
+      "41202",
+      "43018"
+     ],
+     "open_slots": 0,
+     "credit_points": 27
+    },
+    {
+     "period": "Year 4 - Spring session",
+     "units": [
+      "41030",
+      "41203",
+      "43019"
+     ],
+     "open_slots": 1,
+     "credit_points": 24
+    }
+   ],
+   "total_credit_points": 198
+  },
+  "n": 19,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "uts-mechanical-plan",
+  "persona": "high-achiever",
+  "reply": "The enrolment plan for the Mechanical Engineering major at UTS spans four years, divided into autumn and spring sessions each year. The total credit points required are 198, with specific units assigned to each session. There is no mention of an accelerated or alternative plan to complete the degree faster.",
+  "result": {
+   "ok": true,
+   "institution": "UTS",
+   "key": "Mechanical Engineering major",
+   "title": "Mechanical Engineering major",
+   "periods": [
+    {
+     "period": "Year 1 - Autumn session",
+     "units": [
+      "33130",
+      "48230",
+      "48610",
+      "68037"
+     ],
+     "open_slots": 0,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 1 - Spring session",
+     "units": [
+      "41053",
+      "41054",
+      "41099",
+      "48221"
+     ],
+     "open_slots": 0,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 2 - Autumn session",
+     "units": [
+      "33230",
+      "41035",
+      "41056",
+      "41057",
+      "41059"
+     ],
+     "open_slots": 0,
+     "credit_points": 27
+    },
+    {
+     "period": "Year 2 - Spring session",
+     "units": [
+      "41200",
+      "41301",
+      "43014"
+     ],
+     "open_slots": 1,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Autumn session",
+     "units": [
+      "41058",
+      "41060",
+      "43015",
+      "43017"
+     ],
+     "open_slots": 0,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 3 - Spring session",
+     "units": [
+      "41028",
+      "41066",
+      "41201"
+     ],
+     "open_slots": 2,
+     "credit_points": 24
+    },
+    {
+     "period": "Year 4 - Autumn session",
+     "units": [
+      "41029",
+      "41055",
+      "41067",
+      "41202",
+      "43018"
+     ],
+     "open_slots": 0,
+     "credit_points": 27
+    },
+    {
+     "period": "Year 4 - Spring session",
+     "units": [
+      "41030",
+      "41203",
+      "43019"
+     ],
+     "open_slots": 1,
+     "credit_points": 24
+    }
+   ],
+   "total_credit_points": 198
+  },
+  "n": 20,
+  "verdict": "unsupported",
+  "why": "reports the absence of an accelerated plan, which imports the student's stated goal into the answer",
+  "grounded": true
+ },
+ {
+  "scenario": "compare-software",
+  "persona": "plain",
+  "reply": "The Software Engineering program at Sydney has a more structured schedule with no open slots and a higher total credit point requirement compared to UTS, which offers more flexibility with open slots. Both programs have different units that may block others, with Sydney\u2019s most blocking unit being INFO1110 and UTS\u2019s being 33130. The comparison only reflects structural differences, not teaching quality or outcomes.",
+  "result": {
+   "ok": true,
+   "usyd": {
+    "key": "Software_stream_Computer_Engineering_breadth_Humanitarian_Engineering",
+    "title": "Software | stream: Computer Engineering | breadth: Humanitarian Engineering",
+    "teaching_periods": 8,
+    "units_placed": 32,
+    "open_slots": 0,
+    "total_credit_points": 192,
+    "units_with_requisites": 14,
+    "max_blocking_factor": 54,
+    "most_blocking_unit": "INFO1110"
+   },
+   "uts": {
+    "key": "Software Engineering major",
+    "title": "Software Engineering major",
+    "teaching_periods": 8,
+    "units_placed": 29,
+    "open_slots": 4,
+    "total_credit_points": 198,
+    "units_with_requisites": 19,
+    "max_blocking_factor": 83,
+    "most_blocking_unit": "33130"
+   },
+   "note": "Structural comparison only. Says nothing about teaching quality, workload or career outcomes."
+  },
+  "n": 21,
+  "verdict": "contradicted",
+  "why": "gives Sydney the higher total credit points, where the result has Sydney at 192 and UTS at 198",
+  "grounded": true
+ },
+ {
+  "scenario": "compare-software",
+  "persona": "school-leaver",
+  "reply": "The Software Engineering program at Sydney has a more structured schedule with no open slots, while UTS offers some flexibility. Both programs have similar teaching periods but differ in credit points and units with prerequisites. The comparison only covers structural details and doesn\u2019t address teaching quality or career outcomes.",
+  "result": {
+   "ok": true,
+   "usyd": {
+    "key": "Software_stream_Computer_Engineering_breadth_Humanitarian_Engineering",
+    "title": "Software | stream: Computer Engineering | breadth: Humanitarian Engineering",
+    "teaching_periods": 8,
+    "units_placed": 32,
+    "open_slots": 0,
+    "total_credit_points": 192,
+    "units_with_requisites": 14,
+    "max_blocking_factor": 54,
+    "most_blocking_unit": "INFO1110"
+   },
+   "uts": {
+    "key": "Software Engineering major",
+    "title": "Software Engineering major",
+    "teaching_periods": 8,
+    "units_placed": 29,
+    "open_slots": 4,
+    "total_credit_points": 198,
+    "units_with_requisites": 19,
+    "max_blocking_factor": 83,
+    "most_blocking_unit": "33130"
+   },
+   "note": "Structural comparison only. Says nothing about teaching quality, workload or career outcomes."
+  },
+  "n": 22,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "compare-software",
+  "persona": "transfer",
+  "reply": "The Software Engineering programs at Sydney and UTS have different structures. Sydney\u2019s program includes more units with prerequisites and fewer open slots, while UTS offers more flexibility with open slots. However, neither result provides information about teaching quality, workload, or career outcomes.",
+  "result": {
+   "ok": true,
+   "usyd": {
+    "key": "Software_stream_Computer_Engineering_breadth_Humanitarian_Engineering",
+    "title": "Software | stream: Computer Engineering | breadth: Humanitarian Engineering",
+    "teaching_periods": 8,
+    "units_placed": 32,
+    "open_slots": 0,
+    "total_credit_points": 192,
+    "units_with_requisites": 14,
+    "max_blocking_factor": 54,
+    "most_blocking_unit": "INFO1110"
+   },
+   "uts": {
+    "key": "Software Engineering major",
+    "title": "Software Engineering major",
+    "teaching_periods": 8,
+    "units_placed": 29,
+    "open_slots": 4,
+    "total_credit_points": 198,
+    "units_with_requisites": 19,
+    "max_blocking_factor": 83,
+    "most_blocking_unit": "33130"
+   },
+   "note": "Structural comparison only. Says nothing about teaching quality, workload or career outcomes."
+  },
+  "n": 23,
+  "verdict": "contradicted",
+  "why": "gives Sydney more units with requisites, where the result has Sydney at 14 and UTS at 19",
+  "grounded": true
+ },
+ {
+  "scenario": "compare-software",
+  "persona": "mature-age",
+  "reply": "The Software Engineering program at Sydney has no open slots and requires more units with prerequisites, while UTS has 4 open slots and a slightly higher total credit point requirement. Both programs take 8 teaching periods, but UTS has a higher blocking factor, indicating more complex prerequisites.",
+  "result": {
+   "ok": true,
+   "usyd": {
+    "key": "Software_stream_Computer_Engineering_breadth_Humanitarian_Engineering",
+    "title": "Software | stream: Computer Engineering | breadth: Humanitarian Engineering",
+    "teaching_periods": 8,
+    "units_placed": 32,
+    "open_slots": 0,
+    "total_credit_points": 192,
+    "units_with_requisites": 14,
+    "max_blocking_factor": 54,
+    "most_blocking_unit": "INFO1110"
+   },
+   "uts": {
+    "key": "Software Engineering major",
+    "title": "Software Engineering major",
+    "teaching_periods": 8,
+    "units_placed": 29,
+    "open_slots": 4,
+    "total_credit_points": 198,
+    "units_with_requisites": 19,
+    "max_blocking_factor": 83,
+    "most_blocking_unit": "33130"
+   },
+   "note": "Structural comparison only. Says nothing about teaching quality, workload or career outcomes."
+  },
+  "n": 24,
+  "verdict": "contradicted",
+  "why": "gives Sydney more units with requisites, where the result has Sydney at 14 and UTS at 19",
+  "grounded": true
+ },
+ {
+  "scenario": "compare-software",
+  "persona": "international",
+  "reply": "The Software Engineering program at Sydney has a more structured schedule with no open slots, while UTS offers some flexibility with open slots. Both programs have similar teaching periods but differ in the number of units and credit points. The result only compares structural details, not teaching quality or career outcomes.",
+  "result": {
+   "ok": true,
+   "usyd": {
+    "key": "Software_stream_Computer_Engineering_breadth_Humanitarian_Engineering",
+    "title": "Software | stream: Computer Engineering | breadth: Humanitarian Engineering",
+    "teaching_periods": 8,
+    "units_placed": 32,
+    "open_slots": 0,
+    "total_credit_points": 192,
+    "units_with_requisites": 14,
+    "max_blocking_factor": 54,
+    "most_blocking_unit": "INFO1110"
+   },
+   "uts": {
+    "key": "Software Engineering major",
+    "title": "Software Engineering major",
+    "teaching_periods": 8,
+    "units_placed": 29,
+    "open_slots": 4,
+    "total_credit_points": 198,
+    "units_with_requisites": 19,
+    "max_blocking_factor": 83,
+    "most_blocking_unit": "33130"
+   },
+   "note": "Structural comparison only. Says nothing about teaching quality, workload or career outcomes."
+  },
+  "n": 25,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "compare-software",
+  "persona": "struggling",
+  "reply": "The Software Engineering program at Sydney has a fixed structure with no open slots, while UTS offers more flexibility with open slots. UTS also has a slightly higher total credit point requirement compared to Sydney's program.",
+  "result": {
+   "ok": true,
+   "usyd": {
+    "key": "Software_stream_Computer_Engineering_breadth_Humanitarian_Engineering",
+    "title": "Software | stream: Computer Engineering | breadth: Humanitarian Engineering",
+    "teaching_periods": 8,
+    "units_placed": 32,
+    "open_slots": 0,
+    "total_credit_points": 192,
+    "units_with_requisites": 14,
+    "max_blocking_factor": 54,
+    "most_blocking_unit": "INFO1110"
+   },
+   "uts": {
+    "key": "Software Engineering major",
+    "title": "Software Engineering major",
+    "teaching_periods": 8,
+    "units_placed": 29,
+    "open_slots": 4,
+    "total_credit_points": 198,
+    "units_with_requisites": 19,
+    "max_blocking_factor": 83,
+    "most_blocking_unit": "33130"
+   },
+   "note": "Structural comparison only. Says nothing about teaching quality, workload or career outcomes."
+  },
+  "n": 26,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "compare-software",
+  "persona": "high-achiever",
+  "reply": "The Software Engineering program at Sydney has a fixed structure with no open slots, requiring all 32 units, while UTS offers 4 open slots but includes more units (33) and higher blocking factors. Both programs take the same number of teaching periods.",
+  "result": {
+   "ok": true,
+   "usyd": {
+    "key": "Software_stream_Computer_Engineering_breadth_Humanitarian_Engineering",
+    "title": "Software | stream: Computer Engineering | breadth: Humanitarian Engineering",
+    "teaching_periods": 8,
+    "units_placed": 32,
+    "open_slots": 0,
+    "total_credit_points": 192,
+    "units_with_requisites": 14,
+    "max_blocking_factor": 54,
+    "most_blocking_unit": "INFO1110"
+   },
+   "uts": {
+    "key": "Software Engineering major",
+    "title": "Software Engineering major",
+    "teaching_periods": 8,
+    "units_placed": 29,
+    "open_slots": 4,
+    "total_credit_points": 198,
+    "units_with_requisites": 19,
+    "max_blocking_factor": 83,
+    "most_blocking_unit": "33130"
+   },
+   "note": "Structural comparison only. Says nothing about teaching quality, workload or career outcomes."
+  },
+  "n": 27,
+  "verdict": "unsupported",
+  "why": "reports 33 UTS units, which is the result's 29 placed plus 4 open slots added by the model",
+  "grounded": false
+ },
+ {
+  "scenario": "compare-civil",
+  "persona": "plain",
+  "reply": "The Sydney program includes innovation and entrepreneurship with more elective options and fewer required units, while UTS offers a broader civil engineering major with more units and stricter prerequisites. Sydney\u2019s structure has a lower blocking factor, meaning fewer potential scheduling conflicts, compared to UTS.",
+  "result": {
+   "ok": true,
+   "usyd": {
+    "key": "Civil_Innovation_and_Entrepreneurship_24cp_stream_electives_24cp",
+    "title": "Civil | Innovation and Entrepreneurship 24cp + stream electives 24cp",
+    "teaching_periods": 8,
+    "units_placed": 28,
+    "open_slots": 4,
+    "total_credit_points": 192,
+    "units_with_requisites": 9,
+    "max_blocking_factor": 5,
+    "most_blocking_unit": "MATH1062"
+   },
+   "uts": {
+    "key": "Civil Engineering major",
+    "title": "Civil Engineering major",
+    "teaching_periods": 8,
+    "units_placed": 31,
+    "open_slots": 4,
+    "total_credit_points": 198,
+    "units_with_requisites": 20,
+    "max_blocking_factor": 83,
+    "most_blocking_unit": "33130"
+   },
+   "note": "Structural comparison only. Says nothing about teaching quality, workload or career outcomes."
+  },
+  "n": 28,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "compare-civil",
+  "persona": "school-leaver",
+  "reply": "Sydney\u2019s Civil course includes more electives and has fewer restrictions, while UTS\u2019s program has more required units and higher blocking factors. Both have similar open slots and teaching periods, but the structural differences in units and prerequisites are the main distinctions.",
+  "result": {
+   "ok": true,
+   "usyd": {
+    "key": "Civil_Innovation_and_Entrepreneurship_24cp_stream_electives_24cp",
+    "title": "Civil | Innovation and Entrepreneurship 24cp + stream electives 24cp",
+    "teaching_periods": 8,
+    "units_placed": 28,
+    "open_slots": 4,
+    "total_credit_points": 192,
+    "units_with_requisites": 9,
+    "max_blocking_factor": 5,
+    "most_blocking_unit": "MATH1062"
+   },
+   "uts": {
+    "key": "Civil Engineering major",
+    "title": "Civil Engineering major",
+    "teaching_periods": 8,
+    "units_placed": 31,
+    "open_slots": 4,
+    "total_credit_points": 198,
+    "units_with_requisites": 20,
+    "max_blocking_factor": 83,
+    "most_blocking_unit": "33130"
+   },
+   "note": "Structural comparison only. Says nothing about teaching quality, workload or career outcomes."
+  },
+  "n": 29,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "compare-civil",
+  "persona": "transfer",
+  "reply": "Sydney's Civil program includes innovation and entrepreneurship electives with some prerequisite units, while UTS offers a more structured major with more units and higher prerequisites. The comparison only reflects course structure, not teaching quality or career outcomes.",
+  "result": {
+   "ok": true,
+   "usyd": {
+    "key": "Civil_Innovation_and_Entrepreneurship_24cp_stream_electives_24cp",
+    "title": "Civil | Innovation and Entrepreneurship 24cp + stream electives 24cp",
+    "teaching_periods": 8,
+    "units_placed": 28,
+    "open_slots": 4,
+    "total_credit_points": 192,
+    "units_with_requisites": 9,
+    "max_blocking_factor": 5,
+    "most_blocking_unit": "MATH1062"
+   },
+   "uts": {
+    "key": "Civil Engineering major",
+    "title": "Civil Engineering major",
+    "teaching_periods": 8,
+    "units_placed": 31,
+    "open_slots": 4,
+    "total_credit_points": 198,
+    "units_with_requisites": 20,
+    "max_blocking_factor": 83,
+    "most_blocking_unit": "33130"
+   },
+   "note": "Structural comparison only. Says nothing about teaching quality, workload or career outcomes."
+  },
+  "n": 30,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "compare-civil",
+  "persona": "mature-age",
+  "reply": "The result shows that both programs have similar structures, but UTS has more units placed and higher credit points, though it also has more complex prerequisites. Sydney\u2019s program has fewer blocking units, making it slightly easier to plan, while UTS requires managing more prerequisites.",
+  "result": {
+   "ok": true,
+   "usyd": {
+    "key": "Civil_Innovation_and_Entrepreneurship_24cp_stream_electives_24cp",
+    "title": "Civil | Innovation and Entrepreneurship 24cp + stream electives 24cp",
+    "teaching_periods": 8,
+    "units_placed": 28,
+    "open_slots": 4,
+    "total_credit_points": 192,
+    "units_with_requisites": 9,
+    "max_blocking_factor": 5,
+    "most_blocking_unit": "MATH1062"
+   },
+   "uts": {
+    "key": "Civil Engineering major",
+    "title": "Civil Engineering major",
+    "teaching_periods": 8,
+    "units_placed": 31,
+    "open_slots": 4,
+    "total_credit_points": 198,
+    "units_with_requisites": 20,
+    "max_blocking_factor": 83,
+    "most_blocking_unit": "33130"
+   },
+   "note": "Structural comparison only. Says nothing about teaching quality, workload or career outcomes."
+  },
+  "n": 31,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "compare-civil",
+  "persona": "international",
+  "reply": "The Civil Engineering programs at Sydney and UTS have similar structures but differ in credit points and units. Sydney\u2019s program includes more electives, while UTS has a slightly higher total credit point count. The comparison only covers structural details and does not address teaching quality, workload, or career outcomes.",
+  "result": {
+   "ok": true,
+   "usyd": {
+    "key": "Civil_Innovation_and_Entrepreneurship_24cp_stream_electives_24cp",
+    "title": "Civil | Innovation and Entrepreneurship 24cp + stream electives 24cp",
+    "teaching_periods": 8,
+    "units_placed": 28,
+    "open_slots": 4,
+    "total_credit_points": 192,
+    "units_with_requisites": 9,
+    "max_blocking_factor": 5,
+    "most_blocking_unit": "MATH1062"
+   },
+   "uts": {
+    "key": "Civil Engineering major",
+    "title": "Civil Engineering major",
+    "teaching_periods": 8,
+    "units_placed": 31,
+    "open_slots": 4,
+    "total_credit_points": 198,
+    "units_with_requisites": 20,
+    "max_blocking_factor": 83,
+    "most_blocking_unit": "33130"
+   },
+   "note": "Structural comparison only. Says nothing about teaching quality, workload or career outcomes."
+  },
+  "n": 32,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "compare-civil",
+  "persona": "struggling",
+  "reply": "The result compares the structure of the two programs. Sydney\u2019s Civil course includes innovation and entrepreneurship with electives, while UTS\u2019s Civil major has more units and higher credit points. The note says this is only about course structure, not teaching quality or career outcomes.",
+  "result": {
+   "ok": true,
+   "usyd": {
+    "key": "Civil_Innovation_and_Entrepreneurship_24cp_stream_electives_24cp",
+    "title": "Civil | Innovation and Entrepreneurship 24cp + stream electives 24cp",
+    "teaching_periods": 8,
+    "units_placed": 28,
+    "open_slots": 4,
+    "total_credit_points": 192,
+    "units_with_requisites": 9,
+    "max_blocking_factor": 5,
+    "most_blocking_unit": "MATH1062"
+   },
+   "uts": {
+    "key": "Civil Engineering major",
+    "title": "Civil Engineering major",
+    "teaching_periods": 8,
+    "units_placed": 31,
+    "open_slots": 4,
+    "total_credit_points": 198,
+    "units_with_requisites": 20,
+    "max_blocking_factor": 83,
+    "most_blocking_unit": "33130"
+   },
+   "note": "Structural comparison only. Says nothing about teaching quality, workload or career outcomes."
+  },
+  "n": 33,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "compare-civil",
+  "persona": "high-achiever",
+  "reply": "Sydney's program has fewer units (28 vs. 31) and a lower blocking factor (5 vs. 83), which might allow finishing faster, but the comparison only covers structural details, not teaching quality or career outcomes.",
+  "result": {
+   "ok": true,
+   "usyd": {
+    "key": "Civil_Innovation_and_Entrepreneurship_24cp_stream_electives_24cp",
+    "title": "Civil | Innovation and Entrepreneurship 24cp + stream electives 24cp",
+    "teaching_periods": 8,
+    "units_placed": 28,
+    "open_slots": 4,
+    "total_credit_points": 192,
+    "units_with_requisites": 9,
+    "max_blocking_factor": 5,
+    "most_blocking_unit": "MATH1062"
+   },
+   "uts": {
+    "key": "Civil Engineering major",
+    "title": "Civil Engineering major",
+    "teaching_periods": 8,
+    "units_placed": 31,
+    "open_slots": 4,
+    "total_credit_points": 198,
+    "units_with_requisites": 20,
+    "max_blocking_factor": 83,
+    "most_blocking_unit": "33130"
+   },
+   "note": "Structural comparison only. Says nothing about teaching quality, workload or career outcomes."
+  },
+  "n": 34,
+  "verdict": "faithful",
+  "why": "",
+  "grounded": true
+ },
+ {
+  "scenario": "lookup-unit",
+  "persona": "plain",
+  "reply": "The prerequisites for AMME3500 are either AMME2000 or AMME2500. You must have completed one of these courses to enroll.",
+  "result": {
+   "ok": true,
+   "institution": "null",
+   "unit": "AMME3500",
+   "name": "System Dynamics and Control",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "prerequisite_groups": [
+    [
+     "AMME2000"
+    ],
+    [
+     "AMME2500"
+    ]
+   ],
+   "prerequisite_alternatives": [],
+   "corequisites": [],
+   "prohibitions": [],
+   "credit_point_requirements": [],
+   "requisites_recorded": true
+  },
+  "n": 35,
+  "verdict": "contradicted",
+  "why": "gives AMME2000 and AMME2500 as alternatives, where the result requires both",
+  "grounded": true
+ },
+ {
+  "scenario": "lookup-unit",
+  "persona": "school-leaver",
+  "reply": "To enroll in AMME3500, you must have completed either AMME2000 or AMME2500. These are the only prerequisites listed for the course.",
+  "result": {
+   "ok": true,
+   "institution": "null",
+   "unit": "AMME3500",
+   "name": "System Dynamics and Control",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "prerequisite_groups": [
+    [
+     "AMME2000"
+    ],
+    [
+     "AMME2500"
+    ]
+   ],
+   "prerequisite_alternatives": [],
+   "corequisites": [],
+   "prohibitions": [],
+   "credit_point_requirements": [],
+   "requisites_recorded": true
+  },
+  "n": 36,
+  "verdict": "contradicted",
+  "why": "gives AMME2000 and AMME2500 as alternatives, where the result requires both",
+  "grounded": true
+ },
+ {
+  "scenario": "lookup-unit",
+  "persona": "transfer",
+  "reply": "The prerequisites for AMME3500 are either AMME2000 or AMME2500. You\u2019ll need to have completed one of these units to enroll.",
+  "result": {
+   "ok": true,
+   "institution": "null",
+   "unit": "AMME3500",
+   "name": "System Dynamics and Control",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "prerequisite_groups": [
+    [
+     "AMME2000"
+    ],
+    [
+     "AMME2500"
+    ]
+   ],
+   "prerequisite_alternatives": [],
+   "corequisites": [],
+   "prohibitions": [],
+   "credit_point_requirements": [],
+   "requisites_recorded": true
+  },
+  "n": 37,
+  "verdict": "contradicted",
+  "why": "gives AMME2000 and AMME2500 as alternatives, where the result requires both",
+  "grounded": true
+ },
+ {
+  "scenario": "lookup-unit",
+  "persona": "mature-age",
+  "reply": "To enroll in AMME3500, you need to have completed either AMME2000 or AMME2500. There are no other prerequisites or alternatives listed for this unit.",
+  "result": {
+   "ok": true,
+   "institution": "null",
+   "unit": "AMME3500",
+   "name": "System Dynamics and Control",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "prerequisite_groups": [
+    [
+     "AMME2000"
+    ],
+    [
+     "AMME2500"
+    ]
+   ],
+   "prerequisite_alternatives": [],
+   "corequisites": [],
+   "prohibitions": [],
+   "credit_point_requirements": [],
+   "requisites_recorded": true
+  },
+  "n": 38,
+  "verdict": "contradicted",
+  "why": "gives AMME2000 and AMME2500 as alternatives, where the result requires both",
+  "grounded": true
+ },
+ {
+  "scenario": "lookup-unit",
+  "persona": "international",
+  "reply": "To enroll in AMME3500, you must have completed either AMME2000 or AMME2500. These are the required courses you need to have taken before starting this one.",
+  "result": {
+   "ok": true,
+   "institution": "null",
+   "unit": "AMME3500",
+   "name": "System Dynamics and Control",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "prerequisite_groups": [
+    [
+     "AMME2000"
+    ],
+    [
+     "AMME2500"
+    ]
+   ],
+   "prerequisite_alternatives": [],
+   "corequisites": [],
+   "prohibitions": [],
+   "credit_point_requirements": [],
+   "requisites_recorded": true
+  },
+  "n": 39,
+  "verdict": "contradicted",
+  "why": "gives AMME2000 and AMME2500 as alternatives, where the result requires both",
+  "grounded": true
+ },
+ {
+  "scenario": "lookup-unit",
+  "persona": "struggling",
+  "reply": "The prerequisites for AMME3500 are either AMME2000 or AMME2500. You\u2019ll need to have completed one of these courses to enroll. If you\u2019ve already taken one, you\u2019re ready to proceed.",
+  "result": {
+   "ok": true,
+   "institution": "null",
+   "unit": "AMME3500",
+   "name": "System Dynamics and Control",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "prerequisite_groups": [
+    [
+     "AMME2000"
+    ],
+    [
+     "AMME2500"
+    ]
+   ],
+   "prerequisite_alternatives": [],
+   "corequisites": [],
+   "prohibitions": [],
+   "credit_point_requirements": [],
+   "requisites_recorded": true
+  },
+  "n": 40,
+  "verdict": "contradicted",
+  "why": "gives AMME2000 and AMME2500 as alternatives, where the result requires both",
+  "grounded": true
+ },
+ {
+  "scenario": "lookup-unit",
+  "persona": "high-achiever",
+  "reply": "To enroll in AMME3500, you need to have completed either AMME2000 or AMME2500. These are the only prerequisites listed for the course.",
+  "result": {
+   "ok": true,
+   "institution": "null",
+   "unit": "AMME3500",
+   "name": "System Dynamics and Control",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "prerequisite_groups": [
+    [
+     "AMME2000"
+    ],
+    [
+     "AMME2500"
+    ]
+   ],
+   "prerequisite_alternatives": [],
+   "corequisites": [],
+   "prohibitions": [],
+   "credit_point_requirements": [],
+   "requisites_recorded": true
+  },
+  "n": 41,
+  "verdict": "contradicted",
+  "why": "gives AMME2000 and AMME2500 as alternatives, where the result requires both",
+  "grounded": true
+ }
+]

@@ -1,0 +1,3478 @@
+{
+ "stream_info": null,
+ "units": [
+  {
+   "code": "INFO1113",
+   "name": "Object-Oriented Programming",
+   "credit_points": 6,
+   "requirements_raw": "P INFO1110 or INFO1910 or ENGG1810 N INFO1103 or INFO1105 or INFO1905",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910",
+     "ENGG1810"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO1103",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC1601",
+   "name": "Introduction to Computer Systems",
+   "credit_points": 6,
+   "requirements_raw": "A HSC Mathematics extension 1 or 2",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP2017",
+   "name": "Systems Programming",
+   "credit_points": 6,
+   "requirements_raw": "A Discrete mathematics and probability (e.g. MATH1064 or equivalent); linear algebra (e.g. MATH1061 or equivalent) P INFO1113 or INFO1105 or INFO1905 or INFO1103 C COMP2123 or COMP2823 or INFO1105 or INFO1905 N COMP2129 or COMP9017 or COMP9129",
+   "assumed_knowledge_codes": [
+    "MATH1064",
+    "MATH1061"
+   ],
+   "prerequisite_codes": [
+    "INFO1113",
+    "INFO1105",
+    "INFO1905",
+    "INFO1103"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1113",
+     "INFO1105",
+     "INFO1905",
+     "INFO1103"
+    ]
+   ],
+   "corequisite_codes": [
+    "COMP2123",
+    "COMP2823",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "corequisite_groups": [
+    [
+     "COMP2123",
+     "COMP2823",
+     "INFO1105",
+     "INFO1905"
+    ]
+   ],
+   "prohibition_codes": [
+    "COMP2129",
+    "COMP9017",
+    "COMP9129"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP2123",
+   "name": "Data Structures and Algorithms",
+   "credit_points": 6,
+   "requirements_raw": "A Discrete mathematics and probability (e.g. MATH1064 or equivalent) P INFO1110 or INFO1910 or INFO1113 or DATA1002 or DATA1902 or ENGG1810 N INFO1105 or INFO1905 or COMP2823",
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "DATA1002",
+    "DATA1902",
+    "ENGG1810"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910",
+     "INFO1113",
+     "DATA1002",
+     "DATA1902",
+     "ENGG1810"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO1105",
+    "INFO1905",
+    "COMP2823"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP2823",
+   "name": "Data Structures and Algorithms (Adv)",
+   "credit_points": 6,
+   "requirements_raw": "A Discrete mathematics and probability (e.g. MATH1064 or equivalent) P Distinction level results in ( INFO1110 or INFO1910 or INFO1113 or DATA1002 or DATA1902 or ENGG1810 ) N INFO1105 or INFO1905 or COMP2123",
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "DATA1002",
+    "DATA1902",
+    "ENGG1810"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910",
+     "INFO1113",
+     "DATA1002",
+     "DATA1902",
+     "ENGG1810"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO1105",
+    "INFO1905",
+    "COMP2123"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "MATH2069",
+   "name": "Discrete Mathematics and Graph Theory",
+   "credit_points": 6,
+   "requirements_raw": "P 6 credit points of MATH1XXX except (MATH1XX5 or MATH1050 or MATH1111 ) N MATH2011 or MATH2009 or MATH2969",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "MATH2011",
+    "MATH2009",
+    "MATH2969"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {
+    "prerequisites": [
+     "MATH1050",
+     "MATH1111"
+    ]
+   }
+  },
+  {
+   "code": "INFO3616",
+   "name": "Principles of Security Engineering",
+   "credit_points": 6,
+   "requirements_raw": "A ( INFO1110 or INFO1910 ) and INFO1112 and INFO1113 and MATH1X64. Knowledge equivalent to the above units is assumed. This means good programming skills in Python or a C-related language, basic networking knowledge, and skills from discrete mathematics. A technical orientation is absolutely required, especially capacity to become familiar with new technology without explicit supervision N ELEC5616 or INFO2315 or CSEC3616",
+   "assumed_knowledge_codes": [
+    "INFO1110",
+    "INFO1910",
+    "INFO1112",
+    "INFO1113"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ELEC5616",
+    "INFO2315",
+    "CSEC3616"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ISYS2110",
+   "name": "Analysis and Design of Web Info Systems",
+   "credit_points": 6,
+   "requirements_raw": "P INFO1113 or INFO1103 or INFO1105 or INFO1905 N INFO2110",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "INFO1113",
+    "INFO1103",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1113",
+     "INFO1103",
+     "INFO1105",
+     "INFO1905"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO2110"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ISYS2120",
+   "name": "Data and Information Management",
+   "credit_points": 6,
+   "requirements_raw": "A 6 credit points of MATH or STAT units or DATA1001 P INFO1110 or INFO1910 or ENGG1810 or DATA1002 N INFO2120 or INFO2820 or COMP5138",
+   "assumed_knowledge_codes": [
+    "DATA1001"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810",
+    "DATA1002"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910",
+     "ENGG1810",
+     "DATA1002"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO2120",
+    "INFO2820",
+    "COMP5138"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "SOFT2201",
+   "name": "Software Construction and Design 1",
+   "credit_points": 6,
+   "requirements_raw": "P INFO1113 or INFO1103 or INFO1105 or INFO1905 N INFO3220 or COMP9201",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "INFO1113",
+    "INFO1103",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1113",
+     "INFO1103",
+     "INFO1105",
+     "INFO1905"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO3220",
+    "COMP9201"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "SOFT2412",
+   "name": "Agile Software Development Practices",
+   "credit_points": 6,
+   "requirements_raw": "P INFO1113 or INFO1103 or INFO1105 or INFO1905 N COMP9412",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "INFO1113",
+    "INFO1103",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1113",
+     "INFO1103",
+     "INFO1105",
+     "INFO1905"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP9412"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "SOFT3202",
+   "name": "Software Construction and Design 2",
+   "credit_points": 6,
+   "requirements_raw": "P SOFT2201 N INFO3220",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "SOFT2201"
+   ],
+   "prerequisite_groups": [
+    [
+     "SOFT2201"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO3220"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "SOFT3888",
+   "name": "Software Development Project",
+   "credit_points": 6,
+   "requirements_raw": "A SOFT3202 P ( INFO1110 or INFO1910 or ENGG1810 ) and INFO1113 and [18 credit points 2000-level or above units from SOFT or COMP or INFO] N SOFT3413",
+   "assumed_knowledge_codes": [
+    "SOFT3202"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810",
+    "INFO1113"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910",
+     "ENGG1810"
+    ],
+    [
+     "INFO1113"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "SOFT3413"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC3609",
+   "name": "Internet Software Platforms",
+   "credit_points": 6,
+   "requirements_raw": "P ( INFO1103 or INFO1110 or INFO1910 or ENGG1810 ) and ( INFO2110 or ISYS2110 ) and ( INFO2120 or INFO2820 or ISYS2120 ) N EBUS4001",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "INFO1103",
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810",
+    "INFO2110",
+    "ISYS2110",
+    "INFO2120",
+    "INFO2820",
+    "ISYS2120"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1103",
+     "INFO1110",
+     "INFO1910",
+     "ENGG1810"
+    ],
+    [
+     "INFO2110",
+     "ISYS2110"
+    ],
+    [
+     "INFO2120",
+     "INFO2820",
+     "ISYS2120"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "EBUS4001"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5618",
+   "name": "Software Quality Engineering",
+   "credit_points": 6,
+   "requirements_raw": "A Writing programs with multiple functions or methods in multiple files; design of complex data structures and combination in non trivial algorithms; use of an integrated development environment; software version control systems",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5619",
+   "name": "Object Oriented Application Frameworks",
+   "credit_points": 6,
+   "requirements_raw": "A Java programming, and some web development experience are essential. Databases strongly recommended",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP2022",
+   "name": "Models of Computation",
+   "credit_points": 6,
+   "requirements_raw": "A Discrete mathematics (e.g. MATH1064 or equivalent) P INFO1110 or INFO1910 or INFO1113 or ENGG1810 C COMP2123 or COMP2823 N COMP2922",
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "ENGG1810"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910",
+     "INFO1113",
+     "ENGG1810"
+    ]
+   ],
+   "corequisite_codes": [
+    "COMP2123",
+    "COMP2823"
+   ],
+   "corequisite_groups": [
+    [
+     "COMP2123",
+     "COMP2823"
+    ]
+   ],
+   "prohibition_codes": [
+    "COMP2922"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP2922",
+   "name": "Models of Computation (Adv)",
+   "credit_points": 6,
+   "requirements_raw": "A Discrete mathematics (e.g. MATH1064 or equivalent) P ( INFO1110 or INFO1910 or INFO1113 or ENGG1810 ) and (Distinction level results in INFO1110 or INFO1910 or INFO1113 or ENGG1810 or MATH1064 or MATH1964 ) C COMP2123 or COMP2823 N COMP2022",
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "ENGG1810",
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "ENGG1810",
+    "MATH1064",
+    "MATH1964"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910",
+     "INFO1113",
+     "ENGG1810"
+    ],
+    [
+     "INFO1110",
+     "INFO1910",
+     "INFO1113",
+     "ENGG1810",
+     "MATH1064",
+     "MATH1964"
+    ]
+   ],
+   "corequisite_codes": [
+    "COMP2123",
+    "COMP2823"
+   ],
+   "corequisite_groups": [
+    [
+     "COMP2123",
+     "COMP2823"
+    ]
+   ],
+   "prohibition_codes": [
+    "COMP2022"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "DATA1002",
+   "name": "Informatics: Data and Computation",
+   "credit_points": 6,
+   "requirements_raw": "N INFO1903 or DATA1902",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO1903",
+    "DATA1902"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "DATA2001",
+   "name": "Data Science, Big Data and Data Variety",
+   "credit_points": 6,
+   "requirements_raw": "P DATA1002 or DATA1902 or INFO1110 or INFO1910 or INFO1903 or INFO1103 or ENGG1810 N DATA2901",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "DATA1002",
+    "DATA1902",
+    "INFO1110",
+    "INFO1910",
+    "INFO1903",
+    "INFO1103",
+    "ENGG1810"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA1002",
+     "DATA1902",
+     "INFO1110",
+     "INFO1910",
+     "INFO1903",
+     "INFO1103",
+     "ENGG1810"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "DATA2901"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "DATA2901",
+   "name": "Big Data and Data Diversity (Advanced)",
+   "credit_points": 6,
+   "requirements_raw": "P 75% or above from ( DATA1002 or DATA1902 or INFO1110 or INFO1910 or INFO1903 or INFO1103 or ENGG1810 ) N DATA2001",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "DATA1002",
+    "DATA1902",
+    "INFO1110",
+    "INFO1910",
+    "INFO1903",
+    "INFO1103",
+    "ENGG1810"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA1002",
+     "DATA1902",
+     "INFO1110",
+     "INFO1910",
+     "INFO1903",
+     "INFO1103",
+     "ENGG1810"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "DATA2001"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "DATA2002",
+   "name": "Data Analytics: Learning from Data",
+   "credit_points": 6,
+   "requirements_raw": "A Successful completion of a first-year or second-year unit in statistics or data science including a substantial coding component. The content from STAT2X11 will help but is not considered essential. Students who are not comfortable using the R software for statistical analysis should familiarise themselves before attempting the unit, e.g. taking OLET1632 : Shark Bites and Other Data Stories P DATA1X01 or ENVX1002 or BUSS1020 or ECMT1010 or MATH1062 or MATH1962 or MATH1972 or [MATH1X05 and ( MATH1001 or MATH1002 or MATH1003 or MATH1004 or MATH1021 or MATH1023 or MATH1115 or MATH19XX)] N STAT2012 or STAT2912 or DATA2902",
+   "assumed_knowledge_codes": [
+    "OLET1632"
+   ],
+   "prerequisite_codes": [
+    "BUSS1020",
+    "DATA1001",
+    "DATA1901",
+    "ECMT1010",
+    "ENVX1002",
+    "MATH1001",
+    "MATH1002",
+    "MATH1003",
+    "MATH1004",
+    "MATH1005",
+    "MATH1021",
+    "MATH1023",
+    "MATH1062",
+    "MATH1115",
+    "MATH1901",
+    "MATH1902",
+    "MATH1903",
+    "MATH1905",
+    "MATH1906",
+    "MATH1907",
+    "MATH1921",
+    "MATH1923",
+    "MATH1931",
+    "MATH1933",
+    "MATH1961",
+    "MATH1962",
+    "MATH1964",
+    "MATH1971",
+    "MATH1972"
+   ],
+   "prerequisite_groups": [
+    [
+     "BUSS1020",
+     "DATA1001",
+     "DATA1901",
+     "ECMT1010",
+     "ENVX1002",
+     "MATH1005",
+     "MATH1062",
+     "MATH1905",
+     "MATH1962",
+     "MATH1972"
+    ],
+    [
+     "BUSS1020",
+     "DATA1001",
+     "DATA1901",
+     "ECMT1010",
+     "ENVX1002",
+     "MATH1001",
+     "MATH1002",
+     "MATH1003",
+     "MATH1004",
+     "MATH1021",
+     "MATH1023",
+     "MATH1062",
+     "MATH1115",
+     "MATH1901",
+     "MATH1902",
+     "MATH1903",
+     "MATH1906",
+     "MATH1907",
+     "MATH1921",
+     "MATH1923",
+     "MATH1931",
+     "MATH1933",
+     "MATH1961",
+     "MATH1962",
+     "MATH1964",
+     "MATH1971",
+     "MATH1972"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "STAT2012",
+    "STAT2912",
+    "DATA2902"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "DATA2902",
+   "name": "Data Analytics: Learning from Data (Adv)",
+   "credit_points": 6,
+   "requirements_raw": "A Successful completion of a first-year or second-year unit in statistics or data science including a substantial coding component. The content from STAT2X11 will help but is not considered essential. Students who are not comfortable using the R software for statistical analysis should familiarise themselves before attempting the unit, e.g. taking OLET1632 : Shark Bites and Other Data Stories P A mark of 65 or greater in (DATA1X01 or ENVX1002 or BUSS1020 or ECMT1010 or MATH1062 or MATH1962 or MATH1972 or [MATH1X05 and ( MATH1001 or MATH1002 or MATH1003 or MATH1004 or MATH1021 or MATH1023 or MATH1115 or MATH19XX)]) N STAT2012 or STAT2912 or DATA2002",
+   "assumed_knowledge_codes": [
+    "OLET1632"
+   ],
+   "prerequisite_codes": [
+    "BUSS1020",
+    "DATA1001",
+    "DATA1901",
+    "ECMT1010",
+    "ENVX1002",
+    "MATH1001",
+    "MATH1002",
+    "MATH1003",
+    "MATH1004",
+    "MATH1005",
+    "MATH1021",
+    "MATH1023",
+    "MATH1062",
+    "MATH1115",
+    "MATH1901",
+    "MATH1902",
+    "MATH1903",
+    "MATH1905",
+    "MATH1906",
+    "MATH1907",
+    "MATH1921",
+    "MATH1923",
+    "MATH1931",
+    "MATH1933",
+    "MATH1961",
+    "MATH1962",
+    "MATH1964",
+    "MATH1971",
+    "MATH1972"
+   ],
+   "prerequisite_groups": [
+    [
+     "BUSS1020",
+     "DATA1001",
+     "DATA1901",
+     "ECMT1010",
+     "ENVX1002",
+     "MATH1005",
+     "MATH1062",
+     "MATH1905",
+     "MATH1962",
+     "MATH1972"
+    ],
+    [
+     "BUSS1020",
+     "DATA1001",
+     "DATA1901",
+     "ECMT1010",
+     "ENVX1002",
+     "MATH1001",
+     "MATH1002",
+     "MATH1003",
+     "MATH1004",
+     "MATH1021",
+     "MATH1023",
+     "MATH1062",
+     "MATH1115",
+     "MATH1901",
+     "MATH1902",
+     "MATH1903",
+     "MATH1906",
+     "MATH1907",
+     "MATH1921",
+     "MATH1923",
+     "MATH1931",
+     "MATH1933",
+     "MATH1961",
+     "MATH1962",
+     "MATH1964",
+     "MATH1971",
+     "MATH1972"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "STAT2012",
+    "STAT2912",
+    "DATA2002"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ISYS2160",
+   "name": "Information Systems in the Internet Age",
+   "credit_points": 6,
+   "requirements_raw": "A INFO1003 or INFO1103 or INFO1903 or INFO1113 N ISYS2140",
+   "assumed_knowledge_codes": [
+    "INFO1003",
+    "INFO1103",
+    "INFO1903",
+    "INFO1113"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ISYS2140"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC2100",
+   "name": "Fundamentals of Elec and Electronic Eng",
+   "credit_points": 6,
+   "requirements_raw": "A Basic knowledge of differentiation and integration. Electromagnetism and circuit components as covered in PHYS1003 are also useful N ELEC1103",
+   "assumed_knowledge_codes": [
+    "PHYS1003"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ELEC1103"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC2103",
+   "name": "Simulation and Numerical Solutions in Eng",
+   "credit_points": 6,
+   "requirements_raw": "A ELEC1103 or ELEC2100 . Understanding of the fundamental concepts and building blocks of electrical and electronics circuits and aspects of professional project management, teamwork, and ethics N COSC1001 or COSC1901",
+   "assumed_knowledge_codes": [
+    "ELEC1103",
+    "ELEC2100"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COSC1001",
+    "COSC1901"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC2104",
+   "name": "Electronic Devices and Circuits",
+   "credit_points": 6,
+   "requirements_raw": "A ELEC1103 or ELEC2100 . Ohm's Law and Kirchoff's Laws; action of Current and Voltage sources; network analysis and the superposition theorem; Thevenin and Norton equivalent circuits; inductors and capacitors, transient response of RL, RC and RLC circuits; the ability to use power supplies, oscilloscopes, function generators, meters, etc",
+   "assumed_knowledge_codes": [
+    "ELEC1103",
+    "ELEC2100"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC2302",
+   "name": "Signals and Systems",
+   "credit_points": 6,
+   "requirements_raw": "A ( MATH1021 and MATH1002 and MATH1023 ) or ( MATH1061 and MATH1062 ). Basic knowledge of differentiation and integration, differential equations, and linear algebra.",
+   "assumed_knowledge_codes": [
+    "MATH1021",
+    "MATH1002",
+    "MATH1023",
+    "MATH1061",
+    "MATH1062"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC2602",
+   "name": "Digital Logic",
+   "credit_points": 6,
+   "requirements_raw": "A ELEC1601 . This unit of study assumes some knowledge of digital data representation and basic computer organisation",
+   "assumed_knowledge_codes": [
+    "ELEC1601"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "BUSS1030",
+   "name": "Accounting for Decision Making",
+   "credit_points": 6,
+   "requirements_raw": "N ACCT1001 or ACCT1002 or ACCT1003 or ACCT1004 or ACCT1005 Refer to the unit of study outline: https://www.sydney.edu.au/units",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ACCT1001",
+    "ACCT1002",
+    "ACCT1003",
+    "ACCT1004",
+    "ACCT1005"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "MATH2061",
+   "name": "Linear Mathematics and Vector Calculus",
+   "credit_points": 6,
+   "requirements_raw": "P {(MATH1X61 or MATH1971 ) or [(MATH1X21 or MATH1931 or MATH1X01 or MATH1906 or MATH1011 ) and ( MATH1014 or MATH1X02)]} and (MATH1X62 or MATH1972 or MATH1013 or MATH1X23 or MATH1X03 or MATH1933 or MATH1907 ) N MATH2961 or MATH2067 or MATH2021 or MATH2921 or MATH2022 or MATH2922 This unit of study is only available to Faculty of Engineering and Information Technologies students.",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "MATH1061",
+    "MATH1961",
+    "MATH1062",
+    "MATH1962"
+   ],
+   "prerequisite_groups": [
+    [
+     "MATH1061",
+     "MATH1961"
+    ],
+    [
+     "MATH1062",
+     "MATH1962"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "MATH2961",
+    "MATH2067",
+    "MATH2021",
+    "MATH2921",
+    "MATH2022",
+    "MATH2922"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "MKTG1001",
+   "name": "Marketing Principles",
+   "credit_points": 6,
+   "requirements_raw": "The Intensive July session of this unit is only available to Study Abroad students. All other students should enrol in Semester 1 and Semester 2 sessions.",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "PHYS1001",
+   "name": "Physics 1 (Regular)",
+   "credit_points": 6,
+   "requirements_raw": "A HSC Physics or PHYS1003 or PHYS1004 or PHYS1902 or equivalent. Students who have not completed HSC Physics (or equivalent) are strongly advised to take the Physics Bridging Course (offered in February). Students are also encouraged to take MATH1X61 or MATH1971 concurrently. N PHYS1002 or PHYS1901 or EDUH1017 or PHYS1903",
+   "assumed_knowledge_codes": [
+    "PHYS1003",
+    "PHYS1004",
+    "PHYS1902",
+    "MATH1971"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "PHYS1002",
+    "PHYS1901",
+    "EDUH1017",
+    "PHYS1903"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "PHYS1003",
+   "name": "Physics 1 (Technological)",
+   "credit_points": 6,
+   "requirements_raw": "A HSC Physics or PHYS1001 or PHYS1002 or PHYS1901 or equivalent. Students who have not completed HSC Physics (or equivalent) are strongly advised to take the Physics Bridging Course (offered in February). Students are also encouraged to take MATH1X62 or MATH1972 N PHYS1004 or PHYS1902 or PHYS1904 It is recommended that PHYS1001 or PHYS1002 or PHYS1901 be completed before this unit",
+   "assumed_knowledge_codes": [
+    "PHYS1001",
+    "PHYS1002",
+    "PHYS1901",
+    "MATH1972"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "PHYS1004",
+    "PHYS1902",
+    "PHYS1904",
+    "PHYS1001",
+    "PHYS1002",
+    "PHYS1901"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "PHYS2213",
+   "name": "Physics 2EE",
+   "credit_points": 6,
+   "requirements_raw": "A (((MATH1X21 or MATH1931 or MATH1X01 or MATH1906 or MATH1011 ) and (MATH1X02)) or (MATH1X61 or MATH1971 )) and (((MATH1X23 or MATH1933 or MATH1X03 or MATH1907 or MATH1013 ) and (MATH1X04 or MATH1X05)) or (MATH1X62 or MATH1972 )) P ( PHYS1001 or PHYS1901 ) and ( PHYS1003 or PHYS1902 )",
+   "assumed_knowledge_codes": [
+    "MATH1931",
+    "MATH1906",
+    "MATH1011",
+    "MATH1971",
+    "MATH1933",
+    "MATH1907",
+    "MATH1013",
+    "MATH1972"
+   ],
+   "prerequisite_codes": [
+    "PHYS1001",
+    "PHYS1901",
+    "PHYS1003",
+    "PHYS1902"
+   ],
+   "prerequisite_groups": [
+    [
+     "PHYS1001",
+     "PHYS1901"
+    ],
+    [
+     "PHYS1003",
+     "PHYS1902"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "STAT2011",
+   "name": "Probability and Estimation Theory",
+   "credit_points": 6,
+   "requirements_raw": "P (MATH1X61 or MATH1971 or MATH1X21 or MATH1931 or MATH1X01 or MATH1906 or MATH1011 ) and (DATA1X01 or MATH1X62 or MATH1972 or MATH10X5 or MATH1905 or STAT1021 or ECMT1010 or BUSS1020 ) N STAT2911",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "MATH1061",
+    "MATH1961",
+    "MATH1062",
+    "MATH1962"
+   ],
+   "prerequisite_groups": [
+    [
+     "MATH1061",
+     "MATH1961"
+    ],
+    [
+     "MATH1062",
+     "MATH1962"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "STAT2911"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "STAT2911",
+   "name": "Probability and Statistical Models (Adv)",
+   "credit_points": 6,
+   "requirements_raw": "P (MATH1X61 or MATH1971 or MATH1X21 or MATH1931 or MATH1X01 or MATH1906 or MATH1011 ) and a mark of 65 or greater in (DATA1X01 or MATH10X5 or MATH1905 or STAT1021 or ECMT1010 or BUSS1020 or MATH1X62 or MATH1972 ) N STAT2011",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "MATH1061",
+    "MATH1961",
+    "MATH1062",
+    "MATH1962"
+   ],
+   "prerequisite_groups": [
+    [
+     "MATH1061",
+     "MATH1961"
+    ],
+    [
+     "MATH1062",
+     "MATH1962"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "STAT2011"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP3027",
+   "name": "Algorithm Design",
+   "credit_points": 6,
+   "requirements_raw": "A Discrete mathematics and probability (e.g. MATH1064 or equivalent) P COMP2123 or COMP2823 N COMP2007 or COMP2907 or COMP3927",
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ],
+   "prerequisite_codes": [
+    "COMP2123",
+    "COMP2823"
+   ],
+   "prerequisite_groups": [
+    [
+     "COMP2123",
+     "COMP2823"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP2007",
+    "COMP2907",
+    "COMP3927"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP3221",
+   "name": "Distributed Systems",
+   "credit_points": 6,
+   "requirements_raw": "P ( INFO1105 or INFO1905 ) or (( INFO1103 or INFO1113 ) and ( COMP2123 or COMP2823 )) N COMP2121",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "INFO1105",
+    "INFO1905",
+    "INFO1103",
+    "INFO1113",
+    "COMP2123",
+    "COMP2823"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1105",
+     "INFO1905",
+     "INFO1103",
+     "INFO1113"
+    ],
+    [
+     "COMP2123",
+     "COMP2823"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP2121"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP3308",
+   "name": "Introduction to Artificial Intelligence",
+   "credit_points": 6,
+   "requirements_raw": "A Data structures and algorithms as covered in COMP2123 or COMP2823 . N COMP3608 P INFO1110 or INFO1910 or ENGG1801 or ENGG1810 or DATA1002 or DATA1902",
+   "assumed_knowledge_codes": [
+    "COMP2123",
+    "COMP2823"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "ENGG1801",
+    "ENGG1810",
+    "DATA1002",
+    "DATA1902"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910",
+     "ENGG1801",
+     "ENGG1810",
+     "DATA1002",
+     "DATA1902"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP3608"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP3419",
+   "name": "Graphics and Multimedia",
+   "credit_points": 6,
+   "requirements_raw": "A Programming skills P COMP2123 or COMP2823 or INFO1105 or INFO1905",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "COMP2123",
+    "COMP2823",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "prerequisite_groups": [
+    [
+     "COMP2123",
+     "COMP2823",
+     "INFO1105",
+     "INFO1905"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP3520",
+   "name": "Operating Systems Internals",
+   "credit_points": 6,
+   "requirements_raw": "P ( COMP2017 or COMP2129 ) and ( COMP2123 or COMP2823 or INFO1105 or INFO1905 )",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "COMP2017",
+    "COMP2129",
+    "COMP2123",
+    "COMP2823",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "prerequisite_groups": [
+    [
+     "COMP2017",
+     "COMP2129"
+    ],
+    [
+     "COMP2123",
+     "COMP2823",
+     "INFO1105",
+     "INFO1905"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP3608",
+   "name": "Introduction to Artificial Intelligence (Adv)",
+   "credit_points": 6,
+   "requirements_raw": "A Data structures and algorithms as covered in COMP2123 or COMP2823 . P ( INFO1110 or INFO1910 or ENGG1810 or DATA1002 or DATA1902 ) and distinction-level results in at least one 2000-level COMP or MATH or SOFT unit N COMP3308 COMP3308 and COMP3608 share the same lectures, but have different tutorials and assessment (the same type but more challenging).",
+   "assumed_knowledge_codes": [
+    "COMP2123",
+    "COMP2823"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810",
+    "DATA1002",
+    "DATA1902"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910",
+     "ENGG1810",
+     "DATA1002",
+     "DATA1902"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP3308",
+    "COMP3308",
+    "COMP3608"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP3927",
+   "name": "Algorithm Design (Adv)",
+   "credit_points": 6,
+   "requirements_raw": "A Discrete mathematics and probability (e.g. MATH1064 or equivalent) P Distinction level results in COMP2123 or COMP2823 N COMP2007 or COMP2907 or COMP3027",
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ],
+   "prerequisite_codes": [
+    "COMP2123",
+    "COMP2823"
+   ],
+   "prerequisite_groups": [
+    [
+     "COMP2123",
+     "COMP2823"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP2007",
+    "COMP2907",
+    "COMP3027"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "DATA3404",
+   "name": "Scalable Data Management",
+   "credit_points": 6,
+   "requirements_raw": "A This unit of study assumes that students have previous knowledge of database structures and of SQL. The prerequisite material is covered in DATA2001 or ISYS2120 . Familiarity with a programming language (e.g. Java or C) is also expected P DATA2001 or DATA2901 or ISYS2120 or INFO2120 or INFO2820 N INFO3504 or INFO3404",
+   "assumed_knowledge_codes": [
+    "DATA2001",
+    "ISYS2120"
+   ],
+   "prerequisite_codes": [
+    "DATA2001",
+    "DATA2901",
+    "ISYS2120",
+    "INFO2120",
+    "INFO2820"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA2001",
+     "DATA2901",
+     "ISYS2120",
+     "INFO2120",
+     "INFO2820"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO3504",
+    "INFO3404"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "DATA3406",
+   "name": "Human-in-the-Loop Data Analytics",
+   "credit_points": 6,
+   "requirements_raw": "A Basic statistics, database management, and programming P ( DATA2001 or DATA2901 ) and ( DATA2002 or DATA2902 )",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "DATA2001",
+    "DATA2901",
+    "DATA2002",
+    "DATA2902"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA2001",
+     "DATA2901"
+    ],
+    [
+     "DATA2002",
+     "DATA2902"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "INFO4994",
+   "name": "AI Literacy and Competency",
+   "credit_points": 6,
+   "requirements_raw": "",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC3104",
+   "name": "Engineering Electromagnetics",
+   "credit_points": 6,
+   "requirements_raw": "A Differential calculus, integral calculus, vector integral calculus; electrical circuit theory and analysis using lumped elements; fundamental electromagnetic laws and their use in the calculation of static fields",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC3203",
+   "name": "Electricity Networks",
+   "credit_points": 6,
+   "requirements_raw": "A This unit of study assumes a competence in 1000 level MATH (in particular, the ability to work with complex numbers), in elementary circuit theory and in basic electromagnetics",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC3204",
+   "name": "Power Electronics and Applications",
+   "credit_points": 6,
+   "requirements_raw": "A 1. Differential equations, linear algebra, complex variables, analysis of linear circuits. 2. Fourier theory applied to periodic and non-periodic signals. 3. Software such as MATLAB to perform signal analysis and filter design. 4. Familiarity with the use of basic laboratory equipment such as oscilloscope, function generator, power supply, etc. 5. Basic electric circuit theory and analysis P ELEC2104",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "ELEC2104"
+   ],
+   "prerequisite_groups": [
+    [
+     "ELEC2104"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC3206",
+   "name": "Electrical Energy Conversion Systems",
+   "credit_points": 6,
+   "requirements_raw": "A Following concepts are assumed knowledge for this unit of study: familiarity with circuit theory, electronic devices, ac power, capacitors and inductors, and electric circuits such as three-phase circuits and circuits with switches, the use of basic laboratory equipment such as oscilloscope and power supply",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC3304",
+   "name": "Control",
+   "credit_points": 6,
+   "requirements_raw": "A Specifically the following concepts are assumed knowledge for this unit: familiarity with basic Algebra, Differential and Integral Calculus, Physics; solution of linear differential equations, Matrix Theory, eigenvalues and eigenvectors; linear electrical circuits, ideal op-amps; continuous linear time-invariant systems and their time and frequency domain representations, Laplace transform, Fourier transform P ELEC2302 and ( MATH2061 or MATH2067 or MATH2021 or MATH2961 or AMME2000 ) N AMME3500",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "ELEC2302",
+    "MATH2061",
+    "MATH2067",
+    "MATH2021",
+    "MATH2961",
+    "AMME2000"
+   ],
+   "prerequisite_groups": [
+    [
+     "ELEC2302"
+    ],
+    [
+     "MATH2061",
+     "MATH2067",
+     "MATH2021",
+     "MATH2961",
+     "AMME2000"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "AMME3500"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC3305",
+   "name": "Digital Signal Processing",
+   "credit_points": 6,
+   "requirements_raw": "A Familiarity with basic Algebra, Differential and Integral Calculus, continuous linear time-invariant systems and their time and frequency domain representations, Fourier transform, sampling of continuous time signals",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC3404",
+   "name": "Electronic Circuit Design",
+   "credit_points": 6,
+   "requirements_raw": "A A background in basic electronics and circuit theory is assumed",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC3405",
+   "name": "Communications Electronics and Photonics",
+   "credit_points": 6,
+   "requirements_raw": "A ELEC2104 . A background in basic electronics and circuit theory is assumed",
+   "assumed_knowledge_codes": [
+    "ELEC2104"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC3505",
+   "name": "Communications",
+   "credit_points": 6,
+   "requirements_raw": "P ELEC2302",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "ELEC2302"
+   ],
+   "prerequisite_groups": [
+    [
+     "ELEC2302"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC3506",
+   "name": "Communications Networks",
+   "credit_points": 6,
+   "requirements_raw": "A Students should be familiar with fundamental digital technologies and representations (e.g., bit complement and internal word representation), have a basic understanding of the physical properties of communication channels, techniques and limitations, and be able to apply fundamental mathematical skills.",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC3607",
+   "name": "Embedded Systems",
+   "credit_points": 6,
+   "requirements_raw": "A ELEC1601 and ELEC2602 . Logic operations, theorems and Boolean algebra, data representation, number operations (binary, hex, integers and floating point), combinational logic analysis and synthesis, sequential logic, registers, counters, bus systems, state machines, simple CAD tools for logic design, basic computer organisation, the CPU, peripheral devices, software organisation, machine language, assembly language, operating systems, data communications and computer networks P ELEC1601 and ELEC2602",
+   "assumed_knowledge_codes": [
+    "ELEC1601",
+    "ELEC2602"
+   ],
+   "prerequisite_codes": [
+    "ELEC1601",
+    "ELEC2602"
+   ],
+   "prerequisite_groups": [
+    [
+     "ELEC1601"
+    ],
+    [
+     "ELEC2602"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC3608",
+   "name": "Computer Architecture",
+   "credit_points": 6,
+   "requirements_raw": "A ELEC3607 . Knowledge of microprocessor systems (embedded systems architecture, design methodology, interfacing and programming) is required P ELEC2602",
+   "assumed_knowledge_codes": [
+    "ELEC3607"
+   ],
+   "prerequisite_codes": [
+    "ELEC2602"
+   ],
+   "prerequisite_groups": [
+    [
+     "ELEC2602"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC3610",
+   "name": "E-Business Analysis and Design",
+   "credit_points": 6,
+   "requirements_raw": "N EBUS3003",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "EBUS3003"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC3612",
+   "name": "Pattern Recognition and Machine Intelligence",
+   "credit_points": 6,
+   "requirements_raw": "A 1st year mathematics and 1st year Software Engineering/Electrical Engineering. Linear Algebra, Basic Programming skill P [(MATH1X61 or MATH1971 ) or MATH1X02] and [(MATH1X62 or MATH1972 ) or (MATH1X05 or BUSS1020 )]",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "MATH1971",
+    "MATH1972",
+    "BUSS1020"
+   ],
+   "prerequisite_groups": [
+    [
+     "MATH1971"
+    ],
+    [
+     "MATH1972",
+     "BUSS1020"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4270",
+   "name": "Randomised and Advanced Algorithms",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area. Discrete mathematics and probability (e.g. MATH1064 or equivalent) P ( DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 ) and ( COMP2123 or COMP2823 ) and ( COMP3027 or COMP3927 ) N COMP5270",
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "COMP2123",
+    "COMP2823",
+    "COMP3027",
+    "COMP3927"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "COMP2123",
+     "COMP2823"
+    ],
+    [
+     "COMP3027",
+     "COMP3927"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5270"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4530",
+   "name": "Discrete Optimisation",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area. Discrete mathematics and probability (e.g. MATH1064 or equivalent) and Linear algebra (e.g. MATH1061 or equivalent) P ( DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 ) and ( COMP2123 or COMP2823 ) and ( COMP3027 or COMP3927 ) N COMP3530 or COMP5530",
+   "assumed_knowledge_codes": [
+    "MATH1064",
+    "MATH1061"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "COMP2123",
+    "COMP2823",
+    "COMP3027",
+    "COMP3927"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "COMP2123",
+     "COMP2823"
+    ],
+    [
+     "COMP3027",
+     "COMP3927"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP3530",
+    "COMP5530"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC4505",
+   "name": "Digital Communication Systems",
+   "credit_points": 6,
+   "requirements_raw": "P ELEC3505",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "ELEC3505"
+   ],
+   "prerequisite_groups": [
+    [
+     "ELEC3505"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC4714",
+   "name": "Major Industrial Project",
+   "credit_points": 24,
+   "requirements_raw": "P [36 credit points of 3000- or higher level BE units of study] and WAM >= 70 N ELEC4710 or ELEC4711 or ELEC4712 or ELEC4713 or ENGG4000 For students whose degree includes ENGG4000 , ELEC4714 counts in place of this unit. Students whose degree includes the Professional Engagement Program must enrol in all PEP units. ELEC4714 will count toward the Engineering Work requirement.",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ELEC4710",
+    "ELEC4711",
+    "ELEC4712",
+    "ELEC4713",
+    "ENGG4000",
+    "ENGG4000",
+    "ELEC4714",
+    "ELEC4714"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5101",
+   "name": "Antennas and Propagation",
+   "credit_points": 6,
+   "requirements_raw": "",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5204",
+   "name": "Power Systems Analysis and Protection",
+   "credit_points": 6,
+   "requirements_raw": "A ( ELEC3203 or ELEC9203 or ELEC5732 ) and ( ELEC3206 or ELEC9206 or ELEC5734 ). The unit assumes basic knowledge of circuits, familiarity with basic mathematics, competence with basic circuit theory and an understanding of three phase systems, transformers, transmission lines and associated modeling and operation of such equipment",
+   "assumed_knowledge_codes": [
+    "ELEC3203",
+    "ELEC9203",
+    "ELEC5732",
+    "ELEC3206",
+    "ELEC9206",
+    "ELEC5734"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5205",
+   "name": "High Voltage Engineering",
+   "credit_points": 6,
+   "requirements_raw": "A The following previous knowledge is assumed for this unit. Circuit analysis techniques, electricity networks, power system fundamentals",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5206",
+   "name": "Sustainable Energy Systems",
+   "credit_points": 6,
+   "requirements_raw": "A A background in power electronics converters and control theory such as that covered in ELEC3204 /9204 and ELEC3304 /9304 is assumed",
+   "assumed_knowledge_codes": [
+    "ELEC3204",
+    "ELEC3304"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5207",
+   "name": "Advanced Power Conversion Technologies",
+   "credit_points": 6,
+   "requirements_raw": "A ELEC3204",
+   "assumed_knowledge_codes": [
+    "ELEC3204"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5208",
+   "name": "Active Distribution Systems",
+   "credit_points": 6,
+   "requirements_raw": "A Fundamentals of Electricity Networks, Control Systems and Telecommunications",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5211",
+   "name": "Power System Dynamics and Control",
+   "credit_points": 6,
+   "requirements_raw": "A ELEC3203 or ELEC9203 or ELEC5732 . The assumed knowledge for learning this UoS is a deep understanding on circuit analysis and its applications in power system steady state analysis",
+   "assumed_knowledge_codes": [
+    "ELEC3203",
+    "ELEC9203",
+    "ELEC5732"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5212",
+   "name": "Power System Planning and Markets",
+   "credit_points": 6,
+   "requirements_raw": "A ELEC3203 or ELEC9203 or ELEC5732 . The assumed knowledge for learning this UoS is power system steady state analysis",
+   "assumed_knowledge_codes": [
+    "ELEC3203",
+    "ELEC9203",
+    "ELEC5732"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5213",
+   "name": "Engineering Optimisation",
+   "credit_points": 6,
+   "requirements_raw": "A Linear algebra, differential calculus, and numerical methods. Competency at programming in a high-level language (such as Matlab or Python)",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5304",
+   "name": "Intelligent Visual Signal Understanding",
+   "credit_points": 6,
+   "requirements_raw": "A Mathematics (e.g. probability and linear algebra) and programming skills (e.g. Matlab/Java/Python/C++)",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5305",
+   "name": "Acoustics, Speech and Signal Processing",
+   "credit_points": 6,
+   "requirements_raw": "A ( ELEC2302 or ELEC9302 ) and ( ELEC3305 or ELEC9305 ). Linear algebra, fundamental concepts of signals and systems as covered in ELEC2302 / ELEC9302 , fundamental concepts of digital signal processing as covered in ELEC3305 /9305. It would be unwise to attempt this unit without the assumed knowledge- if you are not sure, please contact the instructor",
+   "assumed_knowledge_codes": [
+    "ELEC2302",
+    "ELEC9302",
+    "ELEC3305",
+    "ELEC9305",
+    "ELEC2302",
+    "ELEC9302",
+    "ELEC3305"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5306",
+   "name": "Video Intelligence and Compression",
+   "credit_points": 6,
+   "requirements_raw": "A Basic understanding of digital signal processing (filtering, DFT) and programming skills (e.g. Matlab/Java/Python/C++)",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5307",
+   "name": "Advanced Signal Processing with Deep Learning",
+   "credit_points": 6,
+   "requirements_raw": "A Mathematics (e.g., probability and linear algebra) and programming skills (e.g. Matlab/Java/Python/C++)",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5308",
+   "name": "Intelligent Information Engineering Practice",
+   "credit_points": 6,
+   "requirements_raw": "A Students must have a good understanding of Linear algebra and basic mathematics, Basic Programming skills in C, Python or Matlab",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5405",
+   "name": "Building Microchips: From Theory to Practice",
+   "credit_points": 6,
+   "requirements_raw": "A Basic knowledge of physics and semiconductor devices (e.g., PN junctions, electrons and holes) is assumed",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5507",
+   "name": "Error Control Coding",
+   "credit_points": 6,
+   "requirements_raw": "A Fundamental mathematics including probability theory and linear algebra. Basic knowledge on digital communications. Basic MATLAB programming skills is desired",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5508",
+   "name": "Wireless Engineering",
+   "credit_points": 6,
+   "requirements_raw": "A Basic knowledge in probability and statistics, analog and digital communications, error probability calculation in communications channels, and telecommunications network",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5509",
+   "name": "Mobile Networks",
+   "credit_points": 6,
+   "requirements_raw": "A ELEC3505 or ELEC9505 and ELEC3506 or ELEC9506 . Basically, students need to know the concepts of data communications and mobile communications. If you are not sure, please contact the instructor",
+   "assumed_knowledge_codes": [
+    "ELEC3505",
+    "ELEC9505",
+    "ELEC3506",
+    "ELEC9506"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5510",
+   "name": "Satellite Communication Systems",
+   "credit_points": 6,
+   "requirements_raw": "A Knowledge of error probabilities, analog and digital modulation techniques and error performance evaluation studied in ELEC3505 Communications and ELEC4505 Digital Communication Systems, is assumed",
+   "assumed_knowledge_codes": [
+    "ELEC3505",
+    "ELEC4505"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5511",
+   "name": "Optical Communication Systems",
+   "credit_points": 6,
+   "requirements_raw": "A ( ELEC3405 or ELEC9405 ) and ( ELEC3505 or ELEC9505 ). Basic knowledge of communications, electronics and photonics",
+   "assumed_knowledge_codes": [
+    "ELEC3405",
+    "ELEC9405",
+    "ELEC3505",
+    "ELEC9505"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5512",
+   "name": "Optical Networks",
+   "credit_points": 6,
+   "requirements_raw": "A Knowledge of digital communications, wave propagation, and fundamental optics",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5514",
+   "name": "IoT Wireless Sensing and Networking",
+   "credit_points": 6,
+   "requirements_raw": "A ELEC3305 and ELEC3506 and ELEC3607 and ELEC5508",
+   "assumed_knowledge_codes": [
+    "ELEC3305",
+    "ELEC3506",
+    "ELEC3607",
+    "ELEC5508"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5516",
+   "name": "Electrical and Optical Sensor Design",
+   "credit_points": 6,
+   "requirements_raw": "A Math Ext 1, fundamental concepts of signal and systems, fundamental electrical circuit theory and analysis",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5517",
+   "name": "Software Defined Networks",
+   "credit_points": 6,
+   "requirements_raw": "A ELEC3506 or ELEC9506",
+   "assumed_knowledge_codes": [
+    "ELEC3506",
+    "ELEC9506"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5518",
+   "name": "IoT for Critical Infrastructures",
+   "credit_points": 6,
+   "requirements_raw": "A Some background in programming with Python or MATLAB. Background in communication systems. Basic maths.",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5616",
+   "name": "Computer and Network Security",
+   "credit_points": 6,
+   "requirements_raw": "A A programming language, basic maths",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5620",
+   "name": "Model Based Software Engineering",
+   "credit_points": 6,
+   "requirements_raw": "A A programming language, basic maths",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5622",
+   "name": "Signals, Software and Health",
+   "credit_points": 6,
+   "requirements_raw": "A Mathematics (linear algebra and probabilities) and basic programming skills (python/matlab/C++/java)",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5623",
+   "name": "Applied Generative AI in Engineering",
+   "credit_points": 6,
+   "requirements_raw": "A Students must have a basic understanding of artificial intelligence, software engineering and be proficient in Linear algebra, Python Programming",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC5760",
+   "name": "Intelligent Networked Control",
+   "credit_points": 6,
+   "requirements_raw": "A Fundamentals of Control Systems and Telecommunications, some background in programming with Python or MATLAB. Basic maths",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "INFO3315",
+   "name": "Human-Computer Interaction",
+   "credit_points": 6,
+   "requirements_raw": "P 6 credit points of 1000-level programming units ( INFO1110 or INFO1910 or INFO1113 or ENGG1810 ) and 12 credit points of 2000-level units from BAdvComp Table A",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "ENGG1810"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910",
+     "INFO1113",
+     "ENGG1810"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ISYS3401",
+   "name": "Information Technology Evaluation",
+   "credit_points": 6,
+   "requirements_raw": "A MATH1005 or MATH1905 or MATH1062 or DATA1001 or DATA1901 P ( INFO2110 or ISYS2110 ) and ( INFO2120 or ISYS2120 ) and ( ISYS2140 or ISYS2160 )",
+   "assumed_knowledge_codes": [
+    "MATH1005",
+    "MATH1905",
+    "MATH1062",
+    "DATA1001",
+    "DATA1901"
+   ],
+   "prerequisite_codes": [
+    "INFO2110",
+    "ISYS2110",
+    "INFO2120",
+    "ISYS2120",
+    "ISYS2140",
+    "ISYS2160"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO2110",
+     "ISYS2110"
+    ],
+    [
+     "INFO2120",
+     "ISYS2120"
+    ],
+    [
+     "ISYS2140",
+     "ISYS2160"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ISYS3888",
+   "name": "Information Systems Project",
+   "credit_points": 6,
+   "requirements_raw": "P ( INFO1110 or INFO1910 ) and INFO1113 and ( INFO2110 or ISYS2110 ) and ( INFO2120 or ISYS2120 ) and ( ISYS2140 or ISYS2160 ) N INFO3600 or ISYS3207 or ISYS3400",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "INFO2110",
+    "ISYS2110",
+    "INFO2120",
+    "ISYS2120",
+    "ISYS2140",
+    "ISYS2160"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910"
+    ],
+    [
+     "INFO1113"
+    ],
+    [
+     "INFO2110",
+     "ISYS2110"
+    ],
+    [
+     "INFO2120",
+     "ISYS2120"
+    ],
+    [
+     "ISYS2140",
+     "ISYS2160"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO3600",
+    "ISYS3207",
+    "ISYS3400"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4447",
+   "name": "Pervasive Computing",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area. ELEC1601 or COMP2129 or COMP2017 . Any other background in programming and operating systems that is sufficient for the student to independently learn new programming tools from standard online technical materials P DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 N COMP5047",
+   "assumed_knowledge_codes": [
+    "ELEC1601",
+    "COMP2129",
+    "COMP2017"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5047"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4216",
+   "name": "Mobile Computing",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area P ( DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 ) and INFO1113 N COMP5216",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "INFO1113"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "INFO1113"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5216"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4426",
+   "name": "Parallel and Distributed Computing",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area P DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 N COMP5426 or OCMP5426",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5426",
+    "OCMP5426"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4313",
+   "name": "Large Scale Networks",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area. Algorithmic skills gained through units such as COMP2123 or COMP2823 or COMP3027 or COMP3927 or equivalent. Basic probability knowledge P DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 N COMP5313",
+   "assumed_knowledge_codes": [
+    "COMP2123",
+    "COMP2823",
+    "COMP3027",
+    "COMP3927"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5313"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4318",
+   "name": "Machine Learning and Data Mining",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area. Experience with programming and data structures as covered in COMP2123 or COMP2823 or COMP9123 or equivalent. Discrete mathematics and probability (e.g. MATH1064 or equivalent); linear algebra and calculus (e.g. MATH1061 or equivalent) P DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 N COMP5318 or OCMP5318",
+   "assumed_knowledge_codes": [
+    "COMP2123",
+    "COMP2823",
+    "COMP9123",
+    "MATH1064",
+    "MATH1061"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5318",
+    "OCMP5318"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4328",
+   "name": "Advanced Machine Learning",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area P DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 C COMP3308 or COMP3608 or COMP4318 or [( INFO1110 or INFO1910 or Distinction result in ENGG1810 ) and Distinction results in MATHXXXX] N COMP5328 or OCMP5328",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [
+    "COMP3308",
+    "COMP3608",
+    "COMP4318",
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810"
+   ],
+   "corequisite_groups": [
+    [
+     "COMP3308",
+     "COMP3608",
+     "COMP4318",
+     "INFO1110",
+     "INFO1910",
+     "ENGG1810"
+    ]
+   ],
+   "prohibition_codes": [
+    "COMP5328",
+    "OCMP5328"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4329",
+   "name": "Deep Learning",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area P ( DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 ) and ( COMP3308 or COMP3608 or COMP4318 or BMET2925 ) N COMP5329 or OCMP5329",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "COMP3308",
+    "COMP3608",
+    "COMP4318",
+    "BMET2925"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "COMP3308",
+     "COMP3608",
+     "COMP4318",
+     "BMET2925"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5329",
+    "OCMP5329"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4338",
+   "name": "Advanced Data Models",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area P ( DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 ) and ( INFO2120 or INFO2820 or ISYS2120 ) N COMP5338 or OCMP5338",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "INFO2120",
+    "INFO2820",
+    "ISYS2120"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "INFO2120",
+     "INFO2820",
+     "ISYS2120"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5338",
+    "OCMP5338"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4347",
+   "name": "Web Application Development",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area. Foundation knowledge of JavaScript P ( DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 ) and ISYS2120 and SOFT2412 N COMP5347",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "ISYS2120",
+    "SOFT2412"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "ISYS2120"
+    ],
+    [
+     "SOFT2412"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5347"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4348",
+   "name": "Enterprise Scale Software Architecture",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area P ( DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 ) and SOFT2412 and ( COMP2123 or COMP2823 or INFO1105 or INFO1905 ) N COMP5348",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "SOFT2412",
+    "COMP2123",
+    "COMP2823",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "SOFT2412"
+    ],
+    [
+     "COMP2123",
+     "COMP2823",
+     "INFO1105",
+     "INFO1905"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5348"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4349",
+   "name": "Cloud Computing",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area. Knowledge of OS concepts as covered in INFO1112 P ( DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 ) and ( INFO1110 or INFO1910 or ENGG1810 or DATA1002 or DATA1902 ) N COMP5349 or OCMP5349",
+   "assumed_knowledge_codes": [
+    "INFO1112"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810",
+    "DATA1002",
+    "DATA1902"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "INFO1110",
+     "INFO1910",
+     "ENGG1810",
+     "DATA1002",
+     "DATA1902"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5349",
+    "OCMP5349"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4405",
+   "name": "Digital Media Computing",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area. Experience with programming skills as covered in INFO1113 or COMP2123 or COMP2823 or INFO1105 or INFO1905 or other similar units P DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 N COMP5405 or COMP5114 or COMP9419",
+   "assumed_knowledge_codes": [
+    "INFO1113",
+    "COMP2123",
+    "COMP2823",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5405",
+    "COMP5114",
+    "COMP9419"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4415",
+   "name": "Multimedia Design and Authoring",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area. Experience with software development as covered in SOFT2412 P DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 N COMP5415",
+   "assumed_knowledge_codes": [
+    "SOFT2412"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5415"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4416",
+   "name": "Advanced Network Technologies",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area. COMP3221 or ELEC3506 P DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 N COMP5416",
+   "assumed_knowledge_codes": [
+    "COMP3221",
+    "ELEC3506"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5416"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4424",
+   "name": "Information Technology in Biomedicine",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area P DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 N COMP5424",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5424"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4425",
+   "name": "Multimedia Retrieval",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area. Experience with programming skills as covered in INFO1113 or COMP2123 or COMP2823 or INFO1105 or INFO1905 or other similar units P DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 N COMP5425",
+   "assumed_knowledge_codes": [
+    "INFO1113",
+    "COMP2123",
+    "COMP2823",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5425"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4427",
+   "name": "Usability Engineering",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area P DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 N COMP5427",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5427"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4445",
+   "name": "Computational Geometry",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area. Discrete mathematics and probability (e.g. MATH1064 or equivalent) P ( DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 ) and ( COMP2123 or COMP2823 ) and ( COMP3027 or COMP3927 ) N COMP5045",
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "COMP2123",
+    "COMP2823",
+    "COMP3027",
+    "COMP3927"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "COMP2123",
+     "COMP2823"
+    ],
+    [
+     "COMP3027",
+     "COMP3927"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5045"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4446",
+   "name": "Natural Language Processing",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area. Knowledge of an OO programming language as covered in INFO1113 P DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 N COMP5046",
+   "assumed_knowledge_codes": [
+    "INFO1113"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5046"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4448",
+   "name": "Visual Analytics",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area P ( DATA3888 or COMP3888 or COMP3988 or CSEC3888 or SOFT3888 or ENGG3112 or SCPU3001 ) and ( COMP2123 or COMP2823 ) N COMP5048 or OCMP5048",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "COMP2123",
+    "COMP2823"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "COMP2123",
+     "COMP2823"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5048",
+    "OCMP5048"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4617",
+   "name": "Empirical Security Analysis and Engineering",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area P ( DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 ) and ( CSEC3616 or INFO3616 or ELEC5616 ) N COMP5617 or OCMP5617",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "CSEC3616",
+    "INFO3616",
+    "ELEC5616"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "CSEC3616",
+     "INFO3616",
+     "ELEC5616"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5617",
+    "OCMP5617"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP4618",
+   "name": "Applied Cybersecurity",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area P DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 N COMP5618 or OCMP5618",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5618",
+    "OCMP5618"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "DATA4207",
+   "name": "Data Analysis in the Social Sciences",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area P DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 N DATA5207",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "DATA5207"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "INFO4491",
+   "name": "Services Science Management and Engineering",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area P ( DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 ) and ISYS2160 N INFO5991",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "ISYS2160"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "ISYS2160"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO5991"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ISYS4450",
+   "name": "Knowledge Management Systems",
+   "credit_points": 6,
+   "requirements_raw": "A A major in a computer science area P ( DATA3888 or COMP3888 or COMP3988 or CSEC3888 or ISYS3888 or SOFT3888 or ENGG3112 or SCPU3001 ) and ISYS2160 N ISYS5050",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "ISYS2160"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "ISYS2160"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ISYS5050"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  }
+ ]
+}

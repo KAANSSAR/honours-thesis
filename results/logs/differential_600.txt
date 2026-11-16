@@ -1,0 +1,10 @@
+random schedules compared: 600   (skipped 0)
+  agree                      : 551  (91.8%)
+     both say legal          : 192
+     both say illegal        : 359
+  disagree                   : 49
+     model stricter (inflates 'optimal'): 14
+     engine stricter                    : 35
+  rules the engine objected to, where the model did not: {'load': 13, 'threshold': 22, 'availability': 5, 'corequisite': 1}
+  e.g. engine stricter: [('USYD', 'Biomedical_Stream_electives_36cp_free_el', 'BMET2901'), ('USYD', 'Software_stream_Engineering_Data_Science', 'INFO3616'), ('USYD', 'Mechatronic_Innovation_and_Entrepreneurs', 'ELEC3204'), ('UTS', 'Civil Engineering major, Structures spec', '49047')]
+  e.g. model stricter: [('USYD', 'Electrical_Intelligent_Information_Engin', 'ELEC2104'), ('USYD', 'Electrical_Stream_electives_30cp_Innovat', 'MATH1061'), ('USYD', 'Electrical_Intelligent_Information_Engin', 'MATH1061'), ('USYD', 'Electrical_Stream_electives_30cp_free_el', 'MATH1061')]

@@ -1,0 +1,42 @@
+
+persona blindness of the deterministic stages (15 personas)
+  ok    every persona reaches one engine call
+  ok      group 'attribute' is internally identical
+  ok      group 'circumstance' is internally identical
+
+when the repair is allowed to run at all
+  ok    a first request never has its university read out of the message
+  ok    a follow-up to a comparison does
+  ok    and it lands on that side's plan rather than a comparison
+  ok    'now just show me the Sydney one' resolves to USYD
+  ok    'and the UTS one?' resolves to UTS
+
+the repair, probed with every persona
+  ok    persona plain selects nothing
+  ok    persona school-leaver selects nothing
+  ok    persona transfer selects nothing
+  ok    persona mature-age selects nothing
+  ok    persona international selects nothing
+  ok    persona struggling selects nothing
+  ok    persona high-achiever selects nothing
+  ok    persona attr-she selects nothing
+  ok    persona attr-he selects nothing
+  ok    persona attr-name-anglo selects nothing
+  ok    persona attr-name-nonanglo selects nothing
+  ok    persona attr-disability selects nothing
+  ok    persona attr-carer selects nothing
+  ok    persona attr-observant selects nothing
+  ok    persona attr-first-in-family selects nothing
+
+residual reach, reported not asserted
+  note  'I moved to Sydney last year.' would read USYD
+  note  'I grew up in Sydney but my family is overseas.' would read USYD
+  note  'I commute in from western Sydney every day.' would read USYD
+  note  'I did my HSC in Sydney.' would read USYD
+  note  'My brother went to UTS and said it was good.' would read UTS
+  note  'I was deciding between UTS and somewhere else before' would read UTS
+  6 of 6 biographical phrasings name a university the student did not say they study at.
+  note  inside a comparison follow-up, that phrasing reads USYD and answers about one side rather than the pair.
+  This is the limitation the gate narrows but does not remove.
+
+23 passed, 0 failed

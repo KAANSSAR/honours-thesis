@@ -1,0 +1,26 @@
+========================================================================
+PART 1 - the 51 enrolment plans as published
+========================================================================
+
+[USYD] Mechatronic_Innovation_and_Entrepreneurship_24cp_stream_electives_12cp  (1 finding(s))
+    AMME4111 at Year 4 - Semester 1: needs 36cp of 3000-level or higher beforehand, has 30cp
+
+[UTS] Biomedical Engineering major  (3 finding(s))
+    91161 at Year 2 - Spring session: not offered then (runs in ['Autumn session'])
+    41163 at Year 3 - Autumn session: not offered then (runs in ['Spring session'])
+    42001 at Year 4 - Autumn session: not offered then (runs in ['Spring session'])
+
+[UTS] Mechanical Engineering major  (1 finding(s))
+    41029 at Year 4 - Autumn session: needs one of ['48260', '16912', '41202'] finished earlier; in this plan [('41202', 'Year 4 - Autumn session')]
+
+[UTS] Mechatronic Engineering major  (1 finding(s))
+    41039 at Year 1 - Spring session: not offered then (runs in ['Autumn session'])
+
+plans with findings: 4 / 51
+
+========================================================================
+PART 2 - every single-failure repair
+========================================================================
+repairs with no NEW rule violation : 1497
+repairs that introduce a violation : 0
+scenarios the engine could not plan: 0

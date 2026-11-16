@@ -1,0 +1,71 @@
+{
+  "_comment": [
+    "Administrative facts for Path A that are not in the unit or degree data,",
+    "because neither institution publishes them on the handbook pages the",
+    "scrapers read. Every value carries the page it came from and the year it",
+    "applies to, so the comparison stays computed from recorded data rather than",
+    "produced by the language model (Section 3.8).",
+    "",
+    "The two institutions publish tuition on different bases: Sydney per year at",
+    "a 48 credit point full-time load, UTS per session. Normalising them is the",
+    "engine's job and needs the credit point totals it already holds."
+  ],
+
+  "domestic_commonwealth_supported": {
+    "basis": "per EFTSL",
+    "credit_points_per_eftsl": 48,
+    "amount": 9537,
+    "currency": "AUD",
+    "year": 2026,
+    "funding_cluster": "Cluster 3 (Engineering, Surveying, Environmental Studies or Science), non-grandfathered",
+    "set_nationally": true,
+    "note": "The Commonwealth caps this amount, so it is the same at both institutions for the same discipline. It differentiates the two degrees only through their differing credit point totals.",
+    "source": "https://www.education.gov.au/download/19201/2026-indexed-rates/41481/document/pdf",
+    "retrieved": "2026-10-30"
+  },
+
+  "USYD": {
+    "award": "Bachelor of Engineering (Honours)",
+    "provider": "University of Sydney",
+    "nominal_years": 4,
+    "international_tuition": {
+      "basis": "per year",
+      "credit_points_per_year": 48,
+      "amount": 60600,
+      "currency": "AUD",
+      "year": 2026,
+      "field": "Engineering and computer science, undergraduate guide fee",
+      "indicative": true,
+      "source": "https://www.sydney.edu.au/study/fees-and-loans/international-student-tuition-fees.html",
+      "retrieved": "2026-10-30"
+    }
+  },
+
+  "UTS": {
+    "award": "Bachelor of Engineering (Honours)",
+    "provider": "University of Technology Sydney",
+    "course_code": "C09066",
+    "cricos": "084098A",
+    "nominal_years": 4,
+    "nominal_sessions": 8,
+    "international_tuition": {
+      "basis": "per session",
+      "sessions_in_course": 8,
+      "amount": 28620,
+      "currency": "AUD",
+      "year": 2027,
+      "indicative": true,
+      "source": "https://www.uts.edu.au/for-students/international/guides-for-international-students/contentassets/utsi-listing-grid-international-undergraduate-course-summary-table.pdf",
+      "retrieved": "2026-10-30"
+    },
+    "standard_full_time_load_cp": 24,
+    "maximum_load_cp": 30,
+    "load_source": "https://www.uts.edu.au/for-students/current-students/managing-your-course/your-enrolment/study-load"
+  },
+
+  "known_gaps": [
+    "The international figures are for different years: Sydney publishes 2026 and the current UTS international table is 2027. UTS does not publish a 2026 equivalent any longer, so the comparison is reported with both years stated rather than adjusted.",
+    "Both institutions describe their international fees as indicative.",
+    "Domestic full-fee (non-Commonwealth-supported) places are not recorded, because neither degree normally offers one to a domestic undergraduate."
+  ]
+}

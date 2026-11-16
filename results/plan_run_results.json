@@ -1,0 +1,1340 @@
+{
+ "results": [
+  {
+   "plan": "Software | stream: Computer Engineering | breadth: Humanitarian Engineering",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 32,
+   "open_slots": 0,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 32,
+    "clean": 32,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Software | stream: Computer Engineering | breadth: Innovation and Entrepreneurship",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 32,
+   "open_slots": 0,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 32,
+    "clean": 32,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Software | stream: Computer Engineering | breadth: (free electives)",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 28,
+   "open_slots": 4,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 28,
+    "clean": 28,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Software | stream: Intelligent Information Engineering | breadth: Humanitarian Engineering",
+   "institution": "USYD",
+   "positions": 9,
+   "placed": 32,
+   "open_slots": 0,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 32,
+    "clean": 32,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Software | stream: Intelligent Information Engineering | breadth: Innovation and Entrepreneurship",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 32,
+   "open_slots": 0,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 32,
+    "clean": 32,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Software | stream: Intelligent Information Engineering | breadth: (free electives)",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 28,
+   "open_slots": 4,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 28,
+    "clean": 28,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Software | stream: Internet of Things (IoT) | breadth: Humanitarian Engineering",
+   "institution": "USYD",
+   "positions": 9,
+   "placed": 32,
+   "open_slots": 0,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 32,
+    "clean": 32,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Software | stream: Internet of Things (IoT) | breadth: Innovation and Entrepreneurship",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 32,
+   "open_slots": 0,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 32,
+    "clean": 32,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Software | stream: Internet of Things (IoT) | breadth: (free electives)",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 28,
+   "open_slots": 4,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 28,
+    "clean": 28,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Software | stream: Engineering Data Science | breadth: Humanitarian Engineering",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 32,
+   "open_slots": 0,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 32,
+    "clean": 32,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Software | stream: Engineering Data Science | breadth: Innovation and Entrepreneurship",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 32,
+   "open_slots": 0,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 32,
+    "clean": 32,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Software | stream: Engineering Data Science | breadth: (free electives)",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 28,
+   "open_slots": 4,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 28,
+    "clean": 28,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Software | stream: (generic electives) | breadth: Humanitarian Engineering",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 27,
+   "open_slots": 5,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 27,
+    "clean": 27,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Software | stream: (generic electives) | breadth: Innovation and Entrepreneurship",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 27,
+   "open_slots": 5,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 27,
+    "clean": 27,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Software | stream: (generic electives) | breadth: (free electives)",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 23,
+   "open_slots": 9,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 23,
+    "clean": 23,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Aeronautical | stream: Aerospace Systems + 1 Free Elective",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 31,
+   "open_slots": 1,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 31,
+    "clean": 31,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Aeronautical |Breadth: Innovation and Entrepreneurship (No free elective)",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 32,
+   "open_slots": 0,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 32,
+    "clean": 32,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Aeronautical | stream: (generic electives) | breadth: (free electives)",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 28,
+   "open_slots": 4,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 28,
+    "clean": 28,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Biomedical | stream: Bionics and Bioelectronics | breadth: Innovation and Entrepreneurship + 1 stream elective",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 31,
+   "open_slots": 1,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 31,
+    "clean": 31,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Biomedical | stream: Bionics and Bioelectronics + 1 stream elective 6cp + free electives 24cp",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 27,
+   "open_slots": 5,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 27,
+    "clean": 27,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Biomedical | Stream electives 36cp + Innovation and Entrepreneurship 24cp",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 26,
+   "open_slots": 6,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 26,
+    "clean": 26,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Biomedical | Stream electives 36cp + free electives 24cp, no specialisation",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 22,
+   "open_slots": 10,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 22,
+    "clean": 22,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Biomedical | Bionics and Bioelectronics 30cp + Nanoscale Biotechnology 30cp",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 32,
+   "open_slots": 0,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 32,
+    "clean": 32,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Civil | Structures + Innovation & Enterpreneurship + stream elec",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 31,
+   "open_slots": 1,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 31,
+    "clean": 31,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Civil | Structures 18cp + stream elective 6cp + free electives 24cp",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 27,
+   "open_slots": 5,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 27,
+    "clean": 27,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Civil | Structures 18cp + Geotechnical Engineering 18cp + free electives 12cp",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 30,
+   "open_slots": 2,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 30,
+    "clean": 30,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Civil | Innovation and Entrepreneurship 24cp + stream electives 24cp",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 28,
+   "open_slots": 4,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 28,
+    "clean": 28,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Civil | stream: (generic electives) | breadth: (free electives)",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 24,
+   "open_slots": 8,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 24,
+    "clean": 24,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Electrical |Intelligent Information Engineering 30cp + free electives 24cp",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 28,
+   "open_slots": 4,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 28,
+    "clean": 28,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Electrical | Intelligent Information Engineering 30cp + Innovation and Entrepreneurship 24cp",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 32,
+   "open_slots": 0,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 32,
+    "clean": 32,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Electrical |Stream electives 30cp + free electives 24cp, no specialisation",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 23,
+   "open_slots": 9,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 23,
+    "clean": 23,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Electrical | Stream electives 30cp + Innovation and Entrepreneurship 24cp",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 27,
+   "open_slots": 5,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 27,
+    "clean": 27,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Environmental |Chemical Engineering for the Environment 18cp + 1 free elective 6cp",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 31,
+   "open_slots": 1,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 31,
+    "clean": 31,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Environmental | Innovation and Entrepreneurship 24cp, no free electives",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 32,
+   "open_slots": 0,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 32,
+    "clean": 32,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Environmental | stream: (generic electives) | breadth: (free electives)",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 28,
+   "open_slots": 4,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 28,
+    "clean": 28,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Mechanical | Energy and the Environment 18cp + stream or free electives 18cp",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 29,
+   "open_slots": 3,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 29,
+    "clean": 29,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Mechanical | Energy and the Environment 18cp + Materials Science and Engineering 18cp",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 32,
+   "open_slots": 0,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 32,
+    "clean": 32,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Mechanical | Innovation and Entrepreneurship 24cp + stream electives 12cp",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 30,
+   "open_slots": 2,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 30,
+    "clean": 30,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Mechanical | Stream electives + free electives 36cp, no specialisation",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 26,
+   "open_slots": 6,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 26,
+    "clean": 26,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Mechatronic |Robotics and Intelligent Systems 24cp + stream or free electives 12cp",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 30,
+   "open_slots": 2,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 30,
+    "clean": 30,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Mechatronic | Innovation and Entrepreneurship 24cp + stream electives 12cp",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 30,
+   "open_slots": 2,
+   "credit_points": 192,
+   "violations": [
+    "AMME4111 (Year 4 - Semester 1) needs 36cp of matching units scheduled earlier, and not enough are."
+   ],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 30,
+    "clean": 30,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Mechatronic | Stream electives 12 to 36cp + free electives 0 to 24cp, no specialisation",
+   "institution": "USYD",
+   "positions": 8,
+   "placed": 26,
+   "open_slots": 6,
+   "credit_points": 192,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Semester 1": 24,
+    "Year 1 - Semester 2": 24,
+    "Year 2 - Semester 1": 24,
+    "Year 2 - Semester 2": 24,
+    "Year 3 - Semester 1": 24,
+    "Year 3 - Semester 2": 24,
+    "Year 4 - Semester 1": 24,
+    "Year 4 - Semester 2": 24
+   },
+   "replan": {
+    "attempted": 26,
+    "clean": 26,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Biomedical Engineering major",
+   "institution": "UTS",
+   "positions": 8,
+   "placed": 29,
+   "open_slots": 4,
+   "credit_points": 198,
+   "violations": [
+    "91161 (Year 2 - Spring session) is not offered in that session; it runs in Autumn session.",
+    "41163 (Year 3 - Autumn session) is not offered in that session; it runs in Spring session.",
+    "42001 (Year 4 - Autumn session) is not offered in that session; it runs in Spring session."
+   ],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Autumn session": 24,
+    "Year 1 - Spring session": 24,
+    "Year 2 - Autumn session": 27,
+    "Year 2 - Spring session": 24,
+    "Year 3 - Autumn session": 24,
+    "Year 3 - Spring session": 24,
+    "Year 4 - Autumn session": 27,
+    "Year 4 - Spring session": 24
+   },
+   "replan": {
+    "attempted": 29,
+    "clean": 29,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Civil Engineering major",
+   "institution": "UTS",
+   "positions": 8,
+   "placed": 31,
+   "open_slots": 4,
+   "credit_points": 198,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Autumn session": 24,
+    "Year 1 - Spring session": 24,
+    "Year 2 - Autumn session": 27,
+    "Year 2 - Spring session": 24,
+    "Year 3 - Autumn session": 24,
+    "Year 3 - Spring session": 24,
+    "Year 4 - Autumn session": 27,
+    "Year 4 - Spring session": 24
+   },
+   "replan": {
+    "attempted": 31,
+    "clean": 31,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Civil Engineering major, Construction specialisation",
+   "institution": "UTS",
+   "positions": 8,
+   "placed": 31,
+   "open_slots": 4,
+   "credit_points": 198,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Autumn session": 24,
+    "Year 1 - Spring session": 24,
+    "Year 2 - Autumn session": 27,
+    "Year 2 - Spring session": 24,
+    "Year 3 - Autumn session": 24,
+    "Year 3 - Spring session": 24,
+    "Year 4 - Autumn session": 27,
+    "Year 4 - Spring session": 24
+   },
+   "replan": {
+    "attempted": 31,
+    "clean": 31,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Civil Engineering major, Structures specialisation",
+   "institution": "UTS",
+   "positions": 8,
+   "placed": 31,
+   "open_slots": 4,
+   "credit_points": 198,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Autumn session": 24,
+    "Year 1 - Spring session": 24,
+    "Year 2 - Autumn session": 27,
+    "Year 2 - Spring session": 24,
+    "Year 3 - Autumn session": 24,
+    "Year 3 - Spring session": 24,
+    "Year 4 - Autumn session": 27,
+    "Year 4 - Spring session": 24
+   },
+   "replan": {
+    "attempted": 31,
+    "clean": 31,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Civil and Environmental Engineering major",
+   "institution": "UTS",
+   "positions": 9,
+   "placed": 35,
+   "open_slots": 0,
+   "credit_points": 198,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Autumn session": 24,
+    "Year 1 - Spring session": 24,
+    "Year 2 - Autumn session": 27,
+    "Year 2 - Spring session": 24,
+    "Year 3 - Autumn session": 24,
+    "Year 3 - Spring session": 30,
+    "Year 4 - Autumn session": 21,
+    "Year 4 - Spring session": 24
+   },
+   "replan": {
+    "attempted": 35,
+    "clean": 35,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Electrical Engineering major",
+   "institution": "UTS",
+   "positions": 8,
+   "placed": 31,
+   "open_slots": 4,
+   "credit_points": 198,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Autumn session": 24,
+    "Year 1 - Spring session": 24,
+    "Year 2 - Autumn session": 27,
+    "Year 2 - Spring session": 24,
+    "Year 3 - Autumn session": 24,
+    "Year 3 - Spring session": 24,
+    "Year 4 - Autumn session": 27,
+    "Year 4 - Spring session": 24
+   },
+   "replan": {
+    "attempted": 31,
+    "clean": 31,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Mechanical Engineering major",
+   "institution": "UTS",
+   "positions": 8,
+   "placed": 31,
+   "open_slots": 4,
+   "credit_points": 198,
+   "violations": [
+    "41029 (Year 4 - Autumn session) needs 48260 or 16912 or 41202 beforehand, and has none of them."
+   ],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Autumn session": 24,
+    "Year 1 - Spring session": 24,
+    "Year 2 - Autumn session": 27,
+    "Year 2 - Spring session": 24,
+    "Year 3 - Autumn session": 24,
+    "Year 3 - Spring session": 24,
+    "Year 4 - Autumn session": 27,
+    "Year 4 - Spring session": 24
+   },
+   "replan": {
+    "attempted": 31,
+    "clean": 31,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Mechatronic Engineering major",
+   "institution": "UTS",
+   "positions": 8,
+   "placed": 31,
+   "open_slots": 4,
+   "credit_points": 198,
+   "violations": [
+    "41039 (Year 1 - Spring session) is not offered in that session; it runs in Autumn session."
+   ],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Autumn session": 24,
+    "Year 1 - Spring session": 24,
+    "Year 2 - Autumn session": 27,
+    "Year 2 - Spring session": 24,
+    "Year 3 - Autumn session": 24,
+    "Year 3 - Spring session": 24,
+    "Year 4 - Autumn session": 27,
+    "Year 4 - Spring session": 24
+   },
+   "replan": {
+    "attempted": 31,
+    "clean": 31,
+    "problems": 0,
+    "examples": []
+   }
+  },
+  {
+   "plan": "Software Engineering major",
+   "institution": "UTS",
+   "positions": 8,
+   "placed": 29,
+   "open_slots": 4,
+   "credit_points": 198,
+   "violations": [],
+   "units_not_in_dataset": [],
+   "period_loads": {
+    "Year 1 - Autumn session": 24,
+    "Year 1 - Spring session": 24,
+    "Year 2 - Autumn session": 27,
+    "Year 2 - Spring session": 24,
+    "Year 3 - Autumn session": 24,
+    "Year 3 - Spring session": 24,
+    "Year 4 - Autumn session": 27,
+    "Year 4 - Spring session": 24
+   },
+   "replan": {
+    "attempted": 29,
+    "clean": 29,
+    "problems": 0,
+    "examples": []
+   }
+  }
+ ]
+}

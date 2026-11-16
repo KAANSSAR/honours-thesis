@@ -1,0 +1,2167 @@
+{
+ "source_url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/electives/engineering-unit-of-study-table.html",
+ "units": [
+  {
+   "code": "AMME1362",
+   "name": "Introduction to Engineering Materials",
+   "credit_points": 6,
+   "requirements_raw": "A HSC Mathematics Extension 1 N CIVL2110 or CIVL1110 or AMME2302",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "CIVL2110",
+    "CIVL1110",
+    "AMME2302"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "AMME1705",
+   "name": "Introduction to Electromechanical Systems",
+   "credit_points": 6,
+   "requirements_raw": "N AMME2700",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "AMME2700"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "AMME1802",
+   "name": "Engineering Mechanics",
+   "credit_points": 6,
+   "requirements_raw": "A NSW HSC Extension 1 Mathematics or equivalent N CIVL1802 or ENGG1802",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "CIVL1802",
+    "ENGG1802"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "BMET1961",
+   "name": "Biomedical Engineering 1B",
+   "credit_points": 6,
+   "requirements_raw": "N AMME1961 HSC Biology and HSC Chemistry. Summer bridging courses are available for students who did not complete HSC Biology or Chemistry",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "AMME1961"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CHNG1103",
+   "name": "Conservation of Mass and Energy",
+   "credit_points": 6,
+   "requirements_raw": "A HSC Mathematics Extension 1",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CHNG1106",
+   "name": "Engineering for a Sustainable Society",
+   "credit_points": 6,
+   "requirements_raw": "A Knowledge of mass and energy balance concepts equivalent to content of CHNG1103 or CHNG9103 C CHNG1103 N CHNG2805",
+   "assumed_knowledge_codes": [
+    "CHNG1103",
+    "CHNG9103"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [
+    "CHNG1103"
+   ],
+   "prohibition_codes": [
+    "CHNG2805"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CHNG1108",
+   "name": "Introduction to Chemical Engineering",
+   "credit_points": 6,
+   "requirements_raw": "A HSC Mathematics and Chemistry N ENGG1800 or CIVL1900 or MECH1560 or AERO1560 or AMME1960 or BMET1960 or MTRX1701 or ENGG1960 or ELEC1004 or ELEC1005 or ENVE1001",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ENGG1800",
+    "CIVL1900",
+    "MECH1560",
+    "AERO1560",
+    "AMME1960",
+    "BMET1960",
+    "MTRX1701",
+    "ENGG1960",
+    "ELEC1004",
+    "ELEC1005",
+    "ENVE1001"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CIVL1022",
+   "name": "Geological Hazards",
+   "credit_points": 6,
+   "requirements_raw": "N GEOL1501 or CIVL9022",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "GEOL1501",
+    "CIVL9022"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CIVL1110",
+   "name": "Materials",
+   "credit_points": 6,
+   "requirements_raw": "A CIVL1802 (or equivalent) N AMME1362 or CIVL2110",
+   "assumed_knowledge_codes": [
+    "CIVL1802"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "AMME1362",
+    "CIVL2110"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CIVL1802",
+   "name": "Statics",
+   "credit_points": 6,
+   "requirements_raw": "A HSC Mathematics Extension 1 N ENGG1802 or AMME1802",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ENGG1802",
+    "AMME1802"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CIVL1810",
+   "name": "Engineering Construction and Surveying",
+   "credit_points": 6,
+   "requirements_raw": "A CIVL1900 . Some statistical awareness is an advantage and co-enrolment in MATH1005 Statistics is advised. HSC Mathematics Extension 1 or completion of ( MATH1021 and MATH1002 ) or MATH1061 are sufficient for non-statistical maths preparation N CIVL2810",
+   "assumed_knowledge_codes": [
+    "CIVL1900",
+    "MATH1005",
+    "MATH1021",
+    "MATH1002",
+    "MATH1061"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "CIVL2810"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CIVL1900",
+   "name": "Introduction to Civil Engineering",
+   "credit_points": 6,
+   "requirements_raw": "A HSC Mathematics Extension 1 N ENGG1800 or CHNG1108 or MECH1560 or AERO1560 or AMME1960 or BMET1960 or MTRX1701 or ENGG1960 or ELEC1004 or ELEC1005 or ENVE1001",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ENGG1800",
+    "CHNG1108",
+    "MECH1560",
+    "AERO1560",
+    "AMME1960",
+    "BMET1960",
+    "MTRX1701",
+    "ENGG1960",
+    "ELEC1004",
+    "ELEC1005",
+    "ENVE1001"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "DATA1002",
+   "name": "Informatics: Data and Computation",
+   "credit_points": 6,
+   "requirements_raw": "N INFO1903 or DATA1902",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "INFO1903",
+    "DATA1902"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "DATA1902",
+   "name": "Informatics: Data and Computation (Advanced)",
+   "credit_points": 6,
+   "requirements_raw": "A This unit is intended for students with ATAR at least sufficient for entry to the BSc/BAdvStudies(Advanced) stream, or for those who gained Distinction results or better, in some unit in Data Science, Mathematics, or Computer Science. Students with portfolio of high-quality relevant prior work can also be admitted N INFO1903 or DATA1002",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "INFO1903",
+    "DATA1002"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC1004",
+   "name": "Practical Intro to Electrical Engineering",
+   "credit_points": 6,
+   "requirements_raw": "A HSC Physics and Mathematics N ENGG1800 or CHNG1108 or MECH1560 or AERO1560 or BMET1960 or MTRX1701 or ELEC1005 or ENVE1001",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ENGG1800",
+    "CHNG1108",
+    "MECH1560",
+    "AERO1560",
+    "BMET1960",
+    "MTRX1701",
+    "ELEC1005",
+    "ENVE1001"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC1005",
+   "name": "Introduction to Software Engineering",
+   "credit_points": 6,
+   "requirements_raw": "N ENGG1800 or CHNG1108 or MECH1560 or AERO1560 or BMET1960 or MTRX1701 or ELEC1004 or ENVE1001",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ENGG1800",
+    "CHNG1108",
+    "MECH1560",
+    "AERO1560",
+    "BMET1960",
+    "MTRX1701",
+    "ELEC1004",
+    "ENVE1001"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC1601",
+   "name": "Introduction to Computer Systems",
+   "credit_points": 6,
+   "requirements_raw": "A HSC Mathematics extension 1 or 2",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ENGG1000",
+   "name": "History and Philosophy of Engineering",
+   "credit_points": 6,
+   "requirements_raw": "",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ENGG1800",
+   "name": "Introduction to Engineering A",
+   "credit_points": 6,
+   "requirements_raw": "N CIVL1900 or CHNG1108 or MECH1560 or AERO1560 or AMME1960 or BMET1960 or MTRX1701 or ELEC1004 or ELEC1005 or ENVE1001",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "CIVL1900",
+    "CHNG1108",
+    "MECH1560",
+    "AERO1560",
+    "AMME1960",
+    "BMET1960",
+    "MTRX1701",
+    "ELEC1004",
+    "ELEC1005",
+    "ENVE1001"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ENGG1810",
+   "name": "Introduction to Engineering Computing",
+   "credit_points": 6,
+   "requirements_raw": "N ENGG1801 or INFO1110 or INFO1910 or INFO1103 or INFO1903 or INFO1105 or INFO1905 or COSC1003",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ENGG1801",
+    "INFO1110",
+    "INFO1910",
+    "INFO1103",
+    "INFO1903",
+    "INFO1105",
+    "INFO1905",
+    "COSC1003"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ENVE1001",
+   "name": "Introduction to Environmental Engineering",
+   "credit_points": 6,
+   "requirements_raw": "N ENGG1800 or AERO1560 or MECH1560 or MTRX1701 or BMET1960 or CHNG1108 or ELEC1004 or ELEC1005",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ENGG1800",
+    "AERO1560",
+    "MECH1560",
+    "MTRX1701",
+    "BMET1960",
+    "CHNG1108",
+    "ELEC1004",
+    "ELEC1005"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "INFO1110",
+   "name": "Introduction to Programming",
+   "credit_points": 6,
+   "requirements_raw": "N INFO1910 or INFO1103 or INFO1903 or INFO1105 or INFO1905 or ENGG1810",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "INFO1910",
+    "INFO1103",
+    "INFO1903",
+    "INFO1105",
+    "INFO1905",
+    "ENGG1810"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "INFO1113",
+   "name": "Object-Oriented Programming",
+   "credit_points": 6,
+   "requirements_raw": "P INFO1110 or INFO1910 or ENGG1810 N INFO1103 or INFO1105 or INFO1905",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "INFO1103",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "INFO1910",
+   "name": "Introduction to Programming (Advanced)",
+   "credit_points": 6,
+   "requirements_raw": "A ATAR sufficient to enter Dalyell program, or passing an online programming knowledge test, which will be administered during the O-week prior to the commencement of the semester N INFO1110 or INFO1103 or INFO1903 or INFO1105 or INFO1905 or ENGG1810",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "INFO1110",
+    "INFO1103",
+    "INFO1903",
+    "INFO1105",
+    "INFO1905",
+    "ENGG1810"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "MTRX1702",
+   "name": "Mechatronics 1",
+   "credit_points": 6,
+   "requirements_raw": "A MTRX1701 N ELEC1101 or ELEC2602 or COSC1902 or COSC1002",
+   "assumed_knowledge_codes": [
+    "MTRX1701"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ELEC1101",
+    "ELEC2602",
+    "COSC1902",
+    "COSC1002"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "MTRX1705",
+   "name": "Introduction to Mechatronic Design",
+   "credit_points": 6,
+   "requirements_raw": "",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "PMGT1711",
+   "name": "Systems Thinking in Projects",
+   "credit_points": 6,
+   "requirements_raw": "",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "PMGT1850",
+   "name": "Introduction to Project Management",
+   "credit_points": 6,
+   "requirements_raw": "N ENGG1850",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ENGG1850"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "PMGT1852",
+   "name": "Facilitation and Stakeholder Engagement",
+   "credit_points": 6,
+   "requirements_raw": "A PMGT1850 or ENGG1850",
+   "assumed_knowledge_codes": [
+    "PMGT1850",
+    "ENGG1850"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "PMGT1860",
+   "name": "Project Initiation and Scope",
+   "credit_points": 6,
+   "requirements_raw": "N ENGG1860",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ENGG1860"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "PMGT1863",
+   "name": "Effective Project Communication",
+   "credit_points": 6,
+   "requirements_raw": "N ENGG1863",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ENGG1863"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "PMGT1865",
+   "name": "Project Time, Cost and Resources",
+   "credit_points": 6,
+   "requirements_raw": "N ENGG1865 or CIVL3805",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ENGG1865",
+    "CIVL3805"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "AERO2703",
+   "name": "Aircraft Performance and Operations",
+   "credit_points": 6,
+   "requirements_raw": "A AERO1560 or ENGG1800 , Familiarity with fundamental Aerospace concepts P {(MATH1X61 or MATH1971 ) or [(MATH1X21 or MATH1931 ) and MATH1X02]} and [(MATH1X62 or MATH1972 ) or (MATH1X23 or MATH1933 )] and ( ENGG1801 or ENGG1810 or INFO1110 or INFO1910 ) and AMME1802 and AERO1400",
+   "assumed_knowledge_codes": [
+    "AERO1560",
+    "ENGG1800"
+   ],
+   "prerequisite_codes": [
+    "MATH1971",
+    "MATH1931",
+    "MATH1972",
+    "MATH1933",
+    "ENGG1801",
+    "ENGG1810",
+    "INFO1110",
+    "INFO1910",
+    "AMME1802",
+    "AERO1400"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "AERO2460",
+   "name": "Aerospace Design 1",
+   "credit_points": 6,
+   "requirements_raw": "A AERO1560 or ENGG1800 . Familiarity with fundamental Aerospace concepts P AERO1400 and ( ENGG1801 or ENGG1810 or INFO1110 or INFO1910 ) and AMME1802 and ( AMME1362 or CIVL1110 ) C AMME2301 N AERO3460",
+   "assumed_knowledge_codes": [
+    "AERO1560",
+    "ENGG1800"
+   ],
+   "prerequisite_codes": [
+    "AERO1400",
+    "ENGG1801",
+    "ENGG1810",
+    "INFO1110",
+    "INFO1910",
+    "AMME1802",
+    "AMME1362",
+    "CIVL1110"
+   ],
+   "corequisite_codes": [
+    "AMME2301"
+   ],
+   "prohibition_codes": [
+    "AERO3460"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "AERO2710",
+   "name": "Analysis of Aerospace Engineering Data",
+   "credit_points": 6,
+   "requirements_raw": "P ( AERO1560 or ENGG1800 ) and ( ENGG1810 or INFO1110 ) and ( AMME1705 or ENGF1112 ) and AMME1802 and AERO1400",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "AERO1560",
+    "ENGG1800",
+    "ENGG1810",
+    "INFO1110",
+    "AMME1705",
+    "ENGF1112",
+    "AMME1802",
+    "AERO1400"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "AMME2000",
+   "name": "Engineering Analysis",
+   "credit_points": 6,
+   "requirements_raw": "P {(MATH1X61 or MATH1971 ) or [(MATH1X21 or MATH1931 ) and MATH1X02]} and [(MATH1X62 or MATH1972 ) or (MATH1X23 or MATH1933 )] and ( ENGG1801 or ENGG1810 or INFO1X10 or DATA1X02) N BMET2960",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "MATH1971",
+    "MATH1931",
+    "MATH1972",
+    "MATH1933",
+    "ENGG1801",
+    "ENGG1810"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "BMET2960"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "AMME2200",
+   "name": "Introductory Thermofluids",
+   "credit_points": 6,
+   "requirements_raw": "A [( MATH1061 or MATH1961 or MATH1971 ) and ( MATH1062 or MATH1962 or MATH1972 )] or ( MATH1001 or MATH1021 or MATH1901 or MATH1921 or MATH1906 or MATH1931 ) and ( MATH1002 or MATH1902 ) and ( MATH1003 or MATH1023 or MATH1903 or MATH1923 or MATH1907 or MATH1933 ). Students are expected to be familiar with basic, first year, integral calculus, differential calculus and linear algebra N AMME2261 or AMME2262",
+   "assumed_knowledge_codes": [
+    "MATH1061",
+    "MATH1961",
+    "MATH1971",
+    "MATH1062",
+    "MATH1962",
+    "MATH1972",
+    "MATH1001",
+    "MATH1021",
+    "MATH1901",
+    "MATH1921",
+    "MATH1906",
+    "MATH1931",
+    "MATH1002",
+    "MATH1902",
+    "MATH1003",
+    "MATH1023",
+    "MATH1903",
+    "MATH1923",
+    "MATH1907",
+    "MATH1933"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "AMME2261",
+    "AMME2262"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "AMME2261",
+   "name": "Fluid Mechanics 1",
+   "credit_points": 6,
+   "requirements_raw": "A Students are expected to be familiar with basic, first year, integral calculus, differential calculus and linear algebra P {(MATH1X61 or MATH1971 ) or [(MATH1X21 or MATH1931 ) and MATH1X02]} and [(MATH1X62 or MATH1972 ) or (MATH1X23 or MATH1933 )] N AMME2200",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "MATH1061",
+    "MATH1961",
+    "MATH1062",
+    "MATH1962"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "AMME2200"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {},
+   "prerequisite_groups": [
+    [
+     "MATH1061",
+     "MATH1961"
+    ],
+    [
+     "MATH1062",
+     "MATH1962"
+    ]
+   ]
+  },
+  {
+   "code": "AMME2262",
+   "name": "Introduction to Thermal Engineering",
+   "credit_points": 6,
+   "requirements_raw": "A Students are expected to be familiar with basic, first year, integral calculus, differential calculus and linear algebra P {(MATH1X61 or MATH1971 ) or [(MATH1X21 or MATH1931 ) and MATH1X02]} and [(MATH1X62 or MATH1972 ) or (MATH1X23 or MATH1933 )] N AMME2200",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "MATH1061",
+    "MATH1961",
+    "MATH1062",
+    "MATH1962"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "AMME2200"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {},
+   "prerequisite_groups": [
+    [
+     "MATH1061",
+     "MATH1961"
+    ],
+    [
+     "MATH1062",
+     "MATH1962"
+    ]
+   ]
+  },
+  {
+   "code": "AMME2301",
+   "name": "Mechanics of Solids",
+   "credit_points": 6,
+   "requirements_raw": "P ( AMME1802 or ENGG1802 ) and {(MATH1X61 or MATH1971 ) or [(MATH1X21 or MATH1931 ) and MATH1X02]} and [(MATH1X62 or MATH1972 ) or (MATH1X23 or MATH1933 )] N CIVL2201",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "AMME1802",
+    "ENGG1802",
+    "MATH1971",
+    "MATH1931",
+    "MATH1972",
+    "MATH1933"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "CIVL2201"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "AMME2450",
+   "name": "Design and Production",
+   "credit_points": 6,
+   "requirements_raw": "N AMME9450",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "AMME9450"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "AMME2500",
+   "name": "Engineering Dynamics",
+   "credit_points": 6,
+   "requirements_raw": "A Familiarity with the Python programming environment P {(MATH1X61 or MATH1971 ) or [(MATH1X21 or MATH1931 ) and MATH1X02]} and [(MATH1X62 or MATH1972 ) or (MATH1X23 or MATH1933 )] and ( AMME1802 or ENGG1802 )",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "MATH1971",
+    "MATH1931",
+    "MATH1972",
+    "MATH1933",
+    "AMME1802",
+    "ENGG1802"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "AMME2700",
+   "name": "Instrumentation",
+   "credit_points": 6,
+   "requirements_raw": "A Programming skills, 1st year maths skills, familiarity with fundamental Engineering concepts N AMME1705 P AERO1560 or MECH1560 or MTRX1701 or ENGG1800",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "AERO1560",
+    "MECH1560",
+    "MTRX1701",
+    "ENGG1800"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "AMME1705"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "BMET2400",
+   "name": "Biomechanical Design",
+   "credit_points": 6,
+   "requirements_raw": "A ( ENGG1801 or ENGG1810 or INFO1110 ) and ( AMME1802 or ENGG1802 ); HSC Maths and HSC Physics N MECH2400 or BMET9400",
+   "assumed_knowledge_codes": [
+    "ENGG1801",
+    "ENGG1810",
+    "INFO1110",
+    "AMME1802",
+    "ENGG1802"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "MECH2400",
+    "BMET9400"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "BMET2902",
+   "name": "Introduction to Bioelectronics",
+   "credit_points": 6,
+   "requirements_raw": "P 12 credit points 1000-level MATH units of study N ELEC1103 or ELEC2100",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ELEC1103",
+    "ELEC2100"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "BMET2903",
+   "name": "Biomedical Physics",
+   "credit_points": 6,
+   "requirements_raw": "P 12 credit points of 1000-level MATH units of study N BMET9903",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "BMET9903"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "BMET2922",
+   "name": "Computational Analysis for Biomedical Signals",
+   "credit_points": 6,
+   "requirements_raw": "A Knowledge of basic biomedical engineering principles ( BMET1960 ) and basic programming ( ENGG1801 or ENGG1810 or INFO1110 ) N BMET9922",
+   "assumed_knowledge_codes": [
+    "BMET1960",
+    "ENGG1801",
+    "ENGG1810",
+    "INFO1110"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "BMET9922"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "BMET2925",
+   "name": "AI, Data, and Society in Health",
+   "credit_points": 6,
+   "requirements_raw": "A Familiarity with general mathematical and statistical concepts. Online learning modules will be provided to support obtaining this knowledge N BMET9925",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "BMET9925"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "BMET2960",
+   "name": "Biomedical Engineering 2",
+   "credit_points": 6,
+   "requirements_raw": "A ( AMME1960 or BMET1960 ) and ( AMME1961 or BMET1961 ) P {(MATH1X61 or MATH1971 ) or [(MATH1X21 or MATH1931 ) and MATH1X02]} and [(MATH1X62 or MATH1972 ) or (MATH1X23 or MATH1933 )] N AMME2000 or AMME2960 or BMET9960",
+   "assumed_knowledge_codes": [
+    "AMME1960",
+    "BMET1960",
+    "AMME1961",
+    "BMET1961"
+   ],
+   "prerequisite_codes": [
+    "MATH1061",
+    "MATH1961",
+    "MATH1062",
+    "MATH1962"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "AMME2000",
+    "AMME2960",
+    "BMET9960"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {},
+   "prerequisite_groups": [
+    [
+     "MATH1061",
+     "MATH1961"
+    ],
+    [
+     "MATH1062",
+     "MATH1962"
+    ]
+   ]
+  },
+  {
+   "code": "CHNG2801",
+   "name": "Fluid Mechanics",
+   "credit_points": 6,
+   "requirements_raw": "A It is assumed that students will be concurrently enrolled in or have already completed CHNG2802 or MATH2XXX P CHNG1103",
+   "assumed_knowledge_codes": [
+    "CHNG2802"
+   ],
+   "prerequisite_codes": [
+    "CHNG1103"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CHNG2803",
+   "name": "Heat and Mass Transfer",
+   "credit_points": 6,
+   "requirements_raw": "A It is assumed that students will be concurrently enrolled in or have already completed: CHNG2801 or equivalent, and ( CHNG2802 or MATH2XXX) P {(MATH1X61 or MATH1971 ) or [(MATH1X21 or MATH1931 ) and MATH1X02]} and {(MATH1X62 or MATH1972 ) or [(MATH1X23 or MATH1933 ) and (MATH1X05 or BUSS1020 )]} and ( ENGG1801 or ENGG1810 or INFO1110 or INFO1910 ) and CHNG1103",
+   "assumed_knowledge_codes": [
+    "CHNG2801",
+    "CHNG2802"
+   ],
+   "prerequisite_codes": [
+    "MATH1971",
+    "MATH1931",
+    "MATH1972",
+    "MATH1933",
+    "BUSS1020",
+    "ENGG1801",
+    "ENGG1810",
+    "INFO1110",
+    "INFO1910",
+    "CHNG1103"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CHNG2804",
+   "name": "Chemical Engineering Thermodynamics",
+   "credit_points": 6,
+   "requirements_raw": "A Calculus, linear algebra, numerical methods, computational tools (Matlab, Excel), basic mass and energy balances, heat transfer, mass transfer, momentum (from fluid mechanics), reaction balances P CHNG1103 and ( CHEM1101 or CHEM1111 or CHEM1901 or CHEM1911 )",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "CHNG1103",
+    "CHEM1101",
+    "CHEM1111",
+    "CHEM1901",
+    "CHEM1911"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CHNG2805",
+   "name": "Engineering for a Sustainable Society",
+   "credit_points": 6,
+   "requirements_raw": "A Mass and energy balances, physical chemistry, physics P CHNG1103 N CHNG1106",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "CHNG1103"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "CHNG1106"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CHNG2806",
+   "name": "Separation Processes",
+   "credit_points": 6,
+   "requirements_raw": "A It is assumed that students will be concurrently enrolled in or have already completed CHNG2804 or equivalent P CHNG1103",
+   "assumed_knowledge_codes": [
+    "CHNG2804"
+   ],
+   "prerequisite_codes": [
+    "CHNG1103"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CIVL2010",
+   "name": "Environmental Engineering",
+   "credit_points": 6,
+   "requirements_raw": "A ENGG1810 P MATH1061 and MATH1062 N CIVL3010",
+   "assumed_knowledge_codes": [
+    "ENGG1810"
+   ],
+   "prerequisite_codes": [
+    "MATH1061",
+    "MATH1062"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "CIVL3010"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CIVL2201",
+   "name": "Structural Mechanics",
+   "credit_points": 6,
+   "requirements_raw": "A From ( CIVL1802 or AMME1802 or ENGG1802 ); students should be competent in the following areas. 1. The concept of force and momentum equilibrium in two and three dimensions. 2. Drawing free body diagrams. 3. Establishing and solving the equations of equilibrium from the FBD. 4. Setting out solutions logically; clearly and neatly. Students should be competent in certain mathematical skills. 1. Solving algebraic equations. 2. Differentiation and integration (including double integrals). 3. Drawing graphs of polynomials (especially) and other mathematical function. 4. Trigonometry P CIVL1802 or AMME1802 or ENGG1802 N AMME2301",
+   "assumed_knowledge_codes": [
+    "CIVL1802",
+    "AMME1802",
+    "ENGG1802"
+   ],
+   "prerequisite_codes": [
+    "CIVL1802",
+    "AMME1802",
+    "ENGG1802"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "AMME2301"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CIVL2410",
+   "name": "Soil Mechanics 1",
+   "credit_points": 6,
+   "requirements_raw": "A CIVL2201 and CIVL1110 and ( CIVL1802 or ENGG1802 ). An understanding of simple statics, equilibrium, forces and bending moments, and of stress and strain and the relationship between them. This is covered by University of Sydney courses CIVL1802 Statics (or ENGG1802 Engineering Mechanics), CIVL2201 Structural Mechanics. Familiarity with the use of spreadsheets (Excel, Mathcad) to obtain solutions to engineering problems, and with the graphical presentation of this data. Familiarity with word processing packages for report presentation. Familiarity with partial differential equations, and their analytical and numerical solution P ( CIVL1022 or ENVE1001 ) and MATH1061 and MATH1062 and ENGG1810",
+   "assumed_knowledge_codes": [
+    "CIVL2201",
+    "CIVL1110",
+    "CIVL1802",
+    "ENGG1802",
+    "CIVL1802",
+    "ENGG1802",
+    "CIVL2201"
+   ],
+   "prerequisite_codes": [
+    "CIVL1022",
+    "ENVE1001",
+    "MATH1061",
+    "MATH1062",
+    "ENGG1810"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CIVL2611",
+   "name": "Introductory Fluid Mechanics",
+   "credit_points": 6,
+   "requirements_raw": "A Equivalent to the content of CIVL1802 , MATH1061 , MATH1062 , MATH2061 , PHYS1001 and CIVL2201 . This includes basic mechanics (statics and dynamics); calculus, including differentiation; integration (single and double integrations) and simple differential equations; vector calculus; and basic physics. Students without this background should see the unit of study coordinator for a discussion",
+   "assumed_knowledge_codes": [
+    "CIVL1802",
+    "MATH1061",
+    "MATH1062",
+    "MATH2061",
+    "PHYS1001",
+    "CIVL2201"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CIVL2700",
+   "name": "Transport Systems",
+   "credit_points": 6,
+   "requirements_raw": "A [( MATH1021 and MATH1002 and MATH1005 ) or ( MATH1061 and MATH1062 )] and ( ENGG1801 or ENGG1810 or INFO1110 ). Basic statistics through regression analysis, differential and integral calculus, computer programming",
+   "assumed_knowledge_codes": [
+    "MATH1021",
+    "MATH1002",
+    "MATH1005",
+    "MATH1061",
+    "MATH1062",
+    "ENGG1801",
+    "ENGG1810",
+    "INFO1110"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CIVL2812",
+   "name": "Project Appraisal",
+   "credit_points": 6,
+   "requirements_raw": "A MATH1005 or MATH1062 N CIVL3812",
+   "assumed_knowledge_codes": [
+    "MATH1005",
+    "MATH1062"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "CIVL3812"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP2017",
+   "name": "Systems Programming",
+   "credit_points": 6,
+   "requirements_raw": "A Discrete mathematics and probability (e.g. MATH1064 or equivalent); linear algebra (e.g. MATH1061 or equivalent) P INFO1113 or INFO1105 or INFO1905 or INFO1103 C COMP2123 or COMP2823 or INFO1105 or INFO1905 N COMP2129 or COMP9017 or COMP9129",
+   "assumed_knowledge_codes": [
+    "MATH1064",
+    "MATH1061"
+   ],
+   "prerequisite_codes": [
+    "INFO1113",
+    "INFO1105",
+    "INFO1905",
+    "INFO1103"
+   ],
+   "corequisite_codes": [
+    "COMP2123",
+    "COMP2823",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "prohibition_codes": [
+    "COMP2129",
+    "COMP9017",
+    "COMP9129"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP2022",
+   "name": "Models of Computation",
+   "credit_points": 6,
+   "requirements_raw": "A Discrete mathematics (e.g. MATH1064 or equivalent) P INFO1110 or INFO1910 or INFO1113 or ENGG1810 C COMP2123 or COMP2823 N COMP2922",
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "ENGG1810"
+   ],
+   "corequisite_codes": [
+    "COMP2123",
+    "COMP2823"
+   ],
+   "prohibition_codes": [
+    "COMP2922"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP2123",
+   "name": "Data Structures and Algorithms",
+   "credit_points": 6,
+   "requirements_raw": "A Discrete mathematics and probability (e.g. MATH1064 or equivalent) P INFO1110 or INFO1910 or INFO1113 or DATA1002 or DATA1902 or ENGG1810 N INFO1105 or INFO1905 or COMP2823",
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "DATA1002",
+    "DATA1902",
+    "ENGG1810"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "INFO1105",
+    "INFO1905",
+    "COMP2823"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP2823",
+   "name": "Data Structures and Algorithms (Adv)",
+   "credit_points": 6,
+   "requirements_raw": "A Discrete mathematics and probability (e.g. MATH1064 or equivalent) P Distinction level results in ( INFO1110 or INFO1910 or INFO1113 or DATA1002 or DATA1902 or ENGG1810 ) N INFO1105 or INFO1905 or COMP2123",
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "DATA1002",
+    "DATA1902",
+    "ENGG1810"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "INFO1105",
+    "INFO1905",
+    "COMP2123"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP2922",
+   "name": "Models of Computation (Adv)",
+   "credit_points": 6,
+   "requirements_raw": "A Discrete mathematics (e.g. MATH1064 or equivalent) P ( INFO1110 or INFO1910 or INFO1113 or ENGG1810 ) and (Distinction level results in INFO1110 or INFO1910 or INFO1113 or ENGG1810 or MATH1064 or MATH1964 ) C COMP2123 or COMP2823 N COMP2022",
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "ENGG1810",
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "ENGG1810",
+    "MATH1064",
+    "MATH1964"
+   ],
+   "corequisite_codes": [
+    "COMP2123",
+    "COMP2823"
+   ],
+   "prohibition_codes": [
+    "COMP2022"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "DATA2001",
+   "name": "Data Science, Big Data and Data Variety",
+   "credit_points": 6,
+   "requirements_raw": "P DATA1002 or DATA1902 or INFO1110 or INFO1910 or INFO1903 or INFO1103 or ENGG1810 N DATA2901",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "DATA1002",
+    "DATA1902",
+    "INFO1110",
+    "INFO1910",
+    "INFO1903",
+    "INFO1103",
+    "ENGG1810"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "DATA2901"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "DATA2901",
+   "name": "Big Data and Data Diversity (Advanced)",
+   "credit_points": 6,
+   "requirements_raw": "P 75% or above from ( DATA1002 or DATA1902 or INFO1110 or INFO1910 or INFO1903 or INFO1103 or ENGG1810 ) N DATA2001",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "DATA1002",
+    "DATA1902",
+    "INFO1110",
+    "INFO1910",
+    "INFO1903",
+    "INFO1103",
+    "ENGG1810"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "DATA2001"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC2100",
+   "name": "Fundamentals of Elec and Electronic Eng",
+   "credit_points": 6,
+   "requirements_raw": "A Basic knowledge of differentiation and integration. Electromagnetism and circuit components as covered in PHYS1003 are also useful N ELEC1103",
+   "assumed_knowledge_codes": [
+    "PHYS1003"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ELEC1103"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC2103",
+   "name": "Simulation and Numerical Solutions in Eng",
+   "credit_points": 6,
+   "requirements_raw": "A ELEC1103 or ELEC2100 . Understanding of the fundamental concepts and building blocks of electrical and electronics circuits and aspects of professional project management, teamwork, and ethics N COSC1001 or COSC1901",
+   "assumed_knowledge_codes": [
+    "ELEC1103",
+    "ELEC2100"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "COSC1001",
+    "COSC1901"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC2104",
+   "name": "Electronic Devices and Circuits",
+   "credit_points": 6,
+   "requirements_raw": "A ELEC1103 or ELEC2100 . Ohm's Law and Kirchoff's Laws; action of Current and Voltage sources; network analysis and the superposition theorem; Thevenin and Norton equivalent circuits; inductors and capacitors, transient response of RL, RC and RLC circuits; the ability to use power supplies, oscilloscopes, function generators, meters, etc",
+   "assumed_knowledge_codes": [
+    "ELEC1103",
+    "ELEC2100"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC2302",
+   "name": "Signals and Systems",
+   "credit_points": 6,
+   "requirements_raw": "A ( MATH1021 and MATH1002 and MATH1023 ) or ( MATH1061 and MATH1062 ). Basic knowledge of differentiation and integration, differential equations, and linear algebra.",
+   "assumed_knowledge_codes": [
+    "MATH1021",
+    "MATH1002",
+    "MATH1023",
+    "MATH1061",
+    "MATH1062"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ELEC2602",
+   "name": "Digital Logic",
+   "credit_points": 6,
+   "requirements_raw": "A ELEC1601 . This unit of study assumes some knowledge of digital data representation and basic computer organisation",
+   "assumed_knowledge_codes": [
+    "ELEC1601"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ENGG2112",
+   "name": "Multi-disciplinary Engineering",
+   "credit_points": 6,
+   "requirements_raw": "P ( INFO1110 or INFO1910 or ENGG1810 ) and ( MATH1005 or MATH1905 or MATH1062 or MATH1962 or MATH1972 or BUSS1020 ) and ( AERO1560 or BMET1960 or CHNG1108 or CIVL1900 or ELEC1004 or ELEC1005 or ENVE1001 or MECH1560 or MTRX1701 ) N ENGG1111 or ENGF1112",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810",
+    "MATH1005",
+    "MATH1905",
+    "MATH1062",
+    "MATH1962",
+    "MATH1972",
+    "BUSS1020",
+    "AERO1560",
+    "BMET1960",
+    "CHNG1108",
+    "CIVL1900",
+    "ELEC1004",
+    "ELEC1005",
+    "ENVE1001",
+    "MECH1560",
+    "MTRX1701"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ENGG1111",
+    "ENGF1112"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ISYS2110",
+   "name": "Analysis and Design of Web Info Systems",
+   "credit_points": 6,
+   "requirements_raw": "P INFO1113 or INFO1103 or INFO1105 or INFO1905 N INFO2110",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "INFO1113",
+    "INFO1103",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "INFO2110"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ISYS2120",
+   "name": "Data and Information Management",
+   "credit_points": 6,
+   "requirements_raw": "A 6 credit points of MATH or STAT units or DATA1001 P INFO1110 or INFO1910 or ENGG1810 or DATA1002 N INFO2120 or INFO2820 or COMP5138",
+   "assumed_knowledge_codes": [
+    "DATA1001"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810",
+    "DATA1002"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "INFO2120",
+    "INFO2820",
+    "COMP5138"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ISYS2160",
+   "name": "Information Systems in the Internet Age",
+   "credit_points": 6,
+   "requirements_raw": "A INFO1003 or INFO1103 or INFO1903 or INFO1113 N ISYS2140",
+   "assumed_knowledge_codes": [
+    "INFO1003",
+    "INFO1103",
+    "INFO1903",
+    "INFO1113"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ISYS2140"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "MECH2400",
+   "name": "Mechanical Systems Design 1",
+   "credit_points": 6,
+   "requirements_raw": "A ( ENGG1801 or ENGG1810 or INFO1110 ) and ( AMME1802 or ENGG1802 ); HSC Maths and Physics P MECH1560 or MTRX1701 or ENGG1800 N AERO2460 or BMET2400",
+   "assumed_knowledge_codes": [
+    "ENGG1801",
+    "ENGG1810",
+    "INFO1110",
+    "AMME1802",
+    "ENGG1802"
+   ],
+   "prerequisite_codes": [
+    "MECH1560",
+    "MTRX1701",
+    "ENGG1800"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "AERO2460",
+    "BMET2400"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "MECH2401",
+   "name": "Human-Centred Engineering Design",
+   "credit_points": 6,
+   "requirements_raw": "A MECH1560 and MECH1400",
+   "assumed_knowledge_codes": [
+    "MECH1560",
+    "MECH1400"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "MECH2460",
+   "name": "Manufacturing Engineering",
+   "credit_points": 6,
+   "requirements_raw": "P MECH1560 or MTRX1701 or ENGG1800 N AERO2460 or MECH3660",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "MECH1560",
+    "MTRX1701",
+    "ENGG1800"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "AERO2460",
+    "MECH3660"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "MTRX2700",
+   "name": "Mechatronics 2",
+   "credit_points": 6,
+   "requirements_raw": "A MTRX1701 P MTRX1702 and MTRX1705 N ELEC2601 or ELEC3607",
+   "assumed_knowledge_codes": [
+    "MTRX1701"
+   ],
+   "prerequisite_codes": [
+    "MTRX1702",
+    "MTRX1705"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ELEC2601",
+    "ELEC3607"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "PMGT2711",
+   "name": "Critical Thinking for Projects",
+   "credit_points": 6,
+   "requirements_raw": "",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "PMGT2821",
+   "name": "Project Conflict Management",
+   "credit_points": 6,
+   "requirements_raw": "N CIVL4816 C PMGT1852",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [
+    "PMGT1852"
+   ],
+   "prohibition_codes": [
+    "CIVL4816"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "PMGT2822",
+   "name": "Reframing Projects",
+   "credit_points": 6,
+   "requirements_raw": "P ( PMGT1863 or ENGG1863 ) or PMGT1852",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "PMGT1863",
+    "ENGG1863",
+    "PMGT1852"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "PMGT2850",
+   "name": "Project Finance",
+   "credit_points": 6,
+   "requirements_raw": "P ( PMGT1850 or ENGG1850 ) or [( PMGT1865 or ENGG1865 ) and (30 credit points of any 1000 level units of study)] N ENGG2850",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "PMGT1850",
+    "ENGG1850",
+    "PMGT1865",
+    "ENGG1865"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ENGG2850"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "PMGT2851",
+   "name": "Project Analytics",
+   "credit_points": 6,
+   "requirements_raw": "N ENGG2851 P ( PMGT1860 or ENGG1860 ) or ( PMGT1850 or ENGG1850 )",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "PMGT1860",
+    "ENGG1860",
+    "PMGT1850",
+    "ENGG1850"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ENGG2851"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "PMGT2854",
+   "name": "Executing Projects",
+   "credit_points": 6,
+   "requirements_raw": "P ( PMGT1860 or ENGG1860 ) or ( PMGT1850 or ENGG1850 )",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "PMGT1860",
+    "ENGG1860",
+    "PMGT1850",
+    "ENGG1850"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "PMGT2855",
+   "name": "Project Acceptance",
+   "credit_points": 6,
+   "requirements_raw": "N ENGG2855 or CIVL4819",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ENGG2855",
+    "CIVL4819"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "SOFT2201",
+   "name": "Software Construction and Design 1",
+   "credit_points": 6,
+   "requirements_raw": "P INFO1113 or INFO1103 or INFO1105 or INFO1905 N INFO3220 or COMP9201",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "INFO1113",
+    "INFO1103",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "INFO3220",
+    "COMP9201"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "SOFT2412",
+   "name": "Agile Software Development Practices",
+   "credit_points": 6,
+   "requirements_raw": "P INFO1113 or INFO1103 or INFO1105 or INFO1905 N COMP9412",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "INFO1113",
+    "INFO1103",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "COMP9412"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CHNG3804",
+   "name": "Biochemical Engineering",
+   "credit_points": 6,
+   "requirements_raw": "A CHNG2801 , CHNG2802 , CHNG2803 and CHNG2806 or equivalents",
+   "assumed_knowledge_codes": [
+    "CHNG2801",
+    "CHNG2802",
+    "CHNG2803",
+    "CHNG2806"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CHNG3808",
+   "name": "Engineering Macromolecules and Nanocomposites",
+   "credit_points": 6,
+   "requirements_raw": "A CHNG2801 and 12 credit points of CHEM1XXX",
+   "assumed_knowledge_codes": [
+    "CHNG2801"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CHNG5003",
+   "name": "Green Engineering",
+   "credit_points": 6,
+   "requirements_raw": "A Completion of 72 credit points in science, engineering or equivalent N SUCH3003",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "SUCH3003"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {},
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ]
+  },
+  {
+   "code": "CHNG5606",
+   "name": "Advanced Food Processing",
+   "credit_points": 6,
+   "requirements_raw": "A Knowledge of fluid mechanics and mathematics at a level typical of an undergraduate degree in chemical engineering. Assumed knowledge is equivalent to CHNG2801 (or AMME2261 or AMME2200 or CIVL2611 or CIVL3612 or CIVL9612 ) and CHNG2802 (or AMME2000 or MATH2021 or MATH2061 or MATH2921 ). This unit is for postgraduate students and also is offered as an elective for fourth year undergraduate students. This unit of study is for Masters students and can be selected as an elective by 4th year students.",
+   "assumed_knowledge_codes": [
+    "CHNG2801",
+    "AMME2261",
+    "AMME2200",
+    "CIVL2611",
+    "CIVL3612",
+    "CIVL9612",
+    "CHNG2802",
+    "AMME2000",
+    "MATH2021",
+    "MATH2061",
+    "MATH2921"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP3027",
+   "name": "Algorithm Design",
+   "credit_points": 6,
+   "requirements_raw": "A Discrete mathematics and probability (e.g. MATH1064 or equivalent) P COMP2123 or COMP2823 N COMP2007 or COMP2907 or COMP3927",
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ],
+   "prerequisite_codes": [
+    "COMP2123",
+    "COMP2823"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "COMP2007",
+    "COMP2907",
+    "COMP3927"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP3221",
+   "name": "Distributed Systems",
+   "credit_points": 6,
+   "requirements_raw": "P ( INFO1105 or INFO1905 ) or (( INFO1103 or INFO1113 ) and ( COMP2123 or COMP2823 )) N COMP2121",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "INFO1105",
+    "INFO1905",
+    "INFO1103",
+    "INFO1113",
+    "COMP2123",
+    "COMP2823"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "COMP2121"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP3308",
+   "name": "Introduction to Artificial Intelligence",
+   "credit_points": 6,
+   "requirements_raw": "A Data structures and algorithms as covered in COMP2123 or COMP2823 . P INFO1110 or INFO1910 or ENGG1801 or ENGG1810 or DATA1002 or DATA1902 N COMP3608",
+   "assumed_knowledge_codes": [
+    "COMP2123",
+    "COMP2823"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "ENGG1801",
+    "ENGG1810",
+    "DATA1002",
+    "DATA1902"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "COMP3608"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP3419",
+   "name": "Graphics and Multimedia",
+   "credit_points": 6,
+   "requirements_raw": "A Programming skills P COMP2123 or COMP2823 or INFO1105 or INFO1905",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "COMP2123",
+    "COMP2823",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP3520",
+   "name": "Operating Systems Internals",
+   "credit_points": 6,
+   "requirements_raw": "P ( COMP2017 or COMP2129 ) and ( COMP2123 or COMP2823 or INFO1105 or INFO1905 )",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "COMP2017",
+    "COMP2129",
+    "COMP2123",
+    "COMP2823",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP3608",
+   "name": "Introduction to Artificial Intelligence (Adv)",
+   "credit_points": 6,
+   "requirements_raw": "A Data structures and algorithms as covered in COMP2123 or COMP2823 . P ( INFO1110 or INFO1910 or ENGG1810 or DATA1002 or DATA1902 ) and distinction-level results in at least one 2000-level COMP or MATH or SOFT unit N COMP3308 COMP3308 and COMP3608 share the same lectures, but have different tutorials and assessment (the same type but more challenging).",
+   "assumed_knowledge_codes": [
+    "COMP2123",
+    "COMP2823"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810",
+    "DATA1002",
+    "DATA1902"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "COMP3308",
+    "COMP3308",
+    "COMP3608"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP3888",
+   "name": "Computer Science Project",
+   "credit_points": 6,
+   "requirements_raw": "P ( INFO1110 or INFO1910 ) and INFO1113 and ( COMP2123 or COMP2823 ) and COMP2017 and ( COMP2022 or COMP2922 ) N INFO3600 or COMP3600 or COMP3615 or COMP3988",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "COMP2123",
+    "COMP2823",
+    "COMP2017",
+    "COMP2022",
+    "COMP2922"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "INFO3600",
+    "COMP3600",
+    "COMP3615",
+    "COMP3988"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP3988",
+   "name": "Computer Science Project (Advanced)",
+   "credit_points": 6,
+   "requirements_raw": "P ( INFO1110 or INFO1910 ) and INFO1113 and ( COMP2123 or COMP2823 ) and COMP2017 and ( COMP2022 or COMP2922 ) with Distinction level results in at least one of these units N INFO3600 or COMP3615 or COMP3600 or COMP3888",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "COMP2123",
+    "COMP2823",
+    "COMP2017",
+    "COMP2022",
+    "COMP2922"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "INFO3600",
+    "COMP3615",
+    "COMP3600",
+    "COMP3888"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "COMP3927",
+   "name": "Algorithm Design (Adv)",
+   "credit_points": 6,
+   "requirements_raw": "A Discrete mathematics and probability (e.g. MATH1064 or equivalent) P Distinction level results in COMP2123 or COMP2823 N COMP2007 or COMP2907 or COMP3027",
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ],
+   "prerequisite_codes": [
+    "COMP2123",
+    "COMP2823"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "COMP2007",
+    "COMP2907",
+    "COMP3027"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "DATA3404",
+   "name": "Scalable Data Management",
+   "credit_points": 6,
+   "requirements_raw": "A This unit of study assumes that students have previous knowledge of database structures and of SQL. The prerequisite material is covered in DATA2001 or ISYS2120 . Familiarity with a programming language (e.g. Java or C) is also expected P DATA2001 or DATA2901 or ISYS2120 or INFO2120 or INFO2820 N INFO3504 or INFO3404",
+   "assumed_knowledge_codes": [
+    "DATA2001",
+    "ISYS2120"
+   ],
+   "prerequisite_codes": [
+    "DATA2001",
+    "DATA2901",
+    "ISYS2120",
+    "INFO2120",
+    "INFO2820"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "INFO3504",
+    "INFO3404"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "DATA3406",
+   "name": "Human-in-the-Loop Data Analytics",
+   "credit_points": 6,
+   "requirements_raw": "A Basic statistics, database management, and programming P ( DATA2001 or DATA2901 ) and ( DATA2002 or DATA2902 )",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "DATA2001",
+    "DATA2901",
+    "DATA2002",
+    "DATA2902"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ENGG3216",
+   "name": "Management of Technological Innovation",
+   "credit_points": 6,
+   "requirements_raw": "A Knowledge of engineering and project management N ENGG4061",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ENGG4061"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ISYS3401",
+   "name": "Information Technology Evaluation",
+   "credit_points": 6,
+   "requirements_raw": "A MATH1005 or MATH1905 or MATH1062 or DATA1001 or DATA1901 P ( INFO2110 or ISYS2110 ) and ( INFO2120 or ISYS2120 ) and ( ISYS2140 or ISYS2160 )",
+   "assumed_knowledge_codes": [
+    "MATH1005",
+    "MATH1905",
+    "MATH1062",
+    "DATA1001",
+    "DATA1901"
+   ],
+   "prerequisite_codes": [
+    "INFO2110",
+    "ISYS2110",
+    "INFO2120",
+    "ISYS2120",
+    "ISYS2140",
+    "ISYS2160"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ISYS3888",
+   "name": "Information Systems Project",
+   "credit_points": 6,
+   "requirements_raw": "P ( INFO1110 or INFO1910 ) and INFO1113 and ( INFO2110 or ISYS2110 ) and ( INFO2120 or ISYS2120 ) and ( ISYS2140 or ISYS2160 ) N INFO3600 or ISYS3207 or ISYS3400",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "INFO2110",
+    "ISYS2110",
+    "INFO2120",
+    "ISYS2120",
+    "ISYS2140",
+    "ISYS2160"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "INFO3600",
+    "ISYS3207",
+    "ISYS3400"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "SOFT3202",
+   "name": "Software Construction and Design 2",
+   "credit_points": 6,
+   "requirements_raw": "P SOFT2201 N INFO3220",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "SOFT2201"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "INFO3220"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "SOFT3888",
+   "name": "Software Development Project",
+   "credit_points": 6,
+   "requirements_raw": "A SOFT3202 P ( INFO1110 or INFO1910 or ENGG1810 ) and INFO1113 and [18 credit points 2000-level or above units from SOFT or COMP or INFO] N SOFT3413",
+   "assumed_knowledge_codes": [
+    "SOFT3202"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810",
+    "INFO1113"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "SOFT3413"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "SUCH3003",
+   "name": "Green Engineering",
+   "credit_points": 6,
+   "requirements_raw": "A Completion of 72 credit points in science, engineering or equivalent",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "SUCH3009",
+   "name": "Digital Circular Economy",
+   "credit_points": 6,
+   "requirements_raw": "",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  }
+ ]
+}

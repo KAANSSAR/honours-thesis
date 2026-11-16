@@ -1,0 +1,568 @@
+/*
+  Curriculum planner frontend. Section 3.10.
+
+  The progression grid is the subject's own artefact: both institutions publish
+  a degree as a table of years against teaching periods, and that is the shape a
+  student already reads. So years are rows and periods are columns, which also
+  makes the result of a failure legible as structure rather than as a number: a
+  degree pushed past its nominal length grows a row.
+
+  Type is the system stack on purpose. This runs on a student's own machine with
+  no network guaranteed, and a font that arrives over a CDN is a font that is
+  missing during a demonstration. Numerals are set tabular throughout, because
+  almost every figure here sits in a column that should align: credit points,
+  unit codes, totals.
+
+  The two institution colours are chosen to be told apart at a glance and are
+  deliberately not either university's brand colour, which belongs to them.
+*/
+
+:root {
+  --paper:      #f5f6f7;
+  --card:       #ffffff;
+  --ink:        #21252b;
+  --muted:      #6c727a;
+  --rule:       #dcdee1;
+  --rule-soft:  #eaecee;
+
+  --usyd:       #574394;
+  --usyd-wash:  #efecf8;
+  --uts:        #166f57;
+  --uts-wash:   #e7f2ee;
+
+  --moved:      #8a5a12;
+  --moved-wash: #faf0da;
+  --failed:     #a3332b;
+  --failed-wash:#fbe9e6;
+
+  --slot:       #8b8f98;
+
+  --step: 0.35rem;
+  --radius: 3px;
+  --maxw: 1180px;
+}
+
+/* The page is light. The dark variant below is kept and is reachable by
+   removing data-theme="light" from the html element, but it is not the
+   default: this is read in daylight, printed, and shown on projectors. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper:      #16181c;
+    --card:       #1d2024;
+    --ink:        #e7e7e2;
+    --muted:      #9aa0a8;
+    --rule:       #32363c;
+    --rule-soft:  #272b30;
+    --usyd:       #a899e0;
+    --usyd-wash:  #272339;
+    --uts:        #6cc0a4;
+    --uts-wash:   #1b2d28;
+    --moved:      #d8ab5c;
+    --moved-wash: #332b1a;
+    --failed:     #e8857c;
+    --failed-wash:#331f1d;
+    --slot:       #7e848d;
+  }
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: ui-sans-serif, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.55;
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum" 1;
+}
+
+h1, h2, h3 { line-height: 1.2; margin: 0; font-weight: 600; }
+
+a { color: inherit; }
+
+/* ---------------------------------------------------------------- chrome */
+
+.masthead {
+  border-bottom: 1px solid var(--rule);
+  background: var(--card);
+  position: sticky; top: 0; z-index: 20;
+}
+
+.masthead-inner {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 0 24px;
+  display: flex; align-items: baseline; gap: 28px;
+  min-height: 58px;
+}
+
+.wordmark { font-size: 0.95rem; font-weight: 600; letter-spacing: -0.01em; }
+.wordmark span { color: var(--muted); font-weight: 400; }
+
+nav { display: flex; gap: 2px; margin-left: auto; align-self: stretch; }
+
+nav button {
+  appearance: none; background: none; border: 0;
+  border-bottom: 2px solid transparent;
+  color: var(--muted);
+  font: inherit; font-size: 0.9rem;
+  padding: 0 14px; cursor: pointer;
+}
+nav button:hover { color: var(--ink); }
+nav button[aria-current="true"] { color: var(--ink); border-bottom-color: var(--ink); }
+nav button:focus-visible, .masthead button:focus-visible { outline: 2px solid var(--ink); outline-offset: -2px; }
+
+main { max-width: var(--maxw); margin: 0 auto; padding: 28px 24px 80px; }
+
+.view[hidden] { display: none; }
+
+/* ---------------------------------------------------------------- forms */
+
+label { display: block; font-size: 0.78rem; color: var(--muted); margin-bottom: 5px; }
+
+select, textarea, input[type="text"] {
+  width: 100%;
+  font: inherit;
+  color: var(--ink);
+  background: var(--card);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  padding: 7px 9px;
+}
+select:focus-visible, textarea:focus-visible, input:focus-visible,
+button:focus-visible { outline: 2px solid var(--ink); outline-offset: 1px; }
+
+select:disabled { color: var(--muted); background: var(--rule-soft); }
+
+.btn {
+  font: inherit; font-size: 0.875rem;
+  background: var(--ink); color: var(--paper);
+  border: 1px solid var(--ink); border-radius: var(--radius);
+  padding: 7px 14px; cursor: pointer;
+}
+.btn:hover { opacity: 0.88; }
+.btn[disabled] { opacity: 0.4; cursor: default; }
+.btn.quiet { background: none; color: var(--ink); border-color: var(--rule); }
+.btn.quiet:hover { border-color: var(--ink); opacity: 1; }
+
+.radio-set { display: flex; gap: 0; }
+.radio-set button {
+  flex: 1; font: inherit; font-size: 0.875rem; cursor: pointer;
+  background: var(--card); color: var(--muted);
+  border: 1px solid var(--rule); padding: 7px 10px;
+}
+.radio-set button:first-child { border-radius: var(--radius) 0 0 var(--radius); }
+.radio-set button:last-child { border-radius: 0 var(--radius) var(--radius) 0; border-left: 0; }
+.radio-set button[aria-pressed="true"] {
+  color: var(--card); background: var(--ink); border-color: var(--ink);
+}
+
+/* ---------------------------------------------------------------- plan */
+
+.plan-layout { display: grid; grid-template-columns: 252px 1fr; gap: 32px; align-items: start; }
+
+.controls { position: sticky; top: 86px; display: grid; gap: 18px; }
+.controls .field + .field { margin-top: 0; }
+.controls hr { border: 0; border-top: 1px solid var(--rule); margin: 2px 0; }
+
+.plan-head { margin-bottom: 20px; }
+.plan-head h2 { font-size: 1.35rem; letter-spacing: -0.015em; }
+.plan-meta { color: var(--muted); font-size: 0.875rem; margin-top: 4px; }
+
+/* Years as rows, periods as columns: the shape both handbooks print. */
+.year { border-top: 1px solid var(--rule); display: grid; grid-template-columns: 62px 1fr; }
+.year:last-child { border-bottom: 1px solid var(--rule); }
+
+.year-label {
+  padding: 14px 0; font-size: 0.78rem; color: var(--muted);
+  border-right: 1px solid var(--rule-soft);
+}
+.year-label b { display: block; font-size: 1rem; color: var(--ink); font-weight: 600; }
+
+.periods { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); }
+
+.period { padding: 14px 16px; border-left: 1px solid var(--rule-soft); min-width: 0; }
+.period:first-child { border-left: 0; }
+
+.period-head {
+  display: flex; justify-content: space-between; align-items: baseline;
+  font-size: 0.78rem; color: var(--muted); margin-bottom: 9px;
+}
+.period-head .cp { font-variant-numeric: tabular-nums; }
+.period-head .cp.over { color: var(--failed); font-weight: 600; }
+
+.unit {
+  display: block; width: 100%; text-align: left;
+  /* `color` is not inherited by a button, only `font` is, so without this the
+     unit codes fall back to the browser's own button colour and go dim against
+     a dark background. */
+  font: inherit; color: inherit;
+  background: none; cursor: pointer;
+  border: 0; border-left: 2px solid var(--rule);
+  padding: 3px 0 3px 9px; margin-bottom: 5px;
+  border-radius: 0;
+}
+.unit:hover { border-left-color: var(--ink); }
+.unit .code { font-size: 0.875rem; font-weight: 600; letter-spacing: -0.005em; }
+.unit .name { display: block; font-size: 0.76rem; color: var(--muted); line-height: 1.3; }
+
+.unit.is-moved { border-left-color: var(--moved); background: var(--moved-wash); }
+.unit.is-moved .code { color: var(--moved); }
+.unit.is-failed { border-left-color: var(--failed); background: var(--failed-wash); }
+.unit.is-failed .code { color: var(--failed); }
+
+.slot {
+  border-left: 2px dashed var(--slot);
+  padding: 3px 0 3px 9px; margin-bottom: 5px;
+  font-size: 0.78rem; color: var(--slot);
+}
+
+/* The moment that matters: a repair that pushes the degree past its nominal
+   length grows a row. It is marked, and it arrives rather than appearing. */
+.year.is-extra { background: var(--moved-wash); }
+.year.is-extra .year-label b { color: var(--moved); }
+.year.is-new { animation: settle 420ms cubic-bezier(.2,.7,.3,1); }
+@keyframes settle {
+  from { opacity: 0; transform: translateY(-7px); }
+  to   { opacity: 1; transform: none; }
+}
+@media (prefers-reduced-motion: reduce) { .year.is-new { animation: none; } }
+
+/* ---------------------------------------------------------------- notices */
+
+.notice {
+  border: 1px solid var(--rule); border-left-width: 3px;
+  background: var(--card); border-radius: var(--radius);
+  padding: 11px 14px; margin-bottom: 18px; font-size: 0.9rem;
+}
+.notice h3 { font-size: 0.9rem; margin-bottom: 3px; }
+.notice p { margin: 0; color: var(--muted); }
+.notice.ok      { border-left-color: var(--uts); }
+.notice.warn    { border-left-color: var(--moved); }
+.notice.problem { border-left-color: var(--failed); }
+.notice ul { margin: 7px 0 0; padding-left: 18px; color: var(--muted); }
+.notice li { margin-bottom: 2px; }
+
+.empty { color: var(--muted); padding: 48px 0; max-width: 46ch; }
+.empty h2 { font-size: 1.1rem; color: var(--ink); margin-bottom: 6px; }
+
+/* ---------------------------------------------------------------- compare */
+
+.pairs { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 26px; }
+.pairs button {
+  font: inherit; font-size: 0.875rem; cursor: pointer;
+  background: var(--card); color: var(--ink);
+  border: 1px solid var(--rule); border-radius: 100px; padding: 5px 13px;
+}
+.pairs button:hover { border-color: var(--ink); }
+.pairs button[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+
+/* One row per fact with both universities on it, so a difference is read
+   across rather than hunted for between two lists. */
+.ledger { border: 1px solid var(--rule); border-radius: var(--radius); background: var(--card); overflow: hidden; }
+
+.ledger-head, .ledger-row {
+  display: grid; grid-template-columns: minmax(170px, 1.2fr) 1fr 1fr;
+  gap: 18px; padding: 9px 18px; align-items: baseline;
+}
+.ledger-head {
+  border-bottom: 1px solid var(--rule); padding-top: 13px; padding-bottom: 12px;
+  font-size: 0.9rem; font-weight: 600;
+}
+.ledger-head .usyd { color: var(--usyd); }
+.ledger-head .uts  { color: var(--uts); }
+
+.ledger-row + .ledger-row { border-top: 1px solid var(--rule-soft); }
+.ledger-row:nth-child(odd) { background: color-mix(in srgb, var(--rule-soft) 45%, transparent); }
+
+.ledger-label { color: var(--muted); font-size: 0.85rem; }
+.ledger-label small { display: block; font-size: 0.74rem; opacity: 0.85; }
+.ledger-value { font-size: 0.92rem; }
+.ledger-row.differs .ledger-value { font-weight: 600; }
+
+.block-title { font-size: 0.95rem; margin: 30px 0 4px; }
+
+.split-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin-top: 12px; }
+.split-col {
+  background: var(--card); border: 1px solid var(--rule);
+  border-radius: var(--radius); border-top-width: 3px; padding: 14px 18px 18px;
+  min-width: 0;
+}
+.split-col.usyd { border-top-color: var(--usyd); }
+.split-col.uts  { border-top-color: var(--uts); }
+.split-col h4 { margin: 0 0 4px; font-size: 0.9rem; font-weight: 600; }
+.split-col.usyd h4 { color: var(--usyd); }
+.split-col.uts  h4 { color: var(--uts); }
+.split-col .facts { padding: 0; }
+.split-col .caveat { margin-top: 10px; }
+
+.facts { padding: 4px 18px 16px; }
+.fact { display: grid; grid-template-columns: 1fr auto; gap: 14px; padding: 9px 0; border-bottom: 1px solid var(--rule-soft); align-items: baseline; }
+.fact:last-child { border-bottom: 0; }
+.fact dt { color: var(--muted); font-size: 0.82rem; }
+.fact dd { margin: 0; text-align: right; font-size: 0.9rem; }
+.fact dd small { display: block; color: var(--muted); font-size: 0.76rem; font-weight: 400; }
+.fact.differs dd { font-weight: 600; }
+
+.compare-col footer { padding: 0 18px 18px; }
+
+.pool { margin: 0; padding: 0; list-style: none; font-size: 0.82rem; color: var(--muted); }
+.pool li { padding: 2px 0; }
+
+.caveat { margin-top: 18px; color: var(--muted); font-size: 0.82rem; max-width: 72ch; }
+
+/* ---------------------------------------------------------------- ask */
+
+.ask-layout { display: grid; grid-template-columns: 1fr 340px; gap: 28px; align-items: start; }
+
+.composer { display: grid; gap: 10px; margin-bottom: 24px; }
+.composer textarea { min-height: 74px; resize: vertical; }
+.composer-row { display: flex; gap: 10px; align-items: center; }
+.composer-row .btn { flex: none; }
+.hint { color: var(--muted); font-size: 0.8rem; }
+
+.turn { border-top: 1px solid var(--rule); padding: 18px 0; }
+.turn .asked { font-size: 0.875rem; color: var(--muted); margin: 0 0 9px; }
+.turn .said { margin: 0; max-width: 68ch; }
+
+/* Shown when the grounding check flagged the wording. Deliberately above the
+   fold of the steps rather than inside them, because a student reads the prose
+   and not the working. */
+.ungrounded {
+  margin: 10px 0 0; max-width: 68ch; font-size: 0.86rem;
+  background: var(--failed-wash); color: var(--failed);
+  border: 1px solid var(--failed); border-radius: 8px; padding: 8px 10px;
+}
+
+.provenance { position: sticky; top: 86px; }
+.provenance h3 { font-size: 0.82rem; color: var(--muted); font-weight: 400; margin-bottom: 8px; }
+.provenance pre {
+  margin: 0; background: var(--card); border: 1px solid var(--rule);
+  border-radius: var(--radius); padding: 12px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.74rem; line-height: 1.5;
+  max-height: 60vh; overflow: auto; white-space: pre-wrap; word-break: break-word;
+}
+.provenance .who { font-size: 0.78rem; color: var(--muted); margin: 8px 0 0; }
+
+.examples { display: flex; flex-wrap: wrap; gap: 6px; }
+.examples button {
+  font: inherit; font-size: 0.8rem; cursor: pointer; text-align: left;
+  background: none; color: var(--muted);
+  border: 1px solid var(--rule); border-radius: 100px; padding: 4px 11px;
+}
+.examples button:hover { color: var(--ink); border-color: var(--ink); }
+
+/* ---------------------------------------------------------------- dialog */
+
+dialog {
+  border: 1px solid var(--rule); border-radius: var(--radius);
+  background: var(--card); color: var(--ink);
+  padding: 0; max-width: 460px; width: calc(100% - 32px);
+}
+dialog::backdrop { background: rgba(20, 22, 26, 0.38); }
+dialog header { padding: 16px 20px 12px; border-bottom: 1px solid var(--rule); }
+dialog header h3 { font-size: 1.05rem; }
+dialog header p { margin: 2px 0 0; color: var(--muted); font-size: 0.82rem; }
+dialog .facts { padding: 6px 20px 14px; }
+dialog footer { padding: 0 20px 18px; }
+
+/* ---------------------------------------------------------------- narrow */
+
+@media (max-width: 900px) {
+  .plan-layout, .ask-layout { grid-template-columns: 1fr; }
+  .controls, .provenance { position: static; }
+  .split-grid { grid-template-columns: 1fr; }
+  .ledger-head, .ledger-row { grid-template-columns: 1fr; gap: 2px; padding: 10px 14px; }
+  .ledger-head span:first-child { display: none; }
+  .ledger-head { display: none; }
+  .ledger-value::before { content: attr(data-who) ": "; color: var(--muted); font-weight: 400; }
+  .year { grid-template-columns: 1fr; }
+  .year-label { border-right: 0; border-bottom: 1px solid var(--rule-soft); padding: 10px 0 8px; display: flex; gap: 8px; align-items: baseline; }
+  .year-label b { display: inline; }
+  .period:first-child { border-left: 0; }
+  .period { border-left: 0; border-bottom: 1px solid var(--rule-soft); }
+}
+
+@media (max-width: 560px) {
+  main { padding: 20px 16px 60px; }
+  .masthead-inner { padding: 0 16px; gap: 12px; }
+  nav button { padding: 0 9px; }
+}
+
+
+/* ------------------------------------------------- failures and swapping */
+
+.sr-only {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+}
+
+.chips { display: flex; flex-wrap: wrap; gap: 5px; }
+.chip {
+  display: inline-flex; align-items: center; gap: 5px;
+  font-size: 0.78rem; background: var(--failed-wash); color: var(--failed);
+  border: 1px solid var(--failed); border-radius: 100px; padding: 2px 4px 2px 10px;
+}
+.chip-x {
+  font: inherit; line-height: 1; cursor: pointer; color: inherit;
+  background: none; border: 0; padding: 0 4px;
+}
+.chip-x:hover { opacity: 0.6; }
+
+/* A unit picked up for a move, and the sessions it can be dropped into. */
+.unit.is-picked {
+  border-left-color: var(--ink); background: var(--rule-soft);
+  outline: 1px dashed var(--ink); outline-offset: 1px;
+}
+.period.is-target { cursor: copy; }
+.period.is-target:hover { background: var(--rule-soft); }
+
+/* Dragging. The unit being carried fades; whatever it is over is outlined, so
+   it is always clear whether the drop will move it into a session or trade it
+   with a unit. */
+.unit[draggable="true"] { cursor: grab; }
+.unit.is-dragging { opacity: 0.4; cursor: grabbing; }
+.period.is-over { background: var(--rule-soft); box-shadow: inset 0 0 0 2px var(--ink); }
+.unit.is-over { border-left-color: var(--ink); box-shadow: inset 0 0 0 2px var(--ink); }
+
+/* A session carrying more than the usual load but still within the maximum.
+   Legal, and worth saying. */
+.period-head .cp.heavy { color: var(--moved); font-weight: 600; }
+
+/* A failed attempt occupies its period without earning anything. */
+.attempt {
+  border-left: 2px solid var(--failed);
+  padding: 3px 0 3px 9px; margin-bottom: 5px;
+  background: repeating-linear-gradient(
+    -45deg, transparent, transparent 5px,
+    var(--failed-wash) 5px, var(--failed-wash) 10px);
+}
+.attempt .code {
+  font-size: 0.875rem; font-weight: 600; color: var(--failed);
+  text-decoration: line-through;
+}
+.attempt .name { display: block; font-size: 0.74rem; color: var(--muted); }
+
+#hint-move { margin: 0 0 16px; max-width: 66ch; }
+
+/* ------------------------------------------------------------- the chat */
+
+.chat {
+  display: flex; flex-direction: column; gap: 16px;
+  min-height: calc(100vh - 150px);
+}
+
+.thread { flex: 1; display: flex; flex-direction: column; gap: 22px; }
+.thread .empty { padding: 32px 0; }
+
+.turn { display: flex; flex-direction: column; gap: 10px; }
+
+.bubble { max-width: 74ch; border-radius: 10px; padding: 11px 15px; }
+.bubble p { margin: 0; }
+.bubble p + p { margin-top: 8px; }
+
+.from-you {
+  align-self: flex-end; background: var(--ink); color: var(--paper);
+  border-bottom-right-radius: 3px;
+}
+.from-system {
+  align-self: flex-start; background: var(--card);
+  border: 1px solid var(--rule); border-bottom-left-radius: 3px;
+}
+.from-system.waiting { color: var(--muted); }
+
+details.thinking { margin: -2px 0 10px; }
+details.thinking > summary {
+  cursor: pointer; font-size: 0.8rem; color: var(--muted);
+  list-style: none; padding: 2px 0;
+}
+details.thinking > summary::-webkit-details-marker { display: none; }
+details.thinking > summary::before { content: "\25b8 "; display: inline-block; }
+details.thinking[open] > summary::before { transform: rotate(90deg); }
+details.thinking > summary:hover { color: var(--ink); }
+
+.steps {
+  margin: 8px 0 12px; padding: 0 0 0 2px; list-style: none;
+  border-left: 1px solid var(--rule);
+}
+.step {
+  display: grid; grid-template-columns: 62px 1fr; gap: 10px;
+  padding: 5px 0 5px 12px; font-size: 0.82rem;
+}
+.step b { font-weight: 600; }
+.step-who {
+  font-size: 0.68rem; text-align: center; align-self: start;
+  border: 1px solid var(--rule); border-radius: 100px; padding: 1px 0;
+  color: var(--muted);
+}
+.step.engine .step-who { color: var(--uts); border-color: var(--uts); }
+.step.rule   .step-who { color: var(--usyd); border-color: var(--usyd); }
+.step.flag   .step-who { color: var(--failed); border-color: var(--failed); }
+
+details.raw { margin-top: 10px; }
+details.raw > summary {
+  cursor: pointer; font-size: 0.78rem; color: var(--muted); list-style: none;
+}
+details.raw > summary::-webkit-details-marker { display: none; }
+details.raw > summary::before { content: "\25b8 "; }
+details.raw pre {
+  margin: 8px 0 0; background: var(--paper); border: 1px solid var(--rule);
+  border-radius: var(--radius); padding: 10px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.72rem; line-height: 1.5; max-height: 320px; overflow: auto;
+  white-space: pre-wrap; word-break: break-word;
+}
+
+.chat .composer {
+  position: sticky; bottom: 0; background: var(--paper);
+  padding: 12px 0 16px; margin-top: auto; gap: 8px;
+}
+.chat .composer-row { align-items: flex-end; }
+.chat .composer textarea {
+  min-height: 44px; max-height: 180px; resize: none; line-height: 1.5;
+}
+
+
+/* ------------------------------------------------- the answer arriving */
+
+/* The steps list while it is still filling. */
+details.thinking > summary.live { color: var(--ink); }
+details.thinking > summary.live::after {
+  content: ""; display: inline-block; margin-left: 7px;
+  width: 5px; height: 5px; border-radius: 50%; background: var(--uts);
+  animation: pulse 1.1s ease-in-out infinite;
+  vertical-align: middle;
+}
+@keyframes pulse { 0%, 100% { opacity: 0.25; } 50% { opacity: 1; } }
+
+.steps .step { animation: arrive 220ms ease-out; }
+@keyframes arrive {
+  from { opacity: 0; transform: translateY(-3px); }
+  to { opacity: 1; transform: none; }
+}
+
+/* The caret that follows the text as it is written out. */
+.said.typing::after {
+  content: ""; display: inline-block; vertical-align: text-bottom;
+  width: 2px; height: 1.05em; margin-left: 2px; background: var(--ink);
+  animation: blink 1s step-end infinite;
+}
+@keyframes blink { 50% { opacity: 0; } }
+
+@media (prefers-reduced-motion: reduce) {
+  details.thinking > summary.live::after,
+  .said.typing::after { animation: none; }
+  .steps .step { animation: none; }
+}
+
+/* A follow-up that reused the degree from the question before it. */
+.carried {
+  display: block; margin-top: 5px; font-size: 0.74rem; opacity: 0.75;
+}
+
+.chat .composer-row #ask-reset { align-self: flex-end; }

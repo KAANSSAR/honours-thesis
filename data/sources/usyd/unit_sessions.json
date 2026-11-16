@@ -1,0 +1,1137 @@
+{
+  "AERO1560": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "BMET1960": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "BMET4111": {
+    "sessions_offered": [
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "BMET4112": {
+    "sessions_offered": [
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "BUSS1030": {
+    "sessions_offered": [
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "CHNG1108": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "CIVL1900": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "CIVL3310": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "CIVL5320": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "CIVL5330": {
+    "sessions_offered": [],
+    "discontinued": false
+  },
+  "CLAW2209": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "COMP2017": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "COMP2022": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "COMP2123": {
+    "sessions_offered": [
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "COMP2823": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "COMP2922": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "COMP3027": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "COMP3109": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": true
+  },
+  "COMP3221": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "COMP3308": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "COMP3419": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "COMP3520": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "COMP3608": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "COMP3927": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "COMP4216": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "COMP4270": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "COMP4313": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "COMP4318": {
+    "sessions_offered": [
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "COMP4328": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "COMP4329": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "COMP4338": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "COMP4347": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "COMP4348": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "COMP4349": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "COMP4405": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "COMP4415": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "COMP4416": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "COMP4424": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "COMP4425": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "COMP4426": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "COMP4427": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "COMP4445": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "COMP4446": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "COMP4447": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "COMP4448": {
+    "sessions_offered": [
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "COMP4530": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "COMP4617": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "COMP4618": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "DATA1002": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "DATA1902": {
+    "sessions_offered": [],
+    "discontinued": false
+  },
+  "DATA2001": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "DATA2002": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "DATA2901": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "DATA2902": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "DATA3404": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "DATA3406": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "DATA4207": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "DECO2015": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "DECO2016": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC1004": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC1005": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC1601": {
+    "sessions_offered": [
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC2100": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC2103": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC2104": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC2302": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC2602": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC3104": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC3203": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC3204": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC3206": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC3304": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC3305": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC3404": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC3405": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC3505": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC3506": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC3607": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC3608": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC3609": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC3610": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC3612": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC3702": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": true
+  },
+  "ELEC3802": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": true
+  },
+  "ELEC3803": {
+    "sessions_offered": [],
+    "discontinued": false
+  },
+  "ELEC4505": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC4714": {
+    "sessions_offered": [],
+    "discontinued": false
+  },
+  "ELEC5101": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC5203": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": true
+  },
+  "ELEC5204": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC5205": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC5206": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC5207": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC5208": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC5211": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC5212": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC5213": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC5304": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC5305": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC5306": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC5307": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC5308": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC5405": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC5507": {
+    "sessions_offered": [],
+    "discontinued": false
+  },
+  "ELEC5508": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC5509": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC5510": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC5511": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC5512": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC5514": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC5516": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC5517": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC5518": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC5616": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC5618": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ELEC5619": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC5620": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC5622": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC5623": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ELEC5701": {
+    "sessions_offered": [],
+    "discontinued": false
+  },
+  "ELEC5760": {
+    "sessions_offered": [],
+    "discontinued": false
+  },
+  "ENGG1800": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ENGG1810": {
+    "sessions_offered": [
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ENGG2112": {
+    "sessions_offered": [
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ENGG3112": {
+    "sessions_offered": [
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ENGG3216": {
+    "sessions_offered": [],
+    "discontinued": false
+  },
+  "ENGG3801": {
+    "sessions_offered": [],
+    "discontinued": false
+  },
+  "ENGP1001": {
+    "sessions_offered": [
+      "Intensive August - September",
+      "Intensive February - March",
+      "Intensive January",
+      "Intensive January - February",
+      "Intensive July - August",
+      "Intensive June - July",
+      "Intensive March - April",
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ENGP1002": {
+    "sessions_offered": [
+      "Intensive August - September",
+      "Intensive February - March",
+      "Intensive January",
+      "Intensive January - February",
+      "Intensive July - August",
+      "Intensive June - July",
+      "Intensive March - April",
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ENGP1003": {
+    "sessions_offered": [
+      "Intensive August - September",
+      "Intensive February - March",
+      "Intensive January",
+      "Intensive January - February",
+      "Intensive July - August",
+      "Intensive June - July",
+      "Intensive March - April",
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ENGP2001": {
+    "sessions_offered": [
+      "Intensive August - September",
+      "Intensive February - March",
+      "Intensive January",
+      "Intensive January - February",
+      "Intensive July - August",
+      "Intensive June - July",
+      "Intensive March - April",
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ENGP2002": {
+    "sessions_offered": [
+      "Intensive August - September",
+      "Intensive February - March",
+      "Intensive January",
+      "Intensive January - February",
+      "Intensive July - August",
+      "Intensive June - July",
+      "Intensive March - April",
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ENGP2003": {
+    "sessions_offered": [
+      "Intensive August - September",
+      "Intensive February - March",
+      "Intensive January",
+      "Intensive January - February",
+      "Intensive July - August",
+      "Intensive June - July",
+      "Intensive March - April",
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ENGP3001": {
+    "sessions_offered": [
+      "Intensive August - September",
+      "Intensive February - March",
+      "Intensive January",
+      "Intensive January - February",
+      "Intensive July - August",
+      "Intensive June - July",
+      "Intensive March - April",
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ENGP3002": {
+    "sessions_offered": [
+      "Intensive August - September",
+      "Intensive February - March",
+      "Intensive January",
+      "Intensive January - February",
+      "Intensive July - August",
+      "Intensive June - July",
+      "Intensive March - April",
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "INFO1110": {
+    "sessions_offered": [
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "INFO1113": {
+    "sessions_offered": [
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "INFO1910": {
+    "sessions_offered": [],
+    "discontinued": false
+  },
+  "INFO3315": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "INFO3616": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "INFO4491": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "INFO4994": {
+    "sessions_offered": [
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "INFS2030": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ISYS2110": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ISYS2120": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ISYS2160": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ISYS3401": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "ISYS3402": {
+    "sessions_offered": [],
+    "discontinued": false
+  },
+  "ISYS3888": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "ISYS4450": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "MATH1061": {
+    "sessions_offered": [
+      "Intensive January",
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "MATH1062": {
+    "sessions_offered": [
+      "Intensive January",
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "MATH1961": {
+    "sessions_offered": [],
+    "discontinued": false
+  },
+  "MATH1962": {
+    "sessions_offered": [],
+    "discontinued": false
+  },
+  "MATH2061": {
+    "sessions_offered": [
+      "Intensive January",
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "MATH2069": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "MECH1560": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "MKTG1001": {
+    "sessions_offered": [
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "MKTG3114": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "MKTG3120": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "MTRX1701": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "PHYS1001": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "PHYS1003": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "PHYS2213": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "PMGT3856": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "PMGT3857": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "SIEN1000": {
+    "sessions_offered": [
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "SIEN1001": {
+    "sessions_offered": [
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "SIEN2001": {
+    "sessions_offered": [
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "SIEN2210": {
+    "sessions_offered": [
+      "Semester 1",
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "SIEN3001": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "SIEN3204": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "SOFT2201": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "SOFT2412": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "SOFT3202": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "SOFT3410": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": true
+  },
+  "SOFT3888": {
+    "sessions_offered": [
+      "Semester 2"
+    ],
+    "discontinued": false
+  },
+  "STAT2011": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  },
+  "STAT2911": {
+    "sessions_offered": [
+      "Semester 1"
+    ],
+    "discontinued": false
+  }
+}

@@ -1,0 +1,505 @@
+{
+ "counts": {
+  "no_reply": 0,
+  "unparseable": 0,
+  "invented": 3,
+  "incomplete": 14,
+  "invalid": 14,
+  "clean": 0,
+  "total": 14
+ },
+ "rows": [
+  {
+   "institution": "UTS",
+   "plan": "Software Engineering major",
+   "persona": "plain",
+   "meta": {
+    "done_reason": "stop",
+    "eval_count": 286,
+    "prompt_eval_count": 1216,
+    "thinking_chars": 0,
+    "suppressed_reasoning": true
+   },
+   "reply": "{\n  \"plan\": [\n    {\"period\": 0, \"units\": [\"31269\", \"31250\", \"41035\", \"48024\"]},\n    {\"period\": 1, \"units\": [\"31251\", \"33130\", \"41039\"]},\n    {\"period\": 2, \"units\": [\"31257\", \"33230\", \"41055\"]},\n    {\"period\": 3, \"units\": [\"41028\", \"41113\", \"48230\"]},\n    {\"period\": 4, \"units\": [\"41029\", \"41127\", \"41182\"]},\n    {\"period\": 5, \"units\": [\"41030\", \"41128\", \"41129\", \"68037\"]},\n    {\"period\": 6, \"units\": [\"41200\", \"41201\", \"41202\"]},\n    {\"period\": 7, \"units\": [\"41203\", \"48433\", \"41091\", \"41092\"]}\n  ]\n}",
+   "invented_codes": [],
+   "missing_units": [
+    "31271",
+    "31282"
+   ],
+   "total_credit_points": 186,
+   "violations": [
+    "48024 (Year 1 - Autumn session) needs 48023 or 31267 or 31465 or 48430 or 41039 beforehand, and has none of them.",
+    "31251 (Year 1 - Spring session) is not offered in that session; it runs in Autumn session.",
+    "41039 (Year 1 - Spring session) is not offered in that session; it runs in Autumn session.",
+    "41055 (Year 2 - Autumn session) needs 41028 beforehand, and has none of them.",
+    "41029 (Year 3 - Autumn session) needs 48260 or 16912 or 41202 beforehand, and has none of them.",
+    "41127 (Year 3 - Autumn session) needs 31271 beforehand, and has none of them.",
+    "41127 (Year 3 - Autumn session) is not offered in that session; it runs in Spring session.",
+    "41091 (Year 4 - Spring session) is not offered in that session; it runs in Autumn session.",
+    "Year 3 - Spring session carries 36 credit points, above the 30 credit point maximum."
+   ],
+   "violation_count": 9,
+   "outcome": "2 missing, 186cp of 198; 9 violations"
+  },
+  {
+   "institution": "UTS",
+   "plan": "Software Engineering major",
+   "persona": "school-leaver",
+   "meta": {
+    "done_reason": "stop",
+    "eval_count": 272,
+    "prompt_eval_count": 1242,
+    "thinking_chars": 0,
+    "suppressed_reasoning": true
+   },
+   "reply": "{\n  \"plan\": [\n    {\"period\": 0, \"units\": [\"31269\", \"31250\", \"33130\", \"41035\"]},\n    {\"period\": 1, \"units\": [\"31251\", \"48024\", \"48230\"]},\n    {\"period\": 2, \"units\": [\"31257\", \"41039\", \"41055\"]},\n    {\"period\": 3, \"units\": [\"31271\", \"41028\", \"41113\"]},\n    {\"period\": 4, \"units\": [\"41092\", \"41127\", \"41128\"]},\n    {\"period\": 5, \"units\": [\"41129\", \"41091\", \"41182\"]},\n    {\"period\": 6, \"units\": [\"41200\", \"41201\", \"41202\"]},\n    {\"period\": 7, \"units\": [\"41203\", \"68037\", \"48433\"]}\n  ]\n}",
+   "invented_codes": [],
+   "missing_units": [
+    "31282",
+    "33230",
+    "41029",
+    "41030"
+   ],
+   "total_credit_points": 174,
+   "violations": [
+    "31251 (Year 1 - Spring session) needs 48024 beforehand, and has none of them.",
+    "31251 (Year 1 - Spring session) is not offered in that session; it runs in Autumn session.",
+    "48024 (Year 1 - Spring session) needs 48023 or 31267 or 31465 or 48430 or 41039 beforehand, and has none of them.",
+    "41055 (Year 2 - Autumn session) needs 41028 beforehand, and has none of them.",
+    "41127 (Year 3 - Autumn session) is not offered in that session; it runs in Spring session.",
+    "41128 (Year 3 - Autumn session) is not offered in that session; it runs in Spring session.",
+    "41091 (Year 3 - Spring session) is not offered in that session; it runs in Autumn session.",
+    "41182 (Year 3 - Spring session) is not offered in that session; it runs in Autumn session."
+   ],
+   "violation_count": 8,
+   "outcome": "4 missing, 174cp of 198; 8 violations"
+  },
+  {
+   "institution": "UTS",
+   "plan": "Software Engineering major",
+   "persona": "transfer",
+   "meta": {
+    "done_reason": "stop",
+    "eval_count": 258,
+    "prompt_eval_count": 1243,
+    "thinking_chars": 0,
+    "suppressed_reasoning": true
+   },
+   "reply": "{\n  \"plan\": [\n    {\"period\": 0, \"units\": [\"31269\", \"31250\", \"41035\"]},\n    {\"period\": 1, \"units\": [\"31251\", \"41030\"]},\n    {\"period\": 2, \"units\": [\"31257\", \"33130\", \"41055\"]},\n    {\"period\": 3, \"units\": [\"33230\", \"41028\", \"48230\"]},\n    {\"period\": 4, \"units\": [\"41091\", \"41113\", \"48024\"]},\n    {\"period\": 5, \"units\": [\"41127\", \"41200\", \"41201\"]},\n    {\"period\": 6, \"units\": [\"41129\", \"41092\", \"41182\"]},\n    {\"period\": 7, \"units\": [\"48433\", \"68037\", \"41203\"]}\n  ]\n}",
+   "invented_codes": [],
+   "missing_units": [
+    "31271",
+    "31282",
+    "41029",
+    "41039",
+    "41128",
+    "41202"
+   ],
+   "total_credit_points": 156,
+   "violations": [
+    "31251 (Year 1 - Spring session) needs 48024 beforehand, and has none of them.",
+    "31251 (Year 1 - Spring session) is not offered in that session; it runs in Autumn session.",
+    "41030 (Year 1 - Spring session) needs 41029 beforehand, and has none of them.",
+    "41055 (Year 2 - Autumn session) needs 41028 beforehand, and has none of them.",
+    "41091 (Year 3 - Autumn session) needs 48024 or 41082 beforehand, and has none of them.",
+    "48024 (Year 3 - Autumn session) needs 48023 or 31267 or 31465 or 48430 or 41039 beforehand, and has none of them.",
+    "41127 (Year 3 - Spring session) needs 31271 beforehand, and has none of them.",
+    "41129 (Year 4 - Autumn session) is not offered in that session; it runs in Spring session.",
+    "41203 (Year 4 - Spring session) needs 96cp beforehand, and has none of them."
+   ],
+   "violation_count": 9,
+   "outcome": "6 missing, 156cp of 198; 9 violations"
+  },
+  {
+   "institution": "UTS",
+   "plan": "Software Engineering major",
+   "persona": "mature-age",
+   "meta": {
+    "done_reason": "stop",
+    "eval_count": 321,
+    "prompt_eval_count": 1243,
+    "thinking_chars": 0,
+    "suppressed_reasoning": true
+   },
+   "reply": "{\n  \"plan\": [\n    {\"period\": 0, \"units\": [\"31269\", \"31250\", \"33130\", \"41035\"]},\n    {\"period\": 1, \"units\": [\"31251\", \"48024\", \"48230\", \"41055\"]},\n    {\"period\": 2, \"units\": [\"31257\", \"41039\", \"41113\", \"41200\"]},\n    {\"period\": 3, \"units\": [\"31271\", \"41028\", \"41092\", \"41201\"]},\n    {\"period\": 4, \"units\": [\"41091\", \"41127\", \"41128\", \"41129\"]},\n    {\"period\": 5, \"units\": [\"41182\", \"48433\", \"68037\", \"41029\"]},\n    {\"period\": 6, \"units\": [\"41030\", \"41202\", \"41203\", \"48430\"]},\n    {\"period\": 7, \"units\": [\"41082\", \"41093\", \"41129\", \"48433\"]}\n  ]\n}",
+   "invented_codes": [
+    "41082",
+    "41093",
+    "48430"
+   ],
+   "missing_units": [
+    "31282",
+    "33230"
+   ],
+   "total_credit_points": 204,
+   "violations": [
+    "31251 (Year 1 - Spring session) needs 48024 beforehand, and has none of them.",
+    "31251 (Year 1 - Spring session) is not offered in that session; it runs in Autumn session.",
+    "48024 (Year 1 - Spring session) needs 48023 or 31267 or 31465 or 48430 or 41039 beforehand, and has none of them.",
+    "41055 (Year 1 - Spring session) needs 41028 beforehand, and has none of them.",
+    "41127 (Year 3 - Autumn session) is not offered in that session; it runs in Spring session.",
+    "41128 (Year 3 - Autumn session) is not offered in that session; it runs in Spring session.",
+    "41182 (Year 3 - Spring session) is not offered in that session; it runs in Autumn session.",
+    "41029 (Year 3 - Spring session) needs 48260 or 16912 or 41202 beforehand, and has none of them.",
+    "41203 (Year 4 - Autumn session) needs 96cp beforehand, and has none of them.",
+    "Year 3 - Autumn session carries 42 credit points, above the 30 credit point maximum."
+   ],
+   "violation_count": 10,
+   "outcome": "3 invented; 2 missing, 204cp of 198; 10 violations"
+  },
+  {
+   "institution": "UTS",
+   "plan": "Software Engineering major",
+   "persona": "international",
+   "meta": {
+    "done_reason": "stop",
+    "eval_count": 265,
+    "prompt_eval_count": 1240,
+    "thinking_chars": 0,
+    "suppressed_reasoning": true
+   },
+   "reply": "{\n  \"plan\": [\n    {\"period\": 0, \"units\": [\"31269\", \"31250\", \"41035\"]},\n    {\"period\": 1, \"units\": [\"31251\", \"48024\", \"48230\"]},\n    {\"period\": 2, \"units\": [\"31257\", \"33130\", \"41039\"]},\n    {\"period\": 3, \"units\": [\"33230\", \"41055\", \"41113\"]},\n    {\"period\": 4, \"units\": [\"41028\", \"41092\", \"41200\"]},\n    {\"period\": 5, \"units\": [\"41029\", \"41091\", \"41201\"]},\n    {\"period\": 6, \"units\": [\"41030\", \"41127\", \"41128\"]},\n    {\"period\": 7, \"units\": [\"41129\", \"48433\", \"68037\"]}\n  ]\n}",
+   "invented_codes": [],
+   "missing_units": [
+    "31271",
+    "31282",
+    "41182",
+    "41202",
+    "41203"
+   ],
+   "total_credit_points": 168,
+   "violations": [
+    "31251 (Year 1 - Spring session) needs 48024 beforehand, and has none of them.",
+    "31251 (Year 1 - Spring session) is not offered in that session; it runs in Autumn session.",
+    "48024 (Year 1 - Spring session) needs 48023 or 31267 or 31465 or 48430 or 41039 beforehand, and has none of them.",
+    "41055 (Year 2 - Spring session) needs 41028 beforehand, and has none of them.",
+    "41029 (Year 3 - Spring session) needs 48260 or 16912 or 41202 beforehand, and has none of them.",
+    "41091 (Year 3 - Spring session) is not offered in that session; it runs in Autumn session.",
+    "41127 (Year 4 - Autumn session) needs 31271 beforehand, and has none of them.",
+    "41127 (Year 4 - Autumn session) is not offered in that session; it runs in Spring session.",
+    "41128 (Year 4 - Autumn session) is not offered in that session; it runs in Spring session."
+   ],
+   "violation_count": 9,
+   "outcome": "5 missing, 168cp of 198; 9 violations"
+  },
+  {
+   "institution": "UTS",
+   "plan": "Software Engineering major",
+   "persona": "struggling",
+   "meta": {
+    "done_reason": "stop",
+    "eval_count": 265,
+    "prompt_eval_count": 1242,
+    "thinking_chars": 0,
+    "suppressed_reasoning": true
+   },
+   "reply": "{\n  \"plan\": [\n    {\"period\": 0, \"units\": [\"31269\", \"31250\", \"41035\"]},\n    {\"period\": 1, \"units\": [\"31251\", \"48024\", \"41039\"]},\n    {\"period\": 2, \"units\": [\"31257\", \"33130\", \"41055\"]},\n    {\"period\": 3, \"units\": [\"33230\", \"41028\", \"48230\"]},\n    {\"period\": 4, \"units\": [\"41029\", \"41113\", \"41200\"]},\n    {\"period\": 5, \"units\": [\"41030\", \"41127\", \"41201\"]},\n    {\"period\": 6, \"units\": [\"41128\", \"41129\", \"41182\"]},\n    {\"period\": 7, \"units\": [\"68037\", \"48433\", \"48023\"]}\n  ]\n}",
+   "invented_codes": [
+    "48023"
+   ],
+   "missing_units": [
+    "31271",
+    "31282",
+    "41091",
+    "41092",
+    "41202",
+    "41203"
+   ],
+   "total_credit_points": 162,
+   "violations": [
+    "31251 (Year 1 - Spring session) needs 48024 beforehand, and has none of them.",
+    "31251 (Year 1 - Spring session) is not offered in that session; it runs in Autumn session.",
+    "48024 (Year 1 - Spring session) needs 48023 or 31267 or 31465 or 48430 or 41039 beforehand, and has none of them.",
+    "41039 (Year 1 - Spring session) is not offered in that session; it runs in Autumn session.",
+    "41055 (Year 2 - Autumn session) needs 41028 beforehand, and has none of them.",
+    "41029 (Year 3 - Autumn session) needs 48260 or 16912 or 41202 beforehand, and has none of them.",
+    "41127 (Year 3 - Spring session) needs 31271 beforehand, and has none of them.",
+    "41128 (Year 4 - Autumn session) is not offered in that session; it runs in Spring session.",
+    "41129 (Year 4 - Autumn session) is not offered in that session; it runs in Spring session.",
+    "Year 4 - Autumn session carries 36 credit points, above the 30 credit point maximum."
+   ],
+   "violation_count": 10,
+   "outcome": "1 invented; 6 missing, 162cp of 198; 10 violations"
+  },
+  {
+   "institution": "UTS",
+   "plan": "Software Engineering major",
+   "persona": "high-achiever",
+   "meta": {
+    "done_reason": "stop",
+    "eval_count": 321,
+    "prompt_eval_count": 1239,
+    "thinking_chars": 0,
+    "suppressed_reasoning": true
+   },
+   "reply": "{\n  \"plan\": [\n    {\"period\": 0, \"units\": [\"31269\", \"31250\", \"33130\", \"41035\"]},\n    {\"period\": 1, \"units\": [\"31251\", \"48024\", \"48230\", \"41055\"]},\n    {\"period\": 2, \"units\": [\"31257\", \"41039\", \"41113\", \"41200\"]},\n    {\"period\": 3, \"units\": [\"31271\", \"41028\", \"41092\", \"41201\"]},\n    {\"period\": 4, \"units\": [\"41091\", \"41127\", \"41128\", \"41129\"]},\n    {\"period\": 5, \"units\": [\"41182\", \"48433\", \"68037\", \"41029\"]},\n    {\"period\": 6, \"units\": [\"41030\", \"41202\", \"41203\", \"48430\"]},\n    {\"period\": 7, \"units\": [\"41203\", \"48433\", \"68037\", \"41129\"]}\n  ]\n}",
+   "invented_codes": [
+    "48430"
+   ],
+   "missing_units": [
+    "31282",
+    "33230"
+   ],
+   "total_credit_points": 216,
+   "violations": [
+    "31251 (Year 1 - Spring session) needs 48024 beforehand, and has none of them.",
+    "31251 (Year 1 - Spring session) is not offered in that session; it runs in Autumn session.",
+    "48024 (Year 1 - Spring session) needs 48023 or 31267 or 31465 or 48430 or 41039 beforehand, and has none of them.",
+    "41055 (Year 1 - Spring session) needs 41028 beforehand, and has none of them.",
+    "41127 (Year 3 - Autumn session) is not offered in that session; it runs in Spring session.",
+    "41128 (Year 3 - Autumn session) is not offered in that session; it runs in Spring session.",
+    "41182 (Year 3 - Spring session) is not offered in that session; it runs in Autumn session.",
+    "41029 (Year 3 - Spring session) needs 48260 or 16912 or 41202 beforehand, and has none of them.",
+    "Year 3 - Autumn session carries 42 credit points, above the 30 credit point maximum.",
+    "Year 4 - Spring session carries 36 credit points, above the 30 credit point maximum."
+   ],
+   "violation_count": 10,
+   "outcome": "1 invented; 2 missing, 216cp of 198; 10 violations"
+  },
+  {
+   "institution": "USYD",
+   "plan": "Software_stream_Computer_Engineering_breadth_Humanitarian_Engineering",
+   "persona": "plain",
+   "meta": {
+    "done_reason": "stop",
+    "eval_count": 367,
+    "prompt_eval_count": 1402,
+    "thinking_chars": 0,
+    "suppressed_reasoning": true
+   },
+   "reply": "{\n  \"plan\": [\n    {\n      \"period\": 0,\n      \"units\": [\"ELEC1005\", \"ELEC1601\", \"INFO1110\", \"MATH1061\"]\n    },\n    {\n      \"period\": 1,\n      \"units\": [\"ELEC2602\", \"INFO1113\", \"MATH1062\"]\n    },\n    {\n      \"period\": 2,\n      \"units\": [\"COMP2123\", \"ELEC3607\", \"ISYS2110\", \"SOFT2201\"]\n    },\n    {\n      \"period\": 3,\n      \"units\": [\"COMP2017\", \"ELEC3608\", \"ENGG2112\", \"SOFT2412\"]\n    },\n    {\n      \"period\": 4,\n      \"units\": [\"ELEC3506\", \"ENGG3112\", \"INFO3616\", \"SOFT3202\"]\n    },\n    {\n      \"period\": 5,\n      \"units\": [\"ELEC3305\", \"ELEC4712\", \"ENGG3801\", \"PMGT3857\"]\n    },\n    {\n      \"period\": 6,\n      \"units\": [\"ELEC3609\", \"ELEC4713\", \"SOFT3888\"]\n    },\n    {\n      \"period\": 7,\n      \"units\": [\"CIVL3310\", \"CIVL5320\", \"ELEC5618\", \"ELEC5619\"]\n    }\n  ]\n}",
+   "invented_codes": [],
+   "missing_units": [
+    "ISYS2120",
+    "MATH2069"
+   ],
+   "total_credit_points": 180,
+   "violations": [
+    "ELEC2602 (Year 1 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "SOFT2201 (Year 2 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "COMP2017 (Year 2 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "ELEC3506 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "INFO3616 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "ELEC3305 (Year 3 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "ELEC3609 (Year 4 - Semester 1) needs INFO2120 or INFO2820 or ISYS2120 beforehand, and has none of them.",
+    "ELEC3609 (Year 4 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "SOFT3888 (Year 4 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "CIVL3310 (Year 4 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "ELEC5618 (Year 4 - Semester 2) is not offered in that session; it runs in Semester 1."
+   ],
+   "violation_count": 11,
+   "outcome": "2 missing, 180cp of 192; 11 violations"
+  },
+  {
+   "institution": "USYD",
+   "plan": "Software_stream_Computer_Engineering_breadth_Humanitarian_Engineering",
+   "persona": "school-leaver",
+   "meta": {
+    "done_reason": "stop",
+    "eval_count": 334,
+    "prompt_eval_count": 1428,
+    "thinking_chars": 0,
+    "suppressed_reasoning": true
+   },
+   "reply": "{\n  \"plan\": [\n    {\"period\": 0, \"units\": [\"ELEC1005\", \"ELEC1601\", \"INFO1110\", \"MATH1061\"]},\n    {\"period\": 1, \"units\": [\"ELEC2602\", \"INFO1113\", \"MATH1062\"]},\n    {\"period\": 2, \"units\": [\"COMP2123\", \"ELEC3607\", \"ENGG2112\", \"ISYS2110\"]},\n    {\"period\": 3, \"units\": [\"COMP2017\", \"ELEC3305\", \"ENGG3112\", \"SOFT2201\"]},\n    {\"period\": 4, \"units\": [\"ELEC3506\", \"ELEC3608\", \"ISYS2120\", \"SOFT2412\"]},\n    {\"period\": 5, \"units\": [\"ELEC4712\", \"ENGG3801\", \"INFO3616\", \"SOFT3202\"]},\n    {\"period\": 6, \"units\": [\"ELEC4713\", \"ELEC5618\", \"PMGT3857\", \"SOFT3888\"]},\n    {\"period\": 7, \"units\": [\"CIVL3310\", \"CIVL5320\", \"ELEC5619\"]}\n  ]\n}",
+   "invented_codes": [],
+   "missing_units": [
+    "ELEC3609",
+    "MATH2069"
+   ],
+   "total_credit_points": 180,
+   "violations": [
+    "ELEC2602 (Year 1 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "COMP2017 (Year 2 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "ELEC3305 (Year 2 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "ENGG3112 (Year 2 - Semester 2) needs 84cp of matching units scheduled earlier, and not enough are.",
+    "ELEC3506 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "ELEC3608 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "ISYS2120 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "SOFT2412 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "ELEC4712 (Year 3 - Semester 2) needs 36cp of matching units scheduled earlier, and not enough are.",
+    "SOFT3202 (Year 3 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "PMGT3857 (Year 4 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "SOFT3888 (Year 4 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "CIVL3310 (Year 4 - Semester 2) is not offered in that session; it runs in Semester 1."
+   ],
+   "violation_count": 13,
+   "outcome": "2 missing, 180cp of 192; 13 violations"
+  },
+  {
+   "institution": "USYD",
+   "plan": "Software_stream_Computer_Engineering_breadth_Humanitarian_Engineering",
+   "persona": "transfer",
+   "meta": {
+    "done_reason": "stop",
+    "eval_count": 334,
+    "prompt_eval_count": 1429,
+    "thinking_chars": 0,
+    "suppressed_reasoning": true
+   },
+   "reply": "{\n  \"plan\": [\n    {\"period\": 0, \"units\": [\"ELEC1005\", \"ELEC1601\", \"INFO1110\", \"MATH1061\"]},\n    {\"period\": 1, \"units\": [\"ELEC2602\", \"INFO1113\", \"MATH1062\"]},\n    {\"period\": 2, \"units\": [\"COMP2123\", \"ELEC3607\", \"ENGG2112\", \"ISYS2110\"]},\n    {\"period\": 3, \"units\": [\"COMP2017\", \"ELEC3305\", \"ENGG3112\", \"SOFT2201\"]},\n    {\"period\": 4, \"units\": [\"ELEC3506\", \"ELEC3608\", \"ISYS2120\", \"SOFT2412\"]},\n    {\"period\": 5, \"units\": [\"ELEC4712\", \"ENGG3801\", \"INFO3616\", \"PMGT3857\"]},\n    {\"period\": 6, \"units\": [\"ELEC4713\", \"SOFT3202\", \"SOFT3888\"]},\n    {\"period\": 7, \"units\": [\"CIVL3310\", \"CIVL5320\", \"ELEC5618\", \"ELEC5619\"]}\n  ]\n}",
+   "invented_codes": [],
+   "missing_units": [
+    "ELEC3609",
+    "MATH2069"
+   ],
+   "total_credit_points": 180,
+   "violations": [
+    "ELEC2602 (Year 1 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "COMP2017 (Year 2 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "ELEC3305 (Year 2 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "ENGG3112 (Year 2 - Semester 2) needs 84cp of matching units scheduled earlier, and not enough are.",
+    "ELEC3506 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "ELEC3608 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "ISYS2120 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "SOFT2412 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "ELEC4712 (Year 3 - Semester 2) needs 36cp of matching units scheduled earlier, and not enough are.",
+    "SOFT3888 (Year 4 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "CIVL3310 (Year 4 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "ELEC5618 (Year 4 - Semester 2) is not offered in that session; it runs in Semester 1."
+   ],
+   "violation_count": 12,
+   "outcome": "2 missing, 180cp of 192; 12 violations"
+  },
+  {
+   "institution": "USYD",
+   "plan": "Software_stream_Computer_Engineering_breadth_Humanitarian_Engineering",
+   "persona": "mature-age",
+   "meta": {
+    "done_reason": "stop",
+    "eval_count": 334,
+    "prompt_eval_count": 1429,
+    "thinking_chars": 0,
+    "suppressed_reasoning": true
+   },
+   "reply": "{\n  \"plan\": [\n    {\"period\": 0, \"units\": [\"ELEC1005\", \"ELEC1601\", \"INFO1110\", \"MATH1061\"]},\n    {\"period\": 1, \"units\": [\"ELEC2602\", \"INFO1113\", \"MATH1062\"]},\n    {\"period\": 2, \"units\": [\"COMP2123\", \"ELEC3607\", \"ENGG2112\", \"ISYS2110\"]},\n    {\"period\": 3, \"units\": [\"COMP2017\", \"ELEC3305\", \"ENGG3112\", \"SOFT2201\"]},\n    {\"period\": 4, \"units\": [\"ELEC3506\", \"ELEC3608\", \"ISYS2120\", \"SOFT2412\"]},\n    {\"period\": 5, \"units\": [\"ELEC4712\", \"ENGG3801\", \"INFO3616\", \"PMGT3857\"]},\n    {\"period\": 6, \"units\": [\"ELEC4713\", \"SOFT3202\", \"SOFT3888\"]},\n    {\"period\": 7, \"units\": [\"CIVL3310\", \"CIVL5320\", \"ELEC5618\", \"ELEC5619\"]}\n  ]\n}",
+   "invented_codes": [],
+   "missing_units": [
+    "ELEC3609",
+    "MATH2069"
+   ],
+   "total_credit_points": 180,
+   "violations": [
+    "ELEC2602 (Year 1 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "COMP2017 (Year 2 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "ELEC3305 (Year 2 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "ENGG3112 (Year 2 - Semester 2) needs 84cp of matching units scheduled earlier, and not enough are.",
+    "ELEC3506 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "ELEC3608 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "ISYS2120 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "SOFT2412 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "ELEC4712 (Year 3 - Semester 2) needs 36cp of matching units scheduled earlier, and not enough are.",
+    "SOFT3888 (Year 4 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "CIVL3310 (Year 4 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "ELEC5618 (Year 4 - Semester 2) is not offered in that session; it runs in Semester 1."
+   ],
+   "violation_count": 12,
+   "outcome": "2 missing, 180cp of 192; 12 violations"
+  },
+  {
+   "institution": "USYD",
+   "plan": "Software_stream_Computer_Engineering_breadth_Humanitarian_Engineering",
+   "persona": "international",
+   "meta": {
+    "done_reason": "stop",
+    "eval_count": 325,
+    "prompt_eval_count": 1426,
+    "thinking_chars": 0,
+    "suppressed_reasoning": true
+   },
+   "reply": "{\n  \"plan\": [\n    {\n      \"period\": 0,\n      \"units\": [\"ELEC1005\", \"ELEC1601\", \"INFO1110\", \"MATH1061\"]\n    },\n    {\n      \"period\": 1,\n      \"units\": [\"ELEC2602\", \"INFO1113\", \"MATH1062\"]\n    },\n    {\n      \"period\": 2,\n      \"units\": [\"COMP2123\", \"ELEC3607\", \"ISYS2110\"]\n    },\n    {\n      \"period\": 3,\n      \"units\": [\"COMP2017\", \"ELEC3305\", \"ENGG2112\"]\n    },\n    {\n      \"period\": 4,\n      \"units\": [\"ELEC3506\", \"ELEC3608\", \"SOFT2201\"]\n    },\n    {\n      \"period\": 5,\n      \"units\": [\"ELEC3609\", \"ENGG3112\", \"SOFT2412\"]\n    },\n    {\n      \"period\": 6,\n      \"units\": [\"ELEC4712\", \"SOFT3202\"]\n    },\n    {\n      \"period\": 7,\n      \"units\": [\"ELEC4713\", \"SOFT3888\", \"PMGT3857\", \"INFO3616\"]\n    }\n  ]\n}",
+   "invented_codes": [],
+   "missing_units": [
+    "CIVL3310",
+    "CIVL5320",
+    "ELEC5618",
+    "ELEC5619",
+    "ENGG3801",
+    "ISYS2120",
+    "MATH2069"
+   ],
+   "total_credit_points": 150,
+   "violations": [
+    "ELEC2602 (Year 1 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "COMP2017 (Year 2 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "ELEC3305 (Year 2 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "ELEC3506 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "ELEC3608 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "SOFT2201 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "ELEC3609 (Year 3 - Semester 2) needs INFO2120 or INFO2820 or ISYS2120 beforehand, and has none of them."
+   ],
+   "violation_count": 7,
+   "outcome": "7 missing, 150cp of 192; 7 violations"
+  },
+  {
+   "institution": "USYD",
+   "plan": "Software_stream_Computer_Engineering_breadth_Humanitarian_Engineering",
+   "persona": "struggling",
+   "meta": {
+    "done_reason": "stop",
+    "eval_count": 325,
+    "prompt_eval_count": 1428,
+    "thinking_chars": 0,
+    "suppressed_reasoning": true
+   },
+   "reply": "{\n  \"plan\": [\n    {\n      \"period\": 0,\n      \"units\": [\"ELEC1005\", \"ELEC1601\", \"INFO1110\", \"MATH1061\"]\n    },\n    {\n      \"period\": 1,\n      \"units\": [\"ELEC2602\", \"INFO1113\", \"MATH1062\"]\n    },\n    {\n      \"period\": 2,\n      \"units\": [\"COMP2123\", \"ELEC3607\", \"ISYS2110\"]\n    },\n    {\n      \"period\": 3,\n      \"units\": [\"COMP2017\", \"ELEC3305\", \"ENGG2112\"]\n    },\n    {\n      \"period\": 4,\n      \"units\": [\"ELEC3506\", \"ELEC3608\", \"SOFT2201\"]\n    },\n    {\n      \"period\": 5,\n      \"units\": [\"ELEC3609\", \"SOFT2412\", \"ENGG3112\"]\n    },\n    {\n      \"period\": 6,\n      \"units\": [\"ELEC4712\", \"SOFT3202\", \"PMGT3857\"]\n    },\n    {\n      \"period\": 7,\n      \"units\": [\"ELEC4713\", \"SOFT3888\", \"INFO3616\"]\n    }\n  ]\n}",
+   "invented_codes": [],
+   "missing_units": [
+    "CIVL3310",
+    "CIVL5320",
+    "ELEC5618",
+    "ELEC5619",
+    "ENGG3801",
+    "ISYS2120",
+    "MATH2069"
+   ],
+   "total_credit_points": 150,
+   "violations": [
+    "ELEC2602 (Year 1 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "COMP2017 (Year 2 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "ELEC3305 (Year 2 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "ELEC3506 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "ELEC3608 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "SOFT2201 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "ELEC3609 (Year 3 - Semester 2) needs INFO2120 or INFO2820 or ISYS2120 beforehand, and has none of them.",
+    "PMGT3857 (Year 4 - Semester 1) is not offered in that session; it runs in Semester 2."
+   ],
+   "violation_count": 8,
+   "outcome": "7 missing, 150cp of 192; 8 violations"
+  },
+  {
+   "institution": "USYD",
+   "plan": "Software_stream_Computer_Engineering_breadth_Humanitarian_Engineering",
+   "persona": "high-achiever",
+   "meta": {
+    "done_reason": "stop",
+    "eval_count": 326,
+    "prompt_eval_count": 1425,
+    "thinking_chars": 0,
+    "suppressed_reasoning": true
+   },
+   "reply": "{\n  \"plan\": [\n    {\"period\": 0, \"units\": [\"ELEC1005\", \"ELEC1601\", \"INFO1110\", \"MATH1061\"]},\n    {\"period\": 1, \"units\": [\"ELEC2602\", \"INFO1113\", \"MATH1062\"]},\n    {\"period\": 2, \"units\": [\"COMP2123\", \"ELEC3607\", \"ENGG2112\", \"ISYS2110\"]},\n    {\"period\": 3, \"units\": [\"COMP2017\", \"ELEC3506\", \"ENGG3112\", \"ISYS2120\"]},\n    {\"period\": 4, \"units\": [\"ELEC3608\", \"SOFT2201\", \"SOFT2412\", \"INFO3616\"]},\n    {\"period\": 5, \"units\": [\"ELEC3609\", \"SOFT3202\", \"SOFT3888\", \"PMGT3857\"]},\n    {\"period\": 6, \"units\": [\"ELEC4712\", \"ELEC5618\", \"ELEC5619\"]},\n    {\"period\": 7, \"units\": [\"ELEC4713\", \"CIVL3310\", \"CIVL5320\"]}\n  ]\n}",
+   "invented_codes": [],
+   "missing_units": [
+    "ELEC3305",
+    "ENGG3801",
+    "MATH2069"
+   ],
+   "total_credit_points": 174,
+   "violations": [
+    "ELEC2602 (Year 1 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "COMP2017 (Year 2 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "ENGG3112 (Year 2 - Semester 2) needs 84cp of matching units scheduled earlier, and not enough are.",
+    "ELEC3608 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "SOFT2201 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "SOFT2412 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "INFO3616 (Year 3 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "SOFT3202 (Year 3 - Semester 2) is not offered in that session; it runs in Semester 1.",
+    "ELEC5619 (Year 4 - Semester 1) is not offered in that session; it runs in Semester 2.",
+    "CIVL3310 (Year 4 - Semester 2) is not offered in that session; it runs in Semester 1."
+   ],
+   "violation_count": 10,
+   "outcome": "3 missing, 174cp of 192; 10 violations"
+  }
+ ]
+}

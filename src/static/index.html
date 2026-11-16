@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Curriculum planner</title>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <div class="wordmark">Curriculum planner <span>&middot; Sydney and UTS engineering</span></div>
+    <nav>
+      <button type="button" data-view="compare">Compare degrees</button>
+      <button type="button" data-view="plan" aria-current="true">Plan</button>
+      <button type="button" data-view="ask">Ask</button>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <!-- ------------------------------------------------------------ plan -->
+  <section class="view" id="view-plan">
+    <div class="plan-layout">
+      <form class="controls" id="plan-controls" autocomplete="off">
+        <div class="field">
+          <label for="inst">University</label>
+          <div class="radio-set" id="inst" role="group" aria-label="University">
+            <button type="button" data-inst="USYD" aria-pressed="true">Sydney</button>
+            <button type="button" data-inst="UTS" aria-pressed="false">UTS</button>
+          </div>
+        </div>
+
+        <div class="field">
+          <label for="degree">Degree</label>
+          <select id="degree"></select>
+        </div>
+
+        <div class="field">
+          <label for="combo">Specialisation and electives</label>
+          <select id="combo"></select>
+        </div>
+
+        <hr>
+
+        <div class="field">
+          <label for="add-failure">If you failed a unit</label>
+          <select id="add-failure"><option value="">Choose a unit you failed</option></select>
+        </div>
+
+        <div class="field" id="failure-list" hidden></div>
+
+        <button class="btn quiet" type="button" id="check">Check this plan</button>
+        <button class="btn quiet" type="button" id="reset" hidden>Start again</button>
+      </form>
+
+      <div>
+        <div id="plan-notices"></div>
+        <p class="hint" id="hint-move" hidden>Drag a unit onto a session to move it
+           there, or onto another unit to swap them. Clicking works too: click to
+           pick up, click again to place. The engine checks every arrangement, so
+           you can overload a session deliberately and see what it costs.
+           Shift-click a unit for its rules.</p>
+        <div class="plan-head" id="plan-head" hidden>
+          <h2 id="plan-title"></h2>
+          <p class="plan-meta" id="plan-sub"></p>
+        </div>
+        <div id="plan-grid"></div>
+        <div class="empty" id="plan-empty">
+          <h2>Pick a degree</h2>
+          <p>Every plan here is checked against the published rules of its own
+             university. Choose one to see how the units fall across the years,
+             then say which unit you failed to see the plan repaired around it.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- --------------------------------------------------------- compare -->
+  <section class="view" id="view-compare" hidden>
+    <div class="pairs" id="pairs" role="group" aria-label="Degree"></div>
+    <div id="compare-out">
+      <div class="empty">
+        <h2>Pick a degree to compare</h2>
+        <p>Each Sydney degree is set against the UTS course that corresponds to
+           it, on length, cost, structure and what you get to choose. The
+           figures come from the same dataset the planner uses.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ------------------------------------------------------------- ask -->
+  <section class="view" id="view-ask" hidden>
+    <div class="chat">
+      <div class="thread" id="thread">
+        <div class="empty">
+          <h2>Ask about a plan</h2>
+          <p>The model reads your question and calls the engine. It never decides
+             whether a plan is valid, and each answer shows the steps it took to
+             get there.</p>
+        </div>
+      </div>
+
+      <form class="composer" id="ask-form" autocomplete="off">
+        <div class="examples" id="ask-examples"></div>
+        <div class="composer-row">
+          <label class="sr-only" for="ask-text">Your question</label>
+          <button class="btn quiet" type="button" id="ask-reset"
+                  title="Forget the degree carried between questions">Clear</button>
+          <textarea id="ask-text" rows="1"
+            placeholder="I'm in the Software Engineering major at UTS and I failed Programming 1. What happens to my plan?"></textarea>
+          <button class="btn" type="submit" id="ask-send">Send</button>
+        </div>
+      </form>
+    </div>
+  </section>
+
+</main>
+
+<dialog id="unit-dialog">
+  <header>
+    <h3 id="unit-code"></h3>
+    <p id="unit-name"></p>
+  </header>
+  <dl class="facts" id="unit-facts"></dl>
+  <footer><button class="btn quiet" type="button" id="unit-close">Close</button></footer>
+</dialog>
+
+<script src="app.js"></script>
+</body>
+</html>

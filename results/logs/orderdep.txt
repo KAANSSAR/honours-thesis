@@ -1,0 +1,8 @@
+  seed      0  1548 schedules  digest c978c39b8ce75953
+  seed      1  1548 schedules  digest c978c39b8ce75953
+  seed   7920  1548 schedules  digest c978c39b8ce75953
+  seed  15839  1548 schedules  digest c978c39b8ce75953
+  seed  23758  1548 schedules  digest c978c39b8ce75953
+
+distinct outputs across 5 hash seeds: 1
+PASS  the plan set and all 1,497 repairs are identical whatever order the sets iterate in

@@ -1,0 +1,6461 @@
+{
+ "stream_info": null,
+ "semester_plan": [
+  {
+   "period": "Year 0 - Planning your degree",
+   "entries": []
+  },
+  {
+   "period": "Year 1 - Semester 1",
+   "entries": [
+    {
+     "block_type": "Professional Engagement Program (PEP) Units",
+     "credit_points": 0,
+     "raw_options": "Select from | ENGP1001: Professional Engagement Program 1A | Note: | All students must enrol in ENGP1001 in their first semester of enrolment."
+    },
+    {
+     "block_type": "Introductory Computing Units",
+     "credit_points": 6,
+     "raw_options": "Select from | INFO1110: Introduction to Programming"
+    },
+    {
+     "block_type": "Projects Table",
+     "credit_points": 6,
+     "raw_options": "Select from | ELEC1005: Introduction to Software Engineering"
+    },
+    {
+     "block_type": "List",
+     "credit_points": 6,
+     "raw_options": "Select from\r\n                                                                                            Unit Blocks: | Software Stream 1000/2000 Level Electives | Free Electives"
+    },
+    {
+     "block_type": "Foundation Mathematics Units",
+     "credit_points": 6,
+     "raw_options": "Select from | MATH1061: Mathematics 1A"
+    }
+   ]
+  },
+  {
+   "period": "Year 1 - Semester 2",
+   "entries": [
+    {
+     "block_type": "Software Stream Core",
+     "credit_points": 6,
+     "raw_options": "Select from | ELEC1601: Introduction to Computer Systems"
+    },
+    {
+     "block_type": "Software Stream Core",
+     "credit_points": 6,
+     "raw_options": "Select from | INFO1113: Object-Oriented Programming"
+    },
+    {
+     "block_type": "Professional Engagement Program (PEP) Units",
+     "credit_points": 0,
+     "raw_options": "Select from | ENGP1002: Professional Engagement Program 1B"
+    },
+    {
+     "block_type": "List",
+     "credit_points": 6,
+     "raw_options": "Select from\r\n                                                                                            Unit Blocks: | Software Stream 1000/2000 Level Electives | Free Electives"
+    },
+    {
+     "block_type": "Foundation Mathematics Units",
+     "credit_points": 6,
+     "raw_options": "Select from | MATH1062: Mathematics 1B"
+    }
+   ]
+  },
+  {
+   "period": "Year 2 - Semester 1",
+   "entries": [
+    {
+     "block_type": "Software Stream Core",
+     "credit_points": 6,
+     "raw_options": "Select from | COMP2017: Systems Programming"
+    },
+    {
+     "block_type": "Software Stream Core",
+     "credit_points": 6,
+     "raw_options": "Select from | COMP2123: Data Structures & Algorithms"
+    },
+    {
+     "block_type": "Software Stream Core",
+     "credit_points": 6,
+     "raw_options": "Select from | ISYS2110: Analysis & Design of Web Information Systems"
+    },
+    {
+     "block_type": "Software Stream Core",
+     "credit_points": 6,
+     "raw_options": "Select from | MATH2069: Discrete Mathematics and Graph Theory"
+    },
+    {
+     "block_type": "Professional Engagement Program (PEP) Units",
+     "credit_points": 0,
+     "raw_options": "Select from | ENGP1003: Professional Engagement Program 1C"
+    }
+   ]
+  },
+  {
+   "period": "Year 2 - Semester 2",
+   "entries": [
+    {
+     "block_type": "Software Stream Core",
+     "credit_points": 6,
+     "raw_options": "Select from | SOFT2412: Agile Software Development Practices"
+    },
+    {
+     "block_type": "Software Stream Core",
+     "credit_points": 6,
+     "raw_options": "Select from | SOFT2201: Software Construction and Design 1"
+    },
+    {
+     "block_type": "Software Stream Core",
+     "credit_points": 6,
+     "raw_options": "Select from | ISYS2120: Data & Information Management"
+    },
+    {
+     "block_type": "Projects Table",
+     "credit_points": 6,
+     "raw_options": "Select from | ENGG2112: Multi-disciplinary Engineering"
+    },
+    {
+     "block_type": "Professional Engagement Program (PEP) Units",
+     "credit_points": 0,
+     "raw_options": "Select from | ENGP2001: Professional Engagement Program 2A"
+    }
+   ]
+  },
+  {
+   "period": "Year 3 - Semester 1",
+   "entries": [
+    {
+     "block_type": "Software Stream Core",
+     "credit_points": 6,
+     "raw_options": "Select from | SOFT3202: Software Construction and Design 2"
+    },
+    {
+     "block_type": "Professional Engagement Program (PEP) Units",
+     "credit_points": 0,
+     "raw_options": "Select from | ENGP2002: Professional Engagement Program 2B"
+    },
+    {
+     "block_type": "List",
+     "credit_points": 6,
+     "raw_options": "Select from\r\n                                                                                            Unit Blocks: | Software Stream 1000/2000 Level Electives | Software Stream 3000+ Level Elective Units"
+    },
+    {
+     "block_type": "List",
+     "credit_points": 6,
+     "raw_options": "Select from\r\n                                                                                            Unit Blocks: | Software Stream 3000+ Level Elective Units | Free Electives"
+    },
+    {
+     "block_type": "List",
+     "credit_points": 6,
+     "raw_options": "Select from\r\n                                                                                            Unit Blocks: | Software Stream 3000+ Level Elective Units | Free Electives"
+    }
+   ]
+  },
+  {
+   "period": "Year 3 - Semester 2",
+   "entries": [
+    {
+     "block_type": "Software Stream Core",
+     "credit_points": 6,
+     "raw_options": "Select from | SOFT3888: Software Development Project"
+    },
+    {
+     "block_type": "Software Stream Core",
+     "credit_points": 6,
+     "raw_options": "Select from | INFO3616: Principles of Security and Security Engineering"
+    },
+    {
+     "block_type": "Software Stream 3000+ Level Elective Units",
+     "credit_points": 6,
+     "raw_options": "Select from\r\n                                                                                            Unit Block: | Software Stream 3000+ Level Elective Units"
+    },
+    {
+     "block_type": "Software Stream Core",
+     "credit_points": 6,
+     "raw_options": "Select from | ELEC3609: Internet Software Platforms"
+    },
+    {
+     "block_type": "Professional Engagement Program (PEP) Units",
+     "credit_points": 0,
+     "raw_options": "Select from | ENGP2003: Professional Engagement Program 2C"
+    }
+   ]
+  },
+  {
+   "period": "Year 4 - Semester 1",
+   "entries": [
+    {
+     "block_type": "Software Stream Core",
+     "credit_points": 6,
+     "raw_options": "Select from | ELEC5618: Software Quality Engineering"
+    },
+    {
+     "block_type": "Software Stream 3000+ Level Elective Units",
+     "credit_points": 6,
+     "raw_options": "Select from\r\n                                                                                            Unit Block: | Software Stream 3000+ Level Elective Units"
+    },
+    {
+     "block_type": "Professional Engagement Program (PEP) Units",
+     "credit_points": 0,
+     "raw_options": "Select from | ENGP3001: Professional Engagement Program 3A"
+    },
+    {
+     "block_type": "Projects Table",
+     "credit_points": 6,
+     "raw_options": "Select from | ELEC4712: Thesis A"
+    },
+    {
+     "block_type": "Projects Table",
+     "credit_points": 6,
+     "raw_options": "Select from | ENGG3112: Interdisciplinary Engineering"
+    }
+   ]
+  },
+  {
+   "period": "Year 4 - Semester 2",
+   "entries": [
+    {
+     "block_type": "Software Stream 3000+ Level Elective Units",
+     "credit_points": 6,
+     "raw_options": "Select from\r\n                                                                                            Unit Block: | Software Stream 3000+ Level Elective Units"
+    },
+    {
+     "block_type": "Software Stream Core",
+     "credit_points": 6,
+     "raw_options": "Select from | ELEC5619: Object Oriented Application Frameworks"
+    },
+    {
+     "block_type": "Projects Table",
+     "credit_points": 6,
+     "raw_options": "Select from | ELEC4713: Thesis B"
+    },
+    {
+     "block_type": "Professional Engagement Program (PEP) Units",
+     "credit_points": 0,
+     "raw_options": "Select from | ENGP3002: Professional Engagement Program 3B"
+    },
+    {
+     "block_type": "Software Stream 3000+ Level Elective Units",
+     "credit_points": 6,
+     "raw_options": "Select from\r\n                                                                                            Unit Block: | Software Stream 3000+ Level Elective Units"
+    }
+   ]
+  }
+ ],
+ "specialisations": [
+  {
+   "name": "Computer Engineering",
+   "type": "stream",
+   "core_block": "Specialisation - Computer Engineering Core Units",
+   "elective_block": "Specialisation - Computer Engineering Elective Units"
+  },
+  {
+   "name": "Intelligent Information Engineering",
+   "type": "stream",
+   "core_block": "Specialisation - Intelligent Information Engineering Core Units",
+   "elective_block": "Specialisation - Intelligent Information Engineering Elective Units"
+  },
+  {
+   "name": "Internet of Things (IoT)",
+   "type": "stream",
+   "core_block": "Specialisation - Internet of Things Core Units",
+   "elective_block": "Specialisation - Internet of Things Elective Units"
+  },
+  {
+   "name": "Engineering Data Science",
+   "type": "stream",
+   "core_block": "Specialisation - Engineering Data Science Core Units",
+   "elective_block": "Specialisation - Engineering Data Science Elective Units"
+  },
+  {
+   "name": "Humanitarian Engineering",
+   "type": "breadth",
+   "core_block": "Specialisation - Humanitarian Engineering Core Units",
+   "elective_block": "Specialisation - Humanitarian Engineering Elective Units"
+  },
+  {
+   "name": "Innovation and Entrepreneurship",
+   "type": "breadth",
+   "core_block": "Specialisation - Innovation and Entrepreneurship Core Units",
+   "elective_block": "Specialisation - Innovation and Entrepreneurship Elective Units"
+  }
+ ],
+ "degree_blocks_meta": {
+  "Introductory Computing Units": {
+   "min_cp": 6,
+   "max_cp": 6
+  },
+  "Foundation Mathematics Units": {
+   "min_cp": 12,
+   "max_cp": 12
+  },
+  "Projects Table": {
+   "min_cp": 30,
+   "max_cp": 30
+  },
+  "Professional Engagement Program (PEP) Units": {
+   "min_cp": null,
+   "max_cp": null
+  },
+  "Software Stream Core": {
+   "min_cp": 90,
+   "max_cp": 90
+  },
+  "Software Stream 1000/2000 Level Electives": {
+   "min_cp": null,
+   "max_cp": 18
+  },
+  "Software Stream 3000+ Level Elective Units": {
+   "min_cp": 12,
+   "max_cp": 54
+  },
+  "Free Electives": {
+   "min_cp": null,
+   "max_cp": 24
+  },
+  "Specialisation - Computer Engineering Core Units": {
+   "min_cp": null,
+   "max_cp": 24
+  },
+  "Specialisation - Computer Engineering Elective Units": {
+   "min_cp": null,
+   "max_cp": 6
+  },
+  "Specialisation - Internet of Things Core Units": {
+   "min_cp": null,
+   "max_cp": 24
+  },
+  "Specialisation - Internet of Things Elective Units": {
+   "min_cp": null,
+   "max_cp": 6
+  },
+  "Specialisation - Intelligent Information Engineering Core Units": {
+   "min_cp": null,
+   "max_cp": 24
+  },
+  "Specialisation - Intelligent Information Engineering Elective Units": {
+   "min_cp": null,
+   "max_cp": 6
+  },
+  "Specialisation - Engineering Data Science Core Units": {
+   "min_cp": null,
+   "max_cp": 18
+  },
+  "Specialisation - Engineering Data Science Elective Units": {
+   "min_cp": null,
+   "max_cp": 12
+  },
+  "Specialisation - Innovation and Entrepreneurship Core Units": {
+   "min_cp": null,
+   "max_cp": 18
+  },
+  "Specialisation - Innovation and Entrepreneurship Elective Units": {
+   "min_cp": null,
+   "max_cp": 6
+  },
+  "Specialisation - Humanitarian Engineering Core Units": {
+   "min_cp": null,
+   "max_cp": 12
+  },
+  "Specialisation - Humanitarian Engineering Elective Units": {
+   "min_cp": null,
+   "max_cp": 12
+  }
+ },
+ "units": {
+  "ENGG1810": {
+   "code": "ENGG1810",
+   "name": "Introduction to Engineering Computing",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Introductory Computing Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ENGG1801",
+    "INFO1110",
+    "INFO1910",
+    "INFO1103",
+    "INFO1903",
+    "INFO1105",
+    "INFO1905",
+    "COSC1003"
+   ],
+   "assumed_knowledge_codes": null
+  },
+  "INFO1110": {
+   "code": "INFO1110",
+   "name": "Introduction to Programming",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Introductory Computing Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO1910",
+    "INFO1103",
+    "INFO1903",
+    "INFO1105",
+    "INFO1905",
+    "ENGG1810"
+   ],
+   "assumed_knowledge_codes": null
+  },
+  "INFO1910": {
+   "code": "INFO1910",
+   "name": "Introduction to Programming (Advanced)",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Do not offer"
+   ],
+   "degree_blocks": [
+    "Introductory Computing Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO1110",
+    "INFO1103",
+    "INFO1903",
+    "INFO1105",
+    "INFO1905",
+    "ENGG1810"
+   ],
+   "assumed_knowledge_codes": null
+  },
+  "MATH1061": {
+   "code": "MATH1061",
+   "name": "Mathematics 1A",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Foundation Mathematics Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "MATH1901",
+    "MATH1902",
+    "MATH1921",
+    "MATH1906",
+    "MATH1931",
+    "MATH1001",
+    "MATH1021",
+    "MATH1961",
+    "MATH1971",
+    "MATH1002",
+    "MATH1014"
+   ],
+   "assumed_knowledge_codes": null
+  },
+  "MATH1062": {
+   "code": "MATH1062",
+   "name": "Mathematics 1B",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Foundation Mathematics Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "MATH1905",
+    "MATH1903",
+    "MATH1907",
+    "MATH1923",
+    "MATH1933",
+    "MATH1972",
+    "MATH1962",
+    "MATH1003",
+    "MATH1023",
+    "MATH1005",
+    "MATH1015"
+   ],
+   "assumed_knowledge_codes": null
+  },
+  "MATH1961": {
+   "code": "MATH1961",
+   "name": "Mathematics 1A (Advanced)",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Foundation Mathematics Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "MATH1962": {
+   "code": "MATH1962",
+   "name": "Mathematics 1B (Advanced)",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Foundation Mathematics Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "AERO1560": {
+   "code": "AERO1560",
+   "name": "Introduction to Aerospace Engineering",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Projects Table"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ENGG1800",
+    "MECH1560",
+    "MTRX1701",
+    "CIVL1900",
+    "CHNG1108",
+    "BMET1960",
+    "ENGG1960",
+    "ELEC1004",
+    "ELEC1005",
+    "ENVE1001"
+   ],
+   "assumed_knowledge_codes": null
+  },
+  "BMET1960": {
+   "code": "BMET1960",
+   "name": "Biomedical Engineering 1A",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Projects Table"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ENGG1960",
+    "ENGG1800",
+    "CIVL1900",
+    "CHNG1108",
+    "MECH1560",
+    "AERO1560",
+    "MTRX1701",
+    "AMME1960",
+    "ELEC1004",
+    "ELEC1005",
+    "ENVE1001"
+   ],
+   "assumed_knowledge_codes": null
+  },
+  "BMET4111": {
+   "code": "BMET4111",
+   "name": "Thesis A",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Projects Table"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "BMET4010",
+    "AMME4111",
+    "AMME4112",
+    "AMME4010"
+   ],
+   "assumed_knowledge_codes": null,
+   "credit_point_requirement": {
+    "min_credit_points": 36,
+    "source_text": "36cp of any 3000- or higher level units"
+   },
+   "credit_point_requirements": [
+    {
+     "min_credit_points": 36,
+     "source_text": "36cp of any 3000- or higher level units"
+    }
+   ]
+  },
+  "BMET4112": {
+   "code": "BMET4112",
+   "name": "Thesis B",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Projects Table"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [
+    [
+     "BMET4111"
+    ]
+   ],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "BMET4010",
+    "AMME4111",
+    "AMME4112",
+    "AMME4010"
+   ],
+   "assumed_knowledge_codes": null,
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "BMET4111",
+      "kind": "subject",
+      "printed_as": "BMET4111"
+     }
+    ]
+   ],
+   "credit_point_requirement": {
+    "min_credit_points": 36,
+    "source_text": "36cp of any 3000- or higher level units"
+   },
+   "credit_point_requirements": [
+    {
+     "min_credit_points": 36,
+     "source_text": "36cp of any 3000- or higher level units"
+    }
+   ]
+  },
+  "CHNG1108": {
+   "code": "CHNG1108",
+   "name": "Introduction to Chemical Engineering",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Projects Table"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ENGG1800",
+    "CIVL1900",
+    "MECH1560",
+    "AERO1560",
+    "AMME1960",
+    "BMET1960",
+    "MTRX1701",
+    "ENGG1960",
+    "ELEC1004",
+    "ELEC1005",
+    "ENVE1001"
+   ],
+   "assumed_knowledge_codes": null
+  },
+  "CIVL1900": {
+   "code": "CIVL1900",
+   "name": "Introduction to Civil Engineering",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Projects Table"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ENGG1800",
+    "CHNG1108",
+    "MECH1560",
+    "AERO1560",
+    "AMME1960",
+    "BMET1960",
+    "MTRX1701",
+    "ENGG1960",
+    "ELEC1004",
+    "ELEC1005",
+    "ENVE1001"
+   ],
+   "assumed_knowledge_codes": null
+  },
+  "ELEC1004": {
+   "code": "ELEC1004",
+   "name": "Practical Introduction to Electrical Engineering",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Projects Table"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ENGG1800",
+    "CHNG1108",
+    "MECH1560",
+    "AERO1560",
+    "BMET1960",
+    "MTRX1701",
+    "ELEC1005",
+    "ENVE1001"
+   ],
+   "assumed_knowledge_codes": null
+  },
+  "ELEC1005": {
+   "code": "ELEC1005",
+   "name": "Introduction to Software Engineering",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Projects Table"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ENGG1800",
+    "CHNG1108",
+    "MECH1560",
+    "AERO1560",
+    "BMET1960",
+    "MTRX1701",
+    "ELEC1004",
+    "ENVE1001"
+   ],
+   "assumed_knowledge_codes": null
+  },
+  "ENGG1800": {
+   "code": "ENGG1800",
+   "name": "Introduction to Engineering A",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Projects Table"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "ENGG2112": {
+   "code": "ENGG2112",
+   "name": "Multi-disciplinary Engineering",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Projects Table"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910",
+     "ENGG1810"
+    ],
+    [
+     "MATH1005",
+     "MATH1905",
+     "MATH1062",
+     "MATH1962",
+     "MATH1972",
+     "BUSS1020"
+    ],
+    [
+     "AERO1560",
+     "BMET1960",
+     "CHNG1108",
+     "CIVL1900",
+     "ELEC1004",
+     "ELEC1005",
+     "ENVE1001",
+     "MECH1560",
+     "MTRX1701"
+    ]
+   ],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ENGG1111",
+    "ENGF1112"
+   ],
+   "assumed_knowledge_codes": null,
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "INFO1110",
+      "kind": "subject",
+      "printed_as": "INFO1110"
+     },
+     {
+      "code": "INFO1910",
+      "kind": "subject",
+      "printed_as": "INFO1910"
+     },
+     {
+      "code": "ENGG1810",
+      "kind": "subject",
+      "printed_as": "ENGG1810"
+     }
+    ],
+    [
+     {
+      "code": "MATH1005",
+      "kind": "subject",
+      "printed_as": "MATH1005"
+     },
+     {
+      "code": "MATH1905",
+      "kind": "subject",
+      "printed_as": "MATH1905"
+     },
+     {
+      "code": "MATH1062",
+      "kind": "subject",
+      "printed_as": "MATH1062"
+     },
+     {
+      "code": "MATH1962",
+      "kind": "subject",
+      "printed_as": "MATH1962"
+     },
+     {
+      "code": "MATH1972",
+      "kind": "subject",
+      "printed_as": "MATH1972"
+     },
+     {
+      "code": "BUSS1020",
+      "kind": "subject",
+      "printed_as": "BUSS1020"
+     }
+    ],
+    [
+     {
+      "code": "AERO1560",
+      "kind": "subject",
+      "printed_as": "AERO1560"
+     },
+     {
+      "code": "BMET1960",
+      "kind": "subject",
+      "printed_as": "BMET1960"
+     },
+     {
+      "code": "CHNG1108",
+      "kind": "subject",
+      "printed_as": "CHNG1108"
+     },
+     {
+      "code": "CIVL1900",
+      "kind": "subject",
+      "printed_as": "CIVL1900"
+     },
+     {
+      "code": "ELEC1004",
+      "kind": "subject",
+      "printed_as": "ELEC1004"
+     },
+     {
+      "code": "ELEC1005",
+      "kind": "subject",
+      "printed_as": "ELEC1005"
+     },
+     {
+      "code": "ENVE1001",
+      "kind": "subject",
+      "printed_as": "ENVE1001"
+     },
+     {
+      "code": "MECH1560",
+      "kind": "subject",
+      "printed_as": "MECH1560"
+     },
+     {
+      "code": "MTRX1701",
+      "kind": "subject",
+      "printed_as": "MTRX1701"
+     }
+    ]
+   ]
+  },
+  "ENGG3112": {
+   "code": "ENGG3112",
+   "name": "Interdisciplinary Engineering",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Projects Table"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ENGG2111"
+   ],
+   "assumed_knowledge_codes": null,
+   "credit_point_requirement": {
+    "min_credit_points": 84,
+    "source_text": "84cp of engineering foundation/project/stream table units"
+   },
+   "credit_point_requirements": [
+    {
+     "min_credit_points": 84,
+     "source_text": "84cp of engineering foundation/project/stream table units"
+    }
+   ]
+  },
+  "MECH1560": {
+   "code": "MECH1560",
+   "name": "Introduction to Mechanical Engineering",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Projects Table"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "AERO1560",
+    "MTRX1701",
+    "ENGG1800",
+    "CIVL1900",
+    "CHNG1108",
+    "BMET1960",
+    "ENGG1960",
+    "ELEC1004",
+    "ELEC1005",
+    "ENVE1001"
+   ],
+   "assumed_knowledge_codes": null
+  },
+  "MTRX1701": {
+   "code": "MTRX1701",
+   "name": "Introduction to Mechatronic Engineering",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Projects Table"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "MECH1560",
+    "ENGG1800",
+    "AERO1560",
+    "CIVL1900",
+    "CHNG1108",
+    "BMET1960",
+    "ENGG1960",
+    "ELEC1004",
+    "ELEC1005",
+    "ENVE1001"
+   ],
+   "assumed_knowledge_codes": null
+  },
+  "ENGP1001": {
+   "code": "ENGP1001",
+   "name": "Professional Engagement Program 1A",
+   "credit_points": 0,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Professional Engagement Program (PEP) Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ENGG4000",
+    "ENGG5217",
+    "ENGP1000"
+   ],
+   "assumed_knowledge_codes": null
+  },
+  "ENGP1002": {
+   "code": "ENGP1002",
+   "name": "Professional Engagement Program 1B",
+   "credit_points": 0,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Professional Engagement Program (PEP) Units"
+   ],
+   "prerequisite_codes": [
+    "ENGP1001"
+   ],
+   "prerequisite_groups": [
+    [
+     "ENGP1001"
+    ]
+   ],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ENGG4000",
+    "ENGG5217",
+    "ENGP1000"
+   ],
+   "assumed_knowledge_codes": null,
+   "immediate_successor_of": "ENGP1001",
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "ENGP1001",
+      "kind": "subject",
+      "printed_as": "ENGP1001"
+     }
+    ]
+   ]
+  },
+  "ENGP1003": {
+   "code": "ENGP1003",
+   "name": "Professional Engagement Program 1C",
+   "credit_points": 0,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Professional Engagement Program (PEP) Units"
+   ],
+   "prerequisite_codes": [
+    "ENGP1002"
+   ],
+   "prerequisite_groups": [
+    [
+     "ENGP1001"
+    ],
+    [
+     "ENGP1002"
+    ]
+   ],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ENGG4000",
+    "ENGG5217",
+    "ENGP1000"
+   ],
+   "assumed_knowledge_codes": null,
+   "immediate_successor_of": "ENGP1002",
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "ENGP1001",
+      "kind": "subject",
+      "printed_as": "ENGP1001"
+     }
+    ],
+    [
+     {
+      "code": "ENGP1002",
+      "kind": "subject",
+      "printed_as": "ENGP1002"
+     }
+    ]
+   ]
+  },
+  "ENGP2001": {
+   "code": "ENGP2001",
+   "name": "Professional Engagement Program 2A",
+   "credit_points": 0,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Professional Engagement Program (PEP) Units"
+   ],
+   "prerequisite_codes": [
+    "ENGP1003"
+   ],
+   "prerequisite_groups": [
+    [
+     "ENGP1000",
+     "ENGP1003"
+    ]
+   ],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ENGG4000",
+    "ENGG5217",
+    "ENGP2000"
+   ],
+   "assumed_knowledge_codes": null,
+   "immediate_successor_of": "ENGP1003",
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "ENGP1000",
+      "kind": "subject",
+      "printed_as": "ENGP1000"
+     },
+     {
+      "code": "ENGP1003",
+      "kind": "subject",
+      "printed_as": "ENGP1003"
+     }
+    ]
+   ]
+  },
+  "ENGP2002": {
+   "code": "ENGP2002",
+   "name": "Professional Engagement Program 2B",
+   "credit_points": 0,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Professional Engagement Program (PEP) Units"
+   ],
+   "prerequisite_codes": [
+    "ENGP2001"
+   ],
+   "prerequisite_groups": [
+    [
+     "ENGP2001"
+    ]
+   ],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ENGG4000",
+    "ENGG5217",
+    "ENGP2000"
+   ],
+   "assumed_knowledge_codes": null,
+   "immediate_successor_of": "ENGP2001",
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "ENGP2001",
+      "kind": "subject",
+      "printed_as": "ENGP2001"
+     }
+    ]
+   ]
+  },
+  "ENGP2003": {
+   "code": "ENGP2003",
+   "name": "Professional Engagement Program 2C",
+   "credit_points": 0,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Professional Engagement Program (PEP) Units"
+   ],
+   "prerequisite_codes": [
+    "ENGP2002"
+   ],
+   "prerequisite_groups": [
+    [
+     "ENGP2001"
+    ],
+    [
+     "ENGP2002"
+    ]
+   ],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ENGG4000",
+    "ENGG5217",
+    "ENGP2000"
+   ],
+   "assumed_knowledge_codes": null,
+   "immediate_successor_of": "ENGP2002",
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "ENGP2001",
+      "kind": "subject",
+      "printed_as": "ENGP2001"
+     }
+    ],
+    [
+     {
+      "code": "ENGP2002",
+      "kind": "subject",
+      "printed_as": "ENGP2002"
+     }
+    ]
+   ]
+  },
+  "ENGP3001": {
+   "code": "ENGP3001",
+   "name": "Professional Engagement Program 3A",
+   "credit_points": 0,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Professional Engagement Program (PEP) Units"
+   ],
+   "prerequisite_codes": [
+    "ENGP2003"
+   ],
+   "prerequisite_groups": [
+    [
+     "ENGP2000",
+     "ENGP2003"
+    ]
+   ],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ENGG4000",
+    "ENGG5217",
+    "ENGP3000"
+   ],
+   "assumed_knowledge_codes": null,
+   "immediate_successor_of": "ENGP2003",
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "ENGP2000",
+      "kind": "subject",
+      "printed_as": "ENGP2000"
+     },
+     {
+      "code": "ENGP2003",
+      "kind": "subject",
+      "printed_as": "ENGP2003"
+     }
+    ]
+   ],
+   "unverifiable_requirements": [
+    "passed"
+   ]
+  },
+  "ENGP3002": {
+   "code": "ENGP3002",
+   "name": "Professional Engagement Program 3B",
+   "credit_points": 0,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Professional Engagement Program (PEP) Units"
+   ],
+   "prerequisite_codes": [
+    "ENGP3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "ENGP3001"
+    ]
+   ],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ENGG4000",
+    "ENGG5217",
+    "ENGP3000"
+   ],
+   "assumed_knowledge_codes": null,
+   "immediate_successor_of": "ENGP3001",
+   "prerequisite_requirements": [
+    [
+     {
+      "kind": "other",
+      "reason": "level_wildcard",
+      "text": "ENGP1XXX"
+     }
+    ],
+    [
+     {
+      "kind": "other",
+      "reason": "level_wildcard",
+      "text": "ENGP2XXX"
+     }
+    ],
+    [
+     {
+      "code": "ENGP3001",
+      "kind": "subject",
+      "printed_as": "ENGP3001"
+     }
+    ]
+   ],
+   "unverifiable_requirements": [
+    "passed all ENGP1XXX and ENGP2XXX; ENGP3001 not failed"
+   ]
+  },
+  "COMP2017": {
+   "code": "COMP2017",
+   "name": "Systems Programming",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream Core"
+   ],
+   "prerequisite_codes": [
+    "INFO1113",
+    "INFO1105",
+    "INFO1905",
+    "INFO1103"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1113",
+     "INFO1105",
+     "INFO1905",
+     "INFO1103"
+    ]
+   ],
+   "corequisite_codes": [
+    "COMP2123",
+    "COMP2823",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "corequisite_groups": [
+    [
+     "COMP2123",
+     "COMP2823",
+     "INFO1105",
+     "INFO1905"
+    ]
+   ],
+   "prohibition_codes": [
+    "COMP2129",
+    "COMP9017",
+    "COMP9129"
+   ],
+   "assumed_knowledge_codes": [
+    "MATH1064",
+    "MATH1061"
+   ],
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "INFO1113",
+      "kind": "subject",
+      "printed_as": "INFO1113"
+     },
+     {
+      "code": "INFO1105",
+      "kind": "subject",
+      "printed_as": "INFO1105"
+     },
+     {
+      "code": "INFO1905",
+      "kind": "subject",
+      "printed_as": "INFO1905"
+     },
+     {
+      "code": "INFO1103",
+      "kind": "subject",
+      "printed_as": "INFO1103"
+     }
+    ]
+   ]
+  },
+  "COMP2123": {
+   "code": "COMP2123",
+   "name": "Data Structures & Algorithms",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream Core"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "DATA1002",
+    "DATA1902",
+    "ENGG1810"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910",
+     "INFO1113",
+     "DATA1002",
+     "DATA1902",
+     "ENGG1810"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO1105",
+    "INFO1905",
+    "COMP2823"
+   ],
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ],
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "INFO1110",
+      "kind": "subject",
+      "printed_as": "INFO1110"
+     },
+     {
+      "code": "INFO1910",
+      "kind": "subject",
+      "printed_as": "INFO1910"
+     },
+     {
+      "code": "INFO1113",
+      "kind": "subject",
+      "printed_as": "INFO1113"
+     },
+     {
+      "code": "DATA1002",
+      "kind": "subject",
+      "printed_as": "DATA1002"
+     },
+     {
+      "code": "DATA1902",
+      "kind": "subject",
+      "printed_as": "DATA1902"
+     },
+     {
+      "code": "ENGG1810",
+      "kind": "subject",
+      "printed_as": "ENGG1810"
+     }
+    ]
+   ]
+  },
+  "COMP2823": {
+   "code": "COMP2823",
+   "name": "Data Structures & Algorithms (Adv)",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream Core"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "DATA1002",
+    "DATA1902",
+    "ENGG1810"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910",
+     "INFO1113",
+     "DATA1002",
+     "DATA1902",
+     "ENGG1810"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO1105",
+    "INFO1905",
+    "COMP2123"
+   ],
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ]
+  },
+  "ELEC1601": {
+   "code": "ELEC1601",
+   "name": "Introduction to Computer Systems",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream Core"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC3609": {
+   "code": "ELEC3609",
+   "name": "Internet Software Platforms",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream Core"
+   ],
+   "prerequisite_codes": [
+    "INFO1103",
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810",
+    "INFO2110",
+    "ISYS2110",
+    "INFO2120",
+    "INFO2820",
+    "ISYS2120"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1103",
+     "INFO1110",
+     "INFO1910",
+     "ENGG1810"
+    ],
+    [
+     "INFO2110",
+     "ISYS2110"
+    ],
+    [
+     "INFO2120",
+     "INFO2820",
+     "ISYS2120"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "EBUS4001"
+   ],
+   "assumed_knowledge_codes": [],
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "INFO1103",
+      "kind": "subject",
+      "printed_as": "INFO1103"
+     },
+     {
+      "code": "INFO1110",
+      "kind": "subject",
+      "printed_as": "INFO1110"
+     },
+     {
+      "code": "INFO1910",
+      "kind": "subject",
+      "printed_as": "INFO1910"
+     },
+     {
+      "code": "ENGG1810",
+      "kind": "subject",
+      "printed_as": "ENGG1810"
+     }
+    ],
+    [
+     {
+      "code": "INFO2110",
+      "kind": "subject",
+      "printed_as": "INFO2110"
+     },
+     {
+      "code": "ISYS2110",
+      "kind": "subject",
+      "printed_as": "ISYS2110"
+     }
+    ],
+    [
+     {
+      "code": "INFO2120",
+      "kind": "subject",
+      "printed_as": "INFO2120"
+     },
+     {
+      "code": "INFO2820",
+      "kind": "subject",
+      "printed_as": "INFO2820"
+     },
+     {
+      "code": "ISYS2120",
+      "kind": "subject",
+      "printed_as": "ISYS2120"
+     }
+    ]
+   ]
+  },
+  "ELEC5618": {
+   "code": "ELEC5618",
+   "name": "Software Quality Engineering",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream Core"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC5619": {
+   "code": "ELEC5619",
+   "name": "Object Oriented Application Frameworks",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream Core"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "INFO1113": {
+   "code": "INFO1113",
+   "name": "Object-Oriented Programming",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream Core"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910",
+     "ENGG1810"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO1103",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "assumed_knowledge_codes": [],
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "INFO1110",
+      "kind": "subject",
+      "printed_as": "INFO1110"
+     },
+     {
+      "code": "INFO1910",
+      "kind": "subject",
+      "printed_as": "INFO1910"
+     },
+     {
+      "code": "ENGG1810",
+      "kind": "subject",
+      "printed_as": "ENGG1810"
+     }
+    ]
+   ]
+  },
+  "INFO3616": {
+   "code": "INFO3616",
+   "name": "Principles of Security and Security Engineering",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream Core"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ELEC5616",
+    "INFO2315",
+    "CSEC3616"
+   ],
+   "assumed_knowledge_codes": [
+    "INFO1110",
+    "INFO1910",
+    "INFO1112",
+    "INFO1113"
+   ]
+  },
+  "ISYS2110": {
+   "code": "ISYS2110",
+   "name": "Analysis & Design of Web Information Systems",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream Core"
+   ],
+   "prerequisite_codes": [
+    "INFO1113",
+    "INFO1103",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1113",
+     "INFO1103",
+     "INFO1105",
+     "INFO1905"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO2110"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "ISYS2120": {
+   "code": "ISYS2120",
+   "name": "Data & Information Management",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream Core"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810",
+    "DATA1002"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910",
+     "ENGG1810",
+     "DATA1002"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO2120",
+    "INFO2820",
+    "COMP5138"
+   ],
+   "assumed_knowledge_codes": [
+    "DATA1001"
+   ]
+  },
+  "MATH2069": {
+   "code": "MATH2069",
+   "name": "Discrete Mathematics and Graph Theory",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream Core"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "MATH2011",
+    "MATH2009",
+    "MATH2969"
+   ],
+   "assumed_knowledge_codes": [],
+   "credit_point_requirement": {
+    "min_credit_points": 6,
+    "min_level": 1000,
+    "max_level": 1999,
+    "prefix": "MATH",
+    "excluded_patterns": [
+     "^MATH1\\d\\d5$",
+     "^MATH1050$",
+     "^MATH1111$"
+    ]
+   }
+  },
+  "SOFT2201": {
+   "code": "SOFT2201",
+   "name": "Software Construction and Design 1",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream Core"
+   ],
+   "prerequisite_codes": [
+    "INFO1113",
+    "INFO1103",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1113",
+     "INFO1103",
+     "INFO1105",
+     "INFO1905"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO3220",
+    "COMP9201"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "SOFT2412": {
+   "code": "SOFT2412",
+   "name": "Agile Software Development Practices",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream Core"
+   ],
+   "prerequisite_codes": [
+    "INFO1113",
+    "INFO1103",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1113",
+     "INFO1103",
+     "INFO1105",
+     "INFO1905"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP9412"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "SOFT3202": {
+   "code": "SOFT3202",
+   "name": "Software Construction and Design 2",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream Core"
+   ],
+   "prerequisite_codes": [
+    "SOFT2201"
+   ],
+   "prerequisite_groups": [
+    [
+     "SOFT2201"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO3220"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "SOFT3888": {
+   "code": "SOFT3888",
+   "name": "Software Development Project",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream Core"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810",
+    "INFO1113"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910",
+     "ENGG1810"
+    ],
+    [
+     "INFO1113"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "SOFT3413"
+   ],
+   "assumed_knowledge_codes": [
+    "SOFT3202"
+   ]
+  },
+  "BUSS1030": {
+   "code": "BUSS1030",
+   "name": "Accounting, Business and Society",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ACCT1001",
+    "ACCT1002",
+    "ACCT1003",
+    "ACCT1004",
+    "ACCT1005"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "COMP2022": {
+   "code": "COMP2022",
+   "name": "Models of Computation",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "ENGG1810"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910",
+     "INFO1113",
+     "ENGG1810"
+    ]
+   ],
+   "corequisite_codes": [
+    "COMP2123",
+    "COMP2823"
+   ],
+   "corequisite_groups": [
+    [
+     "COMP2123",
+     "COMP2823"
+    ]
+   ],
+   "prohibition_codes": [
+    "COMP2922"
+   ],
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ]
+  },
+  "COMP2922": {
+   "code": "COMP2922",
+   "name": "Models of Computation (Adv)",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "ENGG1810",
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "ENGG1810",
+    "MATH1064",
+    "MATH1964"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910",
+     "INFO1113",
+     "ENGG1810"
+    ],
+    [
+     "INFO1110",
+     "INFO1910",
+     "INFO1113",
+     "ENGG1810",
+     "MATH1064",
+     "MATH1964"
+    ]
+   ],
+   "corequisite_codes": [
+    "COMP2123",
+    "COMP2823"
+   ],
+   "corequisite_groups": [
+    [
+     "COMP2123",
+     "COMP2823"
+    ]
+   ],
+   "prohibition_codes": [
+    "COMP2022"
+   ],
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ]
+  },
+  "DATA1002": {
+   "code": "DATA1002",
+   "name": "Informatics: Data and Computation",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO1903",
+    "DATA1902"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "DATA1902": {
+   "code": "DATA1902",
+   "name": "Informatics: Data and Computation (Advanced)",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "DATA2001": {
+   "code": "DATA2001",
+   "name": "Data Science: Big Data and Data Diversity",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives",
+    "Specialisation - Engineering Data Science Core Units"
+   ],
+   "prerequisite_codes": [
+    "DATA1002",
+    "DATA1902",
+    "INFO1110",
+    "INFO1910",
+    "INFO1903",
+    "INFO1103",
+    "ENGG1810"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA1002",
+     "DATA1902",
+     "INFO1110",
+     "INFO1910",
+     "INFO1903",
+     "INFO1103",
+     "ENGG1810"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "DATA2901"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "DATA2002": {
+   "code": "DATA2002",
+   "name": "Data Analytics: Learning from Data",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives",
+    "Specialisation - Engineering Data Science Core Units"
+   ],
+   "prerequisite_codes": [
+    "BUSS1020",
+    "DATA1001",
+    "DATA1901",
+    "ECMT1010",
+    "ENVX1002",
+    "MATH1001",
+    "MATH1002",
+    "MATH1003",
+    "MATH1004",
+    "MATH1005",
+    "MATH1021",
+    "MATH1023",
+    "MATH1062",
+    "MATH1115",
+    "MATH1901",
+    "MATH1902",
+    "MATH1903",
+    "MATH1905",
+    "MATH1906",
+    "MATH1907",
+    "MATH1921",
+    "MATH1923",
+    "MATH1931",
+    "MATH1933",
+    "MATH1961",
+    "MATH1962",
+    "MATH1964",
+    "MATH1971",
+    "MATH1972"
+   ],
+   "prerequisite_groups": [
+    [
+     "BUSS1020",
+     "DATA1001",
+     "DATA1901",
+     "ECMT1010",
+     "ENVX1002",
+     "MATH1005",
+     "MATH1062",
+     "MATH1905",
+     "MATH1962",
+     "MATH1972"
+    ],
+    [
+     "BUSS1020",
+     "DATA1001",
+     "DATA1901",
+     "ECMT1010",
+     "ENVX1002",
+     "MATH1001",
+     "MATH1002",
+     "MATH1003",
+     "MATH1004",
+     "MATH1021",
+     "MATH1023",
+     "MATH1062",
+     "MATH1115",
+     "MATH1901",
+     "MATH1902",
+     "MATH1903",
+     "MATH1906",
+     "MATH1907",
+     "MATH1921",
+     "MATH1923",
+     "MATH1931",
+     "MATH1933",
+     "MATH1961",
+     "MATH1962",
+     "MATH1964",
+     "MATH1971",
+     "MATH1972"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "STAT2012",
+    "STAT2912",
+    "DATA2902"
+   ],
+   "assumed_knowledge_codes": [
+    "OLET1632"
+   ]
+  },
+  "DATA2901": {
+   "code": "DATA2901",
+   "name": "Big Data and Data Diversity (Advanced)",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives",
+    "Specialisation - Engineering Data Science Core Units"
+   ],
+   "prerequisite_codes": [
+    "DATA1002",
+    "DATA1902",
+    "INFO1110",
+    "INFO1910",
+    "INFO1903",
+    "INFO1103",
+    "ENGG1810"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA1002",
+     "DATA1902",
+     "INFO1110",
+     "INFO1910",
+     "INFO1903",
+     "INFO1103",
+     "ENGG1810"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "DATA2001"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "DATA2902": {
+   "code": "DATA2902",
+   "name": "Data Analytics: Learning from Data (Adv)",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives",
+    "Specialisation - Engineering Data Science Core Units"
+   ],
+   "prerequisite_codes": [
+    "BUSS1020",
+    "DATA1001",
+    "DATA1901",
+    "ECMT1010",
+    "ENVX1002",
+    "MATH1001",
+    "MATH1002",
+    "MATH1003",
+    "MATH1004",
+    "MATH1005",
+    "MATH1021",
+    "MATH1023",
+    "MATH1062",
+    "MATH1115",
+    "MATH1901",
+    "MATH1902",
+    "MATH1903",
+    "MATH1905",
+    "MATH1906",
+    "MATH1907",
+    "MATH1921",
+    "MATH1923",
+    "MATH1931",
+    "MATH1933",
+    "MATH1961",
+    "MATH1962",
+    "MATH1964",
+    "MATH1971",
+    "MATH1972"
+   ],
+   "prerequisite_groups": [
+    [
+     "BUSS1020",
+     "DATA1001",
+     "DATA1901",
+     "ECMT1010",
+     "ENVX1002",
+     "MATH1005",
+     "MATH1062",
+     "MATH1905",
+     "MATH1962",
+     "MATH1972"
+    ],
+    [
+     "BUSS1020",
+     "DATA1001",
+     "DATA1901",
+     "ECMT1010",
+     "ENVX1002",
+     "MATH1001",
+     "MATH1002",
+     "MATH1003",
+     "MATH1004",
+     "MATH1021",
+     "MATH1023",
+     "MATH1062",
+     "MATH1115",
+     "MATH1901",
+     "MATH1902",
+     "MATH1903",
+     "MATH1906",
+     "MATH1907",
+     "MATH1921",
+     "MATH1923",
+     "MATH1931",
+     "MATH1933",
+     "MATH1961",
+     "MATH1962",
+     "MATH1964",
+     "MATH1971",
+     "MATH1972"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "STAT2012",
+    "STAT2912",
+    "DATA2002"
+   ],
+   "assumed_knowledge_codes": [
+    "OLET1632"
+   ]
+  },
+  "ELEC2100": {
+   "code": "ELEC2100",
+   "name": "Fundamentals of Elec and Electronic Eng",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ELEC1103"
+   ],
+   "assumed_knowledge_codes": [
+    "PHYS1003"
+   ]
+  },
+  "ELEC2103": {
+   "code": "ELEC2103",
+   "name": "Simulation and Numerical Solutions in Engineering",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COSC1001",
+    "COSC1901"
+   ],
+   "assumed_knowledge_codes": [
+    "ELEC1103",
+    "ELEC2100"
+   ]
+  },
+  "ELEC2104": {
+   "code": "ELEC2104",
+   "name": "Electronic Devices and Circuits",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [
+    "ELEC1103",
+    "ELEC2100"
+   ]
+  },
+  "ELEC2302": {
+   "code": "ELEC2302",
+   "name": "Signals and Systems",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [
+    "MATH1021",
+    "MATH1002",
+    "MATH1023",
+    "MATH1061",
+    "MATH1062"
+   ]
+  },
+  "ELEC2602": {
+   "code": "ELEC2602",
+   "name": "Digital Logic",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives",
+    "Specialisation - Computer Engineering Core Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [
+    "ELEC1601"
+   ]
+  },
+  "ISYS2160": {
+   "code": "ISYS2160",
+   "name": "Information Systems in the Internet Age",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ISYS2140"
+   ],
+   "assumed_knowledge_codes": [
+    "INFO1003",
+    "INFO1103",
+    "INFO1903",
+    "INFO1113"
+   ]
+  },
+  "MATH2061": {
+   "code": "MATH2061",
+   "name": "Linear Mathematics and Vector Calculus",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Summer Main"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives"
+   ],
+   "prerequisite_codes": [
+    "MATH1061",
+    "MATH1961",
+    "MATH1062",
+    "MATH1962"
+   ],
+   "prerequisite_groups": [
+    [
+     "MATH1061",
+     "MATH1961"
+    ],
+    [
+     "MATH1062",
+     "MATH1962"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "MATH2961",
+    "MATH2067",
+    "MATH2021",
+    "MATH2921",
+    "MATH2022",
+    "MATH2922"
+   ],
+   "assumed_knowledge_codes": [],
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "MATH1061",
+      "kind": "subject",
+      "printed_as": "MATH1X61"
+     },
+     {
+      "code": "MATH1961",
+      "kind": "subject",
+      "printed_as": "MATH1X61"
+     },
+     {
+      "code": "MATH1971",
+      "kind": "subject",
+      "printed_as": "MATH1971"
+     },
+     {
+      "kind": "other",
+      "mentions": [
+       "MATH1011",
+       "MATH1014",
+       "MATH1906",
+       "MATH1931"
+      ],
+      "text": "[(MATH1X21,MATH1931,MATH1X01,MATH1906,MATH1011)(MATH1014,MATH1X02)]"
+     }
+    ],
+    [
+     {
+      "code": "MATH1062",
+      "kind": "subject",
+      "printed_as": "MATH1X62"
+     },
+     {
+      "code": "MATH1962",
+      "kind": "subject",
+      "printed_as": "MATH1X62"
+     },
+     {
+      "code": "MATH1972",
+      "kind": "subject",
+      "printed_as": "MATH1972"
+     },
+     {
+      "code": "MATH1013",
+      "kind": "subject",
+      "printed_as": "MATH1013"
+     },
+     {
+      "kind": "other",
+      "reason": "unresolved_wildcard",
+      "text": "MATH1X23"
+     },
+     {
+      "kind": "other",
+      "reason": "unresolved_wildcard",
+      "text": "MATH1X03"
+     },
+     {
+      "code": "MATH1933",
+      "kind": "subject",
+      "printed_as": "MATH1933"
+     },
+     {
+      "code": "MATH1907",
+      "kind": "subject",
+      "printed_as": "MATH1907"
+     }
+    ]
+   ]
+  },
+  "MKTG1001": {
+   "code": "MKTG1001",
+   "name": "Marketing Principles",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "PHYS1001": {
+   "code": "PHYS1001",
+   "name": "Physics 1 (Regular)",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "PHYS1002",
+    "PHYS1901",
+    "EDUH1017",
+    "PHYS1903"
+   ],
+   "assumed_knowledge_codes": [
+    "PHYS1003",
+    "PHYS1004",
+    "PHYS1902",
+    "MATH1971"
+   ]
+  },
+  "PHYS1003": {
+   "code": "PHYS1003",
+   "name": "Physics 1 (Technological)",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "PHYS1004",
+    "PHYS1902",
+    "PHYS1904",
+    "PHYS1001",
+    "PHYS1002",
+    "PHYS1901"
+   ],
+   "assumed_knowledge_codes": [
+    "PHYS1001",
+    "PHYS1002",
+    "PHYS1901",
+    "MATH1972"
+   ]
+  },
+  "PHYS2213": {
+   "code": "PHYS2213",
+   "name": "Physics 2EE",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives"
+   ],
+   "prerequisite_codes": [
+    "PHYS1001",
+    "PHYS1901",
+    "PHYS1003",
+    "PHYS1902"
+   ],
+   "prerequisite_groups": [
+    [
+     "PHYS1001",
+     "PHYS1901"
+    ],
+    [
+     "PHYS1003",
+     "PHYS1902"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [
+    "MATH1931",
+    "MATH1906",
+    "MATH1011",
+    "MATH1971",
+    "MATH1933",
+    "MATH1907",
+    "MATH1013",
+    "MATH1972"
+   ],
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "PHYS1001",
+      "kind": "subject",
+      "printed_as": "PHYS1001"
+     },
+     {
+      "code": "PHYS1901",
+      "kind": "subject",
+      "printed_as": "PHYS1901"
+     }
+    ],
+    [
+     {
+      "code": "PHYS1003",
+      "kind": "subject",
+      "printed_as": "PHYS1003"
+     },
+     {
+      "code": "PHYS1902",
+      "kind": "subject",
+      "printed_as": "PHYS1902"
+     }
+    ]
+   ]
+  },
+  "STAT2011": {
+   "code": "STAT2011",
+   "name": "Probability and Estimation Theory",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives",
+    "Specialisation - Engineering Data Science Core Units"
+   ],
+   "prerequisite_codes": [
+    "MATH1061",
+    "MATH1961",
+    "MATH1062",
+    "MATH1962"
+   ],
+   "prerequisite_groups": [
+    [
+     "MATH1061",
+     "MATH1961"
+    ],
+    [
+     "MATH1062",
+     "MATH1962"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "STAT2911"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "STAT2911": {
+   "code": "STAT2911",
+   "name": "Probability and Statistical Models (Adv)",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 1000/2000 Level Electives",
+    "Specialisation - Engineering Data Science Core Units"
+   ],
+   "prerequisite_codes": [
+    "MATH1061",
+    "MATH1961",
+    "MATH1062",
+    "MATH1962"
+   ],
+   "prerequisite_groups": [
+    [
+     "MATH1061",
+     "MATH1961"
+    ],
+    [
+     "MATH1062",
+     "MATH1962"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "STAT2011"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "COMP3027": {
+   "code": "COMP3027",
+   "name": "Algorithm Design",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "COMP2123",
+    "COMP2823"
+   ],
+   "prerequisite_groups": [
+    [
+     "COMP2123",
+     "COMP2823"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP2007",
+    "COMP2907",
+    "COMP3927"
+   ],
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ]
+  },
+  "COMP3109": {
+   "code": "COMP3109",
+   "name": "Programming Languages and Paradigms",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "COMP3221": {
+   "code": "COMP3221",
+   "name": "Distributed Systems",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "INFO1105",
+    "INFO1905",
+    "INFO1103",
+    "INFO1113",
+    "COMP2123",
+    "COMP2823"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1105",
+     "INFO1905",
+     "INFO1103",
+     "INFO1113"
+    ],
+    [
+     "COMP2123",
+     "COMP2823"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP2121"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "COMP3308": {
+   "code": "COMP3308",
+   "name": "Introduction to Artificial Intelligence",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Engineering Data Science Elective Units"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "ENGG1801",
+    "ENGG1810",
+    "DATA1002",
+    "DATA1902"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910",
+     "ENGG1801",
+     "ENGG1810",
+     "DATA1002",
+     "DATA1902"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP3608"
+   ],
+   "assumed_knowledge_codes": [
+    "COMP2123",
+    "COMP2823"
+   ],
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "INFO1110",
+      "kind": "subject",
+      "printed_as": "INFO1110"
+     },
+     {
+      "code": "INFO1910",
+      "kind": "subject",
+      "printed_as": "INFO1910"
+     },
+     {
+      "code": "ENGG1801",
+      "kind": "subject",
+      "printed_as": "ENGG1801"
+     },
+     {
+      "code": "ENGG1810",
+      "kind": "subject",
+      "printed_as": "ENGG1810"
+     },
+     {
+      "code": "DATA1002",
+      "kind": "subject",
+      "printed_as": "DATA1002"
+     },
+     {
+      "code": "DATA1902",
+      "kind": "subject",
+      "printed_as": "DATA1902"
+     }
+    ]
+   ]
+  },
+  "COMP3419": {
+   "code": "COMP3419",
+   "name": "Graphics and Multimedia",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "COMP2123",
+    "COMP2823",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "prerequisite_groups": [
+    [
+     "COMP2123",
+     "COMP2823",
+     "INFO1105",
+     "INFO1905"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "COMP3520": {
+   "code": "COMP3520",
+   "name": "Operating Systems Internals",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Computer Engineering Elective Units"
+   ],
+   "prerequisite_codes": [
+    "COMP2017",
+    "COMP2129",
+    "COMP2123",
+    "COMP2823",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "prerequisite_groups": [
+    [
+     "COMP2017",
+     "COMP2129"
+    ],
+    [
+     "COMP2123",
+     "COMP2823",
+     "INFO1105",
+     "INFO1905"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [],
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "COMP2017",
+      "kind": "subject",
+      "printed_as": "COMP2017"
+     },
+     {
+      "code": "COMP2129",
+      "kind": "subject",
+      "printed_as": "COMP2129"
+     }
+    ],
+    [
+     {
+      "code": "COMP2123",
+      "kind": "subject",
+      "printed_as": "COMP2123"
+     },
+     {
+      "code": "COMP2823",
+      "kind": "subject",
+      "printed_as": "COMP2823"
+     },
+     {
+      "code": "INFO1105",
+      "kind": "subject",
+      "printed_as": "INFO1105"
+     },
+     {
+      "code": "INFO1905",
+      "kind": "subject",
+      "printed_as": "INFO1905"
+     }
+    ]
+   ]
+  },
+  "COMP3608": {
+   "code": "COMP3608",
+   "name": "Introduction to Artificial Intelligence (Adv)",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Engineering Data Science Elective Units"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810",
+    "DATA1002",
+    "DATA1902"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910",
+     "ENGG1810",
+     "DATA1002",
+     "DATA1902"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP3308",
+    "COMP3308",
+    "COMP3608"
+   ],
+   "assumed_knowledge_codes": [
+    "COMP2123",
+    "COMP2823"
+   ]
+  },
+  "COMP3927": {
+   "code": "COMP3927",
+   "name": "Algorithm Design (Adv)",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "COMP2123",
+    "COMP2823"
+   ],
+   "prerequisite_groups": [
+    [
+     "COMP2123",
+     "COMP2823"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP2007",
+    "COMP2907",
+    "COMP3027"
+   ],
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ]
+  },
+  "COMP4216": {
+   "code": "COMP4216",
+   "name": "Mobile Computing",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Internet of Things Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "INFO1113"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "INFO1113"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5216"
+   ],
+   "assumed_knowledge_codes": [],
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "DATA3888",
+      "kind": "subject",
+      "printed_as": "DATA3888"
+     },
+     {
+      "code": "COMP3888",
+      "kind": "subject",
+      "printed_as": "COMP3888"
+     },
+     {
+      "code": "COMP3988",
+      "kind": "subject",
+      "printed_as": "COMP3988"
+     },
+     {
+      "code": "CSEC3888",
+      "kind": "subject",
+      "printed_as": "CSEC3888"
+     },
+     {
+      "code": "ISYS3888",
+      "kind": "subject",
+      "printed_as": "ISYS3888"
+     },
+     {
+      "code": "SOFT3888",
+      "kind": "subject",
+      "printed_as": "SOFT3888"
+     },
+     {
+      "code": "ENGG3112",
+      "kind": "subject",
+      "printed_as": "ENGG3112"
+     },
+     {
+      "code": "SCPU3001",
+      "kind": "subject",
+      "printed_as": "SCPU3001"
+     }
+    ],
+    [
+     {
+      "code": "INFO1113",
+      "kind": "subject",
+      "printed_as": "INFO1113"
+     }
+    ]
+   ]
+  },
+  "COMP4270": {
+   "code": "COMP4270",
+   "name": "Randomised and Advanced Algorithms",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "COMP2123",
+    "COMP2823",
+    "COMP3027",
+    "COMP3927"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "COMP2123",
+     "COMP2823"
+    ],
+    [
+     "COMP3027",
+     "COMP3927"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5270"
+   ],
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ]
+  },
+  "COMP4313": {
+   "code": "COMP4313",
+   "name": "Large Scale Networks",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5313"
+   ],
+   "assumed_knowledge_codes": [
+    "COMP2123",
+    "COMP2823",
+    "COMP3027",
+    "COMP3927"
+   ]
+  },
+  "COMP4318": {
+   "code": "COMP4318",
+   "name": "Machine Learning and Data Mining",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5318",
+    "OCMP5318"
+   ],
+   "assumed_knowledge_codes": [
+    "COMP2123",
+    "COMP2823",
+    "COMP9123",
+    "MATH1064",
+    "MATH1061"
+   ],
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "DATA3888",
+      "kind": "subject",
+      "printed_as": "DATA3888"
+     },
+     {
+      "code": "COMP3888",
+      "kind": "subject",
+      "printed_as": "COMP3888"
+     },
+     {
+      "code": "COMP3988",
+      "kind": "subject",
+      "printed_as": "COMP3988"
+     },
+     {
+      "code": "CSEC3888",
+      "kind": "subject",
+      "printed_as": "CSEC3888"
+     },
+     {
+      "code": "ISYS3888",
+      "kind": "subject",
+      "printed_as": "ISYS3888"
+     },
+     {
+      "code": "SOFT3888",
+      "kind": "subject",
+      "printed_as": "SOFT3888"
+     },
+     {
+      "code": "ENGG3112",
+      "kind": "subject",
+      "printed_as": "ENGG3112"
+     },
+     {
+      "code": "SCPU3001",
+      "kind": "subject",
+      "printed_as": "SCPU3001"
+     }
+    ]
+   ]
+  },
+  "COMP4328": {
+   "code": "COMP4328",
+   "name": "Advanced Machine Learning",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [
+    "COMP3308",
+    "COMP3608",
+    "COMP4318",
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810"
+   ],
+   "corequisite_groups": [
+    [
+     "COMP3308",
+     "COMP3608",
+     "COMP4318",
+     "INFO1110",
+     "INFO1910",
+     "ENGG1810"
+    ]
+   ],
+   "prohibition_codes": [
+    "COMP5328",
+    "OCMP5328"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "COMP4329": {
+   "code": "COMP4329",
+   "name": "Deep Learning",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "COMP3308",
+    "COMP3608",
+    "COMP4318",
+    "BMET2925"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "COMP3308",
+     "COMP3608",
+     "COMP4318",
+     "BMET2925"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5329",
+    "OCMP5329"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "COMP4338": {
+   "code": "COMP4338",
+   "name": "Advanced Data Models",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "INFO2120",
+    "INFO2820",
+    "ISYS2120"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "INFO2120",
+     "INFO2820",
+     "ISYS2120"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5338",
+    "OCMP5338"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "COMP4347": {
+   "code": "COMP4347",
+   "name": "Web Application Development",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "ISYS2120",
+    "SOFT2412"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "ISYS2120"
+    ],
+    [
+     "SOFT2412"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5347"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "COMP4348": {
+   "code": "COMP4348",
+   "name": "Enterprise Scale Software Architecture",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "SOFT2412",
+    "COMP2123",
+    "COMP2823",
+    "INFO1105",
+    "INFO1905"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "SOFT2412"
+    ],
+    [
+     "COMP2123",
+     "COMP2823",
+     "INFO1105",
+     "INFO1905"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5348"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "COMP4349": {
+   "code": "COMP4349",
+   "name": "Cloud Computing",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810",
+    "DATA1002",
+    "DATA1902"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "INFO1110",
+     "INFO1910",
+     "ENGG1810",
+     "DATA1002",
+     "DATA1902"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5349",
+    "OCMP5349"
+   ],
+   "assumed_knowledge_codes": [
+    "INFO1112"
+   ]
+  },
+  "COMP4405": {
+   "code": "COMP4405",
+   "name": "Digital Media Computing",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5405",
+    "COMP5114",
+    "COMP9419"
+   ],
+   "assumed_knowledge_codes": [
+    "INFO1113",
+    "COMP2123",
+    "COMP2823",
+    "INFO1105",
+    "INFO1905"
+   ]
+  },
+  "COMP4415": {
+   "code": "COMP4415",
+   "name": "Multimedia Design and Authoring",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5415"
+   ],
+   "assumed_knowledge_codes": [
+    "SOFT2412"
+   ]
+  },
+  "COMP4416": {
+   "code": "COMP4416",
+   "name": "Advanced Network Technologies",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5416"
+   ],
+   "assumed_knowledge_codes": [
+    "COMP3221",
+    "ELEC3506"
+   ]
+  },
+  "COMP4424": {
+   "code": "COMP4424",
+   "name": "Information Technology in Biomedicine",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5424"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "COMP4425": {
+   "code": "COMP4425",
+   "name": "Multimedia Retrieval",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5425"
+   ],
+   "assumed_knowledge_codes": [
+    "INFO1113",
+    "COMP2123",
+    "COMP2823",
+    "INFO1105",
+    "INFO1905"
+   ]
+  },
+  "COMP4426": {
+   "code": "COMP4426",
+   "name": "Parallel and Distributed Computing",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Internet of Things Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5426",
+    "OCMP5426"
+   ],
+   "assumed_knowledge_codes": [],
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "DATA3888",
+      "kind": "subject",
+      "printed_as": "DATA3888"
+     },
+     {
+      "code": "COMP3888",
+      "kind": "subject",
+      "printed_as": "COMP3888"
+     },
+     {
+      "code": "COMP3988",
+      "kind": "subject",
+      "printed_as": "COMP3988"
+     },
+     {
+      "code": "CSEC3888",
+      "kind": "subject",
+      "printed_as": "CSEC3888"
+     },
+     {
+      "code": "ISYS3888",
+      "kind": "subject",
+      "printed_as": "ISYS3888"
+     },
+     {
+      "code": "SOFT3888",
+      "kind": "subject",
+      "printed_as": "SOFT3888"
+     },
+     {
+      "code": "ENGG3112",
+      "kind": "subject",
+      "printed_as": "ENGG3112"
+     },
+     {
+      "code": "SCPU3001",
+      "kind": "subject",
+      "printed_as": "SCPU3001"
+     }
+    ]
+   ]
+  },
+  "COMP4427": {
+   "code": "COMP4427",
+   "name": "Usability Engineering",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5427"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "COMP4445": {
+   "code": "COMP4445",
+   "name": "Computational Geometry",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "COMP2123",
+    "COMP2823",
+    "COMP3027",
+    "COMP3927"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "COMP2123",
+     "COMP2823"
+    ],
+    [
+     "COMP3027",
+     "COMP3927"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5045"
+   ],
+   "assumed_knowledge_codes": [
+    "MATH1064"
+   ]
+  },
+  "COMP4446": {
+   "code": "COMP4446",
+   "name": "Natural Language Processing",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5046"
+   ],
+   "assumed_knowledge_codes": [
+    "INFO1113"
+   ]
+  },
+  "COMP4447": {
+   "code": "COMP4447",
+   "name": "Pervasive Computing",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Internet of Things Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5047"
+   ],
+   "assumed_knowledge_codes": [
+    "ELEC1601",
+    "COMP2129",
+    "COMP2017"
+   ],
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "DATA3888",
+      "kind": "subject",
+      "printed_as": "DATA3888"
+     },
+     {
+      "code": "COMP3888",
+      "kind": "subject",
+      "printed_as": "COMP3888"
+     },
+     {
+      "code": "COMP3988",
+      "kind": "subject",
+      "printed_as": "COMP3988"
+     },
+     {
+      "code": "CSEC3888",
+      "kind": "subject",
+      "printed_as": "CSEC3888"
+     },
+     {
+      "code": "ISYS3888",
+      "kind": "subject",
+      "printed_as": "ISYS3888"
+     },
+     {
+      "code": "SOFT3888",
+      "kind": "subject",
+      "printed_as": "SOFT3888"
+     },
+     {
+      "code": "ENGG3112",
+      "kind": "subject",
+      "printed_as": "ENGG3112"
+     },
+     {
+      "code": "SCPU3001",
+      "kind": "subject",
+      "printed_as": "SCPU3001"
+     }
+    ]
+   ]
+  },
+  "COMP4448": {
+   "code": "COMP4448",
+   "name": "Visual Analytics",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "COMP2123",
+    "COMP2823"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "COMP2123",
+     "COMP2823"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5048",
+    "OCMP5048"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "COMP4530": {
+   "code": "COMP4530",
+   "name": "Discrete Optimisation",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "COMP2123",
+    "COMP2823",
+    "COMP3027",
+    "COMP3927"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "COMP2123",
+     "COMP2823"
+    ],
+    [
+     "COMP3027",
+     "COMP3927"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP3530",
+    "COMP5530"
+   ],
+   "assumed_knowledge_codes": [
+    "MATH1064",
+    "MATH1061"
+   ]
+  },
+  "COMP4617": {
+   "code": "COMP4617",
+   "name": "Empirical Security Analysis and Engineering",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "CSEC3616",
+    "INFO3616",
+    "ELEC5616"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "CSEC3616",
+     "INFO3616",
+     "ELEC5616"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5617",
+    "OCMP5617"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "COMP4618": {
+   "code": "COMP4618",
+   "name": "Applied Cybersecurity",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "COMP5618",
+    "OCMP5618"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "DATA3404": {
+   "code": "DATA3404",
+   "name": "Scalable Data Management",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Engineering Data Science Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA2001",
+    "DATA2901",
+    "ISYS2120",
+    "INFO2120",
+    "INFO2820"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA2001",
+     "DATA2901",
+     "ISYS2120",
+     "INFO2120",
+     "INFO2820"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO3504",
+    "INFO3404"
+   ],
+   "assumed_knowledge_codes": [
+    "DATA2001",
+    "ISYS2120"
+   ]
+  },
+  "DATA3406": {
+   "code": "DATA3406",
+   "name": "Human-in-the-Loop Data Analytics",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Engineering Data Science Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA2001",
+    "DATA2901",
+    "DATA2002",
+    "DATA2902"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA2001",
+     "DATA2901"
+    ],
+    [
+     "DATA2002",
+     "DATA2902"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "DATA4207": {
+   "code": "DATA4207",
+   "name": "Data Analysis in the Social Sciences",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "DATA5207"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC3104": {
+   "code": "ELEC3104",
+   "name": "Engineering Electromagnetics",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Computer Engineering Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC3203": {
+   "code": "ELEC3203",
+   "name": "Electricity Networks",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC3204": {
+   "code": "ELEC3204",
+   "name": "Power Electronics and Applications",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "ELEC2104"
+   ],
+   "prerequisite_groups": [
+    [
+     "ELEC2104"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [],
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "ELEC2104",
+      "kind": "subject",
+      "printed_as": "ELEC2104"
+     }
+    ]
+   ]
+  },
+  "ELEC3206": {
+   "code": "ELEC3206",
+   "name": "Electrical Energy Conversion Systems",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC3304": {
+   "code": "ELEC3304",
+   "name": "Control",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Computer Engineering Elective Units"
+   ],
+   "prerequisite_codes": [
+    "ELEC2302",
+    "MATH2061",
+    "MATH2067",
+    "MATH2021",
+    "MATH2961",
+    "AMME2000"
+   ],
+   "prerequisite_groups": [
+    [
+     "ELEC2302"
+    ],
+    [
+     "MATH2061",
+     "MATH2067",
+     "MATH2021",
+     "MATH2961",
+     "AMME2000"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "AMME3500"
+   ],
+   "assumed_knowledge_codes": [],
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "ELEC2302",
+      "kind": "subject",
+      "printed_as": "ELEC2302"
+     }
+    ],
+    [
+     {
+      "code": "MATH2061",
+      "kind": "subject",
+      "printed_as": "MATH2061"
+     },
+     {
+      "code": "MATH2067",
+      "kind": "subject",
+      "printed_as": "MATH2067"
+     },
+     {
+      "code": "MATH2021",
+      "kind": "subject",
+      "printed_as": "MATH2021"
+     },
+     {
+      "code": "MATH2961",
+      "kind": "subject",
+      "printed_as": "MATH2961"
+     },
+     {
+      "code": "AMME2000",
+      "kind": "subject",
+      "printed_as": "AMME2000"
+     }
+    ]
+   ]
+  },
+  "ELEC3305": {
+   "code": "ELEC3305",
+   "name": "Digital Signal Processing",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Computer Engineering Elective Units",
+    "Specialisation - Intelligent Information Engineering Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC3404": {
+   "code": "ELEC3404",
+   "name": "Electronic Circuit Design",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Computer Engineering Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC3405": {
+   "code": "ELEC3405",
+   "name": "Communications Electronics and Photonics",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [
+    "ELEC2104"
+   ]
+  },
+  "ELEC3505": {
+   "code": "ELEC3505",
+   "name": "Communications",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "ELEC2302"
+   ],
+   "prerequisite_groups": [
+    [
+     "ELEC2302"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [],
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "ELEC2302",
+      "kind": "subject",
+      "printed_as": "ELEC2302"
+     }
+    ]
+   ]
+  },
+  "ELEC3506": {
+   "code": "ELEC3506",
+   "name": "Communications Networks",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Computer Engineering Core Units",
+    "Specialisation - Internet of Things Core Units",
+    "Specialisation - Intelligent Information Engineering Core Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC3607": {
+   "code": "ELEC3607",
+   "name": "Embedded Systems",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Computer Engineering Core Units"
+   ],
+   "prerequisite_codes": [
+    "ELEC1601",
+    "ELEC2602"
+   ],
+   "prerequisite_groups": [
+    [
+     "ELEC1601"
+    ],
+    [
+     "ELEC2602"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [
+    "ELEC1601",
+    "ELEC2602"
+   ],
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "ELEC1601",
+      "kind": "subject",
+      "printed_as": "ELEC1601"
+     }
+    ],
+    [
+     {
+      "code": "ELEC2602",
+      "kind": "subject",
+      "printed_as": "ELEC2602"
+     }
+    ]
+   ]
+  },
+  "ELEC3608": {
+   "code": "ELEC3608",
+   "name": "Computer Architecture",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Computer Engineering Core Units"
+   ],
+   "prerequisite_codes": [
+    "ELEC2602"
+   ],
+   "prerequisite_groups": [
+    [
+     "ELEC2602"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [
+    "ELEC3607"
+   ],
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "ELEC2602",
+      "kind": "subject",
+      "printed_as": "ELEC2602"
+     }
+    ]
+   ]
+  },
+  "ELEC3610": {
+   "code": "ELEC3610",
+   "name": "E-Business Analysis and Design",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Do not offer"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "EBUS3003"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC3612": {
+   "code": "ELEC3612",
+   "name": "Pattern Recognition and Machine Intelligence",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "MATH1971",
+    "MATH1972",
+    "BUSS1020"
+   ],
+   "prerequisite_groups": [
+    [
+     "MATH1971"
+    ],
+    [
+     "MATH1972",
+     "BUSS1020"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [],
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "MATH1061",
+      "kind": "subject",
+      "printed_as": "MATH1X61"
+     },
+     {
+      "code": "MATH1961",
+      "kind": "subject",
+      "printed_as": "MATH1X61"
+     },
+     {
+      "code": "MATH1971",
+      "kind": "subject",
+      "printed_as": "MATH1971"
+     },
+     {
+      "kind": "other",
+      "reason": "unresolved_wildcard",
+      "text": "MATH1X02"
+     }
+    ],
+    [
+     {
+      "code": "MATH1062",
+      "kind": "subject",
+      "printed_as": "MATH1X62"
+     },
+     {
+      "code": "MATH1962",
+      "kind": "subject",
+      "printed_as": "MATH1X62"
+     },
+     {
+      "code": "MATH1972",
+      "kind": "subject",
+      "printed_as": "MATH1972"
+     },
+     {
+      "kind": "other",
+      "reason": "unresolved_wildcard",
+      "text": "MATH1X05"
+     },
+     {
+      "code": "BUSS1020",
+      "kind": "subject",
+      "printed_as": "BUSS1020"
+     }
+    ]
+   ]
+  },
+  "ELEC3702": {
+   "code": "ELEC3702",
+   "name": "Management for Engineers",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Computer Engineering Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "ELEC3802": {
+   "code": "ELEC3802",
+   "name": "Fundamentals of Biomedical Engineering",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "ELEC3803": {
+   "code": "ELEC3803",
+   "name": "Bioelectronics [not offered in 2021]",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "ELEC4505": {
+   "code": "ELEC4505",
+   "name": "Digital Communication Systems",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "ELEC3505"
+   ],
+   "prerequisite_groups": [
+    [
+     "ELEC3505"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [],
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "ELEC3505",
+      "kind": "subject",
+      "printed_as": "ELEC3505"
+     }
+    ]
+   ]
+  },
+  "ELEC4714": {
+   "code": "ELEC4714",
+   "name": "Major Industrial Project",
+   "credit_points": 24,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ELEC4710",
+    "ELEC4711",
+    "ELEC4712",
+    "ELEC4713",
+    "ENGG4000",
+    "ENGG4000",
+    "ELEC4714",
+    "ELEC4714"
+   ],
+   "assumed_knowledge_codes": [],
+   "credit_point_requirement": {
+    "min_credit_points": 36,
+    "min_level": 3000,
+    "source_text": "36cp of 3000-level BE units"
+   },
+   "credit_point_requirements": [
+    {
+     "min_credit_points": 36,
+     "min_level": 3000,
+     "source_text": "36cp of 3000-level BE units"
+    }
+   ],
+   "unverifiable_requirements": [
+    "WAM>=70"
+   ]
+  },
+  "ELEC5101": {
+   "code": "ELEC5101",
+   "name": "Antennas and Propagation",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC5203": {
+   "code": "ELEC5203",
+   "name": "Topics in Power Engineering [not offered in 2021]",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "ELEC5204": {
+   "code": "ELEC5204",
+   "name": "Power Systems Analysis and Protection",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [
+    "ELEC3203",
+    "ELEC9203",
+    "ELEC5732",
+    "ELEC3206",
+    "ELEC9206",
+    "ELEC5734"
+   ]
+  },
+  "ELEC5205": {
+   "code": "ELEC5205",
+   "name": "High Voltage Engineering",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC5206": {
+   "code": "ELEC5206",
+   "name": "Sustainable Energy Systems",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [
+    "ELEC3204",
+    "ELEC3304"
+   ]
+  },
+  "ELEC5207": {
+   "code": "ELEC5207",
+   "name": "Advanced Power Conversion Technologies",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [
+    "ELEC3204"
+   ]
+  },
+  "ELEC5208": {
+   "code": "ELEC5208",
+   "name": "Intelligent Electricity Networks",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Internet of Things Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC5211": {
+   "code": "ELEC5211",
+   "name": "Power System Dynamics and Control",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [
+    "ELEC3203",
+    "ELEC9203",
+    "ELEC5732"
+   ]
+  },
+  "ELEC5212": {
+   "code": "ELEC5212",
+   "name": "Power System Planning and Markets",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [
+    "ELEC3203",
+    "ELEC9203",
+    "ELEC5732"
+   ]
+  },
+  "ELEC5213": {
+   "code": "ELEC5213",
+   "name": "Engineering Optimisation",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC5304": {
+   "code": "ELEC5304",
+   "name": "Intelligent Visual Signal Understanding",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Intelligent Information Engineering Core Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC5305": {
+   "code": "ELEC5305",
+   "name": "Acoustics, Speech and Signal Processing",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Intelligent Information Engineering Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [
+    "ELEC2302",
+    "ELEC9302",
+    "ELEC3305",
+    "ELEC9305",
+    "ELEC2302",
+    "ELEC9302",
+    "ELEC3305"
+   ]
+  },
+  "ELEC5306": {
+   "code": "ELEC5306",
+   "name": "Video Intelligence and Compression",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Intelligent Information Engineering Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC5307": {
+   "code": "ELEC5307",
+   "name": "Advanced Signal Processing with Deep Learning",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Intelligent Information Engineering Core Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC5308": {
+   "code": "ELEC5308",
+   "name": "Intelligent Information Engineering Practice",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Intelligent Information Engineering Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC5405": {
+   "code": "ELEC5405",
+   "name": "Building Microchips: From Theory to Practice",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Computer Engineering Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC5507": {
+   "code": "ELEC5507",
+   "name": "Error Control Coding",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC5508": {
+   "code": "ELEC5508",
+   "name": "Wireless Engineering",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Internet of Things Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC5509": {
+   "code": "ELEC5509",
+   "name": "Mobile Networks",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Internet of Things Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [
+    "ELEC3505",
+    "ELEC9505",
+    "ELEC3506",
+    "ELEC9506"
+   ]
+  },
+  "ELEC5510": {
+   "code": "ELEC5510",
+   "name": "Satellite Communication Systems",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [
+    "ELEC3505",
+    "ELEC4505"
+   ]
+  },
+  "ELEC5511": {
+   "code": "ELEC5511",
+   "name": "Optical Communication Systems",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Do not offer"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [
+    "ELEC3405",
+    "ELEC9405",
+    "ELEC3505",
+    "ELEC9505"
+   ]
+  },
+  "ELEC5512": {
+   "code": "ELEC5512",
+   "name": "Optical Networks",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC5514": {
+   "code": "ELEC5514",
+   "name": "IoT Wireless Sensing and Networking",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Internet of Things Core Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [
+    "ELEC3305",
+    "ELEC3506",
+    "ELEC3607",
+    "ELEC5508"
+   ]
+  },
+  "ELEC5516": {
+   "code": "ELEC5516",
+   "name": "Electrical and Optical Sensor Design",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Intelligent Information Engineering Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC5517": {
+   "code": "ELEC5517",
+   "name": "Software Defined Networks",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Internet of Things Core Units",
+    "Specialisation - Intelligent Information Engineering Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [
+    "ELEC3506",
+    "ELEC9506"
+   ]
+  },
+  "ELEC5518": {
+   "code": "ELEC5518",
+   "name": "IoT for Critical Infrastructures",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Internet of Things Core Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC5616": {
+   "code": "ELEC5616",
+   "name": "Computer and Network Security",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Internet of Things Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC5620": {
+   "code": "ELEC5620",
+   "name": "Model Based Software Engineering",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC5622": {
+   "code": "ELEC5622",
+   "name": "Signals, Software and Health",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Intelligent Information Engineering Core Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC5623": {
+   "code": "ELEC5623",
+   "name": "Applied Generative AI in Engineering",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ELEC5701": {
+   "code": "ELEC5701",
+   "name": "Technology Venture Creation [not offered in 2021]",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Intelligent Information Engineering Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "ELEC5760": {
+   "code": "ELEC5760",
+   "name": "Intelligent Networked Control",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units",
+    "Specialisation - Internet of Things Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "INFO3315": {
+   "code": "INFO3315",
+   "name": "Human-Computer Interaction",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "ENGG1810"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910",
+     "INFO1113",
+     "ENGG1810"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "INFO4491": {
+   "code": "INFO4491",
+   "name": "Services Science Management and Engineering",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "ISYS2160"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "ISYS2160"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO5991"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "INFO4994": {
+   "code": "INFO4994",
+   "name": "Advanced Topics in Computer Science",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [],
+   "prerequisite_groups": [],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": []
+  },
+  "ISYS3401": {
+   "code": "ISYS3401",
+   "name": "Information Technology Evaluation",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "INFO2110",
+    "ISYS2110",
+    "INFO2120",
+    "ISYS2120",
+    "ISYS2140",
+    "ISYS2160"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO2110",
+     "ISYS2110"
+    ],
+    [
+     "INFO2120",
+     "ISYS2120"
+    ],
+    [
+     "ISYS2140",
+     "ISYS2160"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [],
+   "assumed_knowledge_codes": [
+    "MATH1005",
+    "MATH1905",
+    "MATH1062",
+    "DATA1001",
+    "DATA1901"
+   ]
+  },
+  "ISYS3402": {
+   "code": "ISYS3402",
+   "name": "Decision Analytics & Support Systems [not running in 2019]",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "ISYS3888": {
+   "code": "ISYS3888",
+   "name": "Information Systems Project",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "INFO2110",
+    "ISYS2110",
+    "INFO2120",
+    "ISYS2120",
+    "ISYS2140",
+    "ISYS2160"
+   ],
+   "prerequisite_groups": [
+    [
+     "INFO1110",
+     "INFO1910"
+    ],
+    [
+     "INFO1113"
+    ],
+    [
+     "INFO2110",
+     "ISYS2110"
+    ],
+    [
+     "INFO2120",
+     "ISYS2120"
+    ],
+    [
+     "ISYS2140",
+     "ISYS2160"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "INFO3600",
+    "ISYS3207",
+    "ISYS3400"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "ISYS4450": {
+   "code": "ISYS4450",
+   "name": "Knowledge Management Systems",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001",
+    "ISYS2160"
+   ],
+   "prerequisite_groups": [
+    [
+     "DATA3888",
+     "COMP3888",
+     "COMP3988",
+     "CSEC3888",
+     "ISYS3888",
+     "SOFT3888",
+     "ENGG3112",
+     "SCPU3001"
+    ],
+    [
+     "ISYS2160"
+    ]
+   ],
+   "corequisite_codes": [],
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "ISYS5050"
+   ],
+   "assumed_knowledge_codes": []
+  },
+  "SOFT3410": {
+   "code": "SOFT3410",
+   "name": "Concurrency for Software Development",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Software Stream 3000+ Level Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "SIEN1000": {
+   "code": "SIEN1000",
+   "name": "Innovation and Entrepreneurship Foundation",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Specialisation - Innovation and Entrepreneurship Core Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "SIEN1001": {
+   "code": "SIEN1001",
+   "name": "Innovators` Skills and Actions",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Specialisation - Innovation and Entrepreneurship Core Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "SIEN2001": {
+   "code": "SIEN2001",
+   "name": "Validating Ideas and Building Ventures",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Specialisation - Innovation and Entrepreneurship Core Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "CLAW2209": {
+   "code": "CLAW2209",
+   "name": "Intellectual Property for Business",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Specialisation - Innovation and Entrepreneurship Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "DECO2015": {
+   "code": "DECO2015",
+   "name": "Responsible Design for Innovation",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Specialisation - Innovation and Entrepreneurship Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "DECO2016": {
+   "code": "DECO2016",
+   "name": "Design Thinking",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Specialisation - Innovation and Entrepreneurship Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "ENGG3216": {
+   "code": "ENGG3216",
+   "name": "Management of Technological Innovation",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Specialisation - Innovation and Entrepreneurship Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "INFS2030": {
+   "code": "INFS2030",
+   "name": "e-Business Management",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Specialisation - Innovation and Entrepreneurship Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "MKTG3114": {
+   "code": "MKTG3114",
+   "name": "New Products Marketing",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Specialisation - Innovation and Entrepreneurship Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "MKTG3120": {
+   "code": "MKTG3120",
+   "name": "Building and Managing Brands",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Specialisation - Innovation and Entrepreneurship Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "PMGT3856": {
+   "code": "PMGT3856",
+   "name": "Sustainability and Knowledge Management",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Specialisation - Innovation and Entrepreneurship Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "SIEN2210": {
+   "code": "SIEN2210",
+   "name": "Strategic Management",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Specialisation - Innovation and Entrepreneurship Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "SIEN3001": {
+   "code": "SIEN3001",
+   "name": "Social Entrepreneurship",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Specialisation - Innovation and Entrepreneurship Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "SIEN3204": {
+   "code": "SIEN3204",
+   "name": "Managing Organisational Sustainability",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Specialisation - Innovation and Entrepreneurship Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "CIVL3310": {
+   "code": "CIVL3310",
+   "name": "Humanitarian Engineering",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1"
+   ],
+   "degree_blocks": [
+    "Specialisation - Humanitarian Engineering Core Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "CIVL5320": {
+   "code": "CIVL5320",
+   "name": "Engineering for Sustainable Development",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Specialisation - Humanitarian Engineering Core Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": [
+    "CIVL9320"
+   ],
+   "assumed_knowledge_codes": null
+  },
+  "CIVL5330": {
+   "code": "CIVL5330",
+   "name": "Global Engineering Field Work",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Int January"
+   ],
+   "degree_blocks": [
+    "Specialisation - Humanitarian Engineering Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "ENGG3801": {
+   "code": "ENGG3801",
+   "name": "Industry and Community Project",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Specialisation - Humanitarian Engineering Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "PMGT3857": {
+   "code": "PMGT3857",
+   "name": "International Project Management",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Specialisation - Humanitarian Engineering Elective Units"
+   ],
+   "prerequisite_codes": null,
+   "prerequisite_groups": [],
+   "corequisite_codes": null,
+   "corequisite_groups": [],
+   "prohibition_codes": null,
+   "assumed_knowledge_codes": null
+  },
+  "ELEC4712": {
+   "code": "ELEC4712",
+   "name": "Thesis A",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Projects Table"
+   ],
+   "requirements_raw": "P 36 credit points of 3000- or higher level BE units of study N ELEC4714",
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ELEC4714"
+   ],
+   "assumed_knowledge_codes": [],
+   "credit_point_requirement": {
+    "min_credit_points": 36,
+    "min_level": 3000,
+    "max_level": null,
+    "prefix": null,
+    "excluded_patterns": []
+   },
+   "credit_point_requirements": [
+    {
+     "min_credit_points": 36,
+     "source_text": "36cp of 3000- or higher level BE units"
+    }
+   ]
+  },
+  "ELEC4713": {
+   "code": "ELEC4713",
+   "name": "Thesis B",
+   "credit_points": 6,
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ],
+   "degree_blocks": [
+    "Projects Table"
+   ],
+   "requirements_raw": "P ELEC4712 N ELEC4714",
+   "prerequisite_codes": [
+    "ELEC4712"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ELEC4714"
+   ],
+   "assumed_knowledge_codes": [],
+   "prerequisite_groups": [
+    [
+     "ELEC4712"
+    ]
+   ],
+   "prerequisite_requirements": [
+    [
+     {
+      "code": "ELEC4712",
+      "kind": "subject",
+      "printed_as": "ELEC4712"
+     }
+    ]
+   ]
+  }
+ }
+}

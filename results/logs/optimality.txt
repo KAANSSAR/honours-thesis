@@ -1,0 +1,7 @@
+scenarios: 1497   overload budget: 1
+
+scenarios the model can represent : 1393 of 1497
+  excluded (model cannot express)  : 11
+  engine optimal                   : 1307  (93.8% of judged)
+  shorter plan exists              : 86
+  unknown / errors / bad witness   : 0 / 0 / 93

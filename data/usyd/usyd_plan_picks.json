@@ -1,0 +1,23 @@
+{
+  "_comment": [
+    "Accepted findings for the University of Sydney enrolment plans, in the same",
+    "shape as the accepted_findings block of uts_plan_picks.json and read by the",
+    "same code path in run_all_plans.py.",
+    "",
+    "An accepted finding is a conflict the published source really contains and",
+    "that the plan reproduces on purpose. It is reported under its own heading",
+    "rather than suppressed, because a suppressed finding and an accepted one are",
+    "indistinguishable in a clean report and only one of them is honest.",
+    "`major` is matched against the plan's title as run_all_plans reports it, not its dataset key."
+  ],
+  "source_checked": "CUSP degree pages for Mechatronic, and the unit page for AMME4111",
+  "date_checked": "2026-10-30",
+  "accepted_findings": [
+    {
+      "major": "Mechatronic | Innovation and Entrepreneurship 24cp + stream electives 12cp",
+      "contains": "AMME4111 needs 36cp",
+      "finding": "The Innovation and Entrepreneurship combination schedules AMME4111 in Year 4 Semester 1 with 30 credit points of 3000-level or higher units before it, against a published prerequisite of 36. Both of this combination's open elective slots sit in Year 4 Semester 2, after AMME4111, so no choice the student makes can close the gap. The other two Mechatronic combinations place a slot in Year 3 whose blocks hold nothing below 3000 level, and they reach the threshold once that slot is counted.",
+      "decision": "Accepted. The published sequence is reproduced unchanged and the conflict reported, because the shortfall is in the sequence rather than in the transcription."
+    }
+  ]
+}

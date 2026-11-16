@@ -1,0 +1,76 @@
+ran 51 plans: 42 USYD, 9 UTS
+
+plan                                                   units  open    cp  violations
+Software | stream: Computer Engineering | breadth: H      32     0  192cp        none
+Software | stream: Computer Engineering | breadth: I      32     0  192cp        none
+Software | stream: Computer Engineering | breadth: (      28     4  192cp        none
+Software | stream: Intelligent Information Engineeri      32     0  192cp        none
+Software | stream: Intelligent Information Engineeri      32     0  192cp        none
+Software | stream: Intelligent Information Engineeri      28     4  192cp        none
+Software | stream: Internet of Things (IoT) | breadt      32     0  192cp        none
+Software | stream: Internet of Things (IoT) | breadt      32     0  192cp        none
+Software | stream: Internet of Things (IoT) | breadt      28     4  192cp        none
+Software | stream: Engineering Data Science | breadt      32     0  192cp        none
+Software | stream: Engineering Data Science | breadt      32     0  192cp        none
+Software | stream: Engineering Data Science | breadt      28     4  192cp        none
+Software | stream: (generic electives) | breadth: Hu      27     5  192cp        none
+Software | stream: (generic electives) | breadth: In      27     5  192cp        none
+Software | stream: (generic electives) | breadth: (f      23     9  192cp        none
+Aeronautical | stream: Aerospace Systems + 1 Free El      31     1  192cp        none
+Aeronautical |Breadth: Innovation and Entrepreneursh      32     0  192cp        none
+Aeronautical | stream: (generic electives) | breadth      28     4  192cp        none
+Biomedical | stream: Bionics and Bioelectronics | br      31     1  192cp        none
+Biomedical | stream: Bionics and Bioelectronics + 1       27     5  192cp        none
+Biomedical | Stream electives 36cp + Innovation and       26     6  192cp        none
+Biomedical | Stream electives 36cp + free electives       22    10  192cp        none
+Biomedical | Bionics and Bioelectronics 30cp + Nanos      32     0  192cp        none
+Civil | Structures + Innovation & Enterpreneurship +      31     1  192cp        none
+Civil | Structures 18cp + stream elective 6cp + free      27     5  192cp        none
+Civil | Structures 18cp + Geotechnical Engineering 1      30     2  192cp        none
+Civil | Innovation and Entrepreneurship 24cp + strea      28     4  192cp        none
+Civil | stream: (generic electives) | breadth: (free      24     8  192cp        none
+Electrical |Intelligent Information Engineering 30cp      28     4  192cp        none
+Electrical | Intelligent Information Engineering 30c      32     0  192cp        none
+Electrical |Stream electives 30cp + free electives 2      23     9  192cp        none
+Electrical | Stream electives 30cp + Innovation and       27     5  192cp        none
+Environmental |Chemical Engineering for the Environm      31     1  192cp        none
+Environmental | Innovation and Entrepreneurship 24cp      32     0  192cp        none
+Environmental | stream: (generic electives) | breadt      28     4  192cp        none
+Mechanical | Energy and the Environment 18cp + strea      29     3  192cp        none
+Mechanical | Energy and the Environment 18cp + Mater      32     0  192cp        none
+Mechanical | Innovation and Entrepreneurship 24cp +       30     2  192cp        none
+Mechanical | Stream electives + free electives 36cp,      26     6  192cp        none
+Mechatronic |Robotics and Intelligent Systems 24cp +      30     2  192cp        none
+Mechatronic | Innovation and Entrepreneurship 24cp +      30     2  192cp        none
+Mechatronic | Stream electives 12 to 36cp + free ele      26     6  192cp        none
+Biomedical Engineering major                              29     4  198cp        none
+Civil Engineering major                                   31     4  198cp        none
+Civil Engineering major, Construction specialisation      31     4  198cp        none
+Civil Engineering major, Structures specialisation        31     4  198cp        none
+Civil and Environmental Engineering major                 35     0  198cp        none
+Electrical Engineering major                              31     4  198cp        none
+Mechanical Engineering major                              31     4  198cp        none
+Mechatronic Engineering major                             31     4  198cp        none
+Software Engineering major                                29     4  198cp        none
+
+plans with no violations: 51 / 51
+  USYD: 42 / 42
+  UTS: 9 / 9
+
+accepted findings, reproduced from the published plan on purpose: 6
+  [USYD] Mechatronic | Innovation and Entrepreneurshi
+      AMME4111 (Year 4 - Semester 1) needs 36cp of matching units scheduled earlier, and not enough are.
+  [UTS] Biomedical Engineering major
+      91161 (Year 2 - Spring session) is not offered in that session; it runs in Autumn session.
+  [UTS] Biomedical Engineering major
+      41163 (Year 3 - Autumn session) is not offered in that session; it runs in Spring session.
+  [UTS] Biomedical Engineering major
+      42001 (Year 4 - Autumn session) is not offered in that session; it runs in Spring session.
+  [UTS] Mechanical Engineering major
+      41029 (Year 4 - Autumn session) needs 48260 or 16912 or 41202 beforehand, and has none of them.
+  [UTS] Mechatronic Engineering major
+      41039 (Year 1 - Spring session) is not offered in that session; it runs in Autumn session.
+
+replanning: 1497/1497 failures replanned to a schedule that then validates clean
+
+wrote results/plan_run_results.json

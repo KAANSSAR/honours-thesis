@@ -1,0 +1,170 @@
+
+intake
+  ok    valid JSON is accepted
+  ok    institution is normalised
+  ok    failed units are carried through
+  ok    clean intake is not marked repaired
+  ok    prose then JSON is repaired, not dropped
+  ok    the repair is recorded
+  ok    unparseable intake yields no profile
+  ok    intake failure names a reason
+  ok    an invented intent is rejected
+  ok    a fenced JSON reply is accepted
+
+tool calls
+  ok    a valid call is accepted
+  ok    the tool name is carried through
+  ok    a function that does not exist is refused
+  ok    the refusal names the function
+  ok    an argument the function does not accept is refused
+  ok    prose instead of a call is refused
+  ok    a private helper is not reachable
+
+resolution
+  ok    a unit name becomes its code
+  ok    a code passes through
+  ok    a described degree becomes a plan key
+  ok    an ambiguous degree is not guessed at
+  ok    the ambiguity lists the candidates
+  ok    an ambiguous unit name is not guessed at
+  ok    an unknown unit is reported
+  ok    a missing institution is reported
+  ok    an underspecified request asks instead of guessing
+  ok    no tool call is made for it
+
+unit lookups
+  ok    a code from the other university is not matched to names here
+  ok    and the refusal says what is wrong with it
+  ok    the dataset that holds the code decides the university
+  ok    a name still resolves where it belongs
+  ok    a code in neither dataset resolves in neither
+  ok    a lookup is not asked which plan the student is on
+  ok    and it is answered against Sydney's dataset
+  ok    a lookup with no university named finds the one that has the unit
+  ok    an unknown code is reported rather than resolved
+  ok    and the question asked back names the real problem
+  ok    no plan is resolved for a lookup
+  ok    a lookup reaches an answer, not a question
+  ok    the call was built from the dataset, not chosen by the model
+  ok    and it was sent to the university that has the unit
+  ok    the engine answered about the unit asked for
+  ok    a conjunction is stated as a conjunction
+  ok    and a disjunction as a disjunction
+  ok    nothing recorded is not reported as nothing required
+  ok    the explanation is shown the sentence, not the groups
+  ok    and both codes are still there to be grounded against
+
+carried context
+  ok    a follow-up to a comparison is still a comparison
+  ok    both degrees are carried, not just the first
+  ok    a follow-up that names its own degree is left alone
+  ok    a failure after a comparison is a repair, not a comparison
+  ok    a lookup carries no plan from the question before it
+  ok    naming one side leaves the comparison behind
+  ok    and picks up that side's key exactly
+  ok    the other side resolves to the other key
+  ok    naming neither side is still a comparison
+  ok    stepping onto one side settles the intent too
+  ok    a failure named on one side stays a repair
+  ok    the pair survives a second follow-up
+  ok    the UTS side is answered as a plan, not a comparison
+  ok    with the key the pairing chose
+  ok    and the Sydney side with its own key
+  ok    the model's push for a comparison was never consulted
+  ok    so the result is a plan and not a comparison
+  ok    naming neither side still compares
+
+the institution repair
+  ok    'now just show me the Sydney one' -> USYD
+  ok    'and the UTS one?' -> UTS
+  ok    'what about at USyd' -> USYD
+  ok    'the University of Technology Sydney vers' -> UTS
+  ok    'at the University of Sydney' -> USYD
+  ok    'how is the unit structure different?' -> None
+  ok    'and the other one?' -> None
+  ok    "I'm deciding between Sydney and UTS" -> None
+  ok    an institution the model did extract is left alone
+  ok    no account of the student changes the repair
+  ok    the repair runs after a comparison
+  ok    and is reported on the trace
+  ok    it does not run on a first request
+  ok    and reports nothing when it did nothing
+
+what reaches the engine
+  ok    a key the model supplied is replaced by the resolved one
+  ok    and the substitution is recorded, not silent
+  ok    an institution the model supplied is replaced too
+  ok    a call that already agrees records no override
+  ok    a key the dataset never resolved does not reach the engine
+  ok    and the refusal says which argument was missing
+  ok    an invented failed unit is replaced by the resolved one
+  ok    the exchange asks instead of answering
+  ok    no engine result was produced
+  ok    and the question names what is missing
+
+plan descriptions
+  ok    resolves: Mechatronic with the Robotics and Intelligent Sy
+  ok    resolves: Mechatronic at Sydney with the Robotics and Inte
+  ok    resolves: Mechatronic Robotics and Intelligent Systems
+  ok    every phrasing reaches the same plan
+  ok    still ambiguous, correctly: 'Mechatronic'
+  ok    still ambiguous, correctly: 'civil'
+  ok    still ambiguous, correctly: 'my software degree'
+
+grounding
+  ok    a clean reply passes
+  ok    an invented unit code is caught
+  ok    an invented figure is caught
+  ok    an invented email is caught
+  ok    an invented url is caught
+  ok    an invented phone number is caught
+  ok    a quoted source url is not flagged
+  ok    small integers in prose are not flagged
+  ok    a quoted figure is not flagged
+  ok    an invented figure spelled out is caught
+  ok    a spelled-out figure the engine did produce is not flagged
+  ok    a spelled-out figure the engine did not produce still is
+  ok    spelled-out small numbers stay unflagged
+  ok    twenty-two reads as 22
+  ok    a hyphen is not required
+  ok    a teen is read as itself
+  ok    nothing below ten is reported
+  ok    a hundreds run is one figure
+  ok    and reads the same without the and
+  ok    words in separate phrases stay separate figures
+  ok    an ordinary and does not join two figures
+  ok    the transcript's fabricated comparison is now flagged
+  ok    and the figure the engine did give passes
+
+full exchange
+  ok    a good exchange reaches an answer
+  ok    the engine result is carried through
+  ok    the reply is grounded
+  ok    a bad tool call stops before the engine
+  ok    no engine result is produced
+  ok    a settled request never asks the model which function to call
+  ok    and the model's attempt to call something else is not reached
+  ok    a failed intake stops before the tool step
+  ok    no tool call is attempted
+  ok    an engine refusal is reported as a refusal
+  ok    the refusal carries a reason
+
+persona independence
+  ok    a stated failure makes it a repair, not a validity check
+  ok    the correction is recorded rather than hidden
+  ok    an intent the model already had right is left alone
+  ok    a plan request with no failure stays a plan request
+  ok    two degrees named makes it a comparison
+  ok    a bare unit question becomes a lookup
+  ok    a degree named with its university still resolves
+  ok    it resolves to the same plan as the bare name
+  ok    trimming has not made a real ambiguity resolve
+  ok    a comparison resolves both keys without the model
+  ok    the Sydney side is a Sydney plan
+  ok    the UTS side is a UTS plan
+  ok    a comparison naming no degree asks rather than guessing
+  ok    a student's account of themselves selects no degree
+  ok    four personas reach one comparison call
+  ok    the comparison was resolved in code, not chosen by the model
+
+146 passed, 0 failed

@@ -1,0 +1,7038 @@
+{
+ "AERO1560": {
+  "prohibition_codes": [
+   "ENGG1800",
+   "MECH1560",
+   "MTRX1701",
+   "CIVL1900",
+   "CHNG1108",
+   "BMET1960",
+   "ENGG1960",
+   "ELEC1004",
+   "ELEC1005",
+   "ENVE1001"
+  ],
+  "source_table": "Faculty core"
+ },
+ "AERO5750": {
+  "prerequisite_groups": [
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260"
+   ],
+   [
+    "AERO3360",
+    "AERO8360",
+    "AERO9360"
+   ],
+   [
+    "AERO2460",
+    "AERO3460",
+    "AERO8460",
+    "AERO9460"
+   ],
+   [
+    "AERO3560",
+    "AERO8560",
+    "AERO9560"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "AERO3260",
+     "kind": "subject",
+     "printed_as": "AERO3260"
+    },
+    {
+     "code": "AERO8260",
+     "kind": "subject",
+     "printed_as": "AERO8260"
+    },
+    {
+     "code": "AERO9260",
+     "kind": "subject",
+     "printed_as": "AERO9260"
+    }
+   ],
+   [
+    {
+     "code": "AERO3360",
+     "kind": "subject",
+     "printed_as": "AERO3360"
+    },
+    {
+     "code": "AERO8360",
+     "kind": "subject",
+     "printed_as": "AERO8360"
+    },
+    {
+     "code": "AERO9360",
+     "kind": "subject",
+     "printed_as": "AERO9360"
+    }
+   ],
+   [
+    {
+     "code": "AERO2460",
+     "kind": "subject",
+     "printed_as": "AERO2460"
+    },
+    {
+     "code": "AERO3460",
+     "kind": "subject",
+     "printed_as": "AERO3460"
+    },
+    {
+     "code": "AERO8460",
+     "kind": "subject",
+     "printed_as": "AERO8460"
+    },
+    {
+     "code": "AERO9460",
+     "kind": "subject",
+     "printed_as": "AERO9460"
+    }
+   ],
+   [
+    {
+     "code": "AERO3560",
+     "kind": "subject",
+     "printed_as": "AERO3560"
+    },
+    {
+     "code": "AERO8560",
+     "kind": "subject",
+     "printed_as": "AERO8560"
+    },
+    {
+     "code": "AERO9560",
+     "kind": "subject",
+     "printed_as": "AERO9560"
+    }
+   ]
+  ],
+  "source_table": "Mechanical"
+ },
+ "AMME1362": {
+  "prohibition_codes": [
+   "CIVL2110",
+   "CIVL1110",
+   "AMME2302"
+  ],
+  "source_table": "Mechatronic"
+ },
+ "AMME1705": {
+  "prohibition_codes": [
+   "AMME2700"
+  ],
+  "source_table": "Mechatronic"
+ },
+ "AMME1802": {
+  "prohibition_codes": [
+   "CIVL1802",
+   "ENGG1802"
+  ],
+  "source_table": "Mechatronic"
+ },
+ "AMME2000": {
+  "prerequisite_groups": [
+   [
+    "ENGG1801",
+    "ENGG1810",
+    "INFO1110",
+    "INFO1910",
+    "DATA1002",
+    "DATA1902"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MATH1061",
+     "kind": "subject",
+     "printed_as": "MATH1X61"
+    },
+    {
+     "code": "MATH1961",
+     "kind": "subject",
+     "printed_as": "MATH1X61"
+    },
+    {
+     "code": "MATH1971",
+     "kind": "subject",
+     "printed_as": "MATH1971"
+    },
+    {
+     "kind": "other",
+     "mentions": [
+      "MATH1931"
+     ],
+     "text": "[(MATH1X21,MATH1931)(MATH1X02)]"
+    }
+   ],
+   [
+    {
+     "code": "MATH1062",
+     "kind": "subject",
+     "printed_as": "MATH1X62"
+    },
+    {
+     "code": "MATH1962",
+     "kind": "subject",
+     "printed_as": "MATH1X62"
+    },
+    {
+     "code": "MATH1972",
+     "kind": "subject",
+     "printed_as": "MATH1972"
+    },
+    {
+     "kind": "other",
+     "reason": "unresolved_wildcard",
+     "text": "MATH1X23"
+    },
+    {
+     "code": "MATH1933",
+     "kind": "subject",
+     "printed_as": "MATH1933"
+    }
+   ],
+   [
+    {
+     "code": "ENGG1801",
+     "kind": "subject",
+     "printed_as": "ENGG1801"
+    },
+    {
+     "code": "ENGG1810",
+     "kind": "subject",
+     "printed_as": "ENGG1810"
+    },
+    {
+     "code": "INFO1110",
+     "kind": "subject",
+     "printed_as": "INFO1X10"
+    },
+    {
+     "code": "INFO1910",
+     "kind": "subject",
+     "printed_as": "INFO1X10"
+    },
+    {
+     "code": "DATA1002",
+     "kind": "subject",
+     "printed_as": "DATA1X02"
+    },
+    {
+     "code": "DATA1902",
+     "kind": "subject",
+     "printed_as": "DATA1X02"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "BMET2960"
+  ],
+  "source_table": "Mechatronic"
+ },
+ "AMME2200": {
+  "prohibition_codes": [
+   "AMME2261",
+   "AMME2262"
+  ],
+  "source_table": "Mechatronic"
+ },
+ "AMME2261": {
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MATH1061",
+     "kind": "subject",
+     "printed_as": "MATH1X61"
+    },
+    {
+     "code": "MATH1961",
+     "kind": "subject",
+     "printed_as": "MATH1X61"
+    },
+    {
+     "code": "MATH1971",
+     "kind": "subject",
+     "printed_as": "MATH1971"
+    },
+    {
+     "kind": "other",
+     "mentions": [
+      "MATH1931"
+     ],
+     "text": "[(MATH1X21,MATH1931)(MATH1X02)]"
+    }
+   ],
+   [
+    {
+     "code": "MATH1062",
+     "kind": "subject",
+     "printed_as": "MATH1X62"
+    },
+    {
+     "code": "MATH1962",
+     "kind": "subject",
+     "printed_as": "MATH1X62"
+    },
+    {
+     "code": "MATH1972",
+     "kind": "subject",
+     "printed_as": "MATH1972"
+    },
+    {
+     "kind": "other",
+     "reason": "unresolved_wildcard",
+     "text": "MATH1X23"
+    },
+    {
+     "code": "MATH1933",
+     "kind": "subject",
+     "printed_as": "MATH1933"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AMME2200"
+  ],
+  "source_table": "Mechanical"
+ },
+ "AMME2262": {
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MATH1061",
+     "kind": "subject",
+     "printed_as": "MATH1X61"
+    },
+    {
+     "code": "MATH1961",
+     "kind": "subject",
+     "printed_as": "MATH1X61"
+    },
+    {
+     "code": "MATH1971",
+     "kind": "subject",
+     "printed_as": "MATH1971"
+    },
+    {
+     "kind": "other",
+     "mentions": [
+      "MATH1931"
+     ],
+     "text": "[(MATH1X21,MATH1931)(MATH1X02)]"
+    }
+   ],
+   [
+    {
+     "code": "MATH1062",
+     "kind": "subject",
+     "printed_as": "MATH1X62"
+    },
+    {
+     "code": "MATH1962",
+     "kind": "subject",
+     "printed_as": "MATH1X62"
+    },
+    {
+     "code": "MATH1972",
+     "kind": "subject",
+     "printed_as": "MATH1972"
+    },
+    {
+     "kind": "other",
+     "reason": "unresolved_wildcard",
+     "text": "MATH1X23"
+    },
+    {
+     "code": "MATH1933",
+     "kind": "subject",
+     "printed_as": "MATH1933"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AMME2200"
+  ],
+  "source_table": "Mechanical"
+ },
+ "AMME2301": {
+  "prerequisite_groups": [
+   [
+    "AMME1802",
+    "ENGG1802"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "AMME1802",
+     "kind": "subject",
+     "printed_as": "AMME1802"
+    },
+    {
+     "code": "ENGG1802",
+     "kind": "subject",
+     "printed_as": "ENGG1802"
+    }
+   ],
+   [
+    {
+     "code": "MATH1061",
+     "kind": "subject",
+     "printed_as": "MATH1X61"
+    },
+    {
+     "code": "MATH1961",
+     "kind": "subject",
+     "printed_as": "MATH1X61"
+    },
+    {
+     "code": "MATH1971",
+     "kind": "subject",
+     "printed_as": "MATH1971"
+    },
+    {
+     "kind": "other",
+     "mentions": [
+      "MATH1931"
+     ],
+     "text": "[(MATH1X21,MATH1931)(MATH1X02)]"
+    }
+   ],
+   [
+    {
+     "code": "MATH1062",
+     "kind": "subject",
+     "printed_as": "MATH1X62"
+    },
+    {
+     "code": "MATH1962",
+     "kind": "subject",
+     "printed_as": "MATH1X62"
+    },
+    {
+     "code": "MATH1972",
+     "kind": "subject",
+     "printed_as": "MATH1972"
+    },
+    {
+     "kind": "other",
+     "reason": "unresolved_wildcard",
+     "text": "MATH1X23"
+    },
+    {
+     "code": "MATH1933",
+     "kind": "subject",
+     "printed_as": "MATH1933"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "CIVL2201"
+  ],
+  "source_table": "Mechatronic"
+ },
+ "AMME2500": {
+  "prerequisite_groups": [
+   [
+    "AMME1802",
+    "ENGG1802"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MATH1061",
+     "kind": "subject",
+     "printed_as": "MATH1X61"
+    },
+    {
+     "code": "MATH1961",
+     "kind": "subject",
+     "printed_as": "MATH1X61"
+    },
+    {
+     "code": "MATH1971",
+     "kind": "subject",
+     "printed_as": "MATH1971"
+    },
+    {
+     "kind": "other",
+     "mentions": [
+      "MATH1931"
+     ],
+     "text": "[(MATH1X21,MATH1931)(MATH1X02)]"
+    }
+   ],
+   [
+    {
+     "code": "MATH1062",
+     "kind": "subject",
+     "printed_as": "MATH1X62"
+    },
+    {
+     "code": "MATH1962",
+     "kind": "subject",
+     "printed_as": "MATH1X62"
+    },
+    {
+     "code": "MATH1972",
+     "kind": "subject",
+     "printed_as": "MATH1972"
+    },
+    {
+     "kind": "other",
+     "reason": "unresolved_wildcard",
+     "text": "MATH1X23"
+    },
+    {
+     "code": "MATH1933",
+     "kind": "subject",
+     "printed_as": "MATH1933"
+    }
+   ],
+   [
+    {
+     "code": "AMME1802",
+     "kind": "subject",
+     "printed_as": "AMME1802"
+    },
+    {
+     "code": "ENGG1802",
+     "kind": "subject",
+     "printed_as": "ENGG1802"
+    }
+   ]
+  ],
+  "source_table": "Mechatronic"
+ },
+ "AMME3060": {
+  "prerequisite_groups": [
+   [
+    "AMME2000",
+    "MATH2021",
+    "MATH2061",
+    "MATH2067"
+   ],
+   [
+    "AMME2000",
+    "MATH2021",
+    "MATH2065",
+    "MATH2067"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "AMME2000",
+     "kind": "subject",
+     "printed_as": "AMME2000"
+    },
+    {
+     "code": "MATH2067",
+     "kind": "subject",
+     "printed_as": "MATH2067"
+    },
+    {
+     "kind": "other",
+     "mentions": [
+      "MATH2061",
+      "MATH2065"
+     ],
+     "text": "[(MATH2061)(MATH2065)]"
+    },
+    {
+     "code": "MATH2021",
+     "kind": "subject",
+     "printed_as": "MATH2021"
+    }
+   ]
+  ],
+  "source_table": "Mechanical"
+ },
+ "AMME3500": {
+  "prerequisite_groups": [
+   [
+    "AMME2000"
+   ],
+   [
+    "AMME2500"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "AMME2000",
+     "kind": "subject",
+     "printed_as": "AMME2000"
+    }
+   ],
+   [
+    {
+     "code": "AMME2500",
+     "kind": "subject",
+     "printed_as": "AMME2500"
+    }
+   ]
+  ],
+  "source_table": "Mechatronic"
+ },
+ "AMME4010": {
+  "also_listed_on": [
+   {
+    "record": {
+     "credit_point_requirement": {
+      "min_credit_points": 36,
+      "min_level": 3000,
+      "source_text": "WAM 70%; 36cp of any 3000-level or higher Engineering units"
+     },
+     "credit_point_requirements": [
+      {
+       "min_credit_points": 36,
+       "min_level": 3000,
+       "source_text": "WAM 70%; 36cp of any 3000-level or higher Engineering units"
+      }
+     ],
+     "prohibition_codes": [
+      "AMME4111",
+      "AMME4112",
+      "ENGG4000",
+      "MECH4601"
+     ]
+    },
+    "table": "Faculty core"
+   }
+  ],
+  "credit_point_requirement": {
+   "min_credit_points": 36,
+   "min_level": 3000,
+   "source_text": "36cp of 3000-level or higher Engineering"
+  },
+  "credit_point_requirements": [
+   {
+    "min_credit_points": 36,
+    "min_level": 3000,
+    "source_text": "36cp of 3000-level or higher Engineering"
+   }
+  ],
+  "prohibition_codes": [
+   "AMME4111",
+   "AMME4112",
+   "ENGG4000",
+   "MECH4601"
+  ],
+  "source_table": "Mechatronic",
+  "unverifiable_requirements": [
+   "WAM 70%"
+  ]
+ },
+ "AMME4060": {
+  "prerequisite_groups": [
+   [
+    "AMME3060"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "AMME3060",
+     "kind": "subject",
+     "printed_as": "AMME3060"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AMME5060"
+  ],
+  "source_table": "Mechanical"
+ },
+ "AMME4111": {
+  "credit_point_requirement": {
+   "min_credit_points": 36,
+   "min_level": 3000,
+   "source_text": "36cp of any 3000-level or higher Engineering units"
+  },
+  "credit_point_requirements": [
+   {
+    "min_credit_points": 36,
+    "min_level": 3000,
+    "source_text": "36cp of any 3000-level or higher Engineering units"
+   }
+  ],
+  "prohibition_codes": [
+   "AMME4010",
+   "AMME4122",
+   "AMME4121",
+   "BMET4111",
+   "BMET4112",
+   "BMET4010"
+  ],
+  "source_table": "Faculty core"
+ },
+ "AMME4112": {
+  "prerequisite_groups": [
+   [
+    "AMME4111"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "AMME4111",
+     "kind": "subject",
+     "printed_as": "AMME4111"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AMME4121",
+   "AMME4122",
+   "AMME4010",
+   "BMET4111",
+   "BMET4112",
+   "BMET4010"
+  ],
+  "source_table": "Faculty core"
+ },
+ "AMME4401": {
+  "prerequisite_groups": [
+   [
+    "MECH3460",
+    "MTRX3700",
+    "AERO2460",
+    "AERO3460",
+    "BMET3921"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MECH3460",
+     "kind": "subject",
+     "printed_as": "MECH3460"
+    },
+    {
+     "code": "MTRX3700",
+     "kind": "subject",
+     "printed_as": "MTRX3700"
+    },
+    {
+     "code": "AERO2460",
+     "kind": "subject",
+     "printed_as": "AERO2460"
+    },
+    {
+     "code": "AERO3460",
+     "kind": "subject",
+     "printed_as": "AERO3460"
+    },
+    {
+     "code": "BMET3921",
+     "kind": "subject",
+     "printed_as": "BMET3921"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AMME9401"
+  ],
+  "source_table": "Mechanical"
+ },
+ "AMME4912": {
+  "prerequisite_groups": [
+   [
+    "MECH2400"
+   ],
+   [
+    "AMME2301"
+   ],
+   [
+    "MECH3460"
+   ],
+   [
+    "MECH3361"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MECH2400",
+     "kind": "subject",
+     "printed_as": "MECH2400"
+    }
+   ],
+   [
+    {
+     "code": "AMME2301",
+     "kind": "subject",
+     "printed_as": "AMME2301"
+    }
+   ],
+   [
+    {
+     "code": "MECH3460",
+     "kind": "subject",
+     "printed_as": "MECH3460"
+    }
+   ],
+   [
+    {
+     "code": "MECH3361",
+     "kind": "subject",
+     "printed_as": "MECH3361"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AMME5912"
+  ],
+  "source_table": "Mechanical"
+ },
+ "AMME5101": {
+  "prerequisite_groups": [
+   [
+    "MECH3260",
+    "MECH8260",
+    "MECH9260",
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "CHNG2803"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MECH3260",
+     "kind": "subject",
+     "printed_as": "MECH3260"
+    },
+    {
+     "code": "MECH8260",
+     "kind": "subject",
+     "printed_as": "MECH8260"
+    },
+    {
+     "code": "MECH9260",
+     "kind": "subject",
+     "printed_as": "MECH9260"
+    },
+    {
+     "code": "AERO3261",
+     "kind": "subject",
+     "printed_as": "AERO3261"
+    },
+    {
+     "code": "AERO8261",
+     "kind": "subject",
+     "printed_as": "AERO8261"
+    },
+    {
+     "code": "AERO9261",
+     "kind": "subject",
+     "printed_as": "AERO9261"
+    },
+    {
+     "code": "CHNG2803",
+     "kind": "subject",
+     "printed_as": "CHNG2803"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AMME8101"
+  ],
+  "source_table": "Mechanical"
+ },
+ "AMME5104": {
+  "prerequisite_groups": [
+   [
+    "ENGG5103"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "ENGG5103",
+     "kind": "subject",
+     "printed_as": "ENGG5103"
+    }
+   ]
+  ],
+  "source_table": "Mechanical",
+  "unverifiable_requirements": [
+   "knowledge of basic safety systems"
+  ]
+ },
+ "AMME5105": {
+  "source_table": "Mechanical"
+ },
+ "AMME5202": {
+  "prerequisite_groups": [
+   [
+    "AMME2000",
+    "ENGG5202",
+    "MECH8261"
+   ],
+   [
+    "AERO3260",
+    "AMME2000",
+    "ENGG5202",
+    "MECH8261"
+   ],
+   [
+    "AMME2000",
+    "ENGG5202",
+    "MECH3261",
+    "MECH8261"
+   ],
+   [
+    "AERO3260",
+    "ENGG5202",
+    "MECH3261",
+    "MECH8261"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "kind": "other",
+     "mentions": [
+      "AMME2000",
+      "MECH3261"
+     ],
+     "text": "[(AMME2000)(MECH3261)]"
+    },
+    {
+     "kind": "other",
+     "mentions": [
+      "AERO3260",
+      "AMME2000"
+     ],
+     "text": "[(AMME2000)(AERO3260)]"
+    },
+    {
+     "code": "ENGG5202",
+     "kind": "subject",
+     "printed_as": "ENGG5202"
+    },
+    {
+     "code": "MECH8261",
+     "kind": "subject",
+     "printed_as": "MECH8261"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AMME8202"
+  ],
+  "source_table": "Mechanical"
+ },
+ "AMME5271": {
+  "source_table": "Mechanical"
+ },
+ "AMME5292": {
+  "prerequisite_groups": [
+   [
+    "MECH3261",
+    "MECH8261",
+    "MECH9261",
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "CIVL3612",
+    "CIVL9612"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MECH3261",
+     "kind": "subject",
+     "printed_as": "MECH3261"
+    },
+    {
+     "code": "MECH8261",
+     "kind": "subject",
+     "printed_as": "MECH8261"
+    },
+    {
+     "code": "MECH9261",
+     "kind": "subject",
+     "printed_as": "MECH9261"
+    },
+    {
+     "code": "AERO3260",
+     "kind": "subject",
+     "printed_as": "AERO3260"
+    },
+    {
+     "code": "AERO8260",
+     "kind": "subject",
+     "printed_as": "AERO8260"
+    },
+    {
+     "code": "AERO9260",
+     "kind": "subject",
+     "printed_as": "AERO9260"
+    },
+    {
+     "code": "CIVL3612",
+     "kind": "subject",
+     "printed_as": "CIVL3612"
+    },
+    {
+     "code": "CIVL9612",
+     "kind": "subject",
+     "printed_as": "CIVL9612"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AMME6292"
+  ],
+  "source_table": "Mechanical"
+ },
+ "AMME5310": {
+  "source_table": "Mechanical"
+ },
+ "AMME5510": {
+  "prerequisite_groups": [
+   [
+    "AMME2301",
+    "AMME9301"
+   ],
+   [
+    "AMME2200",
+    "AMME2261",
+    "AMME9261"
+   ],
+   [
+    "AMME2500",
+    "AMME9500"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "AMME2301",
+     "kind": "subject",
+     "printed_as": "AMME2301"
+    },
+    {
+     "code": "AMME9301",
+     "kind": "subject",
+     "printed_as": "AMME9301"
+    }
+   ],
+   [
+    {
+     "code": "AMME2200",
+     "kind": "subject",
+     "printed_as": "AMME2200"
+    },
+    {
+     "code": "AMME2261",
+     "kind": "subject",
+     "printed_as": "AMME2261"
+    },
+    {
+     "code": "AMME9261",
+     "kind": "subject",
+     "printed_as": "AMME9261"
+    }
+   ],
+   [
+    {
+     "code": "AMME2500",
+     "kind": "subject",
+     "printed_as": "AMME2500"
+    },
+    {
+     "code": "AMME9500",
+     "kind": "subject",
+     "printed_as": "AMME9500"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AMME8510"
+  ],
+  "source_table": "Mechanical"
+ },
+ "AMME5520": {
+  "prerequisite_groups": [
+   [
+    "AMME3500",
+    "ELEC3304",
+    "AMME9501",
+    "AMME8501"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "AMME3500",
+     "kind": "subject",
+     "printed_as": "AMME3500"
+    },
+    {
+     "code": "ELEC3304",
+     "kind": "subject",
+     "printed_as": "ELEC3304"
+    },
+    {
+     "code": "AMME9501",
+     "kind": "subject",
+     "printed_as": "AMME9501"
+    },
+    {
+     "code": "AMME8501",
+     "kind": "subject",
+     "printed_as": "AMME8501"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AMME8520"
+  ],
+  "source_table": "Mechatronic"
+ },
+ "AMME5710": {
+  "prohibition_codes": [
+   "AMME4710"
+  ],
+  "source_table": "Mechatronic"
+ },
+ "AMME5902": {
+  "prerequisite_groups": [
+   [
+    "MECH2400",
+    "MECH9400"
+   ],
+   [
+    "MECH2460",
+    "MECH3660",
+    "MECH8660",
+    "MECH9660"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MECH2400",
+     "kind": "subject",
+     "printed_as": "MECH2400"
+    },
+    {
+     "code": "MECH9400",
+     "kind": "subject",
+     "printed_as": "MECH9400"
+    }
+   ],
+   [
+    {
+     "code": "MECH2460",
+     "kind": "subject",
+     "printed_as": "MECH2460"
+    },
+    {
+     "code": "MECH3660",
+     "kind": "subject",
+     "printed_as": "MECH3660"
+    },
+    {
+     "code": "MECH8660",
+     "kind": "subject",
+     "printed_as": "MECH8660"
+    },
+    {
+     "code": "MECH9660",
+     "kind": "subject",
+     "printed_as": "MECH9660"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AMME6902"
+  ],
+  "source_table": "Mechanical"
+ },
+ "BMET1960": {
+  "prohibition_codes": [
+   "ENGG1960",
+   "ENGG1800",
+   "CIVL1900",
+   "CHNG1108",
+   "MECH1560",
+   "AERO1560",
+   "MTRX1701",
+   "AMME1960",
+   "ELEC1004",
+   "ELEC1005",
+   "ENVE1001"
+  ],
+  "source_table": "Faculty core"
+ },
+ "BMET1961": {
+  "prohibition_codes": [
+   "AMME1961"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET2400": {
+  "prohibition_codes": [
+   "MECH2400",
+   "BMET9400"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET2901": {
+  "credit_point_requirement": {
+   "min_credit_points": 6,
+   "min_level": 1000,
+   "source_text": "6cp 1000-level Chemistry"
+  },
+  "credit_point_requirements": [
+   {
+    "min_credit_points": 6,
+    "min_level": 1000,
+    "source_text": "6cp 1000-level Chemistry"
+   }
+  ],
+  "prerequisite_groups": [
+   [
+    "BMET1961"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "BMET1961",
+     "kind": "subject",
+     "printed_as": "BMET1961"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "MECH2901"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET2902": {
+  "credit_point_requirement": {
+   "min_credit_points": 12,
+   "min_level": 1000,
+   "prefix": "MATH",
+   "source_text": "12cp of 1000-level MATH units"
+  },
+  "credit_point_requirements": [
+   {
+    "min_credit_points": 12,
+    "min_level": 1000,
+    "prefix": "MATH",
+    "source_text": "12cp of 1000-level MATH units"
+   }
+  ],
+  "prohibition_codes": [
+   "ELEC1103",
+   "ELEC2100"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET2903": {
+  "credit_point_requirement": {
+   "min_credit_points": 12,
+   "min_level": 1000,
+   "prefix": "MATH",
+   "source_text": "12cp of 1000-level MATH units"
+  },
+  "credit_point_requirements": [
+   {
+    "min_credit_points": 12,
+    "min_level": 1000,
+    "prefix": "MATH",
+    "source_text": "12cp of 1000-level MATH units"
+   }
+  ],
+  "prohibition_codes": [
+   "BMET9903"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET2922": {
+  "prohibition_codes": [
+   "BMET9922"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET2925": {
+  "prohibition_codes": [
+   "BMET9925"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET2960": {
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MATH1061",
+     "kind": "subject",
+     "printed_as": "MATH1X61"
+    },
+    {
+     "code": "MATH1961",
+     "kind": "subject",
+     "printed_as": "MATH1X61"
+    },
+    {
+     "code": "MATH1971",
+     "kind": "subject",
+     "printed_as": "MATH1971"
+    },
+    {
+     "kind": "other",
+     "mentions": [
+      "MATH1931"
+     ],
+     "text": "[(MATH1X21,MATH1931)(MATH1X02)]"
+    }
+   ],
+   [
+    {
+     "code": "MATH1062",
+     "kind": "subject",
+     "printed_as": "MATH1X62"
+    },
+    {
+     "code": "MATH1962",
+     "kind": "subject",
+     "printed_as": "MATH1X62"
+    },
+    {
+     "code": "MATH1972",
+     "kind": "subject",
+     "printed_as": "MATH1972"
+    },
+    {
+     "kind": "other",
+     "reason": "unresolved_wildcard",
+     "text": "MATH1X23"
+    },
+    {
+     "code": "MATH1933",
+     "kind": "subject",
+     "printed_as": "MATH1933"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AMME2000",
+   "AMME2960",
+   "BMET9960"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET3660": {
+  "credit_point_requirement": {
+   "min_credit_points": 84,
+   "source_text": "84cp completed"
+  },
+  "credit_point_requirements": [
+   {
+    "min_credit_points": 84,
+    "source_text": "84cp completed"
+   }
+  ],
+  "prohibition_codes": [
+   "MECH3660",
+   "AMME3660",
+   "BMET9660"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET3802": {
+  "prerequisite_groups": [
+   [
+    "BMET2902",
+    "ELEC1103"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "BMET2902",
+     "kind": "subject",
+     "printed_as": "BMET2902"
+    },
+    {
+     "code": "ELEC1103",
+     "kind": "subject",
+     "printed_as": "ELEC1103"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "ELEC3802",
+   "ELEC8882",
+   "BMET9802"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET3921": {
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MECH2901",
+     "kind": "subject",
+     "printed_as": "MECH2901"
+    },
+    {
+     "code": "BMET2901",
+     "kind": "subject",
+     "printed_as": "BMET2901"
+    },
+    {
+     "kind": "other",
+     "reason": "level_wildcard",
+     "text": "MEDS2XXX"
+    },
+    {
+     "kind": "other",
+     "reason": "unresolved_wildcard",
+     "text": "PHSI2X07"
+    },
+    {
+     "code": "BDSN2001",
+     "kind": "subject",
+     "printed_as": "BDSN2001"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AMME5921",
+   "BMET5921",
+   "MECH3921",
+   "BMET9921"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET3961": {
+  "prerequisite_groups": [
+   [
+    "AMME2302",
+    "AMME1362",
+    "CIVL1110"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "AMME2302",
+     "kind": "subject",
+     "printed_as": "AMME2302"
+    },
+    {
+     "code": "AMME1362",
+     "kind": "subject",
+     "printed_as": "AMME1362"
+    },
+    {
+     "code": "CIVL1110",
+     "kind": "subject",
+     "printed_as": "CIVL1110"
+    }
+   ],
+   [
+    {
+     "code": "BMET2901",
+     "kind": "subject",
+     "printed_as": "BMET2901"
+    },
+    {
+     "code": "MEDS1002",
+     "kind": "subject",
+     "printed_as": "MEDS1002"
+    },
+    {
+     "kind": "other",
+     "reason": "level_wildcard",
+     "text": "MEDS2XXX"
+    },
+    {
+     "kind": "other",
+     "reason": "level_wildcard",
+     "text": "ANAT2XXX"
+    },
+    {
+     "kind": "other",
+     "reason": "level_wildcard",
+     "text": "PHSI2XXX"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "MECH4961",
+   "BMET4961",
+   "AMME9961",
+   "BMET9961"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET3962": {
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "BMET2901",
+     "kind": "subject",
+     "printed_as": "BMET2901"
+    },
+    {
+     "code": "MEDS1002",
+     "kind": "subject",
+     "printed_as": "MEDS1002"
+    },
+    {
+     "kind": "other",
+     "reason": "level_wildcard",
+     "text": "MEDS2XXX"
+    },
+    {
+     "kind": "other",
+     "reason": "level_wildcard",
+     "text": "ANAT2XXX"
+    },
+    {
+     "kind": "other",
+     "reason": "level_wildcard",
+     "text": "PHSI2XXX"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AMME5962",
+   "BMET5962",
+   "BMET9962"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET3971": {
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "BMET2901",
+     "kind": "subject",
+     "printed_as": "BMET2901"
+    },
+    {
+     "code": "MEDS1002",
+     "kind": "subject",
+     "printed_as": "MEDS1002"
+    },
+    {
+     "kind": "other",
+     "reason": "level_wildcard",
+     "text": "MEDS2XXX"
+    },
+    {
+     "kind": "other",
+     "reason": "level_wildcard",
+     "text": "ANAT2XXX"
+    },
+    {
+     "kind": "other",
+     "reason": "level_wildcard",
+     "text": "PHSI2XXX"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AMME4971",
+   "BMET4971",
+   "AMME9971",
+   "BMET9971"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET3990": {
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "BMET2901",
+     "kind": "subject",
+     "printed_as": "BMET2901"
+    },
+    {
+     "code": "MEDS1002",
+     "kind": "subject",
+     "printed_as": "MEDS1002"
+    },
+    {
+     "kind": "other",
+     "reason": "level_wildcard",
+     "text": "MEDS2XXX"
+    },
+    {
+     "kind": "other",
+     "reason": "level_wildcard",
+     "text": "ANAT2XXX"
+    },
+    {
+     "kind": "other",
+     "reason": "level_wildcard",
+     "text": "PHSI2XXX"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AMME4990",
+   "BMET4990",
+   "AMME9990",
+   "BMET9990"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET3997": {
+  "prerequisite_groups": [
+   [
+    "ENGG1810",
+    "INFO1110",
+    "INFO1910"
+   ],
+   [
+    "BMET2922"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "ENGG1810",
+     "kind": "subject",
+     "printed_as": "ENGG1810"
+    },
+    {
+     "code": "INFO1110",
+     "kind": "subject",
+     "printed_as": "INFO1110"
+    },
+    {
+     "code": "INFO1910",
+     "kind": "subject",
+     "printed_as": "INFO1910"
+    }
+   ],
+   [
+    {
+     "code": "BMET2922",
+     "kind": "subject",
+     "printed_as": "BMET2922"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "BMET9997"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET4010": {
+  "also_listed_on": [
+   {
+    "record": {
+     "credit_point_requirement": {
+      "min_credit_points": 36,
+      "min_level": 3000,
+      "source_text": "36cp of 3000 level units of study; WAM>=70"
+     },
+     "credit_point_requirements": [
+      {
+       "min_credit_points": 36,
+       "min_level": 3000,
+       "source_text": "36cp of 3000 level units of study; WAM>=70"
+      }
+     ],
+     "prohibition_codes": [
+      "BMET4111",
+      "BMET4112",
+      "ENGG4000",
+      "MECH4601",
+      "AMME4111",
+      "AMME4112",
+      "AMME4010"
+     ]
+    },
+    "table": "Faculty core"
+   }
+  ],
+  "credit_point_requirement": {
+   "min_credit_points": 36,
+   "min_level": 3000,
+   "source_text": "36cp of 3000-level units of study"
+  },
+  "credit_point_requirements": [
+   {
+    "min_credit_points": 36,
+    "min_level": 3000,
+    "source_text": "36cp of 3000-level units of study"
+   }
+  ],
+  "prohibition_codes": [
+   "BMET4111",
+   "BMET4112",
+   "ENGG4000",
+   "MECH4601",
+   "AMME4111",
+   "AMME4112",
+   "AMME4010"
+  ],
+  "source_table": "Biomedical",
+  "unverifiable_requirements": [
+   "WAM>=70"
+  ]
+ },
+ "BMET4111": {
+  "credit_point_requirement": {
+   "min_credit_points": 36,
+   "source_text": "36cp of any 3000- or higher level units"
+  },
+  "credit_point_requirements": [
+   {
+    "min_credit_points": 36,
+    "source_text": "36cp of any 3000- or higher level units"
+   }
+  ],
+  "prohibition_codes": [
+   "BMET4010",
+   "AMME4111",
+   "AMME4112",
+   "AMME4010"
+  ],
+  "source_table": "Faculty core"
+ },
+ "BMET4112": {
+  "credit_point_requirement": {
+   "min_credit_points": 36,
+   "source_text": "36cp of any 3000- or higher level units"
+  },
+  "credit_point_requirements": [
+   {
+    "min_credit_points": 36,
+    "source_text": "36cp of any 3000- or higher level units"
+   }
+  ],
+  "prerequisite_groups": [
+   [
+    "BMET4111"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "BMET4111",
+     "kind": "subject",
+     "printed_as": "BMET4111"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "BMET4010",
+   "AMME4111",
+   "AMME4112",
+   "AMME4010"
+  ],
+  "source_table": "Faculty core"
+ },
+ "BMET4790": {
+  "prerequisite_groups": [
+   [
+    "MECH3921",
+    "BMET3921",
+    "MTRX3700",
+    "MTRX3760",
+    "AMME5921",
+    "BMET5921"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MECH3921",
+     "kind": "subject",
+     "printed_as": "MECH3921"
+    },
+    {
+     "code": "BMET3921",
+     "kind": "subject",
+     "printed_as": "BMET3921"
+    },
+    {
+     "code": "MTRX3700",
+     "kind": "subject",
+     "printed_as": "MTRX3700"
+    },
+    {
+     "code": "MTRX3760",
+     "kind": "subject",
+     "printed_as": "MTRX3760"
+    },
+    {
+     "code": "AMME5921",
+     "kind": "subject",
+     "printed_as": "AMME5921"
+    },
+    {
+     "code": "BMET5921",
+     "kind": "subject",
+     "printed_as": "BMET5921"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AMME4790",
+   "AMME5790",
+   "BMET5790"
+  ],
+  "source_table": "Mechatronic"
+ },
+ "BMET4981": {
+  "prerequisite_groups": [
+   [
+    "ENGG1802",
+    "AMME1802"
+   ],
+   [
+    "MECH2400",
+    "BMET2400"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "ENGG1802",
+     "kind": "subject",
+     "printed_as": "ENGG1802"
+    },
+    {
+     "code": "AMME1802",
+     "kind": "subject",
+     "printed_as": "AMME1802"
+    }
+   ],
+   [
+    {
+     "code": "MECH2400",
+     "kind": "subject",
+     "printed_as": "MECH2400"
+    },
+    {
+     "code": "BMET2400",
+     "kind": "subject",
+     "printed_as": "BMET2400"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AMME4981",
+   "AMME9981",
+   "BMET9981"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET5790": {
+  "prohibition_codes": [
+   "AMME4790",
+   "AMME5790",
+   "BMET4790"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET5907": {
+  "prohibition_codes": [
+   "MECH4902",
+   "MECH5907"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET5911": {
+  "source_table": "Biomedical"
+ },
+ "BMET5931": {
+  "prohibition_codes": [
+   "AMME5931"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET5933": {
+  "source_table": "Biomedical"
+ },
+ "BMET5934": {
+  "source_table": "Biomedical"
+ },
+ "BMET5935": {
+  "source_table": "Biomedical"
+ },
+ "BMET5944": {
+  "source_table": "Biomedical"
+ },
+ "BMET5953": {
+  "source_table": "Biomedical"
+ },
+ "BMET5957": {
+  "source_table": "Biomedical"
+ },
+ "BMET5958": {
+  "prohibition_codes": [
+   "AMME5958"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET5959": {
+  "source_table": "Biomedical"
+ },
+ "BMET5963": {
+  "source_table": "Biomedical"
+ },
+ "BMET5964": {
+  "source_table": "Biomedical"
+ },
+ "BMET5992": {
+  "prohibition_codes": [
+   "AMME4992",
+   "AMME5992"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET5995": {
+  "prohibition_codes": [
+   "AMME5995",
+   "AMME5951",
+   "BMET5951"
+  ],
+  "source_table": "Biomedical"
+ },
+ "BMET5996": {
+  "source_table": "Biomedical"
+ },
+ "CHEM1111": {
+  "prohibition_codes": [
+   "CHEM1011",
+   "CHEM1911",
+   "CHEM1991",
+   "CHEM1001",
+   "CHEM1101",
+   "CHEM1901",
+   "CHEM1903"
+  ],
+  "source_table": "Biomedical"
+ },
+ "CHEM1911": {
+  "prohibition_codes": [
+   "CHEM1011",
+   "CHEM1111",
+   "CHEM1991",
+   "CHEM1001",
+   "CHEM1101",
+   "CHEM1901",
+   "CHEM1903"
+  ],
+  "source_table": "Biomedical"
+ },
+ "CHEM1991": {
+  "prohibition_codes": [
+   "CHEM1001",
+   "CHEM1101",
+   "CHEM1901",
+   "CHEM1903",
+   "CHEM1109",
+   "CHEM1011",
+   "CHEM1111",
+   "CHEM1911"
+  ],
+  "source_table": "Biomedical"
+ },
+ "CHNG1103": {
+  "source_table": "Environmental"
+ },
+ "CHNG1106": {
+  "corequisite_codes": [
+   "CHNG1103"
+  ],
+  "prohibition_codes": [
+   "CHNG2805"
+  ],
+  "source_table": "Environmental"
+ },
+ "CHNG1108": {
+  "prohibition_codes": [
+   "ENGG1800",
+   "CIVL1900",
+   "MECH1560",
+   "AERO1560",
+   "AMME1960",
+   "BMET1960",
+   "MTRX1701",
+   "ENGG1960",
+   "ELEC1004",
+   "ELEC1005",
+   "ENVE1001"
+  ],
+  "source_table": "Faculty core"
+ },
+ "CHNG2803": {
+  "prerequisite_groups": [
+   [
+    "MATH1062",
+    "MATH1933",
+    "MATH1962",
+    "MATH1972"
+   ],
+   [
+    "BUSS1020",
+    "MATH1062",
+    "MATH1962",
+    "MATH1972"
+   ],
+   [
+    "ENGG1801",
+    "ENGG1810",
+    "INFO1110",
+    "INFO1910"
+   ],
+   [
+    "CHNG1103"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MATH1061",
+     "kind": "subject",
+     "printed_as": "MATH1X61"
+    },
+    {
+     "code": "MATH1961",
+     "kind": "subject",
+     "printed_as": "MATH1X61"
+    },
+    {
+     "code": "MATH1971",
+     "kind": "subject",
+     "printed_as": "MATH1971"
+    },
+    {
+     "kind": "other",
+     "mentions": [
+      "MATH1931"
+     ],
+     "text": "[(MATH1X21,MATH1931)(MATH1X02)]"
+    }
+   ],
+   [
+    {
+     "code": "MATH1062",
+     "kind": "subject",
+     "printed_as": "MATH1X62"
+    },
+    {
+     "code": "MATH1962",
+     "kind": "subject",
+     "printed_as": "MATH1X62"
+    },
+    {
+     "code": "MATH1972",
+     "kind": "subject",
+     "printed_as": "MATH1972"
+    },
+    {
+     "kind": "other",
+     "mentions": [
+      "BUSS1020",
+      "MATH1933"
+     ],
+     "text": "[(MATH1X23,MATH1933)(MATH1X05,BUSS1020)]"
+    }
+   ],
+   [
+    {
+     "code": "ENGG1801",
+     "kind": "subject",
+     "printed_as": "ENGG1801"
+    },
+    {
+     "code": "ENGG1810",
+     "kind": "subject",
+     "printed_as": "ENGG1810"
+    },
+    {
+     "code": "INFO1110",
+     "kind": "subject",
+     "printed_as": "INFO1110"
+    },
+    {
+     "code": "INFO1910",
+     "kind": "subject",
+     "printed_as": "INFO1910"
+    }
+   ],
+   [
+    {
+     "code": "CHNG1103",
+     "kind": "subject",
+     "printed_as": "CHNG1103"
+    }
+   ]
+  ],
+  "source_table": "Environmental"
+ },
+ "CHNG4203": {
+  "also_listed_on": [
+   {
+    "record": {
+     "credit_point_requirement": {
+      "min_credit_points": 144,
+      "source_text": "144cp prior study; >65% WAM"
+     },
+     "credit_point_requirements": [
+      {
+       "min_credit_points": 144,
+       "source_text": "144cp prior study; >65% WAM"
+      }
+     ],
+     "prohibition_codes": [
+      "CHNG4811",
+      "CHNG4812",
+      "ENGG4000",
+      "CHNG4802"
+     ]
+    },
+    "table": "Faculty core"
+   }
+  ],
+  "credit_point_requirement": {
+   "min_credit_points": 144,
+   "source_text": "144cp prior study, >65% WAM"
+  },
+  "credit_point_requirements": [
+   {
+    "min_credit_points": 144,
+    "source_text": "144cp prior study, >65% WAM"
+   }
+  ],
+  "prohibition_codes": [
+   "CHNG4811",
+   "CHNG4812",
+   "ENGG4000",
+   "CHNG4802"
+  ],
+  "source_table": "Environmental"
+ },
+ "CHNG4811": {
+  "prerequisite_groups": [
+   [
+    "CHNG3801"
+   ],
+   [
+    "CHNG3802"
+   ],
+   [
+    "CHNG3803"
+   ],
+   [
+    "CHNG3805"
+   ],
+   [
+    "CHNG3806"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "CHNG3801",
+     "kind": "subject",
+     "printed_as": "CHNG3801"
+    }
+   ],
+   [
+    {
+     "code": "CHNG3802",
+     "kind": "subject",
+     "printed_as": "CHNG3802"
+    }
+   ],
+   [
+    {
+     "code": "CHNG3803",
+     "kind": "subject",
+     "printed_as": "CHNG3803"
+    }
+   ],
+   [
+    {
+     "code": "CHNG3805",
+     "kind": "subject",
+     "printed_as": "CHNG3805"
+    }
+   ],
+   [
+    {
+     "code": "CHNG3806",
+     "kind": "subject",
+     "printed_as": "CHNG3806"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "CHNG4813",
+   "CHNG4814",
+   "CHNG4203"
+  ],
+  "source_table": "Faculty core",
+  "unverifiable_requirements": [
+   "school permission for semester 2"
+  ]
+ },
+ "CHNG4812": {
+  "prerequisite_groups": [
+   [
+    "CHNG4811"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "CHNG4811",
+     "kind": "subject",
+     "printed_as": "CHNG4811"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "CHNG4813",
+   "CHNG4814",
+   "CHNG4203"
+  ],
+  "source_table": "Faculty core",
+  "unverifiable_requirements": [
+   "school permission for semester 1"
+  ]
+ },
+ "CHNG5003": {
+  "prohibition_codes": [
+   "SUCH3003"
+  ],
+  "source_table": "Environmental"
+ },
+ "CHNG5005": {
+  "source_table": "Environmental"
+ },
+ "CHNG5006": {
+  "source_table": "Environmental"
+ },
+ "CHNG5601": {
+  "source_table": "Environmental"
+ },
+ "CHNG5604": {
+  "source_table": "Environmental"
+ },
+ "CIVL1022": {
+  "prohibition_codes": [
+   "GEOL1501",
+   "CIVL9022"
+  ],
+  "source_table": "Civil"
+ },
+ "CIVL1110": {
+  "prohibition_codes": [
+   "AMME1362",
+   "CIVL2110"
+  ],
+  "source_table": "Civil"
+ },
+ "CIVL1802": {
+  "prohibition_codes": [
+   "ENGG1802",
+   "AMME1802"
+  ],
+  "source_table": "Environmental"
+ },
+ "CIVL1810": {
+  "prohibition_codes": [
+   "CIVL2810"
+  ],
+  "source_table": "Civil"
+ },
+ "CIVL1900": {
+  "prohibition_codes": [
+   "ENGG1800",
+   "CHNG1108",
+   "MECH1560",
+   "AERO1560",
+   "AMME1960",
+   "BMET1960",
+   "MTRX1701",
+   "ENGG1960",
+   "ELEC1004",
+   "ELEC1005",
+   "ENVE1001"
+  ],
+  "source_table": "Faculty core"
+ },
+ "CIVL2010": {
+  "prerequisite_groups": [
+   [
+    "MATH1061"
+   ],
+   [
+    "MATH1062"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MATH1061",
+     "kind": "subject",
+     "printed_as": "MATH1061"
+    }
+   ],
+   [
+    {
+     "code": "MATH1062",
+     "kind": "subject",
+     "printed_as": "MATH1062"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "CIVL3010"
+  ],
+  "source_table": "Environmental"
+ },
+ "CIVL2201": {
+  "prerequisite_groups": [
+   [
+    "CIVL1802",
+    "AMME1802",
+    "ENGG1802"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "CIVL1802",
+     "kind": "subject",
+     "printed_as": "CIVL1802"
+    },
+    {
+     "code": "AMME1802",
+     "kind": "subject",
+     "printed_as": "AMME1802"
+    },
+    {
+     "code": "ENGG1802",
+     "kind": "subject",
+     "printed_as": "ENGG1802"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AMME2301"
+  ],
+  "source_table": "Civil"
+ },
+ "CIVL2410": {
+  "prerequisite_groups": [
+   [
+    "CIVL1022",
+    "ENVE1001"
+   ],
+   [
+    "MATH1061"
+   ],
+   [
+    "MATH1062"
+   ],
+   [
+    "ENGG1810"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "CIVL1022",
+     "kind": "subject",
+     "printed_as": "CIVL1022"
+    },
+    {
+     "code": "ENVE1001",
+     "kind": "subject",
+     "printed_as": "ENVE1001"
+    }
+   ],
+   [
+    {
+     "code": "MATH1061",
+     "kind": "subject",
+     "printed_as": "MATH1061"
+    }
+   ],
+   [
+    {
+     "code": "MATH1062",
+     "kind": "subject",
+     "printed_as": "MATH1062"
+    }
+   ],
+   [
+    {
+     "code": "ENGG1810",
+     "kind": "subject",
+     "printed_as": "ENGG1810"
+    }
+   ]
+  ],
+  "source_table": "Environmental"
+ },
+ "CIVL2611": {
+  "source_table": "Civil"
+ },
+ "CIVL2700": {
+  "source_table": "Civil"
+ },
+ "CIVL2812": {
+  "prohibition_codes": [
+   "CIVL3812"
+  ],
+  "source_table": "Civil"
+ },
+ "CIVL3205": {
+  "source_table": "Civil"
+ },
+ "CIVL3206": {
+  "source_table": "Civil"
+ },
+ "CIVL3235": {
+  "prerequisite_groups": [
+   [
+    "CIVL2201"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "CIVL2201",
+     "kind": "subject",
+     "printed_as": "CIVL2201"
+    }
+   ]
+  ],
+  "source_table": "Civil"
+ },
+ "CIVL3310": {
+  "source_table": "Civil"
+ },
+ "CIVL3411": {
+  "source_table": "Environmental"
+ },
+ "CIVL3511": {
+  "source_table": "Civil"
+ },
+ "CIVL3612": {
+  "prerequisite_groups": [
+   [
+    "CIVL2611"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "CIVL2611",
+     "kind": "subject",
+     "printed_as": "CIVL2611"
+    }
+   ]
+  ],
+  "source_table": "Civil"
+ },
+ "CIVL3614": {
+  "prerequisite_groups": [
+   [
+    "CIVL2611",
+    "AMME2261"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "CIVL2611",
+     "kind": "subject",
+     "printed_as": "CIVL2611"
+    },
+    {
+     "code": "AMME2261",
+     "kind": "subject",
+     "printed_as": "AMME2261"
+    }
+   ]
+  ],
+  "source_table": "Environmental"
+ },
+ "CIVL3704": {
+  "source_table": "Civil"
+ },
+ "CIVL3705": {
+  "prohibition_codes": [
+   "CIVL9705"
+  ],
+  "source_table": "Civil"
+ },
+ "CIVL3806": {
+  "credit_point_requirement": {
+   "min_credit_points": 30,
+   "min_level": 2000,
+   "source_text": "30cp of 2000-level units"
+  },
+  "credit_point_requirements": [
+   {
+    "min_credit_points": 30,
+    "min_level": 2000,
+    "source_text": "30cp of 2000-level units"
+   }
+  ],
+  "prohibition_codes": [
+   "PMGT3623"
+  ],
+  "source_table": "Civil"
+ },
+ "CIVL3811": {
+  "prerequisite_groups": [
+   [
+    "CIVL1810",
+    "CIVL2810"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "CIVL1810",
+     "kind": "subject",
+     "printed_as": "CIVL1810"
+    },
+    {
+     "code": "CIVL2810",
+     "kind": "subject",
+     "printed_as": "CIVL2810"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "CIVL4811"
+  ],
+  "source_table": "Civil"
+ },
+ "CIVL4022": {
+  "credit_point_requirement": {
+   "min_credit_points": 72,
+   "source_text": "72cp of Civil Stream Core units; 30cp of any 3000 or higher-level units"
+  },
+  "credit_point_requirements": [
+   {
+    "min_credit_points": 72,
+    "source_text": "72cp of Civil Stream Core units; 30cp of any 3000 or higher-level units"
+   }
+  ],
+  "prohibition_codes": [
+   "CIVL4203"
+  ],
+  "source_table": "Faculty core"
+ },
+ "CIVL4023": {
+  "prerequisite_groups": [
+   [
+    "CIVL4022"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "CIVL4022",
+     "kind": "subject",
+     "printed_as": "CIVL4022"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "CIVL4203"
+  ],
+  "source_table": "Faculty core"
+ },
+ "CIVL4203": {
+  "also_listed_on": [
+   {
+    "record": {
+     "credit_point_requirement": {
+      "min_credit_points": 72,
+      "source_text": "72cp of Civil Stream Core units; 30cp of any 3000 or higher-level units"
+     },
+     "credit_point_requirements": [
+      {
+       "min_credit_points": 72,
+       "source_text": "72cp of Civil Stream Core units; 30cp of any 3000 or higher-level units"
+      }
+     ],
+     "prohibition_codes": [
+      "CIVL4022",
+      "CIVL4023",
+      "ENGG4000"
+     ]
+    },
+    "table": "Faculty core"
+   }
+  ],
+  "credit_point_requirement": {
+   "min_credit_points": 30,
+   "min_level": 3000,
+   "source_text": "30cp of 3000-level or higher units"
+  },
+  "credit_point_requirements": [
+   {
+    "min_credit_points": 72,
+    "source_text": "72cp of Civil Stream Core units"
+   },
+   {
+    "min_credit_points": 30,
+    "min_level": 3000,
+    "source_text": "30cp of 3000-level or higher units"
+   }
+  ],
+  "prohibition_codes": [
+   "CIVL4022",
+   "CIVL4023",
+   "ENGG4000"
+  ],
+  "source_table": "Civil"
+ },
+ "CIVL4814": {
+  "source_table": "Civil"
+ },
+ "CIVL4815": {
+  "source_table": "Civil"
+ },
+ "CIVL4860": {
+  "prerequisite_groups": [
+   [
+    "CIVL3235",
+    "CIVL3811"
+   ],
+   [
+    "BDES3026"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "CIVL3235",
+     "kind": "subject",
+     "printed_as": "CIVL3235"
+    },
+    {
+     "code": "CIVL3811",
+     "kind": "subject",
+     "printed_as": "CIVL3811"
+    }
+   ],
+   [
+    {
+     "code": "BDES3026",
+     "kind": "subject",
+     "printed_as": "BDES3026"
+    }
+   ]
+  ],
+  "source_table": "Civil",
+  "unverifiable_requirements": [
+   "restricted to combined BE/Bachelor of Design in Architecture"
+  ]
+ },
+ "CIVL4903": {
+  "prerequisite_groups": [
+   [
+    "CIVL3205",
+    "CIVL3206",
+    "CIVL3811"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "CIVL3205",
+     "kind": "subject",
+     "printed_as": "CIVL3205"
+    },
+    {
+     "code": "CIVL3206",
+     "kind": "subject",
+     "printed_as": "CIVL3206"
+    },
+    {
+     "code": "CIVL3811",
+     "kind": "subject",
+     "printed_as": "CIVL3811"
+    }
+   ]
+  ],
+  "source_table": "Civil"
+ },
+ "CIVL5266": {
+  "source_table": "Civil"
+ },
+ "CIVL5269": {
+  "prerequisite_groups": [
+   [
+    "CIVL3205",
+    "CIVL9205"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "CIVL3205",
+     "kind": "subject",
+     "printed_as": "CIVL3205"
+    },
+    {
+     "code": "CIVL9205",
+     "kind": "subject",
+     "printed_as": "CIVL9205"
+    }
+   ]
+  ],
+  "source_table": "Civil"
+ },
+ "CIVL5276": {
+  "source_table": "Civil"
+ },
+ "CIVL5277": {
+  "source_table": "Civil"
+ },
+ "CIVL5320": {
+  "prohibition_codes": [
+   "CIVL9320"
+  ],
+  "source_table": "Civil"
+ },
+ "CIVL5330": {
+  "source_table": "Civil"
+ },
+ "CIVL5351": {
+  "source_table": "Environmental"
+ },
+ "CIVL5452": {
+  "prohibition_codes": [
+   "CIVL6452"
+  ],
+  "source_table": "Environmental"
+ },
+ "CIVL5458": {
+  "source_table": "Environmental"
+ },
+ "CIVL5460": {
+  "source_table": "Environmental"
+ },
+ "CIVL5531": {
+  "source_table": "Civil"
+ },
+ "CIVL5533": {
+  "source_table": "Civil"
+ },
+ "CIVL5535": {
+  "source_table": "Civil"
+ },
+ "CIVL5665": {
+  "source_table": "Civil"
+ },
+ "CIVL5668": {
+  "source_table": "Civil"
+ },
+ "CIVL5670": {
+  "source_table": "Civil"
+ },
+ "CIVL5701": {
+  "source_table": "Civil"
+ },
+ "CIVL5702": {
+  "source_table": "Civil"
+ },
+ "CIVL5703": {
+  "prohibition_codes": [
+   "CIVL3703",
+   "CIVL9703"
+  ],
+  "source_table": "Civil"
+ },
+ "CIVL5704": {
+  "source_table": "Civil"
+ },
+ "CIVL5999": {
+  "source_table": "Environmental"
+ },
+ "COMP2017": {
+  "corequisite_codes": [
+   "COMP2123",
+   "COMP2823",
+   "INFO1105",
+   "INFO1905"
+  ],
+  "prerequisite_groups": [
+   [
+    "INFO1113",
+    "INFO1105",
+    "INFO1905",
+    "INFO1103"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "INFO1113",
+     "kind": "subject",
+     "printed_as": "INFO1113"
+    },
+    {
+     "code": "INFO1105",
+     "kind": "subject",
+     "printed_as": "INFO1105"
+    },
+    {
+     "code": "INFO1905",
+     "kind": "subject",
+     "printed_as": "INFO1905"
+    },
+    {
+     "code": "INFO1103",
+     "kind": "subject",
+     "printed_as": "INFO1103"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "COMP2129",
+   "COMP9017",
+   "COMP9129"
+  ],
+  "source_table": "Electrical"
+ },
+ "COMP2123": {
+  "prerequisite_groups": [
+   [
+    "INFO1110",
+    "INFO1910",
+    "INFO1113",
+    "DATA1002",
+    "DATA1902",
+    "ENGG1810"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "INFO1110",
+     "kind": "subject",
+     "printed_as": "INFO1110"
+    },
+    {
+     "code": "INFO1910",
+     "kind": "subject",
+     "printed_as": "INFO1910"
+    },
+    {
+     "code": "INFO1113",
+     "kind": "subject",
+     "printed_as": "INFO1113"
+    },
+    {
+     "code": "DATA1002",
+     "kind": "subject",
+     "printed_as": "DATA1002"
+    },
+    {
+     "code": "DATA1902",
+     "kind": "subject",
+     "printed_as": "DATA1902"
+    },
+    {
+     "code": "ENGG1810",
+     "kind": "subject",
+     "printed_as": "ENGG1810"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "INFO1105",
+   "INFO1905",
+   "COMP2823"
+  ],
+  "source_table": "Electrical"
+ },
+ "COMP3308": {
+  "prerequisite_groups": [
+   [
+    "INFO1110",
+    "INFO1910",
+    "ENGG1801",
+    "ENGG1810",
+    "DATA1002",
+    "DATA1902"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "INFO1110",
+     "kind": "subject",
+     "printed_as": "INFO1110"
+    },
+    {
+     "code": "INFO1910",
+     "kind": "subject",
+     "printed_as": "INFO1910"
+    },
+    {
+     "code": "ENGG1801",
+     "kind": "subject",
+     "printed_as": "ENGG1801"
+    },
+    {
+     "code": "ENGG1810",
+     "kind": "subject",
+     "printed_as": "ENGG1810"
+    },
+    {
+     "code": "DATA1002",
+     "kind": "subject",
+     "printed_as": "DATA1002"
+    },
+    {
+     "code": "DATA1902",
+     "kind": "subject",
+     "printed_as": "DATA1902"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "COMP3608"
+  ],
+  "source_table": "Mechatronic"
+ },
+ "COMP3520": {
+  "prerequisite_groups": [
+   [
+    "COMP2017",
+    "COMP2129"
+   ],
+   [
+    "COMP2123",
+    "COMP2823",
+    "INFO1105",
+    "INFO1905"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "COMP2017",
+     "kind": "subject",
+     "printed_as": "COMP2017"
+    },
+    {
+     "code": "COMP2129",
+     "kind": "subject",
+     "printed_as": "COMP2129"
+    }
+   ],
+   [
+    {
+     "code": "COMP2123",
+     "kind": "subject",
+     "printed_as": "COMP2123"
+    },
+    {
+     "code": "COMP2823",
+     "kind": "subject",
+     "printed_as": "COMP2823"
+    },
+    {
+     "code": "INFO1105",
+     "kind": "subject",
+     "printed_as": "INFO1105"
+    },
+    {
+     "code": "INFO1905",
+     "kind": "subject",
+     "printed_as": "INFO1905"
+    }
+   ]
+  ],
+  "source_table": "Electrical"
+ },
+ "COMP4216": {
+  "prerequisite_groups": [
+   [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ],
+   [
+    "INFO1113"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "DATA3888",
+     "kind": "subject",
+     "printed_as": "DATA3888"
+    },
+    {
+     "code": "COMP3888",
+     "kind": "subject",
+     "printed_as": "COMP3888"
+    },
+    {
+     "code": "COMP3988",
+     "kind": "subject",
+     "printed_as": "COMP3988"
+    },
+    {
+     "code": "CSEC3888",
+     "kind": "subject",
+     "printed_as": "CSEC3888"
+    },
+    {
+     "code": "ISYS3888",
+     "kind": "subject",
+     "printed_as": "ISYS3888"
+    },
+    {
+     "code": "SOFT3888",
+     "kind": "subject",
+     "printed_as": "SOFT3888"
+    },
+    {
+     "code": "ENGG3112",
+     "kind": "subject",
+     "printed_as": "ENGG3112"
+    },
+    {
+     "code": "SCPU3001",
+     "kind": "subject",
+     "printed_as": "SCPU3001"
+    }
+   ],
+   [
+    {
+     "code": "INFO1113",
+     "kind": "subject",
+     "printed_as": "INFO1113"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "COMP5216"
+  ],
+  "source_table": "Electrical"
+ },
+ "COMP4318": {
+  "prerequisite_groups": [
+   [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "DATA3888",
+     "kind": "subject",
+     "printed_as": "DATA3888"
+    },
+    {
+     "code": "COMP3888",
+     "kind": "subject",
+     "printed_as": "COMP3888"
+    },
+    {
+     "code": "COMP3988",
+     "kind": "subject",
+     "printed_as": "COMP3988"
+    },
+    {
+     "code": "CSEC3888",
+     "kind": "subject",
+     "printed_as": "CSEC3888"
+    },
+    {
+     "code": "ISYS3888",
+     "kind": "subject",
+     "printed_as": "ISYS3888"
+    },
+    {
+     "code": "SOFT3888",
+     "kind": "subject",
+     "printed_as": "SOFT3888"
+    },
+    {
+     "code": "ENGG3112",
+     "kind": "subject",
+     "printed_as": "ENGG3112"
+    },
+    {
+     "code": "SCPU3001",
+     "kind": "subject",
+     "printed_as": "SCPU3001"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "COMP5318",
+   "OCMP5318"
+  ],
+  "source_table": "Mechatronic"
+ },
+ "COMP4426": {
+  "prerequisite_groups": [
+   [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "DATA3888",
+     "kind": "subject",
+     "printed_as": "DATA3888"
+    },
+    {
+     "code": "COMP3888",
+     "kind": "subject",
+     "printed_as": "COMP3888"
+    },
+    {
+     "code": "COMP3988",
+     "kind": "subject",
+     "printed_as": "COMP3988"
+    },
+    {
+     "code": "CSEC3888",
+     "kind": "subject",
+     "printed_as": "CSEC3888"
+    },
+    {
+     "code": "ISYS3888",
+     "kind": "subject",
+     "printed_as": "ISYS3888"
+    },
+    {
+     "code": "SOFT3888",
+     "kind": "subject",
+     "printed_as": "SOFT3888"
+    },
+    {
+     "code": "ENGG3112",
+     "kind": "subject",
+     "printed_as": "ENGG3112"
+    },
+    {
+     "code": "SCPU3001",
+     "kind": "subject",
+     "printed_as": "SCPU3001"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "COMP5426",
+   "OCMP5426"
+  ],
+  "source_table": "Electrical"
+ },
+ "COMP4447": {
+  "prerequisite_groups": [
+   [
+    "DATA3888",
+    "COMP3888",
+    "COMP3988",
+    "CSEC3888",
+    "ISYS3888",
+    "SOFT3888",
+    "ENGG3112",
+    "SCPU3001"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "DATA3888",
+     "kind": "subject",
+     "printed_as": "DATA3888"
+    },
+    {
+     "code": "COMP3888",
+     "kind": "subject",
+     "printed_as": "COMP3888"
+    },
+    {
+     "code": "COMP3988",
+     "kind": "subject",
+     "printed_as": "COMP3988"
+    },
+    {
+     "code": "CSEC3888",
+     "kind": "subject",
+     "printed_as": "CSEC3888"
+    },
+    {
+     "code": "ISYS3888",
+     "kind": "subject",
+     "printed_as": "ISYS3888"
+    },
+    {
+     "code": "SOFT3888",
+     "kind": "subject",
+     "printed_as": "SOFT3888"
+    },
+    {
+     "code": "ENGG3112",
+     "kind": "subject",
+     "printed_as": "ENGG3112"
+    },
+    {
+     "code": "SCPU3001",
+     "kind": "subject",
+     "printed_as": "SCPU3001"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "COMP5047"
+  ],
+  "source_table": "Electrical"
+ },
+ "ELEC1004": {
+  "prohibition_codes": [
+   "ENGG1800",
+   "CHNG1108",
+   "MECH1560",
+   "AERO1560",
+   "BMET1960",
+   "MTRX1701",
+   "ELEC1005",
+   "ENVE1001"
+  ],
+  "source_table": "Faculty core"
+ },
+ "ELEC1005": {
+  "prohibition_codes": [
+   "ENGG1800",
+   "CHNG1108",
+   "MECH1560",
+   "AERO1560",
+   "BMET1960",
+   "MTRX1701",
+   "ELEC1004",
+   "ENVE1001"
+  ],
+  "source_table": "Faculty core"
+ },
+ "ELEC1601": {
+  "source_table": "Electrical"
+ },
+ "ELEC2100": {
+  "prohibition_codes": [
+   "ELEC1103"
+  ],
+  "source_table": "Electrical"
+ },
+ "ELEC2103": {
+  "prohibition_codes": [
+   "COSC1001",
+   "COSC1901"
+  ],
+  "source_table": "Electrical"
+ },
+ "ELEC2104": {
+  "source_table": "Mechatronic"
+ },
+ "ELEC2302": {
+  "source_table": "Electrical"
+ },
+ "ELEC2602": {
+  "source_table": "Electrical"
+ },
+ "ELEC3104": {
+  "source_table": "Electrical"
+ },
+ "ELEC3203": {
+  "source_table": "Electrical"
+ },
+ "ELEC3204": {
+  "prerequisite_groups": [
+   [
+    "ELEC2104"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "ELEC2104",
+     "kind": "subject",
+     "printed_as": "ELEC2104"
+    }
+   ]
+  ],
+  "source_table": "Mechatronic"
+ },
+ "ELEC3206": {
+  "source_table": "Electrical"
+ },
+ "ELEC3304": {
+  "prerequisite_groups": [
+   [
+    "ELEC2302"
+   ],
+   [
+    "MATH2061",
+    "MATH2067",
+    "MATH2021",
+    "MATH2961",
+    "AMME2000"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "ELEC2302",
+     "kind": "subject",
+     "printed_as": "ELEC2302"
+    }
+   ],
+   [
+    {
+     "code": "MATH2061",
+     "kind": "subject",
+     "printed_as": "MATH2061"
+    },
+    {
+     "code": "MATH2067",
+     "kind": "subject",
+     "printed_as": "MATH2067"
+    },
+    {
+     "code": "MATH2021",
+     "kind": "subject",
+     "printed_as": "MATH2021"
+    },
+    {
+     "code": "MATH2961",
+     "kind": "subject",
+     "printed_as": "MATH2961"
+    },
+    {
+     "code": "AMME2000",
+     "kind": "subject",
+     "printed_as": "AMME2000"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AMME3500"
+  ],
+  "source_table": "Electrical"
+ },
+ "ELEC3305": {
+  "source_table": "Electrical"
+ },
+ "ELEC3404": {
+  "source_table": "Electrical"
+ },
+ "ELEC3405": {
+  "source_table": "Electrical"
+ },
+ "ELEC3505": {
+  "prerequisite_groups": [
+   [
+    "ELEC2302"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "ELEC2302",
+     "kind": "subject",
+     "printed_as": "ELEC2302"
+    }
+   ]
+  ],
+  "source_table": "Electrical"
+ },
+ "ELEC3506": {
+  "source_table": "Electrical"
+ },
+ "ELEC3607": {
+  "prerequisite_groups": [
+   [
+    "ELEC1601"
+   ],
+   [
+    "ELEC2602"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "ELEC1601",
+     "kind": "subject",
+     "printed_as": "ELEC1601"
+    }
+   ],
+   [
+    {
+     "code": "ELEC2602",
+     "kind": "subject",
+     "printed_as": "ELEC2602"
+    }
+   ]
+  ],
+  "source_table": "Electrical"
+ },
+ "ELEC3608": {
+  "prerequisite_groups": [
+   [
+    "ELEC2602"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "ELEC2602",
+     "kind": "subject",
+     "printed_as": "ELEC2602"
+    }
+   ]
+  ],
+  "source_table": "Electrical"
+ },
+ "ELEC3609": {
+  "prerequisite_groups": [
+   [
+    "INFO1103",
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810"
+   ],
+   [
+    "INFO2110",
+    "ISYS2110"
+   ],
+   [
+    "INFO2120",
+    "INFO2820",
+    "ISYS2120"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "INFO1103",
+     "kind": "subject",
+     "printed_as": "INFO1103"
+    },
+    {
+     "code": "INFO1110",
+     "kind": "subject",
+     "printed_as": "INFO1110"
+    },
+    {
+     "code": "INFO1910",
+     "kind": "subject",
+     "printed_as": "INFO1910"
+    },
+    {
+     "code": "ENGG1810",
+     "kind": "subject",
+     "printed_as": "ENGG1810"
+    }
+   ],
+   [
+    {
+     "code": "INFO2110",
+     "kind": "subject",
+     "printed_as": "INFO2110"
+    },
+    {
+     "code": "ISYS2110",
+     "kind": "subject",
+     "printed_as": "ISYS2110"
+    }
+   ],
+   [
+    {
+     "code": "INFO2120",
+     "kind": "subject",
+     "printed_as": "INFO2120"
+    },
+    {
+     "code": "INFO2820",
+     "kind": "subject",
+     "printed_as": "INFO2820"
+    },
+    {
+     "code": "ISYS2120",
+     "kind": "subject",
+     "printed_as": "ISYS2120"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "EBUS4001"
+  ],
+  "source_table": "Electrical"
+ },
+ "ELEC3610": {
+  "prohibition_codes": [
+   "EBUS3003"
+  ],
+  "source_table": "Electrical"
+ },
+ "ELEC3612": {
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MATH1061",
+     "kind": "subject",
+     "printed_as": "MATH1X61"
+    },
+    {
+     "code": "MATH1961",
+     "kind": "subject",
+     "printed_as": "MATH1X61"
+    },
+    {
+     "code": "MATH1971",
+     "kind": "subject",
+     "printed_as": "MATH1971"
+    },
+    {
+     "kind": "other",
+     "reason": "unresolved_wildcard",
+     "text": "MATH1X02"
+    }
+   ],
+   [
+    {
+     "code": "MATH1062",
+     "kind": "subject",
+     "printed_as": "MATH1X62"
+    },
+    {
+     "code": "MATH1962",
+     "kind": "subject",
+     "printed_as": "MATH1X62"
+    },
+    {
+     "code": "MATH1972",
+     "kind": "subject",
+     "printed_as": "MATH1972"
+    },
+    {
+     "kind": "other",
+     "reason": "unresolved_wildcard",
+     "text": "MATH1X05"
+    },
+    {
+     "code": "BUSS1020",
+     "kind": "subject",
+     "printed_as": "BUSS1020"
+    }
+   ]
+  ],
+  "source_table": "Electrical"
+ },
+ "ELEC4505": {
+  "prerequisite_groups": [
+   [
+    "ELEC3505"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "ELEC3505",
+     "kind": "subject",
+     "printed_as": "ELEC3505"
+    }
+   ]
+  ],
+  "source_table": "Electrical"
+ },
+ "ELEC4712": {
+  "credit_point_requirement": {
+   "min_credit_points": 36,
+   "source_text": "36cp of 3000- or higher level BE units"
+  },
+  "credit_point_requirements": [
+   {
+    "min_credit_points": 36,
+    "source_text": "36cp of 3000- or higher level BE units"
+   }
+  ],
+  "prohibition_codes": [
+   "ELEC4714"
+  ],
+  "source_table": "Faculty core"
+ },
+ "ELEC4713": {
+  "prerequisite_groups": [
+   [
+    "ELEC4712"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "ELEC4712",
+     "kind": "subject",
+     "printed_as": "ELEC4712"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "ELEC4714"
+  ],
+  "source_table": "Faculty core"
+ },
+ "ELEC4714": {
+  "also_listed_on": [
+   {
+    "record": {
+     "credit_point_requirement": {
+      "min_credit_points": 36,
+      "source_text": "36cp of 3000- or higher level BE units of study; WAM>=70"
+     },
+     "credit_point_requirements": [
+      {
+       "min_credit_points": 36,
+       "source_text": "36cp of 3000- or higher level BE units of study; WAM>=70"
+      }
+     ],
+     "prohibition_codes": [
+      "ELEC4710",
+      "ELEC4711",
+      "ELEC4712",
+      "ELEC4713",
+      "ENGG4000"
+     ]
+    },
+    "table": "Faculty core"
+   }
+  ],
+  "credit_point_requirement": {
+   "min_credit_points": 36,
+   "min_level": 3000,
+   "source_text": "36cp of 3000-level BE units"
+  },
+  "credit_point_requirements": [
+   {
+    "min_credit_points": 36,
+    "min_level": 3000,
+    "source_text": "36cp of 3000-level BE units"
+   }
+  ],
+  "prohibition_codes": [
+   "ELEC4710",
+   "ELEC4711",
+   "ELEC4712",
+   "ELEC4713",
+   "ENGG4000"
+  ],
+  "source_table": "Electrical",
+  "unverifiable_requirements": [
+   "WAM>=70"
+  ]
+ },
+ "ELEC5101": {
+  "source_table": "Electrical"
+ },
+ "ELEC5204": {
+  "source_table": "Electrical"
+ },
+ "ELEC5205": {
+  "source_table": "Electrical"
+ },
+ "ELEC5206": {
+  "source_table": "Electrical"
+ },
+ "ELEC5207": {
+  "source_table": "Electrical"
+ },
+ "ELEC5208": {
+  "source_table": "Electrical"
+ },
+ "ELEC5211": {
+  "source_table": "Electrical"
+ },
+ "ELEC5212": {
+  "source_table": "Electrical"
+ },
+ "ELEC5213": {
+  "source_table": "Electrical"
+ },
+ "ELEC5304": {
+  "source_table": "Electrical"
+ },
+ "ELEC5305": {
+  "source_table": "Electrical"
+ },
+ "ELEC5306": {
+  "source_table": "Electrical"
+ },
+ "ELEC5307": {
+  "source_table": "Electrical"
+ },
+ "ELEC5308": {
+  "source_table": "Electrical"
+ },
+ "ELEC5403": {
+  "source_table": "Electrical"
+ },
+ "ELEC5405": {
+  "source_table": "Electrical"
+ },
+ "ELEC5507": {
+  "source_table": "Electrical"
+ },
+ "ELEC5508": {
+  "source_table": "Electrical"
+ },
+ "ELEC5509": {
+  "source_table": "Electrical"
+ },
+ "ELEC5510": {
+  "source_table": "Electrical"
+ },
+ "ELEC5511": {
+  "source_table": "Electrical"
+ },
+ "ELEC5512": {
+  "source_table": "Electrical"
+ },
+ "ELEC5514": {
+  "source_table": "Electrical"
+ },
+ "ELEC5516": {
+  "source_table": "Electrical"
+ },
+ "ELEC5517": {
+  "source_table": "Electrical"
+ },
+ "ELEC5518": {
+  "source_table": "Electrical"
+ },
+ "ELEC5616": {
+  "source_table": "Electrical"
+ },
+ "ELEC5618": {
+  "source_table": "Electrical"
+ },
+ "ELEC5619": {
+  "source_table": "Electrical"
+ },
+ "ELEC5620": {
+  "source_table": "Electrical"
+ },
+ "ELEC5622": {
+  "source_table": "Electrical"
+ },
+ "ELEC5623": {
+  "source_table": "Electrical"
+ },
+ "ELEC5760": {
+  "source_table": "Electrical"
+ },
+ "ENGG1810": {
+  "prohibition_codes": [
+   "ENGG1801",
+   "INFO1110",
+   "INFO1910",
+   "INFO1103",
+   "INFO1903",
+   "INFO1105",
+   "INFO1905",
+   "COSC1003"
+  ],
+  "source_table": "Faculty core"
+ },
+ "ENGG2112": {
+  "prerequisite_groups": [
+   [
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810"
+   ],
+   [
+    "MATH1005",
+    "MATH1905",
+    "MATH1062",
+    "MATH1962",
+    "MATH1972",
+    "BUSS1020"
+   ],
+   [
+    "AERO1560",
+    "BMET1960",
+    "CHNG1108",
+    "CIVL1900",
+    "ELEC1004",
+    "ELEC1005",
+    "ENVE1001",
+    "MECH1560",
+    "MTRX1701"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "INFO1110",
+     "kind": "subject",
+     "printed_as": "INFO1110"
+    },
+    {
+     "code": "INFO1910",
+     "kind": "subject",
+     "printed_as": "INFO1910"
+    },
+    {
+     "code": "ENGG1810",
+     "kind": "subject",
+     "printed_as": "ENGG1810"
+    }
+   ],
+   [
+    {
+     "code": "MATH1005",
+     "kind": "subject",
+     "printed_as": "MATH1005"
+    },
+    {
+     "code": "MATH1905",
+     "kind": "subject",
+     "printed_as": "MATH1905"
+    },
+    {
+     "code": "MATH1062",
+     "kind": "subject",
+     "printed_as": "MATH1062"
+    },
+    {
+     "code": "MATH1962",
+     "kind": "subject",
+     "printed_as": "MATH1962"
+    },
+    {
+     "code": "MATH1972",
+     "kind": "subject",
+     "printed_as": "MATH1972"
+    },
+    {
+     "code": "BUSS1020",
+     "kind": "subject",
+     "printed_as": "BUSS1020"
+    }
+   ],
+   [
+    {
+     "code": "AERO1560",
+     "kind": "subject",
+     "printed_as": "AERO1560"
+    },
+    {
+     "code": "BMET1960",
+     "kind": "subject",
+     "printed_as": "BMET1960"
+    },
+    {
+     "code": "CHNG1108",
+     "kind": "subject",
+     "printed_as": "CHNG1108"
+    },
+    {
+     "code": "CIVL1900",
+     "kind": "subject",
+     "printed_as": "CIVL1900"
+    },
+    {
+     "code": "ELEC1004",
+     "kind": "subject",
+     "printed_as": "ELEC1004"
+    },
+    {
+     "code": "ELEC1005",
+     "kind": "subject",
+     "printed_as": "ELEC1005"
+    },
+    {
+     "code": "ENVE1001",
+     "kind": "subject",
+     "printed_as": "ENVE1001"
+    },
+    {
+     "code": "MECH1560",
+     "kind": "subject",
+     "printed_as": "MECH1560"
+    },
+    {
+     "code": "MTRX1701",
+     "kind": "subject",
+     "printed_as": "MTRX1701"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "ENGG1111",
+   "ENGF1112"
+  ],
+  "source_table": "Faculty core"
+ },
+ "ENGG3112": {
+  "credit_point_requirement": {
+   "min_credit_points": 84,
+   "source_text": "84cp of engineering foundation/project/stream table units"
+  },
+  "credit_point_requirements": [
+   {
+    "min_credit_points": 84,
+    "source_text": "84cp of engineering foundation/project/stream table units"
+   }
+  ],
+  "prohibition_codes": [
+   "ENGG2111"
+  ],
+  "source_table": "Faculty core"
+ },
+ "ENGP1001": {
+  "prohibition_codes": [
+   "ENGG4000",
+   "ENGG5217",
+   "ENGP1000"
+  ],
+  "source_table": "Faculty core"
+ },
+ "ENGP1002": {
+  "prerequisite_groups": [
+   [
+    "ENGP1001"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "ENGP1001",
+     "kind": "subject",
+     "printed_as": "ENGP1001"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "ENGG4000",
+   "ENGG5217",
+   "ENGP1000"
+  ],
+  "source_table": "Faculty core"
+ },
+ "ENGP1003": {
+  "prerequisite_groups": [
+   [
+    "ENGP1001"
+   ],
+   [
+    "ENGP1002"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "ENGP1001",
+     "kind": "subject",
+     "printed_as": "ENGP1001"
+    }
+   ],
+   [
+    {
+     "code": "ENGP1002",
+     "kind": "subject",
+     "printed_as": "ENGP1002"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "ENGG4000",
+   "ENGG5217",
+   "ENGP1000"
+  ],
+  "source_table": "Faculty core"
+ },
+ "ENGP2001": {
+  "prerequisite_groups": [
+   [
+    "ENGP1000",
+    "ENGP1003"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "ENGP1000",
+     "kind": "subject",
+     "printed_as": "ENGP1000"
+    },
+    {
+     "code": "ENGP1003",
+     "kind": "subject",
+     "printed_as": "ENGP1003"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "ENGG4000",
+   "ENGG5217",
+   "ENGP2000"
+  ],
+  "source_table": "Faculty core"
+ },
+ "ENGP2002": {
+  "prerequisite_groups": [
+   [
+    "ENGP2001"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "ENGP2001",
+     "kind": "subject",
+     "printed_as": "ENGP2001"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "ENGG4000",
+   "ENGG5217",
+   "ENGP2000"
+  ],
+  "source_table": "Faculty core"
+ },
+ "ENGP2003": {
+  "prerequisite_groups": [
+   [
+    "ENGP2001"
+   ],
+   [
+    "ENGP2002"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "ENGP2001",
+     "kind": "subject",
+     "printed_as": "ENGP2001"
+    }
+   ],
+   [
+    {
+     "code": "ENGP2002",
+     "kind": "subject",
+     "printed_as": "ENGP2002"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "ENGG4000",
+   "ENGG5217",
+   "ENGP2000"
+  ],
+  "source_table": "Faculty core"
+ },
+ "ENGP3001": {
+  "prerequisite_groups": [
+   [
+    "ENGP2000",
+    "ENGP2003"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "ENGP2000",
+     "kind": "subject",
+     "printed_as": "ENGP2000"
+    },
+    {
+     "code": "ENGP2003",
+     "kind": "subject",
+     "printed_as": "ENGP2003"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "ENGG4000",
+   "ENGG5217",
+   "ENGP3000"
+  ],
+  "source_table": "Faculty core",
+  "unverifiable_requirements": [
+   "passed"
+  ]
+ },
+ "ENGP3002": {
+  "prerequisite_groups": [
+   [
+    "ENGP3001"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "kind": "other",
+     "reason": "level_wildcard",
+     "text": "ENGP1XXX"
+    }
+   ],
+   [
+    {
+     "kind": "other",
+     "reason": "level_wildcard",
+     "text": "ENGP2XXX"
+    }
+   ],
+   [
+    {
+     "code": "ENGP3001",
+     "kind": "subject",
+     "printed_as": "ENGP3001"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "ENGG4000",
+   "ENGG5217",
+   "ENGP3000"
+  ],
+  "source_table": "Faculty core",
+  "unverifiable_requirements": [
+   "passed all ENGP1XXX and ENGP2XXX; ENGP3001 not failed"
+  ]
+ },
+ "ENSC2001": {
+  "source_table": "Environmental"
+ },
+ "ENVE1001": {
+  "prohibition_codes": [
+   "ENGG1800",
+   "AERO1560",
+   "MECH1560",
+   "MTRX1701",
+   "BMET1960",
+   "CHNG1108",
+   "ELEC1004",
+   "ELEC1005"
+  ],
+  "source_table": "Faculty core"
+ },
+ "ENVE3001": {
+  "source_table": "Environmental"
+ },
+ "ENVE3002": {
+  "source_table": "Environmental"
+ },
+ "ENVE3004": {
+  "source_table": "Environmental"
+ },
+ "ENVE4800": {
+  "source_table": "Environmental"
+ },
+ "ENVE4811": {
+  "source_table": "Faculty core"
+ },
+ "ENVE4812": {
+  "source_table": "Faculty core"
+ },
+ "INFO1110": {
+  "prohibition_codes": [
+   "INFO1910",
+   "INFO1103",
+   "INFO1903",
+   "INFO1105",
+   "INFO1905",
+   "ENGG1810"
+  ],
+  "source_table": "Faculty core"
+ },
+ "INFO1113": {
+  "prerequisite_groups": [
+   [
+    "INFO1110",
+    "INFO1910",
+    "ENGG1810"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "INFO1110",
+     "kind": "subject",
+     "printed_as": "INFO1110"
+    },
+    {
+     "code": "INFO1910",
+     "kind": "subject",
+     "printed_as": "INFO1910"
+    },
+    {
+     "code": "ENGG1810",
+     "kind": "subject",
+     "printed_as": "ENGG1810"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "INFO1103",
+   "INFO1105",
+   "INFO1905"
+  ],
+  "source_table": "Electrical"
+ },
+ "INFO1910": {
+  "prohibition_codes": [
+   "INFO1110",
+   "INFO1103",
+   "INFO1903",
+   "INFO1105",
+   "INFO1905",
+   "ENGG1810"
+  ],
+  "source_table": "Faculty core"
+ },
+ "INFO4994": {
+  "source_table": "Mechatronic"
+ },
+ "MATH1061": {
+  "prohibition_codes": [
+   "MATH1901",
+   "MATH1902",
+   "MATH1921",
+   "MATH1906",
+   "MATH1931",
+   "MATH1001",
+   "MATH1021",
+   "MATH1961",
+   "MATH1971",
+   "MATH1002",
+   "MATH1014"
+  ],
+  "source_table": "Faculty core"
+ },
+ "MATH1062": {
+  "prohibition_codes": [
+   "MATH1905",
+   "MATH1903",
+   "MATH1907",
+   "MATH1923",
+   "MATH1933",
+   "MATH1972",
+   "MATH1962",
+   "MATH1003",
+   "MATH1023",
+   "MATH1005",
+   "MATH1015"
+  ],
+  "source_table": "Faculty core"
+ },
+ "MATH2061": {
+  "also_listed_on": [
+   {
+    "record": {
+     "prerequisite_groups": [
+      [
+       "MATH1011",
+       "MATH1061",
+       "MATH1906",
+       "MATH1931",
+       "MATH1961",
+       "MATH1971"
+      ],
+      [
+       "MATH1014",
+       "MATH1061",
+       "MATH1961",
+       "MATH1971"
+      ]
+     ],
+     "prerequisite_requirements": [
+      [
+       {
+        "code": "MATH1061",
+        "kind": "subject",
+        "printed_as": "MATH1X61"
+       },
+       {
+        "code": "MATH1961",
+        "kind": "subject",
+        "printed_as": "MATH1X61"
+       },
+       {
+        "code": "MATH1971",
+        "kind": "subject",
+        "printed_as": "MATH1971"
+       },
+       {
+        "kind": "other",
+        "mentions": [
+         "MATH1011",
+         "MATH1014",
+         "MATH1906",
+         "MATH1931"
+        ],
+        "text": "[(MATH1X21,MATH1931,MATH1X01,MATH1906,MATH1011)(MATH1014,MATH1X02)]"
+       }
+      ],
+      [
+       {
+        "code": "MATH1062",
+        "kind": "subject",
+        "printed_as": "MATH1X62"
+       },
+       {
+        "code": "MATH1962",
+        "kind": "subject",
+        "printed_as": "MATH1X62"
+       },
+       {
+        "code": "MATH1972",
+        "kind": "subject",
+        "printed_as": "MATH1972"
+       },
+       {
+        "code": "MATH1013",
+        "kind": "subject",
+        "printed_as": "MATH1013"
+       },
+       {
+        "kind": "other",
+        "reason": "unresolved_wildcard",
+        "text": "MATH1X23"
+       },
+       {
+        "kind": "other",
+        "reason": "unresolved_wildcard",
+        "text": "MATH1X03"
+       },
+       {
+        "code": "MATH1933",
+        "kind": "subject",
+        "printed_as": "MATH1933"
+       },
+       {
+        "code": "MATH1907",
+        "kind": "subject",
+        "printed_as": "MATH1907"
+       }
+      ]
+     ],
+     "prohibition_codes": [
+      "MATH2961",
+      "MATH2067",
+      "MATH2021",
+      "MATH2921",
+      "MATH2022",
+      "MATH2922"
+     ],
+     "unverifiable_requirements": [
+      "FEIT students only"
+     ]
+    },
+    "table": "Civil"
+   }
+  ],
+  "prerequisite_groups": [
+   [
+    "MATH1011",
+    "MATH1061",
+    "MATH1906",
+    "MATH1931",
+    "MATH1961",
+    "MATH1971"
+   ],
+   [
+    "MATH1014",
+    "MATH1061",
+    "MATH1961",
+    "MATH1971"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MATH1061",
+     "kind": "subject",
+     "printed_as": "MATH1X61"
+    },
+    {
+     "code": "MATH1961",
+     "kind": "subject",
+     "printed_as": "MATH1X61"
+    },
+    {
+     "code": "MATH1971",
+     "kind": "subject",
+     "printed_as": "MATH1971"
+    },
+    {
+     "kind": "other",
+     "mentions": [
+      "MATH1011",
+      "MATH1014",
+      "MATH1906",
+      "MATH1931"
+     ],
+     "text": "[(MATH1X21,MATH1931,MATH1X01,MATH1906,MATH1011)(MATH1014,MATH1X02)]"
+    }
+   ],
+   [
+    {
+     "code": "MATH1062",
+     "kind": "subject",
+     "printed_as": "MATH1X62"
+    },
+    {
+     "code": "MATH1962",
+     "kind": "subject",
+     "printed_as": "MATH1X62"
+    },
+    {
+     "code": "MATH1972",
+     "kind": "subject",
+     "printed_as": "MATH1972"
+    },
+    {
+     "code": "MATH1013",
+     "kind": "subject",
+     "printed_as": "MATH1013"
+    },
+    {
+     "kind": "other",
+     "reason": "unresolved_wildcard",
+     "text": "MATH1X23"
+    },
+    {
+     "kind": "other",
+     "reason": "unresolved_wildcard",
+     "text": "MATH1X03"
+    },
+    {
+     "code": "MATH1933",
+     "kind": "subject",
+     "printed_as": "MATH1933"
+    },
+    {
+     "code": "MATH1907",
+     "kind": "subject",
+     "printed_as": "MATH1907"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "MATH2961",
+   "MATH2067",
+   "MATH2021",
+   "MATH2921",
+   "MATH2022",
+   "MATH2922"
+  ],
+  "source_table": "Electrical"
+ },
+ "MECH1400": {
+  "source_table": "Mechanical"
+ },
+ "MECH1560": {
+  "prohibition_codes": [
+   "AERO1560",
+   "MTRX1701",
+   "ENGG1800",
+   "CIVL1900",
+   "CHNG1108",
+   "BMET1960",
+   "ENGG1960",
+   "ELEC1004",
+   "ELEC1005",
+   "ENVE1001"
+  ],
+  "source_table": "Faculty core"
+ },
+ "MECH2400": {
+  "prerequisite_groups": [
+   [
+    "MECH1560",
+    "MTRX1701",
+    "ENGG1800"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MECH1560",
+     "kind": "subject",
+     "printed_as": "MECH1560"
+    },
+    {
+     "code": "MTRX1701",
+     "kind": "subject",
+     "printed_as": "MTRX1701"
+    },
+    {
+     "code": "ENGG1800",
+     "kind": "subject",
+     "printed_as": "ENGG1800"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AERO2460",
+   "BMET2400"
+  ],
+  "source_table": "Mechatronic"
+ },
+ "MECH2401": {
+  "source_table": "Mechanical"
+ },
+ "MECH2460": {
+  "prerequisite_groups": [
+   [
+    "MECH1560",
+    "MTRX1701",
+    "ENGG1800"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MECH1560",
+     "kind": "subject",
+     "printed_as": "MECH1560"
+    },
+    {
+     "code": "MTRX1701",
+     "kind": "subject",
+     "printed_as": "MTRX1701"
+    },
+    {
+     "code": "ENGG1800",
+     "kind": "subject",
+     "printed_as": "ENGG1800"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "AERO2460",
+   "MECH3660"
+  ],
+  "source_table": "Mechatronic"
+ },
+ "MECH3260": {
+  "prerequisite_groups": [
+   [
+    "AMME2200",
+    "AMME2262"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "AMME2200",
+     "kind": "subject",
+     "printed_as": "AMME2200"
+    },
+    {
+     "code": "AMME2262",
+     "kind": "subject",
+     "printed_as": "AMME2262"
+    }
+   ]
+  ],
+  "source_table": "Mechanical"
+ },
+ "MECH3261": {
+  "prerequisite_groups": [
+   [
+    "AMME2200",
+    "AMME2261"
+   ],
+   [
+    "AMME2200",
+    "AMME2262"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "AMME2200",
+     "kind": "subject",
+     "printed_as": "AMME2200"
+    },
+    {
+     "kind": "other",
+     "mentions": [
+      "AMME2261",
+      "AMME2262"
+     ],
+     "text": "[(AMME2261)(AMME2262)]"
+    }
+   ]
+  ],
+  "source_table": "Mechanical"
+ },
+ "MECH3361": {
+  "prerequisite_groups": [
+   [
+    "AMME2000",
+    "BMET2960"
+   ],
+   [
+    "AMME2301"
+   ],
+   [
+    "AMME1362",
+    "CIVL1110",
+    "CIVL2110"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "AMME2000",
+     "kind": "subject",
+     "printed_as": "AMME2000"
+    },
+    {
+     "code": "BMET2960",
+     "kind": "subject",
+     "printed_as": "BMET2960"
+    }
+   ],
+   [
+    {
+     "code": "AMME2301",
+     "kind": "subject",
+     "printed_as": "AMME2301"
+    }
+   ],
+   [
+    {
+     "code": "AMME1362",
+     "kind": "subject",
+     "printed_as": "AMME1362"
+    },
+    {
+     "code": "CIVL1110",
+     "kind": "subject",
+     "printed_as": "CIVL1110"
+    },
+    {
+     "code": "CIVL2110",
+     "kind": "subject",
+     "printed_as": "CIVL2110"
+    }
+   ]
+  ],
+  "source_table": "Mechanical"
+ },
+ "MECH3362": {
+  "prerequisite_groups": [
+   [
+    "AMME2000"
+   ],
+   [
+    "AMME2301"
+   ],
+   [
+    "AMME1362",
+    "CIVL1110",
+    "CIVL2110"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "AMME2000",
+     "kind": "subject",
+     "printed_as": "AMME2000"
+    }
+   ],
+   [
+    {
+     "code": "AMME2301",
+     "kind": "subject",
+     "printed_as": "AMME2301"
+    }
+   ],
+   [
+    {
+     "code": "AMME1362",
+     "kind": "subject",
+     "printed_as": "AMME1362"
+    },
+    {
+     "code": "CIVL1110",
+     "kind": "subject",
+     "printed_as": "CIVL1110"
+    },
+    {
+     "code": "CIVL2110",
+     "kind": "subject",
+     "printed_as": "CIVL2110"
+    }
+   ]
+  ],
+  "source_table": "Mechanical"
+ },
+ "MECH3460": {
+  "prerequisite_groups": [
+   [
+    "AMME2000"
+   ],
+   [
+    "MECH2400"
+   ],
+   [
+    "AMME2301"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "AMME2000",
+     "kind": "subject",
+     "printed_as": "AMME2000"
+    }
+   ],
+   [
+    {
+     "code": "MECH2400",
+     "kind": "subject",
+     "printed_as": "MECH2400"
+    }
+   ],
+   [
+    {
+     "code": "AMME2301",
+     "kind": "subject",
+     "printed_as": "AMME2301"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "MECH9460"
+  ],
+  "source_table": "Mechatronic"
+ },
+ "MECH4460": {
+  "prerequisite_groups": [
+   [
+    "MECH2400"
+   ],
+   [
+    "MECH3460"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MECH2400",
+     "kind": "subject",
+     "printed_as": "MECH2400"
+    }
+   ],
+   [
+    {
+     "code": "MECH3460",
+     "kind": "subject",
+     "printed_as": "MECH3460"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "MECH5416"
+  ],
+  "source_table": "Mechanical"
+ },
+ "MECH4660": {
+  "prohibition_codes": [
+   "MECH3661",
+   "AERO3660",
+   "MECH2660",
+   "MECH4601"
+  ],
+  "source_table": "Mechanical"
+ },
+ "MECH5255": {
+  "prerequisite_groups": [
+   [
+    "MECH3260",
+    "MECH8260",
+    "MECH9260"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MECH3260",
+     "kind": "subject",
+     "printed_as": "MECH3260"
+    },
+    {
+     "code": "MECH8260",
+     "kind": "subject",
+     "printed_as": "MECH8260"
+    },
+    {
+     "code": "MECH9260",
+     "kind": "subject",
+     "printed_as": "MECH9260"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "MECH4255",
+   "MECH6255"
+  ],
+  "source_table": "Mechanical"
+ },
+ "MECH5265": {
+  "prerequisite_groups": [
+   [
+    "MECH3260",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MECH3260",
+     "kind": "subject",
+     "printed_as": "MECH3260"
+    },
+    {
+     "code": "MECH8260",
+     "kind": "subject",
+     "printed_as": "MECH8260"
+    },
+    {
+     "code": "MECH9260",
+     "kind": "subject",
+     "printed_as": "MECH9260"
+    }
+   ],
+   [
+    {
+     "code": "MECH3261",
+     "kind": "subject",
+     "printed_as": "MECH3261"
+    },
+    {
+     "code": "MECH8261",
+     "kind": "subject",
+     "printed_as": "MECH8261"
+    },
+    {
+     "code": "MECH9261",
+     "kind": "subject",
+     "printed_as": "MECH9261"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "MECH4265",
+   "MECH8265"
+  ],
+  "source_table": "Mechanical"
+ },
+ "MECH5275": {
+  "prerequisite_groups": [
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "AMME2262",
+    "MECH3260",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "AMME2262",
+    "MECH3260",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "AMME2262",
+    "MECH3260",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "AMME2262",
+    "MECH3260",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "AMME2262",
+    "MECH3260",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "AMME2262",
+    "MECH3260",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "AMME2262",
+    "MECH3260",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "AMME2262",
+    "MECH3260",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "AMME2262",
+    "MECH3260",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "AMME2262",
+    "MECH3260",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "AMME2262",
+    "MECH3260",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "AMME2262",
+    "MECH3260",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "AMME2262",
+    "MECH3260",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "AMME2262",
+    "MECH3260",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "AMME2262",
+    "MECH3260",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "AMME2262",
+    "MECH3260",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "AMME2262",
+    "MECH3260",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "AMME2262",
+    "MECH3260",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "AMME2262",
+    "MECH3260",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "AMME2262",
+    "MECH3260",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "AMME2262",
+    "MECH3260",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "AMME2262",
+    "MECH3260",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "AMME2262",
+    "MECH3260",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "AMME2262",
+    "MECH3260",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "AMME2262",
+    "MECH3260",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "AMME2262",
+    "MECH3260",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "AMME2262",
+    "MECH3260",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "AMME2262",
+    "MECH3260",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "AMME2262",
+    "MECH3260",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "AMME2262",
+    "MECH3260",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "AMME2262",
+    "MECH3260",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "AMME2262",
+    "MECH3260",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3260",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "MECH3260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "MECH3260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "MECH3260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "MECH3260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "MECH3260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "MECH3260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "MECH3260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "MECH3260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "MECH3260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "MECH3260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "MECH3260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "MECH3260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "MECH3260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "MECH3260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "MECH3260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "MECH3260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "MECH3260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "MECH3260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "MECH3260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "MECH3260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "MECH3260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "MECH3260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "MECH3260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "MECH3260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "MECH3260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "MECH3260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "MECH3260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "MECH3260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "MECH3260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "MECH3260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "MECH3260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "MECH3260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "AMME2262",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "AMME2262",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "AMME2262",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "AMME2262",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "AMME2262",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "AMME2262",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "AMME2262",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "AMME2262",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "AMME2262",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "AMME2262",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "AMME2262",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "AMME2262",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "AMME2262",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "AMME2262",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "AMME2262",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "AMME2262",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "AMME2262",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "AMME2262",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "AMME2262",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "AMME2262",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "AMME2262",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "AMME2262",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "AMME2262",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "AMME2262",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "AMME2262",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "AMME2262",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "AMME2262",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "AMME2262",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "AMME2262",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "AMME2262",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "AMME2262",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "AMME2262",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "CHNG2803",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "MECH3261",
+    "MECH8260",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "MECH3261",
+    "MECH8260",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "MECH3261",
+    "MECH8261",
+    "MECH9260"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8260",
+    "AERO9261",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3260",
+    "AERO8261",
+    "AERO9261",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8260",
+    "AERO9261",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9260",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ],
+   [
+    "AERO3261",
+    "AERO8261",
+    "AERO9261",
+    "MECH3261",
+    "MECH8261",
+    "MECH9261"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "kind": "other",
+     "mentions": [
+      "MECH3260",
+      "MECH3261"
+     ],
+     "text": "[(MECH3260)(MECH3261)]"
+    },
+    {
+     "kind": "other",
+     "mentions": [
+      "AMME2262",
+      "CHNG2803",
+      "MECH3261"
+     ],
+     "text": "[(AMME2262)(CHNG2803)(MECH3261)]"
+    },
+    {
+     "kind": "other",
+     "mentions": [
+      "MECH8260",
+      "MECH8261"
+     ],
+     "text": "[(MECH8260)(MECH8261)]"
+    },
+    {
+     "kind": "other",
+     "mentions": [
+      "MECH9260",
+      "MECH9261"
+     ],
+     "text": "[(MECH9260)(MECH9261)]"
+    },
+    {
+     "kind": "other",
+     "mentions": [
+      "AERO3260",
+      "AERO3261"
+     ],
+     "text": "[(AERO3260)(AERO3261)]"
+    },
+    {
+     "kind": "other",
+     "mentions": [
+      "AERO8260",
+      "AERO8261"
+     ],
+     "text": "[(AERO8260)(AERO8261)]"
+    },
+    {
+     "kind": "other",
+     "mentions": [
+      "AERO9260",
+      "AERO9261"
+     ],
+     "text": "[(AERO9260)(AERO9261)]"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "MECH6275"
+  ],
+  "source_table": "Mechanical"
+ },
+ "MECH5304": {
+  "prerequisite_groups": [
+   [
+    "MECH3361",
+    "MECH8361",
+    "MECH9361"
+   ],
+   [
+    "MECH3362",
+    "MECH8362",
+    "MECH9362"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MECH3361",
+     "kind": "subject",
+     "printed_as": "MECH3361"
+    },
+    {
+     "code": "MECH8361",
+     "kind": "subject",
+     "printed_as": "MECH8361"
+    },
+    {
+     "code": "MECH9361",
+     "kind": "subject",
+     "printed_as": "MECH9361"
+    }
+   ],
+   [
+    {
+     "code": "MECH3362",
+     "kind": "subject",
+     "printed_as": "MECH3362"
+    },
+    {
+     "code": "MECH8362",
+     "kind": "subject",
+     "printed_as": "MECH8362"
+    },
+    {
+     "code": "MECH9362",
+     "kind": "subject",
+     "printed_as": "MECH9362"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "MECH6304"
+  ],
+  "source_table": "Mechanical"
+ },
+ "MECH5305": {
+  "prerequisite_groups": [
+   [
+    "AMME2301",
+    "AMME9301"
+   ],
+   [
+    "AMME1362",
+    "AMME2302",
+    "AMME9302"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "AMME2301",
+     "kind": "subject",
+     "printed_as": "AMME2301"
+    },
+    {
+     "code": "AMME9301",
+     "kind": "subject",
+     "printed_as": "AMME9301"
+    }
+   ],
+   [
+    {
+     "code": "AMME1362",
+     "kind": "subject",
+     "printed_as": "AMME1362"
+    },
+    {
+     "code": "AMME2302",
+     "kind": "subject",
+     "printed_as": "AMME2302"
+    },
+    {
+     "code": "AMME9302",
+     "kind": "subject",
+     "printed_as": "AMME9302"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "MECH6305"
+  ],
+  "source_table": "Mechanical"
+ },
+ "MECH5310": {
+  "prerequisite_groups": [
+   [
+    "MECH3362",
+    "MECH8362",
+    "MECH9362"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MECH3362",
+     "kind": "subject",
+     "printed_as": "MECH3362"
+    },
+    {
+     "code": "MECH8362",
+     "kind": "subject",
+     "printed_as": "MECH8362"
+    },
+    {
+     "code": "MECH9362",
+     "kind": "subject",
+     "printed_as": "MECH9362"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "MECH4310",
+   "MECH6310"
+  ],
+  "source_table": "Mechanical"
+ },
+ "MECH5311": {
+  "prerequisite_groups": [
+   [
+    "AMME1362",
+    "AMME2302",
+    "AMME9302",
+    "CIVL1110",
+    "CIVL2110"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "AMME1362",
+     "kind": "subject",
+     "printed_as": "AMME1362"
+    },
+    {
+     "code": "AMME2302",
+     "kind": "subject",
+     "printed_as": "AMME2302"
+    },
+    {
+     "code": "AMME9302",
+     "kind": "subject",
+     "printed_as": "AMME9302"
+    },
+    {
+     "code": "CIVL1110",
+     "kind": "subject",
+     "printed_as": "CIVL1110"
+    },
+    {
+     "code": "CIVL2110",
+     "kind": "subject",
+     "printed_as": "CIVL2110"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "MECH6311"
+  ],
+  "source_table": "Mechanical"
+ },
+ "MECH5461": {
+  "source_table": "Mechanical"
+ },
+ "MECH5720": {
+  "prerequisite_groups": [
+   [
+    "MTRX3700",
+    "MTRX3760"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MTRX3700",
+     "kind": "subject",
+     "printed_as": "MTRX3700"
+    },
+    {
+     "code": "MTRX3760",
+     "kind": "subject",
+     "printed_as": "MTRX3760"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "MECH8720"
+  ],
+  "source_table": "Mechatronic"
+ },
+ "MTRX1701": {
+  "prohibition_codes": [
+   "MECH1560",
+   "ENGG1800",
+   "AERO1560",
+   "CIVL1900",
+   "CHNG1108",
+   "BMET1960",
+   "ENGG1960",
+   "ELEC1004",
+   "ELEC1005",
+   "ENVE1001"
+  ],
+  "source_table": "Faculty core"
+ },
+ "MTRX1702": {
+  "prohibition_codes": [
+   "ELEC1101",
+   "ELEC2602",
+   "COSC1902",
+   "COSC1002"
+  ],
+  "source_table": "Mechatronic"
+ },
+ "MTRX1705": {
+  "source_table": "Mechatronic"
+ },
+ "MTRX2700": {
+  "prerequisite_groups": [
+   [
+    "MTRX1702"
+   ],
+   [
+    "MTRX1705"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "MTRX1702",
+     "kind": "subject",
+     "printed_as": "MTRX1702"
+    }
+   ],
+   [
+    {
+     "code": "MTRX1705",
+     "kind": "subject",
+     "printed_as": "MTRX1705"
+    }
+   ]
+  ],
+  "prohibition_codes": [
+   "ELEC2601",
+   "ELEC3607"
+  ],
+  "source_table": "Mechatronic"
+ },
+ "MTRX3700": {
+  "prerequisite_groups": [
+   [
+    "AMME2000"
+   ],
+   [
+    "MTRX2700"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "AMME2000",
+     "kind": "subject",
+     "printed_as": "AMME2000"
+    }
+   ],
+   [
+    {
+     "code": "MTRX2700",
+     "kind": "subject",
+     "printed_as": "MTRX2700"
+    }
+   ]
+  ],
+  "source_table": "Mechatronic"
+ },
+ "MTRX3760": {
+  "prerequisite_groups": [
+   [
+    "AMME2000"
+   ],
+   [
+    "MTRX2700"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "AMME2000",
+     "kind": "subject",
+     "printed_as": "AMME2000"
+    }
+   ],
+   [
+    {
+     "code": "MTRX2700",
+     "kind": "subject",
+     "printed_as": "MTRX2700"
+    }
+   ]
+  ],
+  "source_table": "Mechatronic"
+ },
+ "PHYS1001": {
+  "prohibition_codes": [
+   "PHYS1002",
+   "PHYS1901",
+   "EDUH1017",
+   "PHYS1903"
+  ],
+  "source_table": "Electrical"
+ },
+ "PHYS1003": {
+  "prohibition_codes": [
+   "PHYS1004",
+   "PHYS1902",
+   "PHYS1904"
+  ],
+  "source_table": "Electrical"
+ },
+ "PHYS2213": {
+  "prerequisite_groups": [
+   [
+    "PHYS1001",
+    "PHYS1901"
+   ],
+   [
+    "PHYS1003",
+    "PHYS1902"
+   ]
+  ],
+  "prerequisite_requirements": [
+   [
+    {
+     "code": "PHYS1001",
+     "kind": "subject",
+     "printed_as": "PHYS1001"
+    },
+    {
+     "code": "PHYS1901",
+     "kind": "subject",
+     "printed_as": "PHYS1901"
+    }
+   ],
+   [
+    {
+     "code": "PHYS1003",
+     "kind": "subject",
+     "printed_as": "PHYS1003"
+    },
+    {
+     "code": "PHYS1902",
+     "kind": "subject",
+     "printed_as": "PHYS1902"
+    }
+   ]
+  ],
+  "source_table": "Electrical"
+ }
+}

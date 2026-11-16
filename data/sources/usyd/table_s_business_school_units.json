@@ -1,0 +1,1890 @@
+{
+ "source_url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/electives/business-school-unit-of-study-table.html",
+ "units": [
+  {
+   "code": "ACCT1006",
+   "name": "Accounting and Financial Management",
+   "credit_points": 6,
+   "requirements_raw": "A HSC Mathematics P BUSS1030 or ACCT1005 N ACCT1001 or ACCT1002 or ACCT1003 or ACCT1004",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "BUSS1030",
+    "ACCT1005"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ACCT1001",
+    "ACCT1002",
+    "ACCT1003",
+    "ACCT1004"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "BUSS1020",
+   "name": "Quantitative Business Analysis",
+   "credit_points": 6,
+   "requirements_raw": "N ECMT1010 or MATH1005 or MATH1905 or MATH1015 or MATH1115 or STAT1021 or ENVX1001 or ENVX1002 or DATA1001 or DATA1901",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ECMT1010",
+    "MATH1005",
+    "MATH1905",
+    "MATH1015",
+    "MATH1115",
+    "STAT1021",
+    "ENVX1001",
+    "ENVX1002",
+    "DATA1001",
+    "DATA1901"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "BUSS1030",
+   "name": "Accounting for Decision Making",
+   "credit_points": 6,
+   "requirements_raw": "N ACCT1001 or ACCT1002 or ACCT1003 or ACCT1004 or ACCT1005",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ACCT1001",
+    "ACCT1002",
+    "ACCT1003",
+    "ACCT1004",
+    "ACCT1005"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "BUSS1040",
+   "name": "Economics for Business Decision Making",
+   "credit_points": 6,
+   "requirements_raw": "A Mathematics (equivalent of band 4 in the NSW HSC subject Advanced Mathematics or band E3 in Mathematics Extension 1 or 2) or MATH1111 N ECON1001 or ECON1040",
+   "assumed_knowledge_codes": [
+    "MATH1111"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ECON1001",
+    "ECON1040"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CLAW1001",
+   "name": "Foundations of Business Law",
+   "credit_points": 6,
+   "requirements_raw": "N CLAW2214",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "CLAW2214"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CLAW1003",
+   "name": "Company Law",
+   "credit_points": 6,
+   "requirements_raw": "P CLAW1001 N CLAW2214 or CLAW2201",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "CLAW1001"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "CLAW2214",
+    "CLAW2201"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "IBUS1101",
+   "name": "Global Business",
+   "credit_points": 6,
+   "requirements_raw": "",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "IBUS1102",
+   "name": "Cross-Cultural Management",
+   "credit_points": 6,
+   "requirements_raw": "N IBUS2102",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "IBUS2102"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "INFS1000",
+   "name": "Digital Business Innovation",
+   "credit_points": 6,
+   "requirements_raw": "N ISYS1003 or INFO1000",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ISYS1003",
+    "INFO1000"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "INFS1020",
+   "name": "Working in Digital Ecosystems",
+   "credit_points": 6,
+   "requirements_raw": "A INFS1000 or INFO1000 or INFO1003 or INFO1903",
+   "assumed_knowledge_codes": [
+    "INFS1000",
+    "INFO1000",
+    "INFO1003",
+    "INFO1903"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "MKTG1001",
+   "name": "Marketing Principles",
+   "credit_points": 6,
+   "requirements_raw": "The Intensive July session of this unit is only available to Study Abroad students. All other students should enrol in Semester 1 and Semester 2 sessions.",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "MKTG1002",
+   "name": "Marketing Research",
+   "credit_points": 6,
+   "requirements_raw": "P MKTG1001",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "MKTG1001"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "QBUS1040",
+   "name": "Foundations of Business Analytics",
+   "credit_points": 6,
+   "requirements_raw": "P BUSS1020 or DATA1001 or ECMT1010 or ENVX1001 or ENVX1002 or STAT1021 or (( MATH1005 or MATH1015 ) and MATH1115 ) or 6 credit points of MATH 1000-level units which must include MATH1905",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "BUSS1020",
+    "DATA1001",
+    "ECMT1010",
+    "ENVX1001",
+    "ENVX1002",
+    "STAT1021",
+    "MATH1005",
+    "MATH1015",
+    "MATH1115",
+    "MATH1905"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "SIEN1000",
+   "name": "Innovation and Entrepreneurship Foundation",
+   "credit_points": 6,
+   "requirements_raw": "",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "SIEN1001",
+   "name": "Innovators' Skills and Actions",
+   "credit_points": 6,
+   "requirements_raw": "C SIEN1000",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [
+    "SIEN1000"
+   ],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "WORK1003",
+   "name": "Foundations of Work and Employment",
+   "credit_points": 6,
+   "requirements_raw": "",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "WORK1004",
+   "name": "Foundations of Management",
+   "credit_points": 6,
+   "requirements_raw": "N WORK2201",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "WORK2201"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ACCT2011",
+   "name": "Reporting on Business Performance",
+   "credit_points": 6,
+   "requirements_raw": "P ( ACCT1001 or ACCT1005 or BUSS1030 ) and ( ACCT1002 or ACCT1006 )",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "ACCT1001",
+    "ACCT1005",
+    "BUSS1030",
+    "ACCT1002",
+    "ACCT1006"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ACCT2019",
+   "name": "Accounting Analysis for Management Decisions",
+   "credit_points": 6,
+   "requirements_raw": "P ( ACCT1001 or ACCT1005 or BUSS1030 ) and ( ACCT1002 or ACCT1006 ) N ACCT2012",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "ACCT1001",
+    "ACCT1005",
+    "BUSS1030",
+    "ACCT1002",
+    "ACCT1006"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ACCT2012"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "BANK2011",
+   "name": "Banking and the Financial System",
+   "credit_points": 6,
+   "requirements_raw": "A FINC2011 P ( BUSS1020 or ECMT1010 or ENVX1001 or ENVX1002 or DATA1001 or (( MATH1005 or MATH1015 ) and MATH1115 ) or 6 credit points in MATH units including MATH1905 ) and ( BUSS1040 or ECON1001 or ECON1002 ) N ECOS2004",
+   "assumed_knowledge_codes": [
+    "FINC2011"
+   ],
+   "prerequisite_codes": [
+    "BUSS1020",
+    "ECMT1010",
+    "ENVX1001",
+    "ENVX1002",
+    "DATA1001",
+    "MATH1005",
+    "MATH1015",
+    "MATH1115",
+    "MATH1905",
+    "BUSS1040",
+    "ECON1001",
+    "ECON1002"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ECOS2004"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CLAW2202",
+   "name": "Business Failure and Restructuring",
+   "credit_points": 6,
+   "requirements_raw": "P CLAW2201 or CLAW1003 or CLAW2214",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "CLAW2201",
+    "CLAW1003",
+    "CLAW2214"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CLAW2205",
+   "name": "Competition and Consumer Law",
+   "credit_points": 6,
+   "requirements_raw": "P CLAW1001 or CLAW2214",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "CLAW1001",
+    "CLAW2214"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CLAW2207",
+   "name": "Business, Ethics and the Law",
+   "credit_points": 6,
+   "requirements_raw": "P CLAW1001 or CLAW2214",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "CLAW1001",
+    "CLAW2214"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CLAW2209",
+   "name": "Intellectual Property for Business",
+   "credit_points": 6,
+   "requirements_raw": "P Completion of at least 24 credit points of study",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CLAW2211",
+   "name": "Commercial Practice in China",
+   "credit_points": 6,
+   "requirements_raw": "P Completion of at least 24 credit points of study",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CLAW2212",
+   "name": "Franchising",
+   "credit_points": 6,
+   "requirements_raw": "P Completion of at least 24 credit points of study",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CLAW2214",
+   "name": "Business Law",
+   "credit_points": 6,
+   "requirements_raw": "N CLAW1001 or CLAW1003 or CLAW2201",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "CLAW1001",
+    "CLAW1003",
+    "CLAW2201"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "FINC2011",
+   "name": "Corporate Finance I",
+   "credit_points": 6,
+   "requirements_raw": "A BUSS1030 P {( BUSS1020 or ECMT1010 or ENVX1001 or ENVX1002 or DATA1001 ) or [( MATH1005 or MATH1015 ) and MATH1115 ] or 6 credit points in MATH units including MATH1905 } and ( BUSS1040 or ECON1001 or ECON1002 )",
+   "assumed_knowledge_codes": [
+    "BUSS1030"
+   ],
+   "prerequisite_codes": [
+    "BUSS1020",
+    "ECMT1010",
+    "ENVX1001",
+    "ENVX1002",
+    "DATA1001",
+    "MATH1005",
+    "MATH1015",
+    "MATH1115",
+    "MATH1905",
+    "BUSS1040",
+    "ECON1001",
+    "ECON1002"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "FINC2012",
+   "name": "Corporate Finance II",
+   "credit_points": 6,
+   "requirements_raw": "P FINC2011",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "FINC2011"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "IBUS2020",
+   "name": "Chinese Economy and Business",
+   "credit_points": 6,
+   "requirements_raw": "",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "IBUS2101",
+   "name": "International Business Strategy",
+   "credit_points": 6,
+   "requirements_raw": "",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "IBUS2103",
+   "name": "International Risk Management",
+   "credit_points": 6,
+   "requirements_raw": "P IBUS1102 or IBUS2102 N IBUS3102",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "IBUS1102",
+    "IBUS2102"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "IBUS3102"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "IBUS2104",
+   "name": "Entrepreneurship and Innovation",
+   "credit_points": 6,
+   "requirements_raw": "P completion of at least 48 credit points",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "IBUS2105",
+   "name": "International Entrepreneurship",
+   "credit_points": 6,
+   "requirements_raw": "P Completion of 48 credit points",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "IBUS2106",
+   "name": "Creating Sustainable International Businesses",
+   "credit_points": 6,
+   "requirements_raw": "A BUSS1000 P Completion of 48 credit points",
+   "assumed_knowledge_codes": [
+    "BUSS1000"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "INFS2010",
+   "name": "Digital Ethics and Compassionate Innovation",
+   "credit_points": 6,
+   "requirements_raw": "A INFS1000 or INFS1020 or INFO1000 or INFO1003 or INFO1903",
+   "assumed_knowledge_codes": [
+    "INFS1000",
+    "INFS1020",
+    "INFO1000",
+    "INFO1003",
+    "INFO1903"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "INFS2030",
+   "name": "Digital Business Management",
+   "credit_points": 6,
+   "requirements_raw": "A INFS1000 or INFO1000 or INFO1003 or INFO1903",
+   "assumed_knowledge_codes": [
+    "INFS1000",
+    "INFO1000",
+    "INFO1003",
+    "INFO1903"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "INFS2040",
+   "name": "Working in High-Performing Project Teams",
+   "credit_points": 6,
+   "requirements_raw": "A INFS1000 or INFS1020 or INFO1000 or INFO1003 or INFO1903 N INFO3402 or ENGG1850",
+   "assumed_knowledge_codes": [
+    "INFS1000",
+    "INFS1020",
+    "INFO1000",
+    "INFO1003",
+    "INFO1903"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "INFO3402",
+    "ENGG1850"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "INFS2050",
+   "name": "Data Governance and Technology Assurance",
+   "credit_points": 6,
+   "requirements_raw": "A INFS1000 or INFO1000 or INFO1003 or INFO1903 N INFS3010 or INFS3030",
+   "assumed_knowledge_codes": [
+    "INFS1000",
+    "INFO1000",
+    "INFO1003",
+    "INFO1903"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "INFS3010",
+    "INFS3030"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "MKTG2112",
+   "name": "Consumer Behaviour",
+   "credit_points": 6,
+   "requirements_raw": "P MKTG1001",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "MKTG1001"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "MKTG2113",
+   "name": "Marketing Analytics",
+   "credit_points": 6,
+   "requirements_raw": "P MKTG1001 and MKTG1002",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "MKTG1001",
+    "MKTG1002"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "QBUS2310",
+   "name": "Management Science",
+   "credit_points": 6,
+   "requirements_raw": "P Students commencing from 2018: QBUS1040 . Pre-2018 commencing students: BUSS1020 or DATA1001 or ECMT1010 or ENVX1001 or ENVX1002 or STAT1021 or (( MATH1005 or MATH1015 ) and MATH1115 ) or 6 credit points of MATH units which must include MATH1905 N ECMT2620",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "QBUS1040",
+    "BUSS1020",
+    "DATA1001",
+    "ECMT1010",
+    "ENVX1001",
+    "ENVX1002",
+    "STAT1021",
+    "MATH1005",
+    "MATH1015",
+    "MATH1115",
+    "MATH1905"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ECMT2620"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "QBUS2810",
+   "name": "Statistical Modelling for Business",
+   "credit_points": 6,
+   "requirements_raw": "A This unit relies on mathematical knowledge at the level of the Maths in Business program, including calculus and matrix algebra. Students who do not meet this requirement are strongly encouraged to acquire the needed mathematical skills prior to enrolling in this unit P Students commencing from 2018: QBUS1040 . Pre-2018 continuing students: BUSS1020 or DATA1001 or ECMT1010 or ENVX1001 or ENVX1002 or STAT1021 or (( MATH1005 or MATH1015 ) and MATH1115 ) or 6 credit points of MATH units which must include MATH1905 N ECMT2110",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "QBUS1040",
+    "BUSS1020",
+    "DATA1001",
+    "ECMT1010",
+    "ENVX1001",
+    "ENVX1002",
+    "STAT1021",
+    "MATH1005",
+    "MATH1015",
+    "MATH1115",
+    "MATH1905"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ECMT2110"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "QBUS2820",
+   "name": "Predictive Analytics",
+   "credit_points": 6,
+   "requirements_raw": "A This unit assumes mathematical knowledge at the level of the Maths in Business program (including calculus and matrix algebra) and basic computer programming skills at the level of QBUS2810 P QBUS2810 or ECMT2110 or DATA2002",
+   "assumed_knowledge_codes": [
+    "QBUS2810"
+   ],
+   "prerequisite_codes": [
+    "QBUS2810",
+    "ECMT2110",
+    "DATA2002"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "SIEN2001",
+   "name": "Validating Ideas and Building Ventures",
+   "credit_points": 6,
+   "requirements_raw": "P SIEN1000 and SIEN1001 N IBUS2104",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "SIEN1000",
+    "SIEN1001"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "IBUS2104"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {},
+   "sessions_offered": [
+    "Semester 1",
+    "Semester 2"
+   ]
+  },
+  {
+   "code": "SIEN2210",
+   "name": "Strategic Management",
+   "credit_points": 6,
+   "requirements_raw": "P Completion of at least 40 credit points N WORK2210",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "WORK2210"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "WORK2203",
+   "name": "Work and Industrial Relations Policy",
+   "credit_points": 6,
+   "requirements_raw": "P Completion of 24 credit points of 1000-level units of study A WORK1003",
+   "assumed_knowledge_codes": [
+    "WORK1003"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "WORK2205",
+   "name": "Strategic Human Resource Management",
+   "credit_points": 6,
+   "requirements_raw": "P Completion of 24 credit points of 1000-level units of study A WORK1003",
+   "assumed_knowledge_codes": [
+    "WORK1003"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "WORK2218",
+   "name": "Managing Organisational Behaviour",
+   "credit_points": 6,
+   "requirements_raw": "P Completion of 24 credit point of 1000-level units",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "WORK2222",
+   "name": "Leadership",
+   "credit_points": 6,
+   "requirements_raw": "A WORK1003 and WORK1004 P Completion of 24 credit point of 1000-level units N WORK3202",
+   "assumed_knowledge_codes": [
+    "WORK1003",
+    "WORK1004"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "WORK3202"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "WORK2345",
+   "name": "Work and HR Analytics",
+   "credit_points": 6,
+   "requirements_raw": "A WORK1003 P Completion of 24 credit points of 1000-level units of study",
+   "assumed_knowledge_codes": [
+    "WORK1003"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ACCT3011",
+   "name": "Reporting on Business Groups",
+   "credit_points": 6,
+   "requirements_raw": "P ACCT2011",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "ACCT2011"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ACCT3013",
+   "name": "Financial Statement Analysis",
+   "credit_points": 6,
+   "requirements_raw": "P ACCT2011",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "ACCT2011"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ACCT3015",
+   "name": "Accounting Data Analytics",
+   "credit_points": 6,
+   "requirements_raw": "A Completion of INFS3110 (or INFS2001 ) is desirable P ACCT2011 and ( ACCT2012 or ACCT2019 )",
+   "assumed_knowledge_codes": [
+    "INFS3110",
+    "INFS2001"
+   ],
+   "prerequisite_codes": [
+    "ACCT2011",
+    "ACCT2012",
+    "ACCT2019"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ACCT3016",
+   "name": "Sustainability Management and Reporting",
+   "credit_points": 6,
+   "requirements_raw": "P ACCT2011 and ( ACCT2012 or ACCT2019 )",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "ACCT2011",
+    "ACCT2012",
+    "ACCT2019"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ACCT3020",
+   "name": "Consulting for Management Control Systems",
+   "credit_points": 6,
+   "requirements_raw": "A Completion of the Unit Prerequisite should equip students with the necessary knowledge and competency to undertake this Unit P ACCT2011 and ( ACCT2012 or ACCT2019 )",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "ACCT2011",
+    "ACCT2012",
+    "ACCT2019"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "ACCT3031",
+   "name": "International Corporate Governance",
+   "credit_points": 6,
+   "requirements_raw": "A Students are expected to have an understanding of the underlying principles and rules of accounting and be able to apply them in the context of business scenarios. P BUSS1030",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "BUSS1030"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "BANK3011",
+   "name": "Bank Financial Management",
+   "credit_points": 6,
+   "requirements_raw": "P BANK2011 or ECOS2004 or FINC2011 N FINC3018",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "BANK2011",
+    "ECOS2004",
+    "FINC2011"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "FINC3018"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "BANK3012",
+   "name": "Bank Supervision",
+   "credit_points": 6,
+   "requirements_raw": "A BANK3011 P BANK2011 or ECOS2004 or FINC2011",
+   "assumed_knowledge_codes": [
+    "BANK3011"
+   ],
+   "prerequisite_codes": [
+    "BANK2011",
+    "ECOS2004",
+    "FINC2011"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "BANK3013",
+   "name": "International Banking Management",
+   "credit_points": 6,
+   "requirements_raw": "P BANK2011 or ECOS2004 or FINC2011",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "BANK2011",
+    "ECOS2004",
+    "FINC2011"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "BANK3014",
+   "name": "Private and Investment Banking",
+   "credit_points": 6,
+   "requirements_raw": "A BANK3011 P BANK2011 or ECOS2004 or FINC2011",
+   "assumed_knowledge_codes": [
+    "BANK3011"
+   ],
+   "prerequisite_codes": [
+    "BANK2011",
+    "ECOS2004",
+    "FINC2011"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CLAW3201",
+   "name": "Australian Taxation System",
+   "credit_points": 6,
+   "requirements_raw": "P CLAW1003 or CLAW2201 or CLAW2214",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "CLAW1003",
+    "CLAW2201",
+    "CLAW2214"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CLAW3202",
+   "name": "Business Tax Strategy in Digital Economy",
+   "credit_points": 6,
+   "requirements_raw": "",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CLAW3206",
+   "name": "Regulation of Mergers and Acquisitions",
+   "credit_points": 6,
+   "requirements_raw": "P CLAW1003 or CLAW2201 or CLAW2214",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "CLAW1003",
+    "CLAW2201",
+    "CLAW2214"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CLAW3207",
+   "name": "Legal Regulation of Employment",
+   "credit_points": 6,
+   "requirements_raw": "P Completion of at least 24 credit points of study including CLAW1001 or CLAW2214",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "CLAW1001",
+    "CLAW2214"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CLAW3209",
+   "name": "The Environment, Law and Business",
+   "credit_points": 6,
+   "requirements_raw": "",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CLAW3210",
+   "name": "Banking and Financial Law",
+   "credit_points": 6,
+   "requirements_raw": "P Completion of at least 48 credit points N CLAW2204",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "CLAW2204"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "CLAW3888",
+   "name": "Law and Regulation of Fintech",
+   "credit_points": 6,
+   "requirements_raw": "P Completion of at least 48 credit points",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "FINC3011",
+   "name": "International Financial Management",
+   "credit_points": 6,
+   "requirements_raw": "P FINC2012",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "FINC2012"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "FINC3012",
+   "name": "Derivative Securities",
+   "credit_points": 6,
+   "requirements_raw": "P FINC2012",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "FINC2012"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "FINC3013",
+   "name": "Mergers and Acquisitions",
+   "credit_points": 6,
+   "requirements_raw": "A Calculation of free cash flows, trading multiples, discounted cash flow valuation methodology, valuation sensitivities, regression analysis P FINC2012",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "FINC2012"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "FINC3014",
+   "name": "Trading and Dealing in Security Markets",
+   "credit_points": 6,
+   "requirements_raw": "P FINC2012",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "FINC2012"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "FINC3015",
+   "name": "Financial Valuation: Case Study Approach",
+   "credit_points": 6,
+   "requirements_raw": "P FINC2012 N FINC3005",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "FINC2012"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "FINC3005"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "FINC3017",
+   "name": "Investments and Portfolio Management",
+   "credit_points": 6,
+   "requirements_raw": "A Introductory statistics, calculus and microeconomics P FINC2012",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "FINC2012"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "FINC3019",
+   "name": "Fixed Income Securities",
+   "credit_points": 6,
+   "requirements_raw": "P FINC2012",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "FINC2012"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "FINC3020",
+   "name": "Financial Risk Management",
+   "credit_points": 6,
+   "requirements_raw": "A FINC3017 P FINC2012",
+   "assumed_knowledge_codes": [
+    "FINC3017"
+   ],
+   "prerequisite_codes": [
+    "FINC2012"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "FINC3023",
+   "name": "Behavioural Finance",
+   "credit_points": 6,
+   "requirements_raw": "P FINC2012",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "FINC2012"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "FINC3026",
+   "name": "Entrepreneurial Finance",
+   "credit_points": 6,
+   "requirements_raw": "P Completion of 96 credit points",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "FINC3027",
+   "name": "Digital and Sustainable Finance",
+   "credit_points": 6,
+   "requirements_raw": "P FINC2011",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "FINC2011"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "FINC3301",
+   "name": "Applied Portfolio Management A",
+   "credit_points": 6,
+   "requirements_raw": "P FINC2012 C FINC3015 N BUSS4922 Note: Entry to this unit is a competitive process students must apply application https://business.sydney.edu.au/students/applied-portfolio-management, only approved students may apply via Department permission.",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "FINC2012"
+   ],
+   "corequisite_codes": [
+    "FINC3015"
+   ],
+   "prohibition_codes": [
+    "BUSS4922"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "FINC3302",
+   "name": "Applied Portfolio Management B",
+   "credit_points": 6,
+   "requirements_raw": "P FINC3301 C FINC3017 N BUSS4923 Note: Entry to this unit is a competitive process students must apply application https://business.sydney.edu.au/students/applied-portfolio-management, only approved students may apply via Department permission.",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "FINC3301"
+   ],
+   "corequisite_codes": [
+    "FINC3017"
+   ],
+   "prohibition_codes": [
+    "BUSS4923"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "IBUS3101",
+   "name": "International Business Alliances",
+   "credit_points": 6,
+   "requirements_raw": "P Completion of at least 36 credit points of 1000-level units",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "IBUS3104",
+   "name": "Ethical International Business Decisions",
+   "credit_points": 6,
+   "requirements_raw": "P Completion of at least 48 credit points",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "IBUS3106",
+   "name": "Social Entrepreneurship Special Project",
+   "credit_points": 6,
+   "requirements_raw": "P Completion of at least 48 credit points",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "IBUS3109",
+   "name": "Strategy and Emerging Markets",
+   "credit_points": 6,
+   "requirements_raw": "P IBUS2101",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "IBUS2101"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "IBUS3110",
+   "name": "Managerial Cognition and Int'l Business",
+   "credit_points": 6,
+   "requirements_raw": "P 48 credit points of units",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "INFS3040",
+   "name": "Enterprise Systems and Integrated Business",
+   "credit_points": 6,
+   "requirements_raw": "A INFS1000 or INFO1000 or INFO1003 or INFO1903",
+   "assumed_knowledge_codes": [
+    "INFS1000",
+    "INFO1000",
+    "INFO1003",
+    "INFO1903"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "INFS3050",
+   "name": "Business Intelligence for Managers",
+   "credit_points": 6,
+   "requirements_raw": "A INFS1000 or INFO1000 or INFO1003 or INFO1903",
+   "assumed_knowledge_codes": [
+    "INFS1000",
+    "INFO1000",
+    "INFO1003",
+    "INFO1903"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "INFS3080",
+   "name": "Implementing Agile Design",
+   "credit_points": 6,
+   "requirements_raw": "A INFS1000 and INFS2040 P Completion of 48 credit points",
+   "assumed_knowledge_codes": [
+    "INFS1000",
+    "INFS2040"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "INFS3110",
+   "name": "Information Systems for Accountants",
+   "credit_points": 6,
+   "requirements_raw": "A INFS1000 or INFO1000 or INFO1003 or INFO1903 N INFS2001",
+   "assumed_knowledge_codes": [
+    "INFS1000",
+    "INFO1000",
+    "INFO1003",
+    "INFO1903"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "INFS2001"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "INFS3120",
+   "name": "Business Process Analysis and Design",
+   "credit_points": 6,
+   "requirements_raw": "A INFS1000 or INFO1000 or INFO1003 or INFO1903 N INFS2020",
+   "assumed_knowledge_codes": [
+    "INFS1000",
+    "INFO1000",
+    "INFO1003",
+    "INFO1903"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "INFS2020"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "MKTG3110",
+   "name": "Digital Marketing",
+   "credit_points": 6,
+   "requirements_raw": "P MKTG1001",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "MKTG1001"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "MKTG3112",
+   "name": "Marketing Communications",
+   "credit_points": 6,
+   "requirements_raw": "P MKTG1001",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "MKTG1001"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "MKTG3114",
+   "name": "New Products Marketing",
+   "credit_points": 6,
+   "requirements_raw": "P MKTG1001 or SIEN1000",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "MKTG1001",
+    "SIEN1000"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "MKTG3116",
+   "name": "International Marketing",
+   "credit_points": 6,
+   "requirements_raw": "P MKTG1001",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "MKTG1001"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "MKTG3118",
+   "name": "Marketing Strategy and Planning",
+   "credit_points": 6,
+   "requirements_raw": "P MKTG1001",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "MKTG1001"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "MKTG3120",
+   "name": "Building and Managing Brands",
+   "credit_points": 6,
+   "requirements_raw": "P MKTG1001 or SIEN1000",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "MKTG1001",
+    "SIEN1000"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "MKTG3121",
+   "name": "Advertising: Persuasive Principles",
+   "credit_points": 6,
+   "requirements_raw": "P MKTG1001",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "MKTG1001"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "MKTG3122",
+   "name": "Marketing and Sustainable Development",
+   "credit_points": 6,
+   "requirements_raw": "P MKTG1001 This unit relates directly to how Marketing relates to implementing the 17 United Nations Sustainable Development Goals such as poverty, climate change, gender equality and hunger (https://sustainabledevelopment.un.org/?menu=1300). The goal is to facilitate the development of responsible marketing leaders",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "MKTG1001"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "QBUS3310",
+   "name": "Advanced Management Science",
+   "credit_points": 6,
+   "requirements_raw": "P QBUS2310 N ECMT3610 or ECMT3710",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "QBUS2310"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "ECMT3610",
+    "ECMT3710"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "QBUS3320",
+   "name": "Supply Chain Management",
+   "credit_points": 6,
+   "requirements_raw": "P ECMT2640 or QBUS2330 or QBUS2350 or QBUS3340 or QBUS3350",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "ECMT2640",
+    "QBUS2330",
+    "QBUS2350",
+    "QBUS3340",
+    "QBUS3350"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "QBUS3330",
+   "name": "Methods of Decision Analysis",
+   "credit_points": 6,
+   "requirements_raw": "P BUSS1020 or DATA1001 or ECMT1010 or ENVX1001 or ENVX1002 or STAT1021 or (( MATH1005 or MATH1015 ) and MATH1115 ) or 6 credit points of MATH units which must include MATH1905 N QBUS2320 or ECMT2630 or ENGG1850 or CIVL3805",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "BUSS1020",
+    "DATA1001",
+    "ECMT1010",
+    "ENVX1001",
+    "ENVX1002",
+    "STAT1021",
+    "MATH1005",
+    "MATH1015",
+    "MATH1115",
+    "MATH1905"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "QBUS2320",
+    "ECMT2630",
+    "ENGG1850",
+    "CIVL3805"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "QBUS3340",
+   "name": "Operations Management",
+   "credit_points": 6,
+   "requirements_raw": "P BUSS1020 or DATA1001 or ECMT1010 or ENVX1001 or ENVX1002 or STAT1021 or (( MATH1005 or MATH1015 ) and MATH1115 ) or 6 credit points of MATH units which must include MATH1905 N QBUS2330",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "BUSS1020",
+    "DATA1001",
+    "ECMT1010",
+    "ENVX1001",
+    "ENVX1002",
+    "STAT1021",
+    "MATH1005",
+    "MATH1015",
+    "MATH1115",
+    "MATH1905"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "QBUS2330"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "QBUS3350",
+   "name": "Project Planning and Management",
+   "credit_points": 6,
+   "requirements_raw": "A BUSS1020 or DATA1001 or ECMT1010 or ENVX1001 or ENVX1002 or STAT1021 or (( MATH1005 or MATH1015 ) and MATH1115 ) or 6 credit points of MATH units which must include MATH1905 N QBUS2350",
+   "assumed_knowledge_codes": [
+    "BUSS1020",
+    "DATA1001",
+    "ECMT1010",
+    "ENVX1001",
+    "ENVX1002",
+    "STAT1021",
+    "MATH1005",
+    "MATH1015",
+    "MATH1115",
+    "MATH1905"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "QBUS2350"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "QBUS3820",
+   "name": "Machine Learning and Data Mining in Business",
+   "credit_points": 6,
+   "requirements_raw": "P QBUS2820",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "QBUS2820"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "QBUS3830",
+   "name": "Advanced Analytics",
+   "credit_points": 6,
+   "requirements_raw": "P QBUS2810 or DATA2002 or DATA2902 or ECMT2110",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "QBUS2810",
+    "DATA2002",
+    "DATA2902",
+    "ECMT2110"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "QBUS3840",
+   "name": "Choice Modelling",
+   "credit_points": 6,
+   "requirements_raw": "P QBUS2810 or DATA2002 or ECMT2110",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "QBUS2810",
+    "DATA2002",
+    "ECMT2110"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "QBUS3850",
+   "name": "Business Forecasting",
+   "credit_points": 6,
+   "requirements_raw": "P QBUS2820",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [
+    "QBUS2820"
+   ],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "SIEN3001",
+   "name": "Social Entrepreneurship",
+   "credit_points": 6,
+   "requirements_raw": "P Completion of 48 credit points N IBUS3108",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "IBUS3108"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "SIEN3107",
+   "name": "Business Negotiations",
+   "credit_points": 6,
+   "requirements_raw": "P Completion of at least 48 credit points N IBUS3107",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "IBUS3107"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "SIEN3204",
+   "name": "Managing Organisational Sustainability",
+   "credit_points": 6,
+   "requirements_raw": "A WORK1004 or WORK2201 P Completion of at least 48 credit points N WORK2219 or WORK3204",
+   "assumed_knowledge_codes": [
+    "WORK1004",
+    "WORK2201"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "WORK2219",
+    "WORK3204"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "WORK3201",
+   "name": "International Human Resource Management",
+   "credit_points": 6,
+   "requirements_raw": "A WORK1003 P Completion of at least 48 credit points N WORK2217 The Intensive June session is restricted to Study Abroad students only. All other students enrol in the Semester 1 session.",
+   "assumed_knowledge_codes": [
+    "WORK1003"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "WORK2217"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "WORK3203",
+   "name": "Gender, Diversity and Inclusion at Work",
+   "credit_points": 6,
+   "requirements_raw": "P Completion of at least 48 credit points",
+   "assumed_knowledge_codes": [],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "WORK3205",
+   "name": "Organisational Communication",
+   "credit_points": 6,
+   "requirements_raw": "A WORK1004 or WORK2201 P Completion of at least 48 credit points N WORK2221 The Intensive July session of this unit is only available to Study Abroad students. All other students should enrol in Semester 2.",
+   "assumed_knowledge_codes": [
+    "WORK1004",
+    "WORK2201"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "WORK2221"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "WORK3206",
+   "name": "Workplace Law and Regulation",
+   "credit_points": 6,
+   "requirements_raw": "A WORK1003 P Completion of at least 48 credit points N WORK2227",
+   "assumed_knowledge_codes": [
+    "WORK1003"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "WORK2227"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "WORK3208",
+   "name": "Globalisation, Work and Employment",
+   "credit_points": 6,
+   "requirements_raw": "A WORK1003 and ( WORK1004 or WORK2201 ) P Completion of at least 48 credit points N WORK2224",
+   "assumed_knowledge_codes": [
+    "WORK1003",
+    "WORK1004",
+    "WORK2201"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [
+    "WORK2224"
+   ],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "WORK3209",
+   "name": "Psychological Approaches to Work",
+   "credit_points": 6,
+   "requirements_raw": "A WORK1003 and ( WORK1004 or WORK2201 ) and WORK2218 and ( WORK2222 or WORK3202 ) P Completion of at least 48 credit points",
+   "assumed_knowledge_codes": [
+    "WORK1003",
+    "WORK1004",
+    "WORK2201",
+    "WORK2218",
+    "WORK2222",
+    "WORK3202"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  },
+  {
+   "code": "WORK3210",
+   "name": "Climate Change and Work",
+   "credit_points": 6,
+   "requirements_raw": "A WORK1003 and ( WORK1004 or WORK2201 ) and WORK2203 and WORK2205 P Completion of at least 48 credit points",
+   "assumed_knowledge_codes": [
+    "WORK1003",
+    "WORK1004",
+    "WORK2201",
+    "WORK2203",
+    "WORK2205"
+   ],
+   "prerequisite_codes": [],
+   "corequisite_codes": [],
+   "prohibition_codes": [],
+   "unlabeled_codes": [],
+   "excluded_codes": {}
+  }
+ ]
+}

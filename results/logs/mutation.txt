@@ -1,0 +1,20 @@
+baseline (the real engine):
+   (4, 0)
+
+mutant                                       verdict    detail
+----------------------------------------------------------------------------------------------------
+prereq accepts same period                   KILLED     plans 4->4, repairs 0->231
+load ceiling off by one                      SURVIVED   audit saw no difference
+retake may precede its own failure           KILLED     plans 4->4, repairs 0->178
+repair loop never runs                       KILLED     plans 4->4, repairs 0->279
+compaction disabled                          SURVIVED   audit saw no difference
+search may overload freely                   KILLED     plans 4->4, repairs 0->72
+corequisite check removed                    KILLED     plans 4->4, repairs 0->3
+availability ignored when placing            KILLED     plans 4->4, repairs 0->111
+cascade skips dependents entirely            SURVIVED   audit saw no difference
+
+killed 6, survived 3, crashed 0
+mutation score: 6/9 = 67%
+
+A surviving mutant means the audit cannot tell that engine apart
+from the real one. That names a rule nothing is really testing.
